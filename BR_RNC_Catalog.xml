@@ -3,10 +3,10 @@
   <Header>
     <title>Brasil RNC Charts</title>
     <date_created>2015-06-01</date_created>
-    <time_created>00:59:51</time_created>
+    <time_created>01:12:32</time_created>
     <date_valid>2015-06-01</date_valid>
-    <time_valid>00:59:51</time_valid>
-    <dt_valid>2015-06-01T00:59:51Z</dt_valid>
+    <time_valid>01:12:32</time_valid>
+    <dt_valid>2015-06-01T01:12:32Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -831,8 +831,8 @@
     <ntm_edition_last_correction>2014-104</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21080 (INT.2009)</number>
-    <title>DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU&#xCD; (21080 (INT.2009))</title>
+    <number>21080_(INT.2009)</number>
+    <title>DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU&#xCD; (21080_(INT.2009))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21080.zip</zipfile_location>
     <zipfile_datetime>20131106_000000</zipfile_datetime>
@@ -840,8 +840,8 @@
     <ntm_edition_last_correction>2012-141</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21100 (INT.4194)</number>
-    <title>DO CABO ORANGE &#xC0; PONTA TUCUM&#xC3; (21100 (INT.4194))</title>
+    <number>21100_(INT.4194)</number>
+    <title>DO CABO ORANGE &#xC0; PONTA TUCUM&#xC3; (21100_(INT.4194))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21100.zip</zipfile_location>
     <zipfile_datetime>20111201_000000</zipfile_datetime>
@@ -849,8 +849,8 @@
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21200 (INT.4195)</number>
-    <title>DA PONTA TUCUM&#xC3; &#xC0; PONTA DO GUAR&#xC1; (21200 (INT.4195))</title>
+    <number>21200_(INT.4195)</number>
+    <title>DA PONTA TUCUM&#xC3; &#xC0; PONTA DO GUAR&#xC1; (21200_(INT.4195))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21200.zip</zipfile_location>
     <zipfile_datetime>20110630_000000</zipfile_datetime>
@@ -858,8 +858,8 @@
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21300 (INT.4196)</number>
-    <title>DO CABO NORTE AO CABO MAGUARI (21300 (INT.4196))</title>
+    <number>21300_(INT.4196)</number>
+    <title>DO CABO NORTE AO CABO MAGUARI (21300_(INT.4196))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21300.zip</zipfile_location>
     <zipfile_datetime>20130927_000000</zipfile_datetime>
@@ -867,8 +867,8 @@
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21400 (INT.4197)</number>
-    <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400 (INT.4197))</title>
+    <number>21400_(INT.4197)</number>
+    <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400_(INT.4197))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21400.zip</zipfile_location>
     <zipfile_datetime>20150515_000000</zipfile_datetime>
@@ -876,8 +876,8 @@
     <ntm_edition_last_correction>2015-19</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21500 (INT.2108)</number>
-    <title>DA PONTA BOIU&#xC7;UCANGA &#xC0; ILHA MANGUN&#xC7;A (21500 (INT.2108))</title>
+    <number>21500_(INT.2108)</number>
+    <title>DA PONTA BOIU&#xC7;UCANGA &#xC0; ILHA MANGUN&#xC7;A (21500_(INT.2108))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21500.zip</zipfile_location>
     <zipfile_datetime>20150521_000000</zipfile_datetime>
@@ -885,8 +885,8 @@
     <ntm_edition_last_correction>2015-36</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21600 (INT.2109)</number>
-    <title>DA ILHA MAIA&#xDA; &#xC0; TUT&#xD3;IA (21600 (INT.2109))</title>
+    <number>21600_(INT.2109)</number>
+    <title>DA ILHA MAIA&#xDA; &#xC0; TUT&#xD3;IA (21600_(INT.2109))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21600.zip</zipfile_location>
     <zipfile_datetime>20131106_000000</zipfile_datetime>
@@ -894,8 +894,8 @@
     <ntm_edition_last_correction>2013-96</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>22100 (INT.2114)</number>
-    <title>DO CABO CALCANHAR A CABEDELO (22100 (INT.2114))</title>
+    <number>22100_(INT.2114)</number>
+    <title>DO CABO CALCANHAR A CABEDELO (22100_(INT.2114))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22100.zip</zipfile_location>
     <zipfile_datetime>20150521_000000</zipfile_datetime>
@@ -903,8 +903,8 @@
     <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>22200 (INT.2115)</number>
-    <title>DE CABEDELO A MACEI&#xD3; (22200 (INT.2115))</title>
+    <number>22200_(INT.2115)</number>
+    <title>DE CABEDELO A MACEI&#xD3; (22200_(INT.2115))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22200.zip</zipfile_location>
     <zipfile_datetime>20140702_000000</zipfile_datetime>
@@ -912,8 +912,8 @@
     <ntm_edition_last_correction>2014-102</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>22300 (INT.2116)</number>
-    <title>DE MACEI&#xD3; A ARACAJU (22300 (INT.2116))</title>
+    <number>22300_(INT.2116)</number>
+    <title>DE MACEI&#xD3; A ARACAJU (22300_(INT.2116))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22300.zip</zipfile_location>
     <zipfile_datetime>20140702_000000</zipfile_datetime>
@@ -921,8 +921,8 @@
     <ntm_edition_last_correction>2013-189</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>22700 (INT.2120)</number>
-    <title>DA PONTA CUMURUXATIBA A CONCEI&#xC7;&#xC3;O DA BARRA (22700 (INT.2120))</title>
+    <number>22700_(INT.2120)</number>
+    <title>DA PONTA CUMURUXATIBA A CONCEI&#xC7;&#xC3;O DA BARRA (22700_(INT.2120))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22700.zip</zipfile_location>
     <zipfile_datetime>20140702_000000</zipfile_datetime>
@@ -930,8 +930,8 @@
     <ntm_edition_last_correction>2014-126</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>22800 (INT.2121)</number>
-    <title>DE CONCEI&#xC7;&#xC3;O DA BARRA A VIT&#xD3;RIA (22800 (INT.2121))</title>
+    <number>22800_(INT.2121)</number>
+    <title>DE CONCEI&#xC7;&#xC3;O DA BARRA A VIT&#xD3;RIA (22800_(INT.2121))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22800.zip</zipfile_location>
     <zipfile_datetime>20150515_000000</zipfile_datetime>
@@ -939,8 +939,8 @@
     <ntm_edition_last_correction>2014-218</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23000 (INT.2123)</number>
-    <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000 (INT.2123))</title>
+    <number>23000_(INT.2123)</number>
+    <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23000.zip</zipfile_location>
     <zipfile_datetime>20150521_000000</zipfile_datetime>
@@ -948,8 +948,8 @@
     <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23100 (INT.2124)</number>
-    <title>DO RIO DE JANEIRO &#xC0; SANTOS (23100 (INT.2124))</title>
+    <number>23100_(INT.2124)</number>
+    <title>DO RIO DE JANEIRO &#xC0; SANTOS (23100_(INT.2124))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23100.zip</zipfile_location>
     <zipfile_datetime>20150521_000000</zipfile_datetime>
@@ -957,8 +957,8 @@
     <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23200 (INT.2125)</number>
-    <title>DE SANTOS A PARANAGU&#xC1; (23200 (INT.2125))</title>
+    <number>23200_(INT.2125)</number>
+    <title>DE SANTOS A PARANAGU&#xC1; (23200_(INT.2125))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23200.zip</zipfile_location>
     <zipfile_datetime>20150515_000000</zipfile_datetime>
@@ -966,8 +966,8 @@
     <ntm_edition_last_correction>2013-87</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23300 (INT.2126)</number>
-    <title>DE PARANAGU&#xC1; A IMBITUBA (23300 (INT.2126))</title>
+    <number>23300_(INT.2126)</number>
+    <title>DE PARANAGU&#xC1; A IMBITUBA (23300_(INT.2126))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23300.zip</zipfile_location>
     <zipfile_datetime>20150315_000000</zipfile_datetime>
@@ -975,8 +975,8 @@
     <ntm_edition_last_correction>2014-199</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23500 (INT.2128)</number>
-    <title>DE PINHAL AO RIO GRANDE (23500 (INT.2128))</title>
+    <number>23500_(INT.2128)</number>
+    <title>DE PINHAL AO RIO GRANDE (23500_(INT.2128))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23500.zip</zipfile_location>
     <zipfile_datetime>20150515_000000</zipfile_datetime>
@@ -984,8 +984,8 @@
     <ntm_edition_last_correction>2015-20</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23600 (INT.2129)</number>
-    <title>DO RIO GRANDE AO ARROIO CHU&#xCD; (23600 (INT.2129))</title>
+    <number>23600_(INT.2129)</number>
+    <title>DO RIO GRANDE AO ARROIO CHU&#xCD; (23600_(INT.2129))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23600.zip</zipfile_location>
     <zipfile_datetime>20150216_000000</zipfile_datetime>
@@ -993,8 +993,8 @@
     <ntm_edition_last_correction>2014-104</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>25110 (INT.9150)</number>
-    <title>ILHA ELEFANTE E PROXIMIDADES (25110 (INT.9150))</title>
+    <number>25110_(INT.9150)</number>
+    <title>ILHA ELEFANTE E PROXIMIDADES (25110_(INT.9150))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25110.zip</zipfile_location>
     <zipfile_datetime>20131204_000000</zipfile_datetime>
@@ -1011,8 +1011,8 @@
     <ntm_edition_last_correction>2009-46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>25119 (INT.9127)</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE SERRATT (I. REI GEORGE) (25119 (INT.9127))</title>
+    <number>25119_(INT.9127)</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE SERRATT (I. REI GEORGE) (25119_(INT.9127))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25119.zip</zipfile_location>
     <zipfile_datetime>20131204_000000</zipfile_datetime>
@@ -1020,8 +1020,8 @@
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>25120 (INT.9126)</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A REI GEORGE (I. REI GEORGE) (25120 (INT.9126))</title>
+    <number>25120_(INT.9126)</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A REI GEORGE (I. REI GEORGE) (25120_(INT.9126))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25120.zip</zipfile_location>
     <zipfile_datetime>20131204_000000</zipfile_datetime>
