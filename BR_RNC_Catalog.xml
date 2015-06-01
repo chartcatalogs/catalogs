@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2015-05-23</date_created>
-    <time_created>09:03:12</time_created>
-    <date_valid>2015-05-23</date_valid>
-    <time_valid>09:03:12</time_valid>
-    <dt_valid>2015-05-23T09:03:12Z</dt_valid>
+    <date_created>2015-06-01</date_created>
+    <time_created>00:59:51</time_created>
+    <date_valid>2015-06-01</date_valid>
+    <time_valid>00:59:51</time_valid>
+    <dt_valid>2015-06-01T00:59:51Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -271,6 +271,15 @@
     <zipfile_datetime>20100518_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2010-05-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2009-181</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1100</number>
+    <title>DO RIO ITARIRI A ILHEUS (1100)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1100.zip</zipfile_location>
+    <zipfile_datetime>20150521_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2015-05-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1102</number>
