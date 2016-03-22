@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2015-06-01</date_created>
+    <date_created>2016-03-22</date_created>
     <time_created>01:12:32</time_created>
-    <date_valid>2015-06-01</date_valid>
+    <date_valid>2016-03-22</date_valid>
     <time_valid>01:12:32</time_valid>
-    <dt_valid>2015-06-01T01:12:32Z</dt_valid>
+    <dt_valid>2016-03-22T01:12:32Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -466,9 +466,9 @@
     <title>BA&#xCD;A DE GUANABARA (1501)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1501.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-32</ntm_edition_last_correction>
+    <zipfile_datetime>20160315_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-03-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-146</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1503</number>
@@ -829,6 +829,15 @@
     <zipfile_datetime>20150515_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2014-104</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21030_(INT.2004)</number>
+    <title>DE FORTALEZA A NATAL (21030_(INT.2004))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21030.zip</zipfile_location>
+    <zipfile_datetime>20160302_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-03-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-109</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21080_(INT.2009)</number>
