@@ -1,3 +1,46 @@
-<RncProductCatalogChartCatalogs><Header><title>Netherland Inland ENC Charts</title><date_created>2016-03-20</date_created><time_created>02:09:03</time_created><date_valid>2016-03-20</date_valid><time_valid>02:09:03</time_valid><dt_valid>2016-03-20T02:09:03Z</dt_valid><ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec><ref_spec_vers>1.0</ref_spec_vers><s62AgencyCode>0</s62AgencyCode></Header>
-<chart><number>1</number><title>Nederland, version 42</title><format>Sailing Chart, International Chart</format><zipfile_location>http://vaarweginformatie.nl/fdd/main/download?fileId=98479189</zipfile_location><zipfile_datetime>20150201_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-02-01T00:00:00Z</zipfile_datetime_iso8601><target_filename>Nederland.zip</target_filename></chart>
-<chart><number>1-1</number><title>Zeeland Compleet week 11-2016 (version 1)</title><format>Sailing Chart, International Chart</format><zipfile_location>http://vaarweginformatie.nl/fdd/main/download?fileId=106398030</zipfile_location><zipfile_datetime>20160317_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-03-17T00:00:00Z</zipfile_datetime_iso8601><target_filename>20160317_U6Inland_Week 11_NL.zip</target_filename></chart></RncProductCatalogChartCatalogs>
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title>Netherland Inland ENC Charts</title>
+    <date_created>2016-04-25</date_created>
+    <time_created>20:15:00</time_created>
+    <date_valid>2016-04-25</date_valid>
+    <time_valid>20:15:00</time_valid>
+    <dt_valid>2016-04-25T19:15:03Z</dt_valid>
+    <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
+    <ref_spec_vers>1.0</ref_spec_vers>
+    <s62AgencyCode>0</s62AgencyCode>
+  </Header>
+<chart>
+  <number>1</number>
+  <title>Nederland, version 42 (no depth)</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=40856122
+  </zipfile_location>
+  <zipfile_datetime>20160201_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2016-02-01T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Nederland.7z</target_filename>
+</chart>
+<chart>
+  <number>2</number>
+  <title>Zeeland Compleet week 16-2016 (detailed depth info)</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=110698355
+  </zipfile_location>
+  <zipfile_datetime>20160420_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2016-04-20T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>20160420_U7Inland_week 16_NL.zip</target_filename>
+</chart>
+<chart>
+  <number>3</number>
+  <title>Zeeland Reissue Kwartaal 2-2016  (detailed depth info)</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=109918118
+  </zipfile_location>
+  <zipfile_datetime>20160404_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2016-04-04T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>20160404_U6Inland_Reissue_NL.zip</target_filename>
+</chart>
+</RncProductCatalogChartCatalogs>
