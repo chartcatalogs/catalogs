@@ -1,0 +1,24 @@
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title>ACE Inland ENC Buoy Charts</title>
+    <date_created>2016-09-29</date_created>
+    <time_created>22:15:00</time_created>
+    <date_valid>2016-09-29</date_valid>
+    <time_valid>22:15:00</time_valid>
+    <dt_valid>2016-09-29T22:15:00Z</dt_valid>
+    <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
+    <ref_spec_vers>1.0</ref_spec_vers>
+    <s62AgencyCode>0</s62AgencyCode>
+  </Header>
+<chart>
+  <number>1</number>
+  <title>Buoys Overlay S57 Format</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>
+    http://ec2-54-235-76-27.compute-1.amazonaws.com/ienc/products/files/buoys/3UABUOYS.zip
+  </zipfile_location>
+  <zipfile_datetime>20160929_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2016-09-29T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>3UABOYS.zip</target_filename>
+</chart>
+</RncProductCatalogChartCatalogs>
