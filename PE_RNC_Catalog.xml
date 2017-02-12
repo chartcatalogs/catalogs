@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Peru RNC Charts</title>
-    <date_created>2015-10-02</date_created>
+    <date_created>2017-02-12</date_created>
     <time_created>00:00:00</time_created>
-    <date_valid>2015-10-02</date_valid>
+    <date_valid>2017-02-12</date_valid>
     <time_valid>00:00:00</time_valid>
-    <dt_valid>2015-10-02T00:00:00Z</dt_valid>
+    <dt_valid>2017-02-12T00:00:00Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -110,5 +110,34 @@
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-29</ntm_edition_last_correction>
     <reference_file>PE_2239.BSB</reference_file>
+  </chart>
+  <chart>
+    <number>4101</number>
+    <title>Carta de practicaje del Rio Amazonas (4101)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_4101.rar</zipfile_location>
+    <zipfile_datetime>20160524_154300</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-05-24T15:43:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-01-04</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4151</number>
+    <title>Portulano Iquitos y Cercanias (4151)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_4151.rar</zipfile_location>
+    <zipfile_datetime>20161025_165200</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-10-25T16:52:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2011-08-28</ntm_edition_last_correction>
+    <reference_file>HIDRONAV_4151.BSB</reference_file>
+  </chart>
+  <chart>
+    <number>4151</number>
+    <title>Portulano Yurimaguas y Cercanias (5231)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_5231.rar</zipfile_location>
+    <zipfile_datetime>20161025_172700</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-10-25T17:27:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-01-04</ntm_edition_last_correction>
+    <reference_file>PORT_YURIMAGUAS.BSB</reference_file>
   </chart>
 </RncProductCatalogChartCatalogs>
