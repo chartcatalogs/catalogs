@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2017-02-13</date_created>
+    <date_created>2017-06-06</date_created>
     <time_created>00:00:00</time_created>
-    <date_valid>2017-02-13</date_valid>
+    <date_valid>2017-06-02</date_valid>
     <time_valid>00:00:00</time_valid>
-    <dt_valid>2017-02-13T00:00:00Z</dt_valid>
+    <dt_valid>2017-06-02T00:00:00Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,9 +16,9 @@
     <title>COSTA E ILHAS AO LARGO (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1.zip</zipfile_location>
-    <zipfile_datetime>20160531_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-05-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-36</ntm_edition_last_correction>
+    <zipfile_datetime>20170406_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2</number>
@@ -34,9 +34,9 @@
     <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/10.zip</zipfile_location>
-    <zipfile_datetime>20170112_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
+    <zipfile_datetime>20170406_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-55</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>11</number>
@@ -52,9 +52,9 @@
     <title>COSTA LESTE DA AM&#xC9;RICA DO SUL (20)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/20.zip</zipfile_location>
-    <zipfile_datetime>20160930_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20170407_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-54</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21</number>
@@ -81,15 +81,15 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/51.zip</zipfile_location>
     <zipfile_datetime>20160531_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-05-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-156</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2009-80</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>52</number>
     <title>ARQUIP&#xC9;LAGO DE FERNANDO DE NORONHA (52)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/52.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20150222_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2015-02-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2012-156</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -169,9 +169,9 @@
     <title>PORTO DE MUCURIPE (Fortaleza) (701)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/701.zip</zipfile_location>
-    <zipfile_datetime>20160707_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-11</ntm_edition_last_correction>
+    <zipfile_datetime>20170407_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-54</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>702</number>
@@ -214,9 +214,9 @@
     <title>PROXIMIDADES DO TERMINAL DO PEC&#xC9;M E DO PORTO DE MUCURIPE (710)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/710.zip</zipfile_location>
-    <zipfile_datetime>20161125_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20160407_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-54</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>720</number>
@@ -295,9 +295,9 @@
     <title>PORTO DE SUAPE (906)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/906.zip</zipfile_location>
-    <zipfile_datetime>20161130_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-33</ntm_edition_last_correction>
+    <zipfile_datetime>20170411_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-52</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>920</number>
@@ -367,18 +367,18 @@
     <title>PROXIMIDADES DO PORTO DE SALVADOR (1101)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1101.zip</zipfile_location>
-    <zipfile_datetime>20170109_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-165</ntm_edition_last_correction>
+    <zipfile_datetime>20170309_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-40</ntm_edition_last_correction>
    </chart>
    <chart>
     <number>1102</number>
     <title>PORTO DE SALVADOR (1102)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1102.zip</zipfile_location>
-    <zipfile_datetime>20170111_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-165</ntm_edition_last_correction>
+    <zipfile_datetime>20170310_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-40</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1103</number>
@@ -466,9 +466,9 @@
     <title>PORTO DE ILH&#xC9;US (1201)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1201.zip</zipfile_location>
-    <zipfile_datetime>20160318_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-03-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-190</ntm_edition_last_correction>
+    <zipfile_datetime>20170328_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-46</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1205</number>
@@ -570,7 +570,7 @@
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1404</number>
+    <number>1406</number>
     <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1406.zip</zipfile_location>
@@ -610,9 +610,9 @@
     <title>BA&#xCD;A DE GUANABARA (1501)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1501.zip</zipfile_location>
-    <zipfile_datetime>20160315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170404_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1503</number>
@@ -637,18 +637,18 @@
     <title>DO CABO B&#xDA;ZIOS AO CABO FRIO (1505)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1505.zip</zipfile_location>
-    <zipfile_datetime>20120711_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2012-07-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2010-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-32</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1506</number>
     <title>PROXIMIDADE DA BA&#xCD;A DE GUANABARA (1506)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1506.zip</zipfile_location>
-    <zipfile_datetime>20161129_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
+    <zipfile_datetime>20170404_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1507</number>
@@ -664,45 +664,45 @@
     <title>DO CABO FRIO &#xC0; PONTA NEGRA (1508)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1508.zip</zipfile_location>
-    <zipfile_datetime>20160829_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
+    <zipfile_datetime>20170316_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-32</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1511</number>
     <title>BARRA DO RIO DE JANEIRO (1511)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1511.zip</zipfile_location>
-    <zipfile_datetime>20170106_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170329_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1512</number>
     <title>PORTO DO RIO DE JANEIRO (1512)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1512.zip</zipfile_location>
-    <zipfile_datetime>20170106_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170405_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1513</number>
     <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1513.zip</zipfile_location>
-    <zipfile_datetime>20160322_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-03-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170221_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-31</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1515</number>
     <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1515.zip</zipfile_location>
-    <zipfile_datetime>20170116_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-146</ntm_edition_last_correction>
+    <zipfile_datetime>20170405_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1531</number>
@@ -1006,9 +1006,9 @@
     <title>PROXIMIDADES DA ILHA DE SANTA CATARINA (1902)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1902.zip</zipfile_location>
-    <zipfile_datetime>20160919_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-113</ntm_edition_last_correction>
+    <zipfile_datetime>20170220_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-20T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-23</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1903</number>
@@ -1060,9 +1060,9 @@
     <title>DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE (1910)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1910.zip</zipfile_location>
-    <zipfile_datetime>20140207_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-02-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-178</ntm_edition_last_correction>
+    <zipfile_datetime>20170216_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-17</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1911</number>
@@ -1114,18 +1114,18 @@
     <title>COSTA DA AM&#xC9;RICA DO SUL (19001_(INT.20))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19001.zip</zipfile_location>
-    <zipfile_datetime>20161220_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
+    <zipfile_datetime>20170412_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-12T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>19002_(INT.22)</number>
     <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19002.zip</zipfile_location>
-    <zipfile_datetime>20170105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
+    <zipfile_datetime>20170418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>19400_(INT.215)</number>
@@ -1141,27 +1141,27 @@
     <title>DE CAYENNE AO CABO GURUPI (21010_(INT.4071))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21010.zip</zipfile_location>
-    <zipfile_datetime>20160701_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-76</ntm_edition_last_correction>
+    <zipfile_datetime>20170419_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21020_(INT.2003)</number>
     <title>DE SALIN&#xD3;POLIS A FORTALEZA (21020_(INT.2003))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21020.zip</zipfile_location>
-    <zipfile_datetime>20161006_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20170420_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-20T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-55</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21030_(INT.2004)</number>
     <title>DE FORTALEZA A NATAL (21030_(INT.2004))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21030.zip</zipfile_location>
-    <zipfile_datetime>20170131_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20170320_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-20T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-36</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21040_(INT.2005)</number>
@@ -1177,27 +1177,27 @@
     <title>DO RIO ITARIRI AO ARQUIP&#xC9;LAGO DOS ABROLHOS (21050_(INT.2006))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21050.zip</zipfile_location>
-    <zipfile_datetime>20161006_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20170216_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-13</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21060_(INT.2007)</number>
     <title>DO ARQUIP&#xC9;LAGO DOS ABROLHOS AO CABO FRIO (21060_(INT.2007))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21060.zip</zipfile_location>
-    <zipfile_datetime>20161220_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-148</ntm_edition_last_correction>
+    <zipfile_datetime>20170321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-41</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21070_(INT.2008)</number>
     <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21070.zip</zipfile_location>
-    <zipfile_datetime>20161220_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-148</ntm_edition_last_correction>
+    <zipfile_datetime>20170321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-38</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21080_(INT.2009)</number>
@@ -1240,9 +1240,9 @@
     <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400_(INT.4197))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21400.zip</zipfile_location>
-    <zipfile_datetime>20160720_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-49</ntm_edition_last_correction>
+    <zipfile_datetime>20170427_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-27T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21500_(INT.2108)</number>
@@ -1267,9 +1267,9 @@
     <title>DA TUT&#xD3;IA &#xC0; PONTA DOS PATOS (21700_(INT.2110))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21700.zip</zipfile_location>
-    <zipfile_datetime>20160706_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-83</ntm_edition_last_correction>
+    <zipfile_datetime>20170217_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-15</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21800_(INT.2111)</number>
@@ -1321,9 +1321,9 @@
     <title>DE MACEI&#xD3; A ARACAJU (22300_(INT.2116))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22300.zip</zipfile_location>
-    <zipfile_datetime>20161128_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-135</ntm_edition_last_correction>
+    <zipfile_datetime>20170222_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-26</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22500_(INT.2118)</number>
@@ -1339,72 +1339,72 @@
     <title>DA PONTA CUMURUXATIBA A CONCEI&#xC7;&#xC3;O DA BARRA (22700_(INT.2120))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22700.zip</zipfile_location>
-    <zipfile_datetime>20140702_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-07-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-126</ntm_edition_last_correction>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-41</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22800_(INT.2121)</number>
     <title>DE CONCEI&#xC7;&#xC3;O DA BARRA A VIT&#xD3;RIA (22800_(INT.2121))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22800.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-218</ntm_edition_last_correction>
+    <zipfile_datetime>20170321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-41</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22900_(INT.2122)</number>
     <title>DE VIT&#xD3;RIA AO CABO DE S&#xC3;O TOM&#xC9; (22900_(INT.2122))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22900.zip</zipfile_location>
-    <zipfile_datetime>20160927_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-106</ntm_edition_last_correction>
+    <zipfile_datetime>20170403_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-49</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23000_(INT.2123)</number>
     <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23000.zip</zipfile_location>
-    <zipfile_datetime>20170125_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-03</ntm_edition_last_correction>
+    <zipfile_datetime>20170515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-56</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23100_(INT.2124)</number>
     <title>DO RIO DE JANEIRO &#xC0; SANTOS (23100_(INT.2124))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23100.zip</zipfile_location>
-    <zipfile_datetime>20150521_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
+    <zipfile_datetime>20170217_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-18</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23200_(INT.2125)</number>
     <title>DE SANTOS A PARANAGU&#xC1; (23200_(INT.2125))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23200.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-87</ntm_edition_last_correction>
+    <zipfile_datetime>20170216_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-19</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23300_(INT.2126)</number>
     <title>DE PARANAGU&#xC1; A IMBITUBA (23300_(INT.2126))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23300.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-199</ntm_edition_last_correction>
+    <zipfile_datetime>20170216_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-16</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23400_(INT.2127)</number>
     <title>DE IMBITUBA A PINHAL (23400_(INT.2127))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23400.zip</zipfile_location>
-    <zipfile_datetime>20160510_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-05-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-50</ntm_edition_last_correction>
+    <zipfile_datetime>20170216_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-20</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23500_(INT.2128)</number>
@@ -1465,8 +1465,8 @@
     <title>BA&#xCD;A DO ALMIRANTADO (25121_(INT.9125))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25121.zip</zipfile_location>
-    <zipfile_datetime>20161221_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-21T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170221_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -1744,18 +1744,18 @@
     <title>DA ILHA PANUMA A ITACOATIARA (4029)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4029.zip</zipfile_location>
-    <zipfile_datetime>20160923_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-118</ntm_edition_last_correction>
+    <zipfile_datetime>20170307_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-07</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4029A</number>
     <title>PARAN&#xC1; DO SERPA (4029A)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4029A.zip</zipfile_location>
-    <zipfile_datetime>20160729_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20170222_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-07</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4030</number>
@@ -1780,9 +1780,9 @@
     <title>DA ILHA DAS ON&#xC7;AS A MANAUS (4032)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4032.zip</zipfile_location>
-    <zipfile_datetime>20150930_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-09-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20170306_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-14</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4032A</number>
@@ -1825,9 +1825,18 @@
     <title>DA COSTA DO ITUQUI &#xC0; ILHA DO MEIO (4103B)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4103B.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-29</ntm_edition_last_correction>
+    <zipfile_datetime>20170315_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4104B</number>
+    <title>DA ILHA DE SANTA RITA &#xC0; PARINTINS (4104B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4104B.zip</zipfile_location>
+    <zipfile_datetime>20170202_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-169</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4105A</number>
@@ -1864,6 +1873,33 @@
     <zipfile_datetime>20130919_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-09-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2012-6</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4203</number>
+    <title>DA FAZENDA CAI&#xC7;ARA A ARAPIRANGA (4203)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4203.zip</zipfile_location>
+    <zipfile_datetime>20120330_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2012-03-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4381A</number>
+    <title>DE SANTAR&#xC9;M A SURUCU&#xC1; (4381A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4381A.zip</zipfile_location>
+    <zipfile_datetime>20170317_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4381B</number>
+    <title>DE SURUCU&#xC1; A AVEIRO (4381B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4381B.zip</zipfile_location>
+    <zipfile_datetime>20170317_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4382A</number>
@@ -1987,8 +2023,8 @@
     <title>DO RIACHO SAN FRANSISCO (BOCA INFERIOR) &#xC0; VILLA HAYES (3302)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3302.zip</zipfile_location>
-    <zipfile_datetime>20160816_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-16T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2005,8 +2041,8 @@
     <title>DA ISLA ARECUTACU&#xC1; A ESTANCIA OLIVARES (3304)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3304.zip</zipfile_location>
-    <zipfile_datetime>20160816_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-16T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2014,8 +2050,8 @@
     <title>DA ESTANCIA OLIVARES AO PASO MERCEDES (3305)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3305.zip</zipfile_location>
-    <zipfile_datetime>20110110_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2011-01-10T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2023,8 +2059,8 @@
     <title>DO PASO MERCEDES AO PASO PALMA SOLA (3306)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3306.zip</zipfile_location>
-    <zipfile_datetime>20110110_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2011-01-10T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2032,8 +2068,8 @@
     <title>DA ISLA POYB&#xCD; A ISLA URUGUAYT&#xC1; (3307)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3307.zip</zipfile_location>
-    <zipfile_datetime>20110921_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2011-09-21T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170131_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-31T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2050,8 +2086,8 @@
     <title>DA ISLA PITO-CANY A ISLA OCULTO (3309)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3309.zip</zipfile_location>
-    <zipfile_datetime>20090728_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170215_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2068,8 +2104,8 @@
     <title>DO PASO CABALLEROA ISLA YSYPO-I (3311)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3311.zip</zipfile_location>
-    <zipfile_datetime>20090728_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170131_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-31T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2185,8 +2221,8 @@
     <title>DO PUERTO LA NOVIA A ISLA SAN CARLOS (3324)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3324.zip</zipfile_location>
-    <zipfile_datetime>20100824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2010-08-24T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170215_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2491,9 +2527,9 @@
     <title>DA OR&#xC7;ADA DE S&#xC3;O JOS&#xC9; &#xC0; ILHA CARAGUAT&#xC1; (3358)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3358.zip</zipfile_location>
-    <zipfile_datetime>20160808_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-13</ntm_edition_last_correction>
+    <zipfile_datetime>20170410_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-01</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3359</number>
@@ -3166,18 +3202,18 @@
     <title>DO PASSO DO SOLDADO A FIGUEIRA DO TUCUM (3433)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3433.zip</zipfile_location>
-    <zipfile_datetime>20120416_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2012-04-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20170410_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-02</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3434</number>
     <title>DA ILHA DO POTE AO PASSO CAMBAR&#xC1; (3434)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3434.zip</zipfile_location>
-    <zipfile_datetime>20160824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-14</ntm_edition_last_correction>
+    <zipfile_datetime>20170410_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-04-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-03</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3435</number>
