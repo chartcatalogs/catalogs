@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2017-06-06</date_created>
-    <time_created>00:00:00</time_created>
-    <date_valid>2017-06-02</date_valid>
-    <time_valid>00:00:00</time_valid>
-    <dt_valid>2017-06-02T00:00:00Z</dt_valid>
+    <date_created>2017-08-19</date_created>
+    <time_created>13:23:34</time_created>
+    <date_valid>2017-08-19</date_valid>
+    <time_valid>13:23:34</time_valid>
+    <dt_valid>2017-08-19T13:23:34Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,8 +16,8 @@
     <title>COSTA E ILHAS AO LARGO (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1.zip</zipfile_location>
-    <zipfile_datetime>20170406_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-06T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170626_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -34,8 +34,8 @@
     <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/10.zip</zipfile_location>
-    <zipfile_datetime>20170406_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-06T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170601_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-55</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -52,9 +52,9 @@
     <title>COSTA LESTE DA AM&#xC9;RICA DO SUL (20)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/20.zip</zipfile_location>
-    <zipfile_datetime>20170407_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-54</ntm_edition_last_correction>
+    <zipfile_datetime>20170602_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>20017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21</number>
@@ -70,9 +70,9 @@
     <title>COSTA SUESTE DA AM&#xC9;RICA DO SUL (30)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/30.zip</zipfile_location>
-    <zipfile_datetime>20161006_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-116</ntm_edition_last_correction>
+    <zipfile_datetime>20170622_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-76</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>51</number>
@@ -88,27 +88,9 @@
     <title>ARQUIP&#xC9;LAGO DE FERNANDO DE NORONHA (52)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/52.zip</zipfile_location>
-    <zipfile_datetime>20150222_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-22T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170222_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2012-156</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>110</number>
-    <title>BA&#xCD;A DE OIAPOQUE (110)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/110.zip</zipfile_location>
-    <zipfile_datetime>20160607_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-06-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-152</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>410</number>
-    <title>PROXIMIDADES DA BA&#xCD;A DE S&#xC3;O MARCOS (410)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/410.zip</zipfile_location>
-    <zipfile_datetime>20161011_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-104</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>411</number>
@@ -124,18 +106,18 @@
     <title>BA&#xCD;A DE S&#xC3;O MARCOS PROXIMIDADES DO TERMINAL DA PONTA DA MADEIRA E ITAQUI (412)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/412.zip</zipfile_location>
-    <zipfile_datetime>20160927_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-104</ntm_edition_last_correction>
+    <zipfile_datetime>20170614_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>413</number>
     <title>TERMINAL DA PONTA DA MADEIRA E PORTO DE ITAQUI (413)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/413.zip</zipfile_location>
-    <zipfile_datetime>20161018_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-104</ntm_edition_last_correction>
+    <zipfile_datetime>20170619_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>414</number>
@@ -145,15 +127,6 @@
     <zipfile_datetime>20161018_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-10-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-104</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>511</number>
-    <title>BARRA DOS RIOS TIMONHA E UBATUBA (511)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/511.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>515</number>
@@ -184,7 +157,7 @@
   </chart>
   <chart>
     <number>703</number>
-    <title>PORTO DE AREIA BRANCA (701)</title>
+    <title>PORTO DE AREIA BRANCA (703)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/703.zip</zipfile_location>
     <zipfile_datetime>20160531_000000</zipfile_datetime>
@@ -199,24 +172,6 @@
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-18</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>705</number>
-    <title>TERMINAL PORTUARIO DO PEC&#xC9;M (705)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/705.zip</zipfile_location>
-    <zipfile_datetime>20170125_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-81</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>710</number>
-    <title>PROXIMIDADES DO TERMINAL DO PEC&#xC9;M E DO PORTO DE MUCURIPE (710)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/710.zip</zipfile_location>
-    <zipfile_datetime>20160407_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-54</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>720</number>
@@ -235,15 +190,6 @@
     <zipfile_datetime>20130702_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-07-02T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2013-53</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>803</number>
-    <title>CANAL DE S&#xC3;O ROQUE (803)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/803.zip</zipfile_location>
-    <zipfile_datetime>20070525_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2007-05-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2001-157</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>806</number>
@@ -295,8 +241,8 @@
     <title>PORTO DE SUAPE (906)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/906.zip</zipfile_location>
-    <zipfile_datetime>20170411_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-11T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170607_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-07T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-52</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -336,15 +282,6 @@
     <ntm_edition_last_correction>2016-135</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1002</number>
-    <title>BARRA DO RIO S&#xC3;O FRANCISCO DO NORTE (1002)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1002.zip</zipfile_location>
-    <zipfile_datetime>20120521_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2012-05-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2010-67</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1003</number>
     <title>BARRA DO RIO SERGIPE (1003)</title>
     <format>Sailing Chart, International Chart</format>
@@ -354,40 +291,22 @@
     <ntm_edition_last_correction>2009-181</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1100</number>
-    <title>DO RIO ITARIRI A ILHEUS (1100)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1100.zip</zipfile_location>
-    <zipfile_datetime>20150521_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-46</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1101</number>
     <title>PROXIMIDADES DO PORTO DE SALVADOR (1101)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1101.zip</zipfile_location>
-    <zipfile_datetime>20170309_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-40</ntm_edition_last_correction>
-   </chart>
-   <chart>
+    <zipfile_datetime>20170622_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-81</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1102</number>
     <title>PORTO DE SALVADOR (1102)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1102.zip</zipfile_location>
-    <zipfile_datetime>20170310_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-40</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1103</number>
-    <title>BA&#xCD;A DE ARATU E ADJAC&#xCA;NCIAS (1103)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1103.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-210</ntm_edition_last_correction>
+    <zipfile_datetime>20170622_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-81</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1104</number>
@@ -427,7 +346,7 @@
   </chart>
   <chart>
     <number>1108</number>
-    <title>BA&#xCD;A DE TODOS OS SANTOS PORTO DE S&#xC3;O ROQUE E PROXIMIDADES  (1108)</title>
+    <title>BA&#xCD;A DE TODOS OS SANTOS PORTO DE S&#xC3;O ROQUE E PROXIMIDADES (1108)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1108.zip</zipfile_location>
     <zipfile_datetime>20160328_000000</zipfile_datetime>
@@ -442,24 +361,6 @@
     <zipfile_datetime>20160329_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-03-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-101</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1131</number>
-    <title>PORTO DE CAMAMU (1131)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1131.zip</zipfile_location>
-    <zipfile_datetime>20090721_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-07-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-24</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1200</number>
-    <title>DO PORTO DE ILH&#xC9;US &#xC0; PONTA CUMURUXATIBA (1200)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1200.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-172</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1201</number>
@@ -477,7 +378,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1205.zip</zipfile_location>
     <zipfile_datetime>20070424_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2007-04-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1210</number>
@@ -487,15 +388,6 @@
     <zipfile_datetime>20160602_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-06-02T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-190</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1301</number>
-    <title>BARRA DE NOVA VI&#xC7;OSA (1301)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1301.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-15</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1310</number>
@@ -547,9 +439,9 @@
     <title>DA BARRA DO ITAPEMIRIM AO CABO DE SAO TOM&#xC9; (1403)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1403.zip</zipfile_location>
-    <zipfile_datetime>20161129_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-42</ntm_edition_last_correction>
+    <zipfile_datetime>20170622_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-76</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1404</number>
@@ -559,33 +451,6 @@
     <zipfile_datetime>20120521_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-05-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-120</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1405</number>
-    <title>PORTO DE A&#xC7;U (1405)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1405.zip</zipfile_location>
-    <zipfile_datetime>20160912_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1406</number>
-    <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1406.zip</zipfile_location>
-    <zipfile_datetime>20141128_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-11-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1407</number>
-    <title>CANAL DE S&#xC3;O THOM&#xC9; (1407)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1407.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-98</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1410</number>
@@ -601,17 +466,17 @@
     <title>PROXIMIDADES DE BARRA DO RIACHO (1420)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1420.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-235</ntm_edition_last_correction>
+    <zipfile_datetime>20170314_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-41</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1501</number>
     <title>BA&#xCD;A DE GUANABARA (1501)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1501.zip</zipfile_location>
-    <zipfile_datetime>20170404_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-04T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170619_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -619,9 +484,9 @@
     <title>ENSEADA DO CABO FRIO (1503)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1503.zip</zipfile_location>
-    <zipfile_datetime>20131219_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-18</ntm_edition_last_correction>
+    <zipfile_datetime>20170607_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-47</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1504</number>
@@ -655,9 +520,9 @@
     <title>ENSEADA DE MACAE E PROXIMIDADES (1507)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1507.zip</zipfile_location>
-    <zipfile_datetime>20160706_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-82</ntm_edition_last_correction>
+    <zipfile_datetime>20170614_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-70</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1508</number>
@@ -669,24 +534,6 @@
     <ntm_edition_last_correction>2017-32</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1511</number>
-    <title>BARRA DO RIO DE JANEIRO (1511)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1511.zip</zipfile_location>
-    <zipfile_datetime>20170329_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1512</number>
-    <title>PORTO DO RIO DE JANEIRO (1512)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1512.zip</zipfile_location>
-    <zipfile_datetime>20170405_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1513</number>
     <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
     <format>Sailing Chart, International Chart</format>
@@ -696,31 +543,13 @@
     <ntm_edition_last_correction>2017-31</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1515</number>
-    <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1515.zip</zipfile_location>
-    <zipfile_datetime>20170405_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1531</number>
-    <title>ILHA DO BOQUEIR&#xC3;O E ADJAC&#xCA;NCIA (1531)</title>
+    <title>BA&#xCD;A DE GUANABARA - ILHA DO BOQUEIR&#xC3;O E ADJAC&#xCA;NCIAS (1531)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1531.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-166</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1550</number>
-    <title>BACIA DE CAMPOS (1550)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1550.zip</zipfile_location>
-    <zipfile_datetime>20161220_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-167</ntm_edition_last_correction>
+    <zipfile_datetime>20170614_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1607</number>
@@ -778,7 +607,7 @@
   </chart>
   <chart>
     <number>1632</number>
-    <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRAL (1632)</title>
+    <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRO NORTE (1632)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1632.zip</zipfile_location>
     <zipfile_datetime>20161208_000000</zipfile_datetime>
@@ -867,24 +696,6 @@
     <ntm_edition_last_correction>2013-72</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1645</number>
-    <title>CANAL DE S&#xC3;O SEBASTI&#xC3;O (1645)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1645.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-118</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1701</number>
-    <title>PORTO DE SANTOS (1701)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1701.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-245</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1703</number>
     <title>PORTO DE CANAN&#xC9;IA (1703)</title>
     <format>Sailing Chart, International Chart</format>
@@ -894,22 +705,13 @@
     <ntm_edition_last_correction>2014-160</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1711</number>
-    <title>PROXIMIDADE DO PORTO DE SANTOS (1711)</title>
+    <number>1713</number>
+    <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1711.zip</zipfile_location>
-    <zipfile_datetime>20161129_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-132</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1712</number>
-    <title>PORTO DE SANTOS (PARTE NORTE) (1712)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1712.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1713</number>
@@ -918,16 +720,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1801</number>
-    <title>PORTO DE ITAJA&#xCD; (1801)</title>
+    <number>1713</number>
+    <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1801.zip</zipfile_location>
-    <zipfile_datetime>20130604_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-06-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-22</ntm_edition_last_correction>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
+    <zipfile_datetime>20160714_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1803</number>
@@ -937,15 +739,6 @@
     <zipfile_datetime>20161129_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-10</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1804</number>
-    <title>PORTO DE S&#xC3;O FRANCISCO DO SUL (1804)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1804.zip</zipfile_location>
-    <zipfile_datetime>20160531_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-05-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-206</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1820</number>
@@ -970,9 +763,9 @@
     <title>PORTOS DE PARANAGU&#xC1; E ANTONINA (1822)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1822.zip</zipfile_location>
-    <zipfile_datetime>20170111_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-168</ntm_edition_last_correction>
+    <zipfile_datetime>20170817_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-97</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1830</number>
@@ -990,7 +783,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1841.zip</zipfile_location>
     <zipfile_datetime>20161005_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-10-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1901</number>
@@ -1011,42 +804,6 @@
     <ntm_edition_last_correction>2017-23</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1903</number>
-    <title>CANAL NORTE DE SANTA CATARINA (1903)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1903.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-13</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1904</number>
-    <title>CANAL SUL DE SANTA CATARINA (1904)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1904.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-31</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1905</number>
-    <title>PORTO DE FLORIAN&#xD3;POLIS (1905)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1905.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>1999-32</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1907</number>
-    <title>DA ILHA DO CORAL &#xC0; ILHA DAS ARARAS (1907)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1907.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-154</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1908</number>
     <title>PORTO DE IMBITUBA (1908)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1065,15 +822,6 @@
     <ntm_edition_last_correction>2017-17</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1911</number>
-    <title>DO CABO DE SANTA MARTA GRANDE A ARARANGU&#xC1; (1911)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1911.zip</zipfile_location>
-    <zipfile_datetime>20140207_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-02-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-95</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>2010</number>
     <title>PROXIMIDADES DE TRAMANDA&#xCD; (2010)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1087,9 +835,9 @@
     <title>PORTO DO RIO GRANDE (2101)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/2101.zip</zipfile_location>
-    <zipfile_datetime>20160727_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-92</ntm_edition_last_correction>
+    <zipfile_datetime>20170623_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-89</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2110</number>
@@ -1101,35 +849,8 @@
     <ntm_edition_last_correction>2016-92</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>2210</number>
-    <title>COSTA DO ALBARD&#xC3;O - CANAL DA VERGA (2210)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/2210.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-104</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>19001_(INT.20)</number>
-    <title>COSTA DA AM&#xC9;RICA DO SUL (19001_(INT.20))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19001.zip</zipfile_location>
-    <zipfile_datetime>20170412_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>19002_(INT.22)</number>
-    <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19002.zip</zipfile_location>
-    <zipfile_datetime>20170418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>19400_(INT.215)</number>
-    <title>DA RECIFE A DACAR (19400_(INT.215))</title>
+    <title>DO RECIFE A DACAR (19400_(INT.215))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19400.zip</zipfile_location>
     <zipfile_datetime>20170125_000000</zipfile_datetime>
@@ -1137,22 +858,22 @@
     <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21010_(INT.4071)</number>
-    <title>DE CAYENNE AO CABO GURUPI (21010_(INT.4071))</title>
+    <number>19400_(INT.215)</number>
+    <title>DO RECIFE A DACAR (19400_(INT.215))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21010.zip</zipfile_location>
-    <zipfile_datetime>20170419_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19400.zip</zipfile_location>
+    <zipfile_datetime>20170125_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21020_(INT.2003)</number>
-    <title>DE SALIN&#xD3;POLIS A FORTALEZA (21020_(INT.2003))</title>
+    <number>19400_(INT.215)</number>
+    <title>DO RECIFE A DACAR (19400_(INT.215))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21020.zip</zipfile_location>
-    <zipfile_datetime>20170420_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-55</ntm_edition_last_correction>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/19400.zip</zipfile_location>
+    <zipfile_datetime>20170125_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21030_(INT.2004)</number>
@@ -1186,9 +907,9 @@
     <title>DO ARQUIP&#xC9;LAGO DOS ABROLHOS AO CABO FRIO (21060_(INT.2007))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21060.zip</zipfile_location>
-    <zipfile_datetime>20170321_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-41</ntm_edition_last_correction>
+    <zipfile_datetime>20170623_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-76</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21070_(INT.2008)</number>
@@ -1224,7 +945,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21200.zip</zipfile_location>
     <zipfile_datetime>20110630_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-06-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21300_(INT.4196)</number>
@@ -1240,8 +961,8 @@
     <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400_(INT.4197))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21400.zip</zipfile_location>
-    <zipfile_datetime>20170427_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-27T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20170621_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -1264,7 +985,7 @@
   </chart>
   <chart>
     <number>21700_(INT.2110)</number>
-    <title>DA TUT&#xD3;IA &#xC0; PONTA DOS PATOS (21700_(INT.2110))</title>
+    <title>DE TUT&#xD3;IA &#xC0; PONTA DOS PATOS (21700_(INT.2110))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/21700.zip</zipfile_location>
     <zipfile_datetime>20170217_000000</zipfile_datetime>
@@ -1335,6 +1056,15 @@
     <ntm_edition_last_correction>2016-86</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>22600_(INT.2119)</number>
+    <title>DA BARRA DO POXIM &#xC0; PONTA CUMURUXATIBA (22600_(INT.2119))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22600.zip</zipfile_location>
+    <zipfile_datetime>20170220_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-20T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>22700_(INT.2120)</number>
     <title>DA PONTA CUMURUXATIBA A CONCEI&#xC7;&#xC3;O DA BARRA (22700_(INT.2120))</title>
     <format>Sailing Chart, International Chart</format>
@@ -1357,18 +1087,18 @@
     <title>DE VIT&#xD3;RIA AO CABO DE S&#xC3;O TOM&#xC9; (22900_(INT.2122))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/22900.zip</zipfile_location>
-    <zipfile_datetime>20170403_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-04-03T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-49</ntm_edition_last_correction>
+    <zipfile_datetime>20170623_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-76</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23000_(INT.2123)</number>
     <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/23000.zip</zipfile_location>
-    <zipfile_datetime>20170515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-56</ntm_edition_last_correction>
+    <zipfile_datetime>20170621_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-72</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23100_(INT.2124)</number>
@@ -1449,7 +1179,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25119.zip</zipfile_location>
     <zipfile_datetime>20131204_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>25120_(INT.9126)</number>
@@ -1458,16 +1188,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25120.zip</zipfile_location>
     <zipfile_datetime>20131204_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>25121_(INT.9125)</number>
     <title>BA&#xCD;A DO ALMIRANTADO (25121_(INT.9125))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25121.zip</zipfile_location>
-    <zipfile_datetime>20170221_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-02-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20170719_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-98</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>25122</number>
@@ -1623,13 +1353,22 @@
     <ntm_edition_last_correction>2015-72</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>201</number>
-    <title>BARRA NORTE DO RIO AMAZONAS (201)</title>
+    <number>112</number>
+    <title>DAS ILHAS TAPARAB&#xD4; &#xC0; CLEVEL&#xC2;NDIA DO NORTE (112)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/201.zip</zipfile_location>
-    <zipfile_datetime>20141101_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-11-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-196</ntm_edition_last_correction>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/112.zip</zipfile_location>
+    <zipfile_datetime>20160609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-72</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>112</number>
+    <title>DAS ILHAS TAPARAB&#xD4; &#xC0; CLEVEL&#xC2;NDIA DO NORTE (112)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/112.zip</zipfile_location>
+    <zipfile_datetime>20160609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-72</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>202</number>
@@ -1665,16 +1404,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/206.zip</zipfile_location>
     <zipfile_datetime>20140218_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-02-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>221</number>
     <title>BARRA NORTE DO RIO AMAZONAS (221)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/221.zip</zipfile_location>
-    <zipfile_datetime>20160714_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20170810_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-100</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>231</number>
@@ -1740,49 +1479,13 @@
     <ntm_edition_last_correction>1997-156</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4029</number>
-    <title>DA ILHA PANUMA A ITACOATIARA (4029)</title>
+    <number>4032A</number>
+    <title>PORTO DE MANAUS (4032A)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4029.zip</zipfile_location>
-    <zipfile_datetime>20170307_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-07</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4029A</number>
-    <title>PARAN&#xC1; DO SERPA (4029A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4029A.zip</zipfile_location>
-    <zipfile_datetime>20170222_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-02-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-07</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4030</number>
-    <title>DE ITACOATIARA A NOVO REMANSO (4032)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4030.zip</zipfile_location>
-    <zipfile_datetime>20150930_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-09-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4031</number>
-    <title>DE NOVO REMANSO A ILHA DAS ON&#xC7;AS (4031)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4031.zip</zipfile_location>
-    <zipfile_datetime>20150930_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-09-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4032</number>
-    <title>DA ILHA DAS ON&#xC7;AS A MANAUS (4032)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4032.zip</zipfile_location>
-    <zipfile_datetime>20170306_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-14</ntm_edition_last_correction>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4032A.zip</zipfile_location>
+    <zipfile_datetime>20170110_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4032A</number>
@@ -1791,7 +1494,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4032A.zip</zipfile_location>
     <zipfile_datetime>20170110_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-01-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4032A</number>
+    <title>PORTO DE MANAUS (4032A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4032A.zip</zipfile_location>
+    <zipfile_datetime>20170110_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4101B</number>
@@ -1800,34 +1512,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4101b.zip</zipfile_location>
     <zipfile_datetime>20130919_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-09-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4102A</number>
-    <title>DE GURUP&#xC1; &#xC0; ALMEIRIM (4102A)</title>
+    <title>DE GURUP&#xC1; A ALMEIRIM (4102A)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4102a.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4102A.zip</zipfile_location>
     <zipfile_datetime>20161201_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-12-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-41</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4103A</number>
-    <title>DE PRAINHA &#xC0; COSTA DO ITUQUI (4103A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4103a.zip</zipfile_location>
-    <zipfile_datetime>20140213_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-02-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-87</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4103B</number>
-    <title>DA COSTA DO ITUQUI &#xC0; ILHA DO MEIO (4103B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4103B.zip</zipfile_location>
-    <zipfile_datetime>20170315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-42</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4104B</number>
@@ -1848,57 +1542,21 @@
     <ntm_edition_last_correction>2010-41</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4105B</number>
-    <title>DA COSTA DO GIBA &#xC0; ITACOATIARA (4105B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4105b.zip</zipfile_location>
-    <zipfile_datetime>20130604_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-06-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2010-90</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4106A</number>
-    <title>DE ITACOATIARA &#xC0; ILHA DA GRANDE EVA (4106A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4106a.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-212</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4106B</number>
-    <title>DA ILHA GRANDE EVA A MANAUS (4106B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4106b.zip</zipfile_location>
-    <zipfile_datetime>20130919_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-09-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-6</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4203</number>
     <title>DA FAZENDA CAI&#xC7;ARA A ARAPIRANGA (4203)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4203.zip</zipfile_location>
     <zipfile_datetime>20120330_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-03-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4381A</number>
-    <title>DE SANTAR&#xC9;M A SURUCU&#xC1; (4381A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4381A.zip</zipfile_location>
-    <zipfile_datetime>20170317_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-42</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4381B</number>
     <title>DE SURUCU&#xC1; A AVEIRO (4381B)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4381B.zip</zipfile_location>
-    <zipfile_datetime>20170317_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-03-17T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20130917_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-09-17T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -1933,9 +1591,9 @@
     <title>DE SALIN&#xD3;POLIS AO CANAL DO ESPADARTE (302)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/302.zip</zipfile_location>
-    <zipfile_datetime>20150330_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-188</ntm_edition_last_correction>
+    <zipfile_datetime>20170614_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>303</number>
@@ -1944,7 +1602,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/303.zip</zipfile_location>
     <zipfile_datetime>20160602_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-06-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>304</number>
@@ -1974,22 +1632,13 @@
     <ntm_edition_last_correction>2014-215</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>316</number>
-    <title>DE MOSQUEIRO A BEL&#xC9;M (316)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/316.zip</zipfile_location>
-    <zipfile_datetime>20150216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-145</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>320</number>
     <title>PORTO DE BEL&#xC9;M (320)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/320.zip</zipfile_location>
     <zipfile_datetime>20150216_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>321</number>
@@ -2007,7 +1656,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3300.zip</zipfile_location>
     <zipfile_datetime>20160816_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3301</number>
@@ -2016,7 +1665,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3301.zip</zipfile_location>
     <zipfile_datetime>20160816_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3302</number>
@@ -2025,7 +1674,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3302.zip</zipfile_location>
     <zipfile_datetime>20170314_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3303</number>
@@ -2034,7 +1683,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3303.zip</zipfile_location>
     <zipfile_datetime>20160816_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3304</number>
@@ -2043,7 +1692,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3304.zip</zipfile_location>
     <zipfile_datetime>20170314_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3305</number>
@@ -2052,7 +1701,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3305.zip</zipfile_location>
     <zipfile_datetime>20170314_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3306</number>
@@ -2061,7 +1710,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3306.zip</zipfile_location>
     <zipfile_datetime>20170314_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-03-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3307</number>
@@ -2070,7 +1719,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3307.zip</zipfile_location>
     <zipfile_datetime>20170131_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-01-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3308</number>
@@ -2079,7 +1728,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3308.zip</zipfile_location>
     <zipfile_datetime>20110110_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-01-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3309</number>
@@ -2088,16 +1737,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3309.zip</zipfile_location>
     <zipfile_datetime>20170215_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-02-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3310</number>
     <title>DA ISLA ESPERANZA A ISLA YSYPO-I (3310)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3310.zip</zipfile_location>
-    <zipfile_datetime>20090728_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_datetime>20161026_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-10-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3311</number>
@@ -2106,7 +1755,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3311.zip</zipfile_location>
     <zipfile_datetime>20170131_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-01-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3312</number>
@@ -2115,7 +1764,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3312.zip</zipfile_location>
     <zipfile_datetime>20090728_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3313</number>
@@ -2124,7 +1773,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3313.zip</zipfile_location>
     <zipfile_datetime>20090728_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3314</number>
@@ -2133,7 +1782,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3314.zip</zipfile_location>
     <zipfile_datetime>20090728_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3315</number>
@@ -2142,7 +1791,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3315.zip</zipfile_location>
     <zipfile_datetime>20090728_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2009-07-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3316</number>
@@ -2151,7 +1800,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3316.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3317</number>
@@ -2160,7 +1809,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3317.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3318</number>
@@ -2169,7 +1818,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3318.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3319</number>
@@ -2178,7 +1827,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3319.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3320</number>
@@ -2187,7 +1836,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3320.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3321</number>
@@ -2196,7 +1845,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3321.zip</zipfile_location>
     <zipfile_datetime>20100824_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2010-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3322</number>
@@ -2205,7 +1854,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3322.zip</zipfile_location>
     <zipfile_datetime>20100824_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2010-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3323</number>
@@ -2214,7 +1863,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3323.zip</zipfile_location>
     <zipfile_datetime>20100824_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2010-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3324</number>
@@ -2223,7 +1872,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3324.zip</zipfile_location>
     <zipfile_datetime>20170215_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-02-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3325</number>
@@ -2232,7 +1881,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3325.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3326</number>
@@ -2241,7 +1890,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3326.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3327</number>
@@ -2250,7 +1899,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3327.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3328</number>
@@ -2259,7 +1908,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3328.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3329</number>
@@ -2268,7 +1917,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3329.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3330</number>
@@ -2277,7 +1926,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3330.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3331</number>
@@ -2286,7 +1935,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3331.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3332</number>
@@ -2295,7 +1944,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3332.zip</zipfile_location>
     <zipfile_datetime>20131009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3333</number>
@@ -2304,7 +1953,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3333.zip</zipfile_location>
     <zipfile_datetime>20160713_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-67</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI67</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3334</number>
@@ -2313,7 +1962,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3334.zip</zipfile_location>
     <zipfile_datetime>20160713_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-2</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI02</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3335</number>
@@ -2322,7 +1971,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3335.zip</zipfile_location>
     <zipfile_datetime>20160713_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-3</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI03</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3336</number>
@@ -2331,7 +1980,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3336.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-8</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2016-HI08</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3337</number>
@@ -2340,7 +1989,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3337.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-3</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2015-HI03</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3338</number>
@@ -2349,7 +1998,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3338.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-6</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI06</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3339</number>
@@ -2358,7 +2007,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3339.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-3</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2012-HI03</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3340</number>
@@ -2367,7 +2016,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3340.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-65</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3341</number>
@@ -2376,7 +2025,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3341.zip</zipfile_location>
     <zipfile_datetime>20161117_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-17</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2016-HI17</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3342</number>
@@ -2385,7 +2034,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3342.zip</zipfile_location>
     <zipfile_datetime>20161117_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-17</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2016-HI17</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3343</number>
@@ -2403,7 +2052,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3344.zip</zipfile_location>
     <zipfile_datetime>20160803_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-03T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-9</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI09</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3345</number>
@@ -2412,7 +2061,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3345.zip</zipfile_location>
     <zipfile_datetime>20160803_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-03T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-10</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI10</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3346</number>
@@ -2421,7 +2070,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3346.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3347</number>
@@ -2430,7 +2079,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3347.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3348</number>
@@ -2439,7 +2088,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3348.zip</zipfile_location>
     <zipfile_datetime>20131219_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-24</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3349</number>
@@ -2448,7 +2097,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3349.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3350</number>
@@ -2457,7 +2106,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3350.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3351</number>
@@ -2466,7 +2115,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3351.zip</zipfile_location>
     <zipfile_datetime>20131219_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-25</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3352</number>
@@ -2475,7 +2124,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3352.zip</zipfile_location>
     <zipfile_datetime>20160808_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-15</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2016-HI15</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3353</number>
@@ -2484,7 +2133,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3353.zip</zipfile_location>
     <zipfile_datetime>20160808_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-11</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI11</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3354</number>
@@ -2493,7 +2142,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3354.zip</zipfile_location>
     <zipfile_datetime>20160808_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-66</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI66</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3355</number>
@@ -2502,7 +2151,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3355.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3356</number>
@@ -2511,7 +2160,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3356.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3357</number>
@@ -2520,7 +2169,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3357.zip</zipfile_location>
     <zipfile_datetime>20160808_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-12</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI12</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3358</number>
@@ -2538,16 +2187,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3359.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3360</number>
-    <title>DO ESTIR&#xC3;O CAMBAR&#xC1; FERRADO AO PASSO ABOBRAL (3360)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3360.zip</zipfile_location>
-    <zipfile_datetime>20130104_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3361</number>
@@ -2556,7 +2196,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3361.zip</zipfile_location>
     <zipfile_datetime>20160809_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-16</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2016-HI16</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3362</number>
@@ -2565,16 +2205,16 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3362.zip</zipfile_location>
     <zipfile_datetime>20160809_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-15</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI15</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3363</number>
     <title>DA VOLTA BARROS AO PASSO DE SANTANA OU JATOB&#xC1; (3363)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3363.zip</zipfile_location>
-    <zipfile_datetime>20160808_000000</zipfile_datetime>
+    <zipfile_datetime>20160810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-16</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI16</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3364</number>
@@ -2583,7 +2223,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3364.zip</zipfile_location>
     <zipfile_datetime>20160810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-17</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2014-HI17</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3365</number>
@@ -2592,7 +2232,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3365.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3366</number>
@@ -2601,7 +2241,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3366.zip</zipfile_location>
     <zipfile_datetime>20160815_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3367</number>
@@ -2610,7 +2250,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3367.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3368</number>
@@ -2637,7 +2277,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3370.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3371</number>
@@ -2646,14 +2286,14 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3371.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3372</number>
     <title>DA VOLTA GRANDE A ILHA ESTREITA OU PIMENTEIRA (3372)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3372.zip</zipfile_location>
-    <zipfile_datetime>2016930_000000</zipfile_datetime>
+    <zipfile_datetime>20160930_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-09-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2013-09</ntm_edition_last_correction>
   </chart>
@@ -2662,7 +2302,7 @@
     <title>DA VOLTA DA SARACURA AO ESTIR&#xC3;O DOMINGOS RAMOS (3373)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3373.zip</zipfile_location>
-    <zipfile_datetime>2016930_000000</zipfile_datetime>
+    <zipfile_datetime>20160930_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-09-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2013-10</ntm_edition_last_correction>
   </chart>
@@ -2673,7 +2313,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3374.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3375</number>
@@ -2682,20 +2322,20 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3375.zip</zipfile_location>
     <zipfile_datetime>20151027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3376</number>
     <title>DA BOCA DO CURURU A ILHA DO CASTELO (3376)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3376.zip</zipfile_location>
-    <zipfile_datetime>2016930_000000</zipfile_datetime>
+    <zipfile_datetime>20160930_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-09-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2013-13</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3377</number>
-    <title>DA BA&#xCD;A DO CASTELO AO JATOBAZINHO (3377)</title>
+    <title>DA BA&#xCD;A  DO CASTELO AO JATOBAZINHO (3377)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3377.zip</zipfile_location>
     <zipfile_datetime>20160824_000000</zipfile_datetime>
@@ -2713,7 +2353,7 @@
   </chart>
   <chart>
     <number>3379</number>
-    <title>DA OR&#xC7;ADA LARANJEIRA A ILHA LARANJEIRA (3379)</title>
+    <title>DA OR&#xC7;ADA  LARANJEIRA A ILHA LARANJEIRA (3379)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3379.zip</zipfile_location>
     <zipfile_datetime>20160825_000000</zipfile_datetime>
@@ -2731,7 +2371,7 @@
   </chart>
   <chart>
     <number>3381</number>
-    <title>DA ILHA VERDE AO PASSO PARAGUAI MIRIM (3381)</title>
+    <title>DA ILHA VERDE AO  PASSO PARAGUAI MIRIM (3381)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3381.zip</zipfile_location>
     <zipfile_datetime>20160825_000000</zipfile_datetime>
@@ -2785,7 +2425,7 @@
   </chart>
   <chart>
     <number>3387</number>
-    <title>DA CANCHA RUFINO AO PASSO RUFINO (3387)</title>
+    <title>DA CANCHA  RUFINO AO PASSO RUFINO (3387)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3387.zip</zipfile_location>
     <zipfile_datetime>20160830_000000</zipfile_datetime>
@@ -2821,7 +2461,7 @@
   </chart>
   <chart>
     <number>3391</number>
-    <title>DO AMOLAR &#xC0; BOCA S&#xC3;O GON&#xC7;ALO (3391)</title>
+    <title>DO AMOLAR &#xC0; BOCA  S&#xC3;O GON&#xC7;ALO (3391)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3391.zip</zipfile_location>
     <zipfile_datetime>20160831_000000</zipfile_datetime>
@@ -2925,7 +2565,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3402.zip</zipfile_location>
     <zipfile_datetime>20120411_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-04-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3403</number>
@@ -2934,7 +2574,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3403.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3404</number>
@@ -2952,7 +2592,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3405.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3406</number>
@@ -2961,7 +2601,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3406.zip</zipfile_location>
     <zipfile_datetime>20120411_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-04-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3407</number>
@@ -2979,7 +2619,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3408.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3409</number>
@@ -2988,7 +2628,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3409.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3410</number>
@@ -3006,7 +2646,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3411.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3412</number>
@@ -3015,7 +2655,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3412.zip</zipfile_location>
     <zipfile_datetime>20111022_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2011-10-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3413</number>
@@ -3024,7 +2664,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3413.zip</zipfile_location>
     <zipfile_datetime>20120810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3414</number>
@@ -3033,7 +2673,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3414.zip</zipfile_location>
     <zipfile_datetime>20120810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3415</number>
@@ -3051,7 +2691,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3416.zip</zipfile_location>
     <zipfile_datetime>20120810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3417</number>
@@ -3073,7 +2713,7 @@
   </chart>
   <chart>
     <number>3419</number>
-    <title>DO ESTIR&#xC3;O DO SAPIQU&#xC1; AO ESTIR&#xC3;O DA TAQUAREIRA (3419)</title>
+    <title>DO ESTIR&#xC3;O DO SAPIQU&#xC1; AO ESTIR&#xC3;O DA  TAQUAREIRA (3419)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3419.zip</zipfile_location>
     <zipfile_datetime>20160826_000000</zipfile_datetime>
@@ -3082,7 +2722,7 @@
   </chart>
   <chart>
     <number>3420</number>
-    <title>DO ESTIR&#xC3;O DA TAQUAREIRA A VOLTA DO BUGIO (3420)</title>
+    <title>DO ESTIR&#xC3;O DA  TAQUAREIRA A VOLTA DO BUGIO (3420)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3420.zip</zipfile_location>
     <zipfile_datetime>20160826_000000</zipfile_datetime>
@@ -3127,7 +2767,7 @@
   </chart>
   <chart>
     <number>3425</number>
-    <title>DA BOCA DA PIUVA AO PASSO JATOB&#xC1; (3425)</title>
+    <title>DA BOCA DA  PIUVA AO PASSO JATOB&#xC1; (3425)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3425.zip</zipfile_location>
     <zipfile_datetime>20160826_000000</zipfile_datetime>
@@ -3199,7 +2839,7 @@
   </chart>
   <chart>
     <number>3433</number>
-    <title>DO PASSO DO SOLDADO A FIGUEIRA DO TUCUM (3433)</title>
+    <title>DO PASSO DO SOLDADO  A FIGUEIRA DO TUCUM (3433)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3433.zip</zipfile_location>
     <zipfile_datetime>20170410_000000</zipfile_datetime>
@@ -3234,15 +2874,6 @@
     <ntm_edition_last_correction>2014-62</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>3437</number>
-    <title>DO FURADO DO TUIUIU AO ESTIR&#xC3;O DO ALEGRE (3437)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3437.zip</zipfile_location>
-    <zipfile_datetime>20110908_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2011-09-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>3438</number>
     <title>DA BOCA DO ALEGRE AO PASSO PASSAGEM VELHA (3438)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3258,7 +2889,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3439.zip</zipfile_location>
     <zipfile_datetime>20161125_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3440</number>
@@ -3267,7 +2898,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3440.zip</zipfile_location>
     <zipfile_datetime>20161125_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3441</number>
@@ -3294,7 +2925,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-2</number>
@@ -3303,7 +2934,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-3</number>
@@ -3312,7 +2943,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-4</number>
@@ -3321,7 +2952,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-5</number>
@@ -3330,7 +2961,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-6</number>
@@ -3339,7 +2970,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-7</number>
@@ -3348,7 +2979,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-8</number>
@@ -3357,7 +2988,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-8.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-9</number>
@@ -3366,7 +2997,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-9.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-10</number>
@@ -3375,7 +3006,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-10.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-11</number>
@@ -3384,7 +3015,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-11.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-BB</number>
@@ -3393,7 +3024,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ba-bb.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-1</number>
@@ -3402,7 +3033,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-2</number>
@@ -3411,7 +3042,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-3</number>
@@ -3420,7 +3051,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-4</number>
@@ -3429,7 +3060,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-5</number>
@@ -3438,7 +3069,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-6</number>
@@ -3447,7 +3078,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-7</number>
@@ -3456,7 +3087,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-8</number>
@@ -3465,7 +3096,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-8.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-9</number>
@@ -3474,7 +3105,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-9.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-10</number>
@@ -3483,7 +3114,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-10.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-11</number>
@@ -3492,7 +3123,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-11.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-12</number>
@@ -3501,7 +3132,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-12.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-13</number>
@@ -3510,7 +3141,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-13.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-14</number>
@@ -3519,7 +3150,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-14.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BB-15</number>
@@ -3528,7 +3159,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/bb-15.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>RP-1</number>
@@ -3537,7 +3168,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/rp-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>RP-2</number>
@@ -3546,7 +3177,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/rp-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PB-1</number>
@@ -3555,7 +3186,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pb-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PB-2</number>
@@ -3564,7 +3195,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pb-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PB-3</number>
@@ -3573,7 +3204,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pb-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PB-4</number>
@@ -3582,7 +3213,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pb-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-1</number>
@@ -3591,7 +3222,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-2</number>
@@ -3600,7 +3231,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-3</number>
@@ -3609,7 +3240,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-4</number>
@@ -3618,7 +3249,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-5</number>
@@ -3627,7 +3258,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-6</number>
@@ -3636,7 +3267,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-7</number>
@@ -3645,7 +3276,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-8</number>
@@ -3654,7 +3285,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-8.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-9</number>
@@ -3663,7 +3294,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-9.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-BA</number>
@@ -3672,7 +3303,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ib-ba.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-1</number>
@@ -3681,7 +3312,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-2</number>
@@ -3690,7 +3321,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-3</number>
@@ -3699,7 +3330,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-4</number>
@@ -3708,7 +3339,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-5</number>
@@ -3717,7 +3348,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-6</number>
@@ -3726,7 +3357,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-7</number>
@@ -3735,7 +3366,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>JU-TI</number>
@@ -3744,7 +3375,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ju-ti.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>NA-1</number>
@@ -3753,7 +3384,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/na-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>NA-2</number>
@@ -3762,7 +3393,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/na-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>NA-3</number>
@@ -3771,7 +3402,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/na-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>NA-4</number>
@@ -3780,7 +3411,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/na-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>NA-PR</number>
@@ -3789,7 +3420,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/na-pr.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-1</number>
@@ -3798,7 +3429,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-2</number>
@@ -3807,7 +3438,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-3</number>
@@ -3816,7 +3447,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-4</number>
@@ -3825,7 +3456,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-5</number>
@@ -3834,7 +3465,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-6</number>
@@ -3843,7 +3474,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-7</number>
@@ -3852,7 +3483,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-8</number>
@@ -3861,7 +3492,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-8.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-9</number>
@@ -3870,7 +3501,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-9.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-10</number>
@@ -3879,7 +3510,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-10.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-IB</number>
@@ -3888,7 +3519,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/pr-ib.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-1</number>
@@ -3897,7 +3528,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-2</number>
@@ -3906,7 +3537,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-3</number>
@@ -3915,7 +3546,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-4</number>
@@ -3924,7 +3555,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-5</number>
@@ -3933,7 +3564,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>SJD-6</number>
@@ -3942,7 +3573,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/sjd-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-1</number>
@@ -3951,7 +3582,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-1.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-2</number>
@@ -3960,7 +3591,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-2.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-3</number>
@@ -3969,7 +3600,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-3.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-4</number>
@@ -3978,7 +3609,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-4.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-5</number>
@@ -3987,7 +3618,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-5.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-6</number>
@@ -3996,7 +3627,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-6.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-7</number>
@@ -4005,7 +3636,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-7.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-8</number>
@@ -4014,7 +3645,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-8.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-9</number>
@@ -4023,7 +3654,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-9.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-10</number>
@@ -4032,7 +3663,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-10.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-11</number>
@@ -4041,7 +3672,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-11.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-12</number>
@@ -4050,7 +3681,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-12.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>TI-NA</number>
@@ -4059,7 +3690,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/ti-na.zip</zipfile_location>
     <zipfile_datetime>20130418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4411</number>
@@ -4092,7 +3723,7 @@
     <number>4414</number>
     <title>DA ILHA JACITARA AO LAGO AXIPICA (4414)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4414.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4412.zip</zipfile_location>
     <zipfile_datetime>20160407_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-07T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-73</ntm_edition_last_correction>
@@ -4104,7 +3735,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4415.zip</zipfile_location>
     <zipfile_datetime>20160407_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4416</number>
@@ -4113,7 +3744,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4416.zip</zipfile_location>
     <zipfile_datetime>20160407_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4417</number>
@@ -4122,7 +3753,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4417.zip</zipfile_location>
     <zipfile_datetime>20160407_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4418</number>
@@ -4140,7 +3771,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4361.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4362</number>
@@ -4149,7 +3780,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4362.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4363</number>
@@ -4158,7 +3789,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4363.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4364</number>
@@ -4167,7 +3798,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4364.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4365</number>
@@ -4176,7 +3807,7 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4365.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4366</number>
@@ -4185,6 +3816,6 @@
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4366.zip</zipfile_location>
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>nova edi&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
