@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2017-08-19</date_created>
-    <time_created>13:23:34</time_created>
-    <date_valid>2017-08-19</date_valid>
-    <time_valid>13:23:34</time_valid>
-    <dt_valid>2017-08-19T13:23:34Z</dt_valid>
+    <date_created>2017-08-23</date_created>
+    <time_created>13:32:08</time_created>
+    <date_valid>2017-08-23</date_valid>
+    <time_valid>13:32:08</time_valid>
+    <dt_valid>2017-08-23T13:32:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -453,6 +453,24 @@
     <ntm_edition_last_correction>2010-120</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1405</number>
+    <title>PORTO DE A&#xC7;U (1405)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1405.zip</zipfile_location>
+    <zipfile_datetime>20170817_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-103</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1406</number>
+    <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1406.zip</zipfile_location>
+    <zipfile_datetime>20170817_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-102</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1410</number>
     <title>PROXIMIDADES DOS PORTOS DE VITORIA E TUBAR&#xC3;O (1410)</title>
     <format>Sailing Chart, International Chart</format>
@@ -586,15 +604,6 @@
     <zipfile_datetime>20160412_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-12T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-48</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1623</number>
-    <title>PORTO DE ITAGUA&#xCD; (1623)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1623.zip</zipfile_location>
-    <zipfile_datetime>20161208_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-12-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-143</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1631</number>
@@ -1902,15 +1911,6 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>3328</number>
-    <title>DA ISLA CA&#xC1;-PUC&#xDA;-M&#xCD; A ISLA CARAYACITO (3328)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3328.zip</zipfile_location>
-    <zipfile_datetime>20131009_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>3329</number>
     <title>DE ITACU&#xC1; AO PUERTO RISSO (3329)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2874,13 +2874,22 @@
     <ntm_edition_last_correction>2014-62</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>3437</number>
+    <title>DO FURADO DO TUIUIU AO ESTIR&#xC3;O DO ALEGRE (3437)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3437.zip</zipfile_location>
+    <zipfile_datetime>20170705_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>3438</number>
     <title>DA BOCA DO ALEGRE AO PASSO PASSAGEM VELHA (3438)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3438.zip</zipfile_location>
-    <zipfile_datetime>20160824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-64</ntm_edition_last_correction>
+    <zipfile_datetime>20170706_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3439</number>
@@ -2905,18 +2914,18 @@
     <title>DA CANCHA PIUVAL A BOCA DO CAI&#xC7;ARA (3441)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3441.zip</zipfile_location>
-    <zipfile_datetime>20160824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-68</ntm_edition_last_correction>
+    <zipfile_datetime>20170711_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3442</number>
     <title>DO POSTO AGR&#xCD;COLA A C&#xC1;CERES (3442)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/3442.zip</zipfile_location>
-    <zipfile_datetime>20160824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-55</ntm_edition_last_correction>
+    <zipfile_datetime>20170711_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-1</number>
