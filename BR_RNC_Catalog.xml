@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2017-08-23</date_created>
-    <time_created>13:32:08</time_created>
-    <date_valid>2017-08-23</date_valid>
-    <time_valid>13:32:08</time_valid>
-    <dt_valid>2017-08-23T13:32:08Z</dt_valid>
+    <date_created>2017-09-06</date_created>
+    <time_created>18:03:51</time_created>
+    <date_valid>2017-09-06</date_valid>
+    <time_valid>18:03:51</time_valid>
+    <dt_valid>2017-09-06T18:03:51Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -606,6 +606,15 @@
     <ntm_edition_last_correction>2016-48</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1623</number>
+    <title>PORTO DE ITAGUA&#xCD; (1623)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1623.zip</zipfile_location>
+    <zipfile_datetime>20170825_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-143</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1631</number>
     <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRAL (1631)</title>
     <format>Sailing Chart, International Chart</format>
@@ -717,7 +726,7 @@
     <number>1713</number>
     <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1712.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
@@ -726,7 +735,7 @@
     <number>1713</number>
     <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1712.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
@@ -735,7 +744,7 @@
     <number>1713</number>
     <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1713.zip</zipfile_location>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/1712.zip</zipfile_location>
     <zipfile_datetime>20160714_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
@@ -1209,15 +1218,6 @@
     <ntm_edition_last_correction>2017-98</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>25122</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE MAXWELL (ILHA REI GEORGE) (25122)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/25122.zip</zipfile_location>
-    <zipfile_datetime>20140702_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-07-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-185</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>2791</number>
     <title>LAGO DE BRAS&#xCD;LIA - PARTE CENTRAL (2791)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1398,15 +1398,6 @@
     <ntm_edition_last_correction>2012-79</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>204</number>
-    <title>DAS ILHAS PEDREIRA &#xC0; ILHA DE SANTANA (204)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/204.zip</zipfile_location>
-    <zipfile_datetime>20150330_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-12</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>206</number>
     <title>CANAL DE SANTANA (206)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1459,15 +1450,6 @@
     <zipfile_datetime>20120711_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-07-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2009-83</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>242</number>
-    <title>DA ILHA DOS PORCOS &#xC0; BA&#xCD;A DO VIEIRA GRANDE (242)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/242.zip</zipfile_location>
-    <zipfile_datetime>20160531_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-05-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-183</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>243</number>
@@ -1533,6 +1515,15 @@
     <ntm_edition_last_correction>2010-41</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4103B</number>
+    <title>DA COSTA DO ITUQUI &#xC0; ILHA DO MEIO (4103B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4103B.zip</zipfile_location>
+    <zipfile_datetime>20170824_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-101</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>4104B</number>
     <title>DA ILHA DE SANTA RITA &#xC0; PARINTINS (4104B)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1558,6 +1549,15 @@
     <zipfile_datetime>20120330_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-03-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4381A</number>
+    <title>DE SANTAR&#xC9;M A SURUCU&#xC1; (4381A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4381A.zip</zipfile_location>
+    <zipfile_datetime>20170829_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-101</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4381B</number>
@@ -3826,5 +3826,14 @@
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361A</number>
+    <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>http://www.mar.mil.br/dhn/chm/box-cartas-raster/cartas/4361A.zip</zipfile_location>
+    <zipfile_datetime>20170825_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
