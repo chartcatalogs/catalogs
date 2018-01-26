@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <RncProductCatalogChartCatalogs><Header><title>Argentina RNC Charts</title><date_created>2017-08-20</date_created><time_created>02:09:03</time_created><date_valid>2017-08-20</date_valid><time_valid>02:09:03</time_valid><dt_valid>2017-08-20T02:09:03Z</dt_valid><ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec><ref_spec_vers>1.0</ref_spec_vers><s62AgencyCode>0</s62AgencyCode></Header>
-
+<!--http://www.hidro.gob.ar/cartas/cartasnauticas.asp-->
 <chart><number>H-116</number><title>H-116 - Río de la Plata Medio y Superior.</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.hidro.gob.ar/cartas/BSB/H116.zip</zipfile_location>  <zipfile_datetime>20170820_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-08-20T00:00:00Z</zipfile_datetime_iso8601></chart>
 <chart><number>H-118</number><title>H-118 - Río de la Plata Superior.</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.hidro.gob.ar/cartas/BSB/H118.zip</zipfile_location>  <zipfile_datetime>20170820_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-08-20T00:00:00Z</zipfile_datetime_iso8601></chart>
 <chart><number>H-118</number><title>H-118 - Isla Martín Garcia.</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.hidro.gob.ar/cartas/BSB/H118.zip</zipfile_location>  <zipfile_datetime>20170820_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-08-20T00:00:00Z</zipfile_datetime_iso8601></chart>
