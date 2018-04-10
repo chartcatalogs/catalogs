@@ -728,11 +728,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2018-03-22</date_created>
+    <date_created>2018-04-10</date_created>
     <time_created>13:35:03</time_created>
-    <date_valid>2018-03-22</date_valid>
+    <date_valid>2018-04-10</date_valid>
     <time_valid>13:35:03</time_valid>
-    <dt_valid>2018-03-22T13:35:03Z</dt_valid>
+    <dt_valid>2018-04-10T13:35:03Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1899,15 +1899,6 @@
     <ntm_edition_last_correction>2016-133</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>3351</number>
-    <title>DA ILHA SANTA F&#xC9; AO PASSO REBOJO GRANDE (3351)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3351.zip</zipfile_location>
-    <zipfile_datetime>20131219_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>2102</number>
     <title>DE S&#xC3;O JOS&#xC9; DO NORTE AO CANAL DA SETIA (2102)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2397,19 +2388,19 @@
     <number>3342</number>
     <title>DE FORTE OLIMPO AO PASSO CURU&#xC7;U CANCHA (3342)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3342.zip</zipfile_location>
-    <zipfile_datetime>20161117_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>Em elabora&#xE7;&#xE3;o</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3342_0.zip</zipfile_location>
+    <zipfile_datetime>20180323_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-03-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3343</number>
     <title>DO PASSO CURU&#xC7;U CANCHA &#xC0; ILHA SPENILLO (3343)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3343.zip</zipfile_location>
-    <zipfile_datetime>20131219_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-23</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3343_0.zip</zipfile_location>
+    <zipfile_datetime>20180323_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-03-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3344</number>
@@ -2472,6 +2463,15 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3350.zip</zipfile_location>
     <zipfile_datetime>20130104_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2013-01-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>3351</number>
+    <title>DA ILHA SANTA F&#xC9; AO PASSO REBOJO GRANDE (3351)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3351.zip</zipfile_location>
+    <zipfile_datetime>20131219_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-12-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2550,10 +2550,10 @@
     <number>3361</number>
     <title>DA ILHA DA MANGA &#xC0; ILHA TIRA CATINGA (3361)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3361.zip</zipfile_location>
-    <zipfile_datetime>20160809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-HI16</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3361_0.zip</zipfile_location>
+    <zipfile_datetime>20180404_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-04-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-HI4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3362</number>
@@ -3046,8 +3046,8 @@
     <title>DA BOCA INFERIOR DA BA&#xCD;A BRANCA AO ATERRO DO CARAMUJO (3416)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3416.zip</zipfile_location>
-    <zipfile_datetime>20160810_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20120810_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2012-08-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
