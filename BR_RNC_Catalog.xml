@@ -14,6 +14,61 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'25120_(INT.9126)',
+ 'title': u'ILHAS SHETLAND DO SUL - BA\xcdA REI GEORGE (I. REI GEORGE)',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2013, 12, 4, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'10',
+ 'title': u'COSTA NORDESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 8, 10, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'410',
+ 'title': u'PROXIMIDADES DA BA\xcdA DE S\xc3O MARCOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 8, 10, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'411',
+ 'title': u'BA\xcdA DE S\xc3O MARCOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2016, 9, 23, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'830',
  'title': u'PORTO DE CABEDELO',
  'url': '',
@@ -47,12 +102,23 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1102',
+ 'title': u'PORTO DE SALVADOR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 8, 10, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1110',
  'title': u'BA\xcdA DE TODOS OS SANTOS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 3, 29, 0, 0)}
+ 'zipfile_ts': datetime.datetime(2018, 8, 10, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -64,6 +130,17 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 8, 24, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1501',
+ 'title': u'BA\xcdA DE GUANABARA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 29, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -91,6 +168,17 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1506',
+ 'title': u'PROXIMIDADE DA BA\xcdA DE GUANABARA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 28, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1508',
  'title': u'DO CABO FRIO \xc0 PONTA NEGRA',
  'url': '',
@@ -102,56 +190,45 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1511',
+ 'title': u'BARRA DO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 29, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1512',
+ 'title': u'PORTO DO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2017, 12, 19, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1513',
+ 'title': u'TERMINAIS DA BA\xcdA DE GUANABARA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2017, 2, 21, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1550',
  'title': u'BACIA DE CAMPOS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 12, 8, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1607',
- 'title': u'BA\xcdAS DA ILHA GRANDE E DE SEPETIBA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 5, 21, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1620',
- 'title': u'DA BARRA DO RIO DE JANEIRO \xc0 ILHA GRANDE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 5, 15, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1622',
- 'title': u'BA\xcdA DE SEPETIBA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 5, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1623',
- 'title': u'PORTO DE ITAGUA\xcd',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 5, 21, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -212,6 +289,28 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'2110',
+ 'title': u'PROXIMIDADES DO PORTO DE RIO GRANDE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 6, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'19002_(INT.22)',
+ 'title': u'DA AM\xc9RICA DO SUL \xc0 \xc1FRICA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2017, 6, 20, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'21010_(INT.4071)',
  'title': u'DE CAYENNE AO CABO GURUPI',
  'url': '',
@@ -223,19 +322,8 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'21050_(INT.2006)',
- 'title': u'DO RIO ITARIRI AO ARQUIP\xc9LAGO DOS ABROLHOS',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 2, 16, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'21060_(INT.2007)',
- 'title': u'DO ARQUIP\xc9LAGO DOS ABROLHOS AO CABO FRIO',
+ 'number': u'21020_(INT.2003)',
+ 'title': u'DE SALIN\xd3POLIS A FORTALEZA',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -245,12 +333,12 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'21070_(INT.2008)',
- 'title': u'DO CABO FRIO AO CABO DE SANTA MARTA GRANDE',
+ 'number': u'21050_(INT.2006)',
+ 'title': u'DO RIO ITARIRI AO ARQUIP\xc9LAGO DOS ABROLHOS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 5, 17, 0, 0)}
+ 'zipfile_ts': datetime.datetime(2017, 2, 16, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -278,12 +366,34 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21600_(INT.2109)',
+ 'title': u'DA ILHA MAIA\xda \xc0 TUT\xd3IA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 12, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'21700_(INT.2110)',
  'title': u'DE TUT\xd3IA \xc0 PONTA DOS PATOS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 2, 17, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'23100_(INT.2124)',
+ 'title': u'DO RIO DE JANEIRO \xc0 SANTOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 5, 22, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -306,6 +416,17 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 2, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -387,6 +508,28 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'302',
  'title': u'DE SALIN\xd3POLIS AO CANAL DO ESPADARTE',
@@ -416,28 +559,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 9, 25, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
- 'title': '',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
- 'title': '',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -508,6 +629,259 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-A8',
+ 'title': u'MANAUS - COAR\xcd',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-B1',
+ 'title': u'COAR\xcd - TEF\xc9',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-B5',
+ 'title': u'COAR\xcd - TEF\xc9',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-B6',
+ 'title': u'COAR\xcd - TEF\xc9',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C1',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C2',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C3',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C4',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C5',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C6',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C7',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C9',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C13',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C14',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-C15',
+ 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D1',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D2',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D3',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D4',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D5',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'HS-D6',
+ 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'title': '',
@@ -549,62 +923,63 @@
  'zipfile_size': 0,
  'zipfile_ts': None}
 -->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
- 'title': '',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'25120_(INT.9126)',
- 'title': u'ILHAS SHETLAND DO SUL - BA\xcdA REI GEORGE (I. REI GEORGE)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2013, 12, 4, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
- 'title': '',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
- 'title': '',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2018-07-23</date_created>
-    <time_created>14:36:41</time_created>
-    <date_valid>2018-07-23</date_valid>
-    <time_valid>14:36:41</time_valid>
-    <dt_valid>2018-07-23T14:36:41Z</dt_valid>
+    <date_created>2018-08-29</date_created>
+    <time_created>19:55:40</time_created>
+    <date_valid>2018-08-29</date_valid>
+    <time_valid>19:55:40</time_valid>
+    <dt_valid>2018-08-29T19:55:40Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
+  <chart>
+    <number>25110_(INT.9150)</number>
+    <title>ILHA ELEFANTE E PROXIMIDADES (25110_(INT.9150))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25110.zip</zipfile_location>
+    <zipfile_datetime>20131204_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2013-44</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>25115</number>
+    <title>ILHAS SHETLAND DO SUL - ILHA ELEFANTE (25115)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25115.zip</zipfile_location>
+    <zipfile_datetime>20090721_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2009-07-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2009-46</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>25119_(INT.9127)</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE SERRATT (I. REI GEORGE) (25119_(INT.9127))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25119.zip</zipfile_location>
+    <zipfile_datetime>20131204_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>25121</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DO ALMIRANTADO (ILHA REI GEORGE) (25121)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25121.zip</zipfile_location>
+    <zipfile_datetime>20170719_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-07-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-98</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>25122</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE MAXWELL (ILHA REI GEORGE) (25122)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25122.zip</zipfile_location>
+    <zipfile_datetime>20171024_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-10-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-109</ntm_edition_last_correction>
+  </chart>
   <chart>
     <number>1</number>
     <title>COSTA E ILHAS AO LARGO (1)</title>
@@ -622,15 +997,6 @@
     <zipfile_datetime>20150216_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-02-16T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2014-13</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>10</number>
-    <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/10.zip</zipfile_location>
-    <zipfile_datetime>20170601_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-06-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-55</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>11</number>
@@ -694,24 +1060,6 @@
     <zipfile_datetime>20170607_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-07T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2014-152</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>410</number>
-    <title>PROXIMIDADES DA BA&#xCD;A DE S&#xC3;O MARCOS (410)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/410.zip</zipfile_location>
-    <zipfile_datetime>20180612_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-65</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>411</number>
-    <title>BA&#xCD;A DE S&#xC3;O MARCOS (411)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/411.zip</zipfile_location>
-    <zipfile_datetime>20160923_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-104</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>412</number>
@@ -885,15 +1233,6 @@
     <ntm_edition_last_correction>2009-181</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1102</number>
-    <title>PORTO DE SALVADOR (1102)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1102.zip</zipfile_location>
-    <zipfile_datetime>20170622_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-06-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-81</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1104</number>
     <title>BA&#xCD;A DE TODOS OS SANTOS PARTE NORDESTE (1104)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1056,15 +1395,6 @@
     <ntm_edition_last_correction>2018-16</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1501</number>
-    <title>BA&#xCD;A DE GUANABARA (1501)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1501_0.zip</zipfile_location>
-    <zipfile_datetime>20180629_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-41</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1503</number>
     <title>ENSEADA DO CABO FRIO (1503)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1074,15 +1404,6 @@
     <ntm_edition_last_correction>2017-47</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1506</number>
-    <title>PROXIMIDADE DA BA&#xCD;A DE GUANABARA (1506)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1506.zip</zipfile_location>
-    <zipfile_datetime>20180628_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-71</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1507</number>
     <title>ENSEADA DE MACAE E PROXIMIDADES (1507)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1090,33 +1411,6 @@
     <zipfile_datetime>20170614_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-70</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1511</number>
-    <title>BARRA DO RIO DE JANEIRO (1511)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1511_0.zip</zipfile_location>
-    <zipfile_datetime>20180629_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-157</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1512</number>
-    <title>PORTO DO RIO DE JANEIRO (1512)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512.zip</zipfile_location>
-    <zipfile_datetime>20171219_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-157</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1513</number>
-    <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1513.zip</zipfile_location>
-    <zipfile_datetime>20170221_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-02-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-31</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1515</number>
@@ -1137,6 +1431,24 @@
     <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1607</number>
+    <title>BA&#xCD;AS DA ILHA GRANDE E DE SEPETIBA (1607)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1607.zip</zipfile_location>
+    <zipfile_datetime>20180802_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-93</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1620</number>
+    <title>DA BARRA DO RIO DE JANEIRO &#xC0; ILHA GRANDE (1620)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1620.zip</zipfile_location>
+    <zipfile_datetime>20180802_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-93</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1621</number>
     <title>BA&#xCD;A DA ILHA GRANDE - PARTE LESTE (TERMINAL DA ILHA GUA&#xCD;BA) (1621)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1144,6 +1456,24 @@
     <zipfile_datetime>20180522_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-05-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-15</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1622</number>
+    <title>BA&#xCD;A DE SEPETIBA (1622)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1622.zip</zipfile_location>
+    <zipfile_datetime>20180802_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-93</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1623</number>
+    <title>PORTO DE ITAGUA&#xCD; (1623)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1623.zip</zipfile_location>
+    <zipfile_datetime>20180802_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1631</number>
@@ -1353,15 +1683,6 @@
     <ntm_edition_last_correction>2010-121</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>2110</number>
-    <title>PROXIMIDADES DO PORTO DE RIO GRANDE (2110)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2110.zip</zipfile_location>
-    <zipfile_datetime>20180606_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-69</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>22500_(INT.2118)</number>
     <title>DE SALVADOR A BARRA DO POXIM (22500_(INT.2118))</title>
     <format>Sailing Chart, International Chart</format>
@@ -1380,15 +1701,6 @@
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>19002_(INT.22)</number>
-    <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19002.zip</zipfile_location>
-    <zipfile_datetime>20170620_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-06-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>19400_(INT.215)</number>
     <title>DO RECIFE A DACAR (19400_(INT.215))</title>
     <format>Sailing Chart, International Chart</format>
@@ -1396,15 +1708,6 @@
     <zipfile_datetime>20170125_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-01-25T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-103</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21020_(INT.2003)</number>
-    <title>DE SALIN&#xD3;POLIS A FORTALEZA (21020_(INT.2003))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21020.zip</zipfile_location>
-    <zipfile_datetime>20180628_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-71</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21030_(INT.2004)</number>
@@ -1423,6 +1726,24 @@
     <zipfile_datetime>20161128_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-28T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-135</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21060_(INT.2007)</number>
+    <title>DO ARQUIP&#xC9;LAGO DOS ABROLHOS AO CABO FRIO (21060_(INT.2007))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21060.zip</zipfile_location>
+    <zipfile_datetime>20180806_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-94</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21070_(INT.2008)</number>
+    <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070.zip</zipfile_location>
+    <zipfile_datetime>20180802_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21080_(INT.2009)</number>
@@ -1459,15 +1780,6 @@
     <zipfile_datetime>20180608_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-06-08T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-48</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21600_(INT.2109)</number>
-    <title>DA ILHA MAIA&#xDA; &#xC0; TUT&#xD3;IA (21600_(INT.2109))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21600.zip</zipfile_location>
-    <zipfile_datetime>20180612_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21800_(INT.2111)</number>
@@ -1578,15 +1890,6 @@
     <ntm_edition_last_correction>2018-71</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23100_(INT.2124)</number>
-    <title>DO RIO DE JANEIRO &#xC0; SANTOS (23100_(INT.2124))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23100_0.zip</zipfile_location>
-    <zipfile_datetime>20180522_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-41</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>23400_(INT.2127)</number>
     <title>DE IMBITUBA A PINHAL (23400_(INT.2127))</title>
     <format>Sailing Chart, International Chart</format>
@@ -1614,22 +1917,130 @@
     <ntm_edition_last_correction>2018-69</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>111</number>
-    <title>BA&#xCD;A DO OIAPOQUE &#xC0;S ILHAS TAPARAB&#xD4; (111)</title>
+    <number>2102</number>
+    <title>DE S&#xC3;O JOS&#xC9; DO NORTE AO CANAL DA SETIA (2102)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/111.zip</zipfile_location>
-    <zipfile_datetime>20160608_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-06-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-71</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2102.zip</zipfile_location>
+    <zipfile_datetime>20150515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-25</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>112</number>
-    <title>DAS ILHAS TAPARAB&#xD4; &#xC0; CLEVEL&#xC2;NDIA DO NORTE (112)</title>
+    <number>2103</number>
+    <title>DA BARRA DO CANAL S&#xC3;O GON&#xC7;ALO AS PORTEIRAS (2103)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/112.zip</zipfile_location>
-    <zipfile_datetime>20160609_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-06-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-72</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2103.zip</zipfile_location>
+    <zipfile_datetime>20090518_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2104</number>
+    <title>CANAL S&#xC3;O GON&#xC7;ALO DA BARRA A PELOTAS (2104)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2104.zip</zipfile_location>
+    <zipfile_datetime>20130919_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-09-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2010-26</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2105</number>
+    <title>CANAL DA FEITORIA E PROXIMIDADES (2105)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2105.zip</zipfile_location>
+    <zipfile_datetime>20090518_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2106</number>
+    <title>SACO DO RINC&#xC3;O E PROXIMIDADES (2106)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2106.zip</zipfile_location>
+    <zipfile_datetime>20120817_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2012-08-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2107</number>
+    <title>BARRA DO RIO GUA&#xCD;BA (2107)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2107.zip</zipfile_location>
+    <zipfile_datetime>20090518_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2108</number>
+    <title>DE ITAPU&#xC3; &#xC0; PONTA DO ARADO VELHO (2108)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2108.zip</zipfile_location>
+    <zipfile_datetime>20070529_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2007-05-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2005-27</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2109</number>
+    <title>DA PONTA GROSSA A PORTO ALEGRE (2109)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2109.zip</zipfile_location>
+    <zipfile_datetime>20161130_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-11-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-36</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2111</number>
+    <title>DE ITAPU&#xC3; A PORTO ALEGRE (2111)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2111.zip</zipfile_location>
+    <zipfile_datetime>20130819_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-08-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2011-183</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2112</number>
+    <title>DE RIO GRANDE A FEITORIA (2112)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2112.zip</zipfile_location>
+    <zipfile_datetime>20180612_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-06-12T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-69</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2113</number>
+    <title>DE PORTO ALEGRE AO TERMINAL SANTA CLARA (2113)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2113.zip</zipfile_location>
+    <zipfile_datetime>20131106_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-11-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-108</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2140</number>
+    <title>LAGOA DOS PATOS (2140)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2140.zip</zipfile_location>
+    <zipfile_datetime>20140702_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2014-07-02T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2013-12</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2791</number>
+    <title>LAGO DE BRAS&#xCD;LIA - PARTE CENTRAL (2791)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2791.zip</zipfile_location>
+    <zipfile_datetime>20150515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2014-161</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2792</number>
+    <title>LAGO DE BRAS&#xCD;LIA (2792)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2792.zip</zipfile_location>
+    <zipfile_datetime>20150315_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2014-161</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>202</number>
@@ -1830,6 +2241,69 @@
     <ntm_edition_last_correction>2017-101</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4203</number>
+    <title>DA FAZENDA CAI&#xC7;ARA A ARAPIRANGA (4203)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4203.zip</zipfile_location>
+    <zipfile_datetime>20120330_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2012-03-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4211</number>
+    <title>DA FOZ DO RIO JARI A VIDA NOVA (4211)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4211_0.zip</zipfile_location>
+    <zipfile_datetime>20180115_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-01-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4212</number>
+    <title>DE JARIL&#xC2;NDIA &#xC0; ILHA SAUDADE (4212)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4212_0.zip</zipfile_location>
+    <zipfile_datetime>20180105_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4213</number>
+    <title>DA ILHA CAROLINA &#xC0; ILHA XAVIER (4213)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4213.zip</zipfile_location>
+    <zipfile_datetime>20180105_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4214</number>
+    <title>DA ILHA XAVIER &#xC0; ILHA XINGUI (4214)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4214.zip</zipfile_location>
+    <zipfile_datetime>20180105_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>111</number>
+    <title>BA&#xCD;A DO OIAPOQUE &#xC0;S ILHAS TAPARAB&#xD4; (111)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/111.zip</zipfile_location>
+    <zipfile_datetime>20160608_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-06-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-71</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>112</number>
+    <title>DAS ILHAS TAPARAB&#xD4; &#xC0; CLEVEL&#xC2;NDIA DO NORTE (112)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/112.zip</zipfile_location>
+    <zipfile_datetime>20160609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-72</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>304</number>
     <title>DE MOSQUEIRO &#xC0; ABAETETUBA (304)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1864,132 +2338,6 @@
     <zipfile_datetime>20161128_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-28T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-133</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2102</number>
-    <title>DE S&#xC3;O JOS&#xC9; DO NORTE AO CANAL DA SETIA (2102)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2102.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-25</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2103</number>
-    <title>DA BARRA DO CANAL S&#xC3;O GON&#xC7;ALO AS PORTEIRAS (2103)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2103.zip</zipfile_location>
-    <zipfile_datetime>20090518_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2104</number>
-    <title>CANAL S&#xC3;O GON&#xC7;ALO DA BARRA A PELOTAS (2104)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2104.zip</zipfile_location>
-    <zipfile_datetime>20130919_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-09-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2010-26</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2105</number>
-    <title>CANAL DA FEITORIA E PROXIMIDADES (2105)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2105.zip</zipfile_location>
-    <zipfile_datetime>20090518_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2106</number>
-    <title>SACO DO RINC&#xC3;O E PROXIMIDADES (2106)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2106.zip</zipfile_location>
-    <zipfile_datetime>20120817_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2012-08-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2107</number>
-    <title>BARRA DO RIO GUA&#xCD;BA (2107)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2107.zip</zipfile_location>
-    <zipfile_datetime>20090518_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-05-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-90</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2108</number>
-    <title>DE ITAPU&#xC3; &#xC0; PONTA DO ARADO VELHO (2108)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2108.zip</zipfile_location>
-    <zipfile_datetime>20070529_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2007-05-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2005-27</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2109</number>
-    <title>DA PONTA GROSSA A PORTO ALEGRE (2109)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2109.zip</zipfile_location>
-    <zipfile_datetime>20161130_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-36</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2111</number>
-    <title>DE ITAPU&#xC3; A PORTO ALEGRE (2111)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2111.zip</zipfile_location>
-    <zipfile_datetime>20130819_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-08-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2011-183</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2112</number>
-    <title>DE RIO GRANDE A FEITORIA (2112)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2112.zip</zipfile_location>
-    <zipfile_datetime>20180612_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-12T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-69</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2113</number>
-    <title>DE PORTO ALEGRE AO TERMINAL SANTA CLARA (2113)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2113.zip</zipfile_location>
-    <zipfile_datetime>20131106_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-11-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2012-108</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2140</number>
-    <title>LAGOA DOS PATOS (2140)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2140.zip</zipfile_location>
-    <zipfile_datetime>20140702_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2014-07-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-12</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2791</number>
-    <title>LAGO DE BRAS&#xCD;LIA - PARTE CENTRAL (2791)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2791.zip</zipfile_location>
-    <zipfile_datetime>20150515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-161</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>2792</number>
-    <title>LAGO DE BRAS&#xCD;LIA (2792)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2792.zip</zipfile_location>
-    <zipfile_datetime>20150315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-161</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3300</number>
@@ -3243,48 +3591,1065 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4203</number>
-    <title>DA FAZENDA CAI&#xC7;ARA A ARAPIRANGA (4203)</title>
+    <number>HS-A1</number>
+    <title>MANAUS - COAR&#xCD; (HS-A1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4203.zip</zipfile_location>
-    <zipfile_datetime>20120330_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2012-03-30T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa1.zip</zipfile_location>
+    <zipfile_datetime>20180710_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-84</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A2</number>
+    <title>MANAUS - COAR&#xCD; (HS-A2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa2_0.zip</zipfile_location>
+    <zipfile_datetime>20180814_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4211</number>
-    <title>DA FOZ DO RIO JARI A VIDA NOVA (4211)</title>
+    <number>HS-A3</number>
+    <title>MANAUS - COAR&#xCD; (HS-A3)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4211_0.zip</zipfile_location>
-    <zipfile_datetime>20180115_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-15T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa3.zip</zipfile_location>
+    <zipfile_datetime>20180814_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4212</number>
-    <title>DE JARIL&#xC2;NDIA &#xC0; ILHA SAUDADE (4212)</title>
+    <number>HS-A4</number>
+    <title>MANAUS - COAR&#xCD; (HS-A4)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4212_0.zip</zipfile_location>
-    <zipfile_datetime>20180105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa2.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2004-76</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A5</number>
+    <title>MANAUS - COAR&#xCD; (HS-A5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa5.zip</zipfile_location>
+    <zipfile_datetime>20180710_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4213</number>
-    <title>DA ILHA CAROLINA &#xC0; ILHA XAVIER (4213)</title>
+    <number>HS-A6</number>
+    <title>MANAUS - COAR&#xCD; (HS-A6)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4213.zip</zipfile_location>
-    <zipfile_datetime>20180105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa6.zip</zipfile_location>
+    <zipfile_datetime>20180710_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4214</number>
-    <title>DA ILHA XAVIER &#xC0; ILHA XINGUI (4214)</title>
+    <number>HS-A7</number>
+    <title>MANAUS - COAR&#xCD; (HS-A7)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4214.zip</zipfile_location>
-    <zipfile_datetime>20180105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa7.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A9</number>
+    <title>MANAUS - COAR&#xCD; (HS-A9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa9.zip</zipfile_location>
+    <zipfile_datetime>20180711_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A10</number>
+    <title>MANAUS - COAR&#xCD; (HS-A10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa10.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A11</number>
+    <title>MANAUS - COAR&#xCD; (HS-A11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa11.zip</zipfile_location>
+    <zipfile_datetime>20180713_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A12</number>
+    <title>MANAUS - COAR&#xCD; (HS-A12)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa12.zip</zipfile_location>
+    <zipfile_datetime>20180714_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A13</number>
+    <title>MANAUS - COAR&#xCD; (HS-A13)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa13.zip</zipfile_location>
+    <zipfile_datetime>20180714_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-A14</number>
+    <title>MANAUS - COAR&#xCD; (HS-A14)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa14.zip</zipfile_location>
+    <zipfile_datetime>20180814_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-B2</number>
+    <title>COAR&#xCD; - TEF&#xC9; (HS-B2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsb2.zip</zipfile_location>
+    <zipfile_datetime>20180714_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-B3</number>
+    <title>COAR&#xCD; - TEF&#xC9; (HS-B3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsb3.zip</zipfile_location>
+    <zipfile_datetime>20180828_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-B4</number>
+    <title>COAR&#xCD; - TEF&#xC9; (HS-B4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsb4.zip</zipfile_location>
+    <zipfile_datetime>20180822_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C8</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc8.zip</zipfile_location>
+    <zipfile_datetime>20180725_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C10</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc10.zip</zipfile_location>
+    <zipfile_datetime>20180725_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C11</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc11.zip</zipfile_location>
+    <zipfile_datetime>20180725_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C12</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C12)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc12.zip</zipfile_location>
+    <zipfile_datetime>20180726_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D7</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd7.zip</zipfile_location>
+    <zipfile_datetime>20180731_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-31T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D8</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd8.zip</zipfile_location>
+    <zipfile_datetime>20180730_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D9</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd9.zip</zipfile_location>
+    <zipfile_datetime>20180730_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D10</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd10.zip</zipfile_location>
+    <zipfile_datetime>20180730_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D11</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd11.zip</zipfile_location>
+    <zipfile_datetime>20180728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D12</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D12)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd12.zip</zipfile_location>
+    <zipfile_datetime>20180728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2013-90</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4381A</number>
+    <title>DE SANTAR&#xC9;M A SURUCU&#xC1; (4381A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4381a.zip</zipfile_location>
+    <zipfile_datetime>20170829_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-08-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-101</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4381B</number>
+    <title>DE SURUCU&#xC1; A AVEIRO (4381B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4381b.zip</zipfile_location>
+    <zipfile_datetime>20130917_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-09-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4382A</number>
+    <title>DE AVEIRO &#xC0;S ILHAS DO PRADO (4382A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4382a.zip</zipfile_location>
+    <zipfile_datetime>20160726_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-07-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4382B</number>
+    <title>DAS ILHAS DO PRADO &#xC0; ITAITUBA (4382B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4382b.zip</zipfile_location>
+    <zipfile_datetime>20160726_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-07-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-77</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4383</number>
+    <title>DE ITAITUBA &#xC0; S&#xC3;O LU&#xCD;S DO TAPAJ&#xD3;S (4383)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4383.zip</zipfile_location>
+    <zipfile_datetime>20170111_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-01-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-166</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>NA-1</number>
+    <title>NOVA AVANHANDAVA (NA-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-7</number>
+    <title>JUPI&#xC1; (JU-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-5</number>
+    <title>JUPI&#xC1; (JU-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-3</number>
+    <title>JUPI&#xC1; (JU-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-BA</number>
+    <title>IBITINGA - BARIRI (IB-BA)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-ba.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-9</number>
+    <title>IBITINGA (IB-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-9_0.zip</zipfile_location>
+    <zipfile_datetime>20161017_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-10-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-8</number>
+    <title>IBITINGA (IB-8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-8.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-6</number>
+    <title>IBITINGA (IB-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-5</number>
+    <title>IBITINGA (IB-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-4</number>
+    <title>IBITINGA (IB-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-3</number>
+    <title>IBITINGA (IB-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-2</number>
+    <title>IBITINGA (IB-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-1</number>
+    <title>IBITINGA (IB-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PB-4</number>
+    <title>CANAL PEREIRA BARRETO (PB-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PB-3</number>
+    <title>CANAL PEREIRA BARRETO (PB-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PB-2</number>
+    <title>CANAL PEREIRA BARRETO (PB-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PB-1</number>
+    <title>CANAL PEREIRA BARRETO (PB-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>RP-2</number>
+    <title>RIO PIRACICABA (RP-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/rp-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>RP-1</number>
+    <title>RIO PIRACICABA (RP-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/rp-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-15</number>
+    <title>BARRA BONITA (BB-15)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-15.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-14</number>
+    <title>BARRA BONITA (BB-14)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-14.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-13</number>
+    <title>BARRA BONITA (BB-13)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-13.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-12</number>
+    <title>BARRA BONITA (BB-12)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-12.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-11</number>
+    <title>BARRA BONITA (BB-11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-11.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-10</number>
+    <title>BARRA BONITA (BB-10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-10.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-9</number>
+    <title>BARRA BONITA (BB-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-9.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-8</number>
+    <title>BARRA BONITA (BB-8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-8.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-7</number>
+    <title>BARRA BONITA (BB-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-6</number>
+    <title>BARRA BONITA (BB-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-5</number>
+    <title>BARRA BONITA (BB-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-4</number>
+    <title>BARRA BONITA (BB-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-3</number>
+    <title>BARRA BONITA (BB-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-2</number>
+    <title>BARRA BONITA (BB-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BB-1</number>
+    <title>BARRA BONITA (BB-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-BB</number>
+    <title>BARIRI - BARRA BONITA (BA-BB)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-bb.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-11</number>
+    <title>BARIRI (BA-11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-11.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-10</number>
+    <title>BARIRI (BA-10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-10.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-9</number>
+    <title>BARIRI (BA-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-9_0.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-8</number>
+    <title>BARIRI (BA-8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-8.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-7</number>
+    <title>BARIRI (BA-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-6</number>
+    <title>BARIRI (BA-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-5</number>
+    <title>BARIRI (BA-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-4</number>
+    <title>BARIRI (BA-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-3</number>
+    <title>BARIRI (BA-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-IB</number>
+    <title>PROMISS&#xC3;O - IBITINGA (PR-IB)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-ib.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-1</number>
+    <title>BARIRI (BA-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>BA-2</number>
+    <title>BARIRI (BA-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-9</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-9.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-2</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-11</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-11.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-4</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-NA</number>
+    <title>TR&#xCA;S IRM&#xC3;OS - NOVA AVANHANDAVA (TI-NA)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-na.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-6</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-7</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-2</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-4</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-6</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-8</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-8.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-10</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti10.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-12</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-12)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-12.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-9</number>
+    <title>PROMISS&#xC3;O (PR-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-9.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-5</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-7</number>
+    <title>PROMISS&#xC3;O (PR-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-3</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-5</number>
+    <title>PROMISS&#xC3;O (PR-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>TI-1</number>
+    <title>TR&#xCA;S IRM&#xC3;OS (TI-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-3</number>
+    <title>PROMISS&#xC3;O (PR-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-5</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-5.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-1</number>
+    <title>PROMISS&#xC3;O (PR-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-3</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>NA-4</number>
+    <title>NOVA AVANHANDAVA (NA-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>SJD-1</number>
+    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>NA-2</number>
+    <title>NOVA AVANHANDAVA (NA-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-10</number>
+    <title>PROMISS&#xC3;O (PR-10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-10.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-TI</number>
+    <title>JUPI&#xC1; - TR&#xCA;S IRM&#xC3;OS (JU-TI)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-ti.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-8</number>
+    <title>PROMISS&#xC3;O (PR-8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-8.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-6</number>
+    <title>JUPI&#xC1; (JU-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-6</number>
+    <title>PROMISS&#xC3;O (PR-6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-6.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-4</number>
+    <title>JUPI&#xC1; (JU-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-4</number>
+    <title>PROMISS&#xC3;O (PR-4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-4.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-2</number>
+    <title>JUPI&#xC1; (JU-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>JU-1</number>
+    <title>JUPI&#xC1; (JU-1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-1.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>PR-2</number>
+    <title>PROMISS&#xC3;O (PR-2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-2.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-9</number>
+    <title>IBITINGA (IB-9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-9.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>NA-PR</number>
+    <title>NOVA AVANHANDAVA - PROMISS&#xC3;O (NA-PR)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-pr.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>IB-7</number>
+    <title>IBITINGA (IB-7)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-7.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>NA-3</number>
+    <title>NOVA AVANHANDAVA (NA-3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-3.zip</zipfile_location>
+    <zipfile_datetime>20130418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3331,51 +4696,6 @@
     <zipfile_datetime>20140827_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2014-08-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4381A</number>
-    <title>DE SANTAR&#xC9;M A SURUCU&#xC1; (4381A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4381a.zip</zipfile_location>
-    <zipfile_datetime>20170829_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-08-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-101</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4381B</number>
-    <title>DE SURUCU&#xC1; A AVEIRO (4381B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4381b.zip</zipfile_location>
-    <zipfile_datetime>20130917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-09-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4382A</number>
-    <title>DE AVEIRO &#xC0;S ILHAS DO PRADO (4382A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4382a.zip</zipfile_location>
-    <zipfile_datetime>20160726_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2008-147</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4382B</number>
-    <title>DAS ILHAS DO PRADO &#xC0; ITAITUBA (4382B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4382b.zip</zipfile_location>
-    <zipfile_datetime>20160726_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-07-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-77</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4383</number>
-    <title>DE ITAITUBA &#xC0; S&#xC3;O LU&#xCD;S DO TAPAJ&#xD3;S (4383)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4383.zip</zipfile_location>
-    <zipfile_datetime>20170111_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-01-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2016-166</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4411</number>
@@ -3448,834 +4768,6 @@
     <zipfile_datetime>20160407_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-04-07T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2012-137</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>25110_(INT.9150)</number>
-    <title>ILHA ELEFANTE E PROXIMIDADES (25110_(INT.9150))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25110.zip</zipfile_location>
-    <zipfile_datetime>20131204_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2013-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>25115</number>
-    <title>ILHAS SHETLAND DO SUL - ILHA ELEFANTE (25115)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25115.zip</zipfile_location>
-    <zipfile_datetime>20090721_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-07-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-46</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>25119_(INT.9127)</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE SERRATT (I. REI GEORGE) (25119_(INT.9127))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25119.zip</zipfile_location>
-    <zipfile_datetime>20131204_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-12-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>25121</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DO ALMIRANTADO (ILHA REI GEORGE) (25121)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25121.zip</zipfile_location>
-    <zipfile_datetime>20170719_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-07-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-98</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>25122</number>
-    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DE MAXWELL (ILHA REI GEORGE) (25122)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25122.zip</zipfile_location>
-    <zipfile_datetime>20171024_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-10-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-109</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-9</number>
-    <title>PROMISS&#xC3;O (PR-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-9.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-2</number>
-    <title>BARIRI (BA-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-3</number>
-    <title>BARIRI (BA-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-4</number>
-    <title>BARIRI (BA-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-5</number>
-    <title>BARIRI (BA-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-6</number>
-    <title>BARIRI (BA-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-7</number>
-    <title>BARIRI (BA-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-8</number>
-    <title>BARIRI (BA-8)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-8.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-9</number>
-    <title>BARIRI (BA-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-9_0.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-10</number>
-    <title>BARIRI (BA-10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-10.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-11</number>
-    <title>BARIRI (BA-11)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-11.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-BB</number>
-    <title>BARIRI - BARRA BONITA (BA-BB)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-bb.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-1</number>
-    <title>BARRA BONITA (BB-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-2</number>
-    <title>BARRA BONITA (BB-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-3</number>
-    <title>BARRA BONITA (BB-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-4</number>
-    <title>BARRA BONITA (BB-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-5</number>
-    <title>BARRA BONITA (BB-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-6</number>
-    <title>BARRA BONITA (BB-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-7</number>
-    <title>BARRA BONITA (BB-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-8</number>
-    <title>BARRA BONITA (BB-8)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-8.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-9</number>
-    <title>BARRA BONITA (BB-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-9.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-10</number>
-    <title>BARRA BONITA (BB-10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-10.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-11</number>
-    <title>BARRA BONITA (BB-11)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-11.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-12</number>
-    <title>BARRA BONITA (BB-12)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-12.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-13</number>
-    <title>BARRA BONITA (BB-13)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-13.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-14</number>
-    <title>BARRA BONITA (BB-14)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-14.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BB-15</number>
-    <title>BARRA BONITA (BB-15)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/bb-15.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>RP-1</number>
-    <title>RIO PIRACICABA (RP-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/rp-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>RP-2</number>
-    <title>RIO PIRACICABA (RP-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/rp-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PB-1</number>
-    <title>CANAL PEREIRA BARRETO (PB-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PB-2</number>
-    <title>CANAL PEREIRA BARRETO (PB-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PB-3</number>
-    <title>CANAL PEREIRA BARRETO (PB-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PB-4</number>
-    <title>CANAL PEREIRA BARRETO (PB-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pb-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-1</number>
-    <title>IBITINGA (IB-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-2</number>
-    <title>IBITINGA (IB-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-3</number>
-    <title>IBITINGA (IB-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-4</number>
-    <title>IBITINGA (IB-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-5</number>
-    <title>IBITINGA (IB-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-6</number>
-    <title>IBITINGA (IB-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-8</number>
-    <title>IBITINGA (IB-8)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-8.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-9</number>
-    <title>IBITINGA (IB-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-9_0.zip</zipfile_location>
-    <zipfile_datetime>20161017_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-10-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-BA</number>
-    <title>IBITINGA - BARIRI (IB-BA)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-ba.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-3</number>
-    <title>JUPI&#xC1; (JU-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-5</number>
-    <title>JUPI&#xC1; (JU-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-7</number>
-    <title>JUPI&#xC1; (JU-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>NA-1</number>
-    <title>NOVA AVANHANDAVA (NA-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>NA-3</number>
-    <title>NOVA AVANHANDAVA (NA-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-7</number>
-    <title>IBITINGA (IB-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>NA-PR</number>
-    <title>NOVA AVANHANDAVA - PROMISS&#xC3;O (NA-PR)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-pr.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>IB-9</number>
-    <title>IBITINGA (IB-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-9.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-2</number>
-    <title>PROMISS&#xC3;O (PR-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-1</number>
-    <title>JUPI&#xC1; (JU-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-2</number>
-    <title>JUPI&#xC1; (JU-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-4</number>
-    <title>PROMISS&#xC3;O (PR-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-4</number>
-    <title>JUPI&#xC1; (JU-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-6</number>
-    <title>PROMISS&#xC3;O (PR-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-6</number>
-    <title>JUPI&#xC1; (JU-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-8</number>
-    <title>PROMISS&#xC3;O (PR-8)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-8.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>JU-TI</number>
-    <title>JUPI&#xC1; - TR&#xCA;S IRM&#xC3;OS (JU-TI)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ju-ti.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-10</number>
-    <title>PROMISS&#xC3;O (PR-10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-10.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>NA-2</number>
-    <title>NOVA AVANHANDAVA (NA-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-1</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>NA-4</number>
-    <title>NOVA AVANHANDAVA (NA-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/na-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-3</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-1</number>
-    <title>PROMISS&#xC3;O (PR-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-5</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-3</number>
-    <title>PROMISS&#xC3;O (PR-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-1</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-5</number>
-    <title>PROMISS&#xC3;O (PR-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-3</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-3.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-7</number>
-    <title>PROMISS&#xC3;O (PR-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-5</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-5.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>BA-1</number>
-    <title>BARIRI (BA-1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ba-1.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-7</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-7)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-7.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>PR-IB</number>
-    <title>PROMISS&#xC3;O - IBITINGA (PR-IB)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-ib.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-9</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-9)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-9.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-2</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-11</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-11)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-11.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-4</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-NA</number>
-    <title>TR&#xCA;S IRM&#xC3;OS - NOVA AVANHANDAVA (TI-NA)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-na.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>SJD-6</number>
-    <title>S&#xC3;O JOS&#xC9; DOS DOURADOS (SJD-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/sjd-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-2</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-2.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-4</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-4.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-6</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-6.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-8</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-8)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-8.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-10</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti10.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>TI-12</number>
-    <title>TR&#xCA;S IRM&#xC3;OS (TI-12)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ti-12.zip</zipfile_location>
-    <zipfile_datetime>20130418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4361A</number>
