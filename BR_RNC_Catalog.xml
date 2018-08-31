@@ -212,17 +212,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1513',
- 'title': u'TERMINAIS DA BA\xcdA DE GUANABARA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 2, 21, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1550',
  'title': u'BACIA DE CAMPOS',
  'url': '',
@@ -575,17 +564,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3324',
- 'title': u'DO PUERTO LA NOVIA A ISLA SAN CARLOS',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 2, 15, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3328',
  'title': u'DA ISLA CA\xc1-PUC\xda-M\xcd A ISLA CARAYACITO',
  'url': '',
@@ -630,17 +608,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-A8',
- 'title': u'MANAUS - COAR\xcd',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'HS-B1',
  'title': u'COAR\xcd - TEF\xc9',
  'url': '',
@@ -652,62 +619,7 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-B5',
- 'title': u'COAR\xcd - TEF\xc9',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-B6',
- 'title': u'COAR\xcd - TEF\xc9',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'HS-C1',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C2',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C3',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C4',
  'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
  'url': '',
  'vertical_datum': None,
@@ -751,50 +663,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C9',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C13',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C14',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-C15',
- 'title': u'TEF\xc9 - SANTO ANT\xd4NIO DE I\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'HS-D1',
  'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
  'url': '',
@@ -817,40 +685,7 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-D3',
- 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-D4',
- 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'HS-D5',
- 'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'HS-D6',
  'title': u'SANTO ANT\xd4NIO DE I\xc7A - TABATINGA',
  'url': '',
  'vertical_datum': None,
@@ -926,11 +761,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2018-08-29</date_created>
-    <time_created>19:55:40</time_created>
-    <date_valid>2018-08-29</date_valid>
-    <time_valid>19:55:40</time_valid>
-    <dt_valid>2018-08-29T19:55:40Z</dt_valid>
+    <date_created>2018-08-31</date_created>
+    <time_created>14:14:18</time_created>
+    <date_valid>2018-08-31</date_valid>
+    <time_valid>14:14:18</time_valid>
+    <dt_valid>2018-08-31T14:14:18Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1411,6 +1246,15 @@
     <zipfile_datetime>20170614_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-70</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1513</number>
+    <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1513.zip</zipfile_location>
+    <zipfile_datetime>20170221_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-31</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1515</number>
@@ -2556,6 +2400,15 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>3324</number>
+    <title>DO PUERTO LA NOVIA A ISLA SAN CARLOS (3324)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3324.zip</zipfile_location>
+    <zipfile_datetime>20170215_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>3325</number>
     <title>DA ISLA SAN CARLOS A ISLA PIQUETE-CAMB&#xC1; (3325)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3654,6 +3507,15 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>HS-A8</number>
+    <title>MANAUS - COAR&#xCD; (HS-A8)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa8.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>HS-A9</number>
     <title>MANAUS - COAR&#xCD; (HS-A9)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3735,12 +3597,66 @@
     <ntm_edition_last_correction>2012-42</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>HS-B5</number>
+    <title>COAR&#xCD; - TEF&#xC9; (HS-B5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa5_0.zip</zipfile_location>
+    <zipfile_datetime>20180828_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-B6</number>
+    <title>COAR&#xCD; - TEF&#xC9; (HS-B6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsa6_0.zip</zipfile_location>
+    <zipfile_datetime>20180828_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C2</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc2.zip</zipfile_location>
+    <zipfile_datetime>20180830_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C3</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc3.zip</zipfile_location>
+    <zipfile_datetime>20180830_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C4</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc4.zip</zipfile_location>
+    <zipfile_datetime>20180828_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>HS-C8</number>
     <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C8)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc8.zip</zipfile_location>
     <zipfile_datetime>20180725_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-07-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C9</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C9)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc9.zip</zipfile_location>
+    <zipfile_datetime>20180830_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3768,6 +3684,60 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc12.zip</zipfile_location>
     <zipfile_datetime>20180726_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-07-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C13</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C13)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc13.zip</zipfile_location>
+    <zipfile_datetime>20180828_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C14</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C14)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc14.zip</zipfile_location>
+    <zipfile_datetime>20180816_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-C15</number>
+    <title>TEF&#xC9; - SANTO ANT&#xD4;NIO DE I&#xC7;A (HS-C15)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsc15.zip</zipfile_location>
+    <zipfile_datetime>20180816_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D3</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd3.zip</zipfile_location>
+    <zipfile_datetime>20180816_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D4</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd4.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>HS-D6</number>
+    <title>SANTO ANT&#xD4;NIO DE I&#xC7;A - TABATINGA (HS-D6)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/hsd6.zip</zipfile_location>
+    <zipfile_datetime>20180815_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-08-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
