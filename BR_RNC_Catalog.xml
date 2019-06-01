@@ -68,50 +68,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2010-97',
- 'number': u'21',
- 'title': u'ILHA DA TRINDADE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2012, 7, 30, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2017-117',
- 'number': u'901',
- 'title': u'PORTO DE MACEI\xd3',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 9, 17, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2014-189',
- 'number': u'920',
- 'title': u'PROXIMIDADES DO PORTO DE MACEI\xd3',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2014, 10, 23, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-51-55',
- 'number': u'1401',
- 'title': u'PORTOS DE VITORIA E TUBAR\xc3O',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 4, 1, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-151',
  'number': u'1402',
  'title': u'DO PONTAL DA REG\xcaNCIA \xc0 PONTA DO UBU',
@@ -152,17 +108,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2018, 5, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-32',
- 'number': u'1841',
- 'title': u'PORTO DE ITAJA\xcd',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 3, 19, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1190,11 +1135,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-05-25</date_created>
-    <time_created>16:32:47</time_created>
-    <date_valid>2019-05-25</date_valid>
-    <time_valid>16:32:47</time_valid>
-    <dt_valid>2019-05-25T16:32:47Z</dt_valid>
+    <date_created>2019-06-01</date_created>
+    <time_created>01:59:15</time_created>
+    <date_valid>2019-06-01</date_valid>
+    <time_valid>01:59:15</time_valid>
+    <dt_valid>2019-06-01T01:59:15Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1260,6 +1205,15 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/20.zip</zipfile_location>
     <zipfile_datetime>20190401_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-04-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-53</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21</number>
+    <title>ILHA DA TRINDADE (21)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21.zip</zipfile_location>
+    <zipfile_datetime>20190326_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-03-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-53</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -1443,6 +1397,15 @@
     <ntm_edition_last_correction>2018-18</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>901</number>
+    <title>PORTO DE MACEI&#xD3; (901)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/901.zip</zipfile_location>
+    <zipfile_datetime>20190524_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-94</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>902</number>
     <title>PORTO DO RECIFE (902)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1459,6 +1422,15 @@
     <zipfile_datetime>20180801_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-08-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-164</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>920</number>
+    <title>PROXIMIDADES DO PORTO DE MACEI&#xD3; (920)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/920.zip</zipfile_location>
+    <zipfile_datetime>20190524_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>930</number>
@@ -1612,6 +1584,15 @@
     <zipfile_datetime>20180917_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-17T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-144</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1401</number>
+    <title>PORTOS DE VITORIA E TUBAR&#xC3;O (1401)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1401.zip</zipfile_location>
+    <zipfile_datetime>20190524_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-102</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1403</number>
@@ -1992,6 +1973,15 @@
     <ntm_edition_last_correction>2016-10</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1841</number>
+    <title>PORTO DE ITAJA&#xCD; (1841)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841.zip</zipfile_location>
+    <zipfile_datetime>20190529_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-86</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1901</number>
     <title>PORTO DE LAGUNA (1901)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2013,10 +2003,10 @@
     <number>1910</number>
     <title>DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE (1910)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1910.zip</zipfile_location>
-    <zipfile_datetime>20170216_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-02-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-118</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1910_0.zip</zipfile_location>
+    <zipfile_datetime>20190531_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-31T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-95</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2010</number>
