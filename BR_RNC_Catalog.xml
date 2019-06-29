@@ -57,17 +57,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-87',
- 'number': u'1515',
- 'title': u'BA\xcdA DE GUANABARA - ILHA DO MOCANGU\xca E PROXIMIDADES',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 21, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1820',
  'title': u'PROXIMIDADES DA BARRA DE PARANAGU\xc1',
@@ -97,17 +86,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2019, 5, 16, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2018-54',
- 'number': u'23300_(INT.2126)',
- 'title': u'DE PARANAGU\xc1 A IMBITUBA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 4, 4, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -267,50 +245,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
- 'number': u'4727',
- 'title': u'DA VILA BELMONTE \xc0 ILHA DO JENIPAPO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 6, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'-',
- 'number': u'4728',
- 'title': u'DE CURRALINHO AO FURO MATUPIRI',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 6, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'-',
- 'number': u'4729',
- 'title': u'DO IGARAP\xc9 JATURANA \xc0 ENSEADA DO MANIV\xc3O',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 6, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'4730',
- 'title': u'DE IGARAP\xc9-A\xc7\xda A MANICOR\xc9',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 12, 15, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'-',
  'number': u'4743',
  'title': u'DA COSTA S\xc3O PEDRO \xc0 ILHA DAS PUPUNHAS',
  'url': '',
@@ -427,17 +361,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-40',
- 'number': u'303',
- 'title': u'DO CABO MAGUARI \xc0 MOSQUEIRO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 3, 12, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -2048,11 +1971,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-06-22</date_created>
-    <time_created>02:01:10</time_created>
-    <date_valid>2019-06-22</date_valid>
-    <time_valid>02:01:10</time_valid>
-    <dt_valid>2019-06-22T02:01:10Z</dt_valid>
+    <date_created>2019-06-29</date_created>
+    <time_created>01:29:10</time_created>
+    <date_valid>2019-06-29</date_valid>
+    <time_valid>01:29:10</time_valid>
+    <dt_valid>2019-06-29T01:29:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2061,9 +1984,9 @@
     <number>25110_(INT.9150)</number>
     <title>ILHA ELEFANTE E PROXIMIDADES (25110_(INT.9150))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25110.zip</zipfile_location>
-    <zipfile_datetime>20131022_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2013-10-22T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25110_0.zip</zipfile_location>
+    <zipfile_datetime>20190618_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2013-44</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2670,6 +2593,15 @@
     <ntm_edition_last_correction>2018-146</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1515</number>
+    <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1515.zip</zipfile_location>
+    <zipfile_datetime>20190515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-124</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1531</number>
     <title>BA&#xCD;A DE GUANABARA - ILHA DO BOQUEIR&#xC3;O E ADJAC&#xCA;NCIAS (1531)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3264,6 +3196,15 @@
     <ntm_edition_last_correction>2018-81</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>23300_(INT.2126)</number>
+    <title>DE PARANAGU&#xC1; A IMBITUBA (23300_(INT.2126))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23300.zip</zipfile_location>
+    <zipfile_datetime>20190624_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-126</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>23400_(INT.2127)</number>
     <title>DE IMBITUBA A PINHAL (23400_(INT.2127))</title>
     <format>Sailing Chart, International Chart</format>
@@ -3627,10 +3568,10 @@
     <number>4023A</number>
     <title>PARAN&#xC1; DE SANTA RITA (4023A)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023a.zip</zipfile_location>
-    <zipfile_datetime>20181014_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4032a.zip</zipfile_location>
+    <zipfile_datetime>20190626_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-101</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4203</number>
@@ -3694,6 +3635,42 @@
     <zipfile_datetime>20190121_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-01-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4727</number>
+    <title>DA VILA BELMONTE &#xC0; ILHA DO JENIPAPO (4727)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4727.zip</zipfile_location>
+    <zipfile_datetime>20190626_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4728</number>
+    <title>DE CURRALINHO AO FURO MATUPIRI (4728)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4728_0.zip</zipfile_location>
+    <zipfile_datetime>20190626_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4729</number>
+    <title>DO IGARAP&#xC9; JATURANA &#xC0; ENSEADA DO MANIV&#xC3;O (4729)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4729.zip</zipfile_location>
+    <zipfile_datetime>20190626_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4730</number>
+    <title>DE IGARAP&#xC9;-A&#xC7;&#xDA; A MANICOR&#xC9; (4730)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4730.zip</zipfile_location>
+    <zipfile_datetime>20190625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-105</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4731</number>
@@ -3846,6 +3823,15 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/302.zip</zipfile_location>
     <zipfile_datetime>20190619_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-06-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-113</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>303</number>
+    <title>DO CABO MAGUARI &#xC0; MOSQUEIRO (303)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/303.zip</zipfile_location>
+    <zipfile_datetime>20190628_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-06-28T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-113</ntm_edition_last_correction>
   </chart>
   <chart>
