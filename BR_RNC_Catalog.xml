@@ -90,28 +90,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-128',
- 'number': u'1902',
- 'title': u'PROXIMIDADES DA ILHA DE SANTA CATARINA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 7, 12, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-95',
- 'number': u'1910',
- 'title': u'DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 31, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2019-90',
  'number': u'21070_(INT.2008)',
  'title': u'DO CABO FRIO AO CABO DE SANTA MARTA GRANDE',
@@ -152,39 +130,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4029',
- 'title': u'DA ILHA PANUM\xc3 A ITACOATIARA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 3, 7, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4029A',
- 'title': u'PARAN\xc1 DO SERPA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 2, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4031',
- 'title': u'DE NOVO REMANSO \xc0 ILHA DAS ON\xc7AS',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2015, 9, 30, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1993,11 +1938,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-08-03</date_created>
-    <time_created>02:07:06</time_created>
-    <date_valid>2019-08-03</date_valid>
-    <time_valid>02:07:06</time_valid>
-    <dt_valid>2019-08-03T02:07:06Z</dt_valid>
+    <date_created>2019-08-10</date_created>
+    <time_created>01:38:05</time_created>
+    <date_valid>2019-08-10</date_valid>
+    <time_valid>01:38:05</time_valid>
+    <dt_valid>2019-08-10T01:38:05Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2867,6 +2812,15 @@
     <ntm_edition_last_correction>2017-118</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1902</number>
+    <title>PROXIMIDADES DA ILHA DE SANTA CATARINA (1902)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1902.zip</zipfile_location>
+    <zipfile_datetime>20190805_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-144</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1908</number>
     <title>PORTO DE IMBITUBA (1908)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2874,6 +2828,15 @@
     <zipfile_datetime>20190531_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-05-31T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-95</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1910</number>
+    <title>DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE (1910)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1910.zip</zipfile_location>
+    <zipfile_datetime>20190805_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-05T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-144</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2010</number>
@@ -3551,6 +3514,24 @@
     <ntm_edition_last_correction>2018-74</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4029</number>
+    <title>DA ILHA PANUM&#xC3; A ITACOATIARA (4029)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4029.zip</zipfile_location>
+    <zipfile_datetime>20190806_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-7</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4029A</number>
+    <title>PARAN&#xC1; DO SERPA (4029A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4029a.zip</zipfile_location>
+    <zipfile_datetime>20190806_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-7</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>4030</number>
     <title>DE ITACOATIARA A NOVO REMANSO (4030)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3558,6 +3539,15 @@
     <zipfile_datetime>20180911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-100</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4031</number>
+    <title>DE NOVO REMANSO &#xC0; ILHA DAS ON&#xC7;AS (4031)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4031.zip</zipfile_location>
+    <zipfile_datetime>20190806_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
   </chart>
   <chart>
     <number>4032</number>
