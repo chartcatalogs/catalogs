@@ -2037,11 +2037,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-08-24</date_created>
-    <time_created>01:10:05</time_created>
-    <date_valid>2019-08-24</date_valid>
-    <time_valid>01:10:05</time_valid>
-    <dt_valid>2019-08-24T01:10:05Z</dt_valid>
+    <date_created>2019-08-31</date_created>
+    <time_created>01:41:20</time_created>
+    <date_valid>2019-08-31</date_valid>
+    <time_valid>01:41:20</time_valid>
+    <dt_valid>2019-08-31T01:41:20Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -4660,28 +4660,28 @@
     <number>3424</number>
     <title>DA VOLTA DO SINIMBU AO PASSO PIUVA (3424)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3424.zip</zipfile_location>
-    <zipfile_datetime>20160826_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-37</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3424_0.zip</zipfile_location>
+    <zipfile_datetime>20190826_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3425</number>
     <title>DA BOCA DA PIUVA AO PASSO JATOB&#xC1; (3425)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3425.zip</zipfile_location>
-    <zipfile_datetime>20160826_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-38</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3425_0.zip</zipfile_location>
+    <zipfile_datetime>20190826_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3426</number>
     <title>DA BOCA DO PERIQUITO A DESCALVADO (3426)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3426.zip</zipfile_location>
-    <zipfile_datetime>20160826_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2015-01</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3426_0.zip</zipfile_location>
+    <zipfile_datetime>20190826_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3427</number>
