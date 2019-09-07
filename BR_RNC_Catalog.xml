@@ -68,6 +68,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-102',
+ 'number': u'1401',
+ 'title': u'PORTOS DE VITORIA E TUBAR\xc3O',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 5, 24, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-151',
  'number': u'1404',
  'title': u'PROXIMIDADES DA PONTA DO UBU',
@@ -90,6 +101,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2018-122',
+ 'number': u'1550',
+ 'title': u'BACIA DE CAMPOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 9, 28, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2019-83',
  'number': u'1620',
  'title': u'DA BARRA DO RIO DE JANEIRO \xc0 ILHA GRANDE',
@@ -101,6 +123,28 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2018-147',
+ 'number': u'1712',
+ 'title': u'PORTO DE SANTOS (PARTE NORTE)',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 11, 27, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2018-70',
+ 'number': u'1804',
+ 'title': u'PORTO DE S\xc3O FRANCISCO DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 27, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1820',
  'title': u'PROXIMIDADES DA BARRA DE PARANAGU\xc1',
@@ -108,6 +152,17 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2018, 11, 26, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2018-153',
+ 'number': u'1821',
+ 'title': u'BARRA DE PARANAGU\xc1',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 12, 5, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -167,6 +222,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-11',
+ 'number': u'23000_(INT.2123)',
+ 'title': u'DO CABO DE S\xc3O TOM\xc9 AO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 1, 5, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'title': '',
@@ -211,6 +277,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2018-72',
+ 'number': u'204',
+ 'title': u'DAS ILHAS PEDREIRA \xc0 ILHA DE SANTANA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 26, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2017-100',
  'number': u'221',
  'title': u'BARRA NORTE DO RIO AMAZONAS',
@@ -218,6 +295,17 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2017, 8, 10, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'-',
+ 'number': u'4024',
+ 'title': u'DA ILHA DE SANTA RITA \xc0S ILHAS DO CALDER\xc3O',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 11, 1, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -2037,11 +2125,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-08-31</date_created>
-    <time_created>01:41:20</time_created>
-    <date_valid>2019-08-31</date_valid>
-    <time_valid>01:41:20</time_valid>
-    <dt_valid>2019-08-31T01:41:20Z</dt_valid>
+    <date_created>2019-09-07</date_created>
+    <time_created>01:28:05</time_created>
+    <date_valid>2019-09-07</date_valid>
+    <time_valid>01:28:05</time_valid>
+    <dt_valid>2019-09-07T01:28:05Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2488,15 +2576,6 @@
     <ntm_edition_last_correction>2016-144</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1401</number>
-    <title>PORTOS DE VITORIA E TUBAR&#xC3;O (1401)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1401.zip</zipfile_location>
-    <zipfile_datetime>20190524_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-05-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-102</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1402</number>
     <title>DO PONTAL DA REG&#xCA;NCIA &#xC0; PONTA DO UBU (1402)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2648,15 +2727,6 @@
     <zipfile_datetime>20170614_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1550</number>
-    <title>BACIA DE CAMPOS (1550)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1550.zip</zipfile_location>
-    <zipfile_datetime>20180928_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-09-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-122</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1607</number>
@@ -2812,15 +2882,6 @@
     <ntm_edition_last_correction>2018-81</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1712</number>
-    <title>PORTO DE SANTOS (PARTE NORTE) (1712)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1712.zip</zipfile_location>
-    <zipfile_datetime>20181127_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-11-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-147</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1713</number>
     <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2837,24 +2898,6 @@
     <zipfile_datetime>20161106_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-11-06T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-139</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1804</number>
-    <title>PORTO DE S&#xC3;O FRANCISCO DO SUL (1804)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1804.zip</zipfile_location>
-    <zipfile_datetime>20180627_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-70</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1821</number>
-    <title>BARRA DE PARANAGU&#xC1; (1821)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1821.zip</zipfile_location>
-    <zipfile_datetime>20181205_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-12-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-153</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1830</number>
@@ -3172,15 +3215,6 @@
     <ntm_edition_last_correction>2019-77</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>23000_(INT.2123)</number>
-    <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23000.zip</zipfile_location>
-    <zipfile_datetime>20190105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-11</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>23100_(INT.2124)</number>
     <title>DO RIO DE JANEIRO &#xC0; SANTOS (23100_(INT.2124))</title>
     <format>Sailing Chart, International Chart</format>
@@ -3388,15 +3422,6 @@
     <ntm_edition_last_correction>2012-79</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>204</number>
-    <title>DAS ILHAS PEDREIRA &#xC0; ILHA DE SANTANA (204)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/204.zip</zipfile_location>
-    <zipfile_datetime>20180626_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-72</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>206</number>
     <title>CANAL DE SANTANA (206)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3484,15 +3509,6 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023.zip</zipfile_location>
     <zipfile_datetime>20181014_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-10-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4024</number>
-    <title>DA ILHA DE SANTA RITA &#xC0;S ILHAS DO CALDER&#xC3;O (4024)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4024_0.zip</zipfile_location>
-    <zipfile_datetime>20181101_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-11-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
