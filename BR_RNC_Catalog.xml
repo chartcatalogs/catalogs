@@ -25,17 +25,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'25121_(INT.9125)',
- 'title': u'ILHAS SHETLAND DO SUL - BA\xcdA DO ALMIRANTADO (ILHA REI GEORGE)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2017, 7, 4, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'25122',
  'title': u'ILHAS SHETLAND DO SUL - BA\xcdA DE MAXWELL (ILHA REI GEORGE)',
  'url': '',
@@ -2070,11 +2059,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-09-21</date_created>
-    <time_created>01:31:05</time_created>
-    <date_valid>2019-09-21</date_valid>
-    <time_valid>01:31:05</time_valid>
-    <dt_valid>2019-09-21T01:31:05Z</dt_valid>
+    <date_created>2019-09-28</date_created>
+    <time_created>02:09:09</time_created>
+    <date_valid>2019-09-28</date_valid>
+    <time_valid>02:09:09</time_valid>
+    <dt_valid>2019-09-28T02:09:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2105,6 +2094,15 @@
     <zipfile_datetime>20190619_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-06-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-1</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>25121_(INT.9125)</number>
+    <title>ILHAS SHETLAND DO SUL - BA&#xCD;A DO ALMIRANTADO (ILHA REI GEORGE) (25121_(INT.9125))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/25121.zip</zipfile_location>
+    <zipfile_datetime>20190918_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-09-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-185</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1</number>
@@ -3001,10 +2999,10 @@
     <number>21070_(INT.2008)</number>
     <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070.zip</zipfile_location>
-    <zipfile_datetime>20190904_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-164</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070_0.zip</zipfile_location>
+    <zipfile_datetime>20190918_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-09-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-183</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21080_(INT.2009)</number>
@@ -3478,9 +3476,9 @@
     <number>4024</number>
     <title>DA ILHA DE SANTA RITA &#xC0;S ILHAS DO CALDER&#xC3;O (4024)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4024.zip</zipfile_location>
-    <zipfile_datetime>20190917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-17T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4024_0.zip</zipfile_location>
+    <zipfile_datetime>20190918_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-09-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-177</ntm_edition_last_correction>
   </chart>
   <chart>
