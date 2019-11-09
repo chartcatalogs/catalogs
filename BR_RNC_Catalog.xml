@@ -90,6 +90,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-186',
+ 'number': u'1515',
+ 'title': u'BA\xcdA DE GUANABARA - ILHA DO MOCANGU\xca E PROXIMIDADES',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 10, 27, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-70',
  'number': u'1804',
  'title': u'PORTO DE S\xc3O FRANCISCO DO SUL',
@@ -123,6 +134,17 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-71',
+ 'number': u'21040_(INT.2005)',
+ 'title': u'DE NATAL AO RIO ITARIRI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 5, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2019-201',
  'number': u'21300_(INT.4196)',
  'title': u'DO CABO NORTE AO CABO MAGUARI',
@@ -130,6 +152,28 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2019, 10, 18, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-154',
+ 'number': u'21400_(INT.4197)',
+ 'title': u'DO CABO MAGUARI \xc0 PONTA BOIU\xc7UCANGA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 9, 5, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2019-8',
+ 'number': u'22200_(INT.2115)',
+ 'title': u'DE CABEDELO A MACEI\xd3',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 2, 8, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1883,11 +1927,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-11-02</date_created>
-    <time_created>02:02:09</time_created>
-    <date_valid>2019-11-02</date_valid>
-    <time_valid>02:02:09</time_valid>
-    <dt_valid>2019-11-02T02:02:09Z</dt_valid>
+    <date_created>2019-11-09</date_created>
+    <time_created>02:08:11</time_created>
+    <date_valid>2019-11-09</date_valid>
+    <time_valid>02:08:11</time_valid>
+    <dt_valid>2019-11-09T02:08:11Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2478,15 +2522,6 @@
     <ntm_edition_last_correction>2019-160</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1515</number>
-    <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1515.zip</zipfile_location>
-    <zipfile_datetime>20191027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-186</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1531</number>
     <title>BA&#xCD;A DE GUANABARA - ILHA DO BOQUEIR&#xC3;O E ADJAC&#xCA;NCIAS (1531)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2847,15 +2882,6 @@
     <ntm_edition_last_correction>2019-70</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>21040_(INT.2005)</number>
-    <title>DE NATAL AO RIO ITARIRI (21040_(INT.2005))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21040.zip</zipfile_location>
-    <zipfile_datetime>20190516_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-05-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-71</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>21050_(INT.2006)</number>
     <title>DO RIO ITARIRI AO ARQUIP&#xC9;LAGO DOS ABROLHOS (21050_(INT.2006))</title>
     <format>Sailing Chart, International Chart</format>
@@ -2908,15 +2934,6 @@
     <zipfile_datetime>20191018_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-201</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21400_(INT.4197)</number>
-    <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400_(INT.4197))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21400.zip</zipfile_location>
-    <zipfile_datetime>20190905_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-154</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21500_(INT.2108)</number>
@@ -2980,15 +2997,6 @@
     <zipfile_datetime>20180628_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-06-28T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-71</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>22200_(INT.2115)</number>
-    <title>DE CABEDELO A MACEI&#xD3; (22200_(INT.2115))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22200_0.zip</zipfile_location>
-    <zipfile_datetime>20190208_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-02-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-8</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22300_(INT.2116)</number>
