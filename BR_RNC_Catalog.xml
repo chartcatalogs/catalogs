@@ -57,17 +57,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-5-6-7',
- 'number': u'720',
- 'title': u'DE AREIA BRANCA A GUAMAR\xc9',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 1, 25, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-161',
  'number': u'1001',
  'title': u'PORTO DE BARRA DOS COQUEIROS',
@@ -141,28 +130,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2019, 5, 16, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-201',
- 'number': u'21300_(INT.4196)',
- 'title': u'DO CABO NORTE AO CABO MAGUARI',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 10, 18, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-154',
- 'number': u'21400_(INT.4197)',
- 'title': u'DO CABO MAGUARI \xc0 PONTA BOIU\xc7UCANGA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 9, 5, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -255,17 +222,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4214',
- 'title': u'DA ILHA XAVIER \xc0 ILHA XINGUI',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 1, 5, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'title': '',
@@ -306,17 +262,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2019-113',
- 'number': u'303',
- 'title': u'DO CABO MAGUARI \xc0 MOSQUEIRO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 6, 28, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1927,11 +1872,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2019-11-09</date_created>
-    <time_created>02:08:11</time_created>
-    <date_valid>2019-11-09</date_valid>
-    <time_valid>02:08:11</time_valid>
-    <dt_valid>2019-11-09T02:08:11Z</dt_valid>
+    <date_created>2019-11-16</date_created>
+    <time_created>02:00:11</time_created>
+    <date_valid>2019-11-16</date_valid>
+    <time_valid>02:00:11</time_valid>
+    <dt_valid>2019-11-16T02:00:11Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2151,6 +2096,15 @@
     <zipfile_datetime>20190405_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-04-05T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-49</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>720</number>
+    <title>DE AREIA BRANCA A GUAMAR&#xC9; (720)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/720.zip</zipfile_location>
+    <zipfile_datetime>20191114_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-203</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>802</number>
@@ -2381,7 +2335,7 @@
     <number>1403</number>
     <title>DA BARRA DO ITAPEMIRIM AO CABO DE SAO TOM&#xC9; (1403)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403_0.zip</zipfile_location>
     <zipfile_datetime>20191027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
@@ -2534,7 +2488,7 @@
     <number>1550</number>
     <title>BACIA DE CAMPOS (1550)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1550.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1550_0.zip</zipfile_location>
     <zipfile_datetime>20191027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
@@ -2936,6 +2890,24 @@
     <ntm_edition_last_correction>2019-201</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>21300_(INT.4196)</number>
+    <title>DO CABO NORTE AO CABO MAGUARI (21300_(INT.4196))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21300.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-208</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21400_(INT.4197)</number>
+    <title>DO CABO MAGUARI &#xC0; PONTA BOIU&#xC7;UCANGA (21400_(INT.4197))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21400.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-207</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>21500_(INT.2108)</number>
     <title>DA PONTA BOIU&#xC7;UCANGA &#xC0; ILHA MANGUN&#xC7;A (21500_(INT.2108))</title>
     <format>Sailing Chart, International Chart</format>
@@ -3116,15 +3088,6 @@
     <ntm_edition_last_correction>2019-62</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1103</number>
-    <title>BAIA DO ARATU E ADJAC&#xCA;NCIAS (1103)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1103_0.zip</zipfile_location>
-    <zipfile_datetime>20181009_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-116</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>711</number>
     <title>TERMINAL PORTU&#xC1;RIO DO PEC&#xC9;M (711)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3132,6 +3095,15 @@
     <zipfile_datetime>20180913_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-158</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1103</number>
+    <title>BAIA DO ARATU E ADJAC&#xCA;NCIAS (1103)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1103_0.zip</zipfile_location>
+    <zipfile_datetime>20181009_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-10-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2018-116</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2102</number>
@@ -3524,46 +3496,55 @@
     <number>4212</number>
     <title>DE JARIL&#xC2;NDIA &#xC0; ILHA SAUDADE (4212)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4212_0.zip</zipfile_location>
-    <zipfile_datetime>20180105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4212.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4213</number>
     <title>DA ILHA CAROLINA &#xC0; ILHA XAVIER (4213)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4213.zip</zipfile_location>
-    <zipfile_datetime>20180105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4213_0.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4214</number>
+    <title>DA ILHA XAVIER &#xC0; ILHA XINGUI (4214)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4214.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4215</number>
     <title>DE PAGA D&#xCD;VIDAS &#xC0; ILHA MARAPI (4215)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4215.zip</zipfile_location>
-    <zipfile_datetime>20190111_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-01-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-159</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216_0.zip</zipfile_location>
-    <zipfile_datetime>20190121_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-01-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4215_0.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4217</number>
     <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20190122_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-01-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_datetime>20191113_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4711</number>
@@ -3969,6 +3950,15 @@
     <zipfile_datetime>20190619_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-06-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-113</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>303</number>
+    <title>DO CABO MAGUARI &#xC0; MOSQUEIRO (303)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/303.zip</zipfile_location>
+    <zipfile_datetime>20191114_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-207</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>304</number>
