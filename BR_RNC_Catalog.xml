@@ -1861,11 +1861,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-01-04</date_created>
-    <time_created>02:59:14</time_created>
-    <date_valid>2020-01-04</date_valid>
-    <time_valid>02:59:14</time_valid>
-    <dt_valid>2020-01-04T02:59:14Z</dt_valid>
+    <date_created>2020-01-11</date_created>
+    <time_created>02:40:37</time_created>
+    <date_valid>2020-01-11</date_valid>
+    <time_valid>02:40:37</time_valid>
+    <dt_valid>2020-01-11T02:40:37Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -3077,15 +3077,6 @@
     <ntm_edition_last_correction>2019-62</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>711</number>
-    <title>TERMINAL PORTU&#xC1;RIO DO PEC&#xC9;M (711)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/711.zip</zipfile_location>
-    <zipfile_datetime>20180913_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-09-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-158</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1103</number>
     <title>BAIA DO ARATU E ADJAC&#xCA;NCIAS (1103)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3093,6 +3084,15 @@
     <zipfile_datetime>20181009_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-10-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-116</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>711</number>
+    <title>TERMINAL PORTU&#xC1;RIO DO PEC&#xC9;M (711)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/711.zip</zipfile_location>
+    <zipfile_datetime>20180913_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2018-09-13T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-158</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2102</number>
@@ -3525,6 +3525,15 @@
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4218</number>
+    <title>DO IGARAP&#xC9; FURINHO AO IGARAP&#xC9; DE POC&#xC3;O (4218)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4218.zip</zipfile_location>
+    <zipfile_datetime>20200110_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-01-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4216</number>
