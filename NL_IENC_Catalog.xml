@@ -12,86 +12,69 @@
   </Header>
 <!--<chart>
   <number>1</number>
-  <title>Nederland (7-zip compressed), version 46 (no depth)</title>
+  <title>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>
-      https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=173845927
+      https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2551923617
   </zipfile_location>
-  <zipfile_datetime>20170421_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-04-21T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Nederland.7z</target_filename>
+  <zipfile_datetime>20200212_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2020-02-25T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB.zip</target_filename>
 </chart>-->
 <chart>
   <number>2</number>
-  <title>Zeeland Reissue kwartaal 1-2018 (detailed depth info)</title>
+  <title>Zeeland Compleet Week 9-2020- 41 MB</title>
   <format>Sailing Chart, International Chart</format>
-  <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=291635827</zipfile_location>
-  <zipfile_datetime>20180105_000000</zipfile_datetime>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2565254523
+  </zipfile_location>
+  <zipfile_datetime>20200225_000000</zipfile_datetime>
   <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
   <target_filename>20180104_U7_Inland_Reissue_NL.zip</target_filename>
 </chart>
 <chart>
   <number>3</number>
-  <title>Nederland (ZIP compressed), version 1 (no depth)</title>
+  <title>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB</title>
   <format>Sailing Chart, International Chart</format>
-  <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2399052647</zipfile_location>
-  <zipfile_datetime>20190701_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2019-07-01T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Nederland.zip</target_filename>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2431638959
+  </zipfile_location>
+  <zipfile_datetime>20190807_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2019-08-07T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB.zip</target_filename>
 </chart>
 <chart>
   <number>4</number>
   <title>IENC Haven Waspik</title>
   <format>Sailing Chart, International Chart</format>
-  <zipfile_location>http://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371
+  </zipfile_location>
   <zipfile_datetime>20160601_000000</zipfile_datetime>
   <zipfile_datetime_iso8601>2016-06-01T00:00:00Z</zipfile_datetime_iso8601>
   <target_filename>1R7BM000.000</target_filename>
 </chart>
 <chart>
   <number>5</number>
-  <title>IENC Haven Rotterdam</title>
+  <title>Rotterdam 2019-11-22</title>
   <format>Sailing Chart, International Chart, detailed including depths</format>
-  <zipfile_location>http://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=250895626</zipfile_location>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2491882897
+  </zipfile_location>
   <zipfile_datetime>20171017_000000</zipfile_datetime>
   <zipfile_datetime_iso8601>2017-10-17T00:00:00Z</zipfile_datetime_iso8601>
   <target_filename>Rotterdam 2017-10-17.zip</target_filename>
 </chart>
 <chart>
   <number>6</number>
-  <title>IENC Akte wateren</title>
-  <format>Sailing Chart, International Chart (no depths) waters part of the rhine act</format>
-  <zipfile_location>http://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=250895589</zipfile_location>
-  <zipfile_datetime>20171023_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-10-23T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Aktewateren 2017-10-23.zip</target_filename>
-</chart>
-<chart>
-  <number>7</number>
-  <title>IENC IJsel</title>
+  <title>IENC Haven Geertruidenberg</title>
   <format>Sailing Chart, International Chart (no depths) River IJssel</format>
-  <zipfile_location>http://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=267402596</zipfile_location>
-  <zipfile_datetime>20171114_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-11-14T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Ijssel 2017-11-14.zip</target_filename>
-</chart>
-<chart>
-  <number>8</number>
-  <title>IENC Amsterdam-Rijn-Kanaal</title>
-  <format>Sailing Chart, International Chart (no depths) Amsterdam-rijn kanaal</format>
-  <zipfile_location>http://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=279688754</zipfile_location>
-  <zipfile_datetime>20171212_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-12-12T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Amsterdam-Rijn-Kanaal 2017-12-12.zip</target_filename>
-</chart>
-<chart>
-  <number>9</number>
-  <title>Dordrecht and surroundings</title>
-  <format>Sailing Chart, International Chart (no depths) Amsterdam-rijn kanaal</format>
-  <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=286163807</zipfile_location>
-  <zipfile_datetime>20171222_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-12-22T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Dordrecht en omgeving.zip</target_filename>
+  <zipfile_location>
+    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079
+  </zipfile_location>
+  <zipfile_datetime>20170222_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>20170222T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>1R7BM000.000</target_filename>
 </chart>
 </RncProductCatalogChartCatalogs>
 
