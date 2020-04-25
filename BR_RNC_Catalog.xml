@@ -256,34 +256,12 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1621',
- 'title': u'BA\xcdA DA ILHA GRANDE - PARTE LESTE (TERMINAL DA ILHA GUA\xcdBA)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 5, 9, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1623',
  'title': u'PORTO DE ITAGUA\xcd',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1712',
- 'title': u'PORTO DE SANTOS (PARTE NORTE)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 9, 17, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -295,28 +273,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2018, 6, 27, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1820',
- 'title': u'PROXIMIDADES DA BARRA DE PARANAGU\xc1',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 11, 26, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1822',
- 'title': u'PORTOS DE PARANAGU\xc1 E ANTONINA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 9, 27, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -566,17 +522,6 @@
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'202',
  'title': u'DA ILHA DO BAILIQUE \xc0 PONTA DO CAPINAL',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2020, 1, 23, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'221',
- 'title': u'BARRA NORTE DO RIO AMAZONAS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -2268,11 +2213,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-04-18</date_created>
-    <time_created>17:57:03</time_created>
-    <date_valid>2020-04-18</date_valid>
-    <time_valid>17:57:03</time_valid>
-    <dt_valid>2020-04-18T17:57:03Z</dt_valid>
+    <date_created>2020-04-25</date_created>
+    <time_created>01:49:04</time_created>
+    <date_valid>2020-04-25</date_valid>
+    <time_valid>01:49:04</time_valid>
+    <dt_valid>2020-04-25T01:49:04Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2782,6 +2727,15 @@
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1621</number>
+    <title>BA&#xCD;A DA ILHA GRANDE - PARTE LESTE (TERMINAL DA ILHA GUA&#xCD;BA) (1621)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1621.zip</zipfile_location>
+    <zipfile_datetime>20200419_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-42</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1622</number>
     <title>BA&#xCD;A DE SEPETIBA (1622)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2839,9 +2793,9 @@
     <number>1636</number>
     <title>PORTO DE ANGRA DOS REIS E PROXIMIDADES (1636)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1636.zip</zipfile_location>
-    <zipfile_datetime>20191009_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-09T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1636_0.zip</zipfile_location>
+    <zipfile_datetime>20200419_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-19T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-188</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2908,6 +2862,15 @@
     <ntm_edition_last_correction>2018-81</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1712</number>
+    <title>PORTO DE SANTOS (PARTE NORTE) (1712)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1712.zip</zipfile_location>
+    <zipfile_datetime>20200419_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-18</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1713</number>
     <title>PORTO DE SANTOS (PARTE SUL) (1713)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2926,13 +2889,31 @@
     <ntm_edition_last_correction>2018-139</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1820</number>
+    <title>PROXIMIDADES DA BARRA DE PARANAGU&#xC1; (1820)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1820.zip</zipfile_location>
+    <zipfile_datetime>20200418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-110</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1821</number>
     <title>BARRA DE PARANAGU&#xC1; (1821)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1821.zip</zipfile_location>
-    <zipfile_datetime>20190917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-17T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1821_0.zip</zipfile_location>
+    <zipfile_datetime>20200418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-171</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1822</number>
+    <title>PORTOS DE PARANAGU&#xC1; E ANTONINA (1822)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1822.zip</zipfile_location>
+    <zipfile_datetime>20200418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-18T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-110</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1830</number>
@@ -3338,6 +3319,15 @@
     <zipfile_datetime>20181004_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-10-04T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-120</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>221</number>
+    <title>BARRA NORTE DO RIO AMAZONAS (221)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/221.zip</zipfile_location>
+    <zipfile_datetime>20200419_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019-236</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>231</number>
