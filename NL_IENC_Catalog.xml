@@ -1,80 +1,62 @@
+<?xml version="1.0"?>
 <RncProductCatalogChartCatalogs>
   <Header>
-    <title>Netherland Inland ENC Charts</title>
-    <date_created>2018-01-05</date_created>
-    <time_created>20:15:00</time_created>
-    <date_valid>2018-01-05</date_valid>
-    <time_valid>20:15:00</time_valid>
-    <dt_valid>2018-01-05T19:15:03Z</dt_valid>
+    <title>Netherlands Inland ENC Charts</title>
+    <date_created>2020-04-30</date_created>
+    <time_created>23:56:13</time_created>
+    <date_valid>2020-04-30</date_valid>
+    <time_valid>23:56:13</time_valid>
+    <dt_valid>2020-04-30T23:56:13Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
-<!--<chart>
-  <number>1</number>
-  <title>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB</title>
-  <format>Sailing Chart, International Chart</format>
-  <zipfile_location>
-      https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2551923617
-  </zipfile_location>
-  <zipfile_datetime>20200212_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2020-02-25T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB.zip</target_filename>
-</chart>-->
-<chart>
-  <number>2</number>
-  <title>Zeeland Compleet Week 9-2020- 41 MB</title>
-  <format>Sailing Chart, International Chart</format>
-  <zipfile_location>
-    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2565254523
-  </zipfile_location>
-  <zipfile_datetime>20200225_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>20180104_U7_Inland_Reissue_NL.zip</target_filename>
-</chart>
-<chart>
-  <number>3</number>
-  <title>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB</title>
-  <format>Sailing Chart, International Chart</format>
-  <zipfile_location>
-    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2431638959
-  </zipfile_location>
-  <zipfile_datetime>20190807_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2019-08-07T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB.zip</target_filename>
-</chart>
-<chart>
-  <number>4</number>
-  <title>IENC Haven Waspik</title>
-  <format>Sailing Chart, International Chart</format>
-  <zipfile_location>
-    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371
-  </zipfile_location>
-  <zipfile_datetime>20160601_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2016-06-01T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>1R7BM000.000</target_filename>
-</chart>
-<chart>
-  <number>5</number>
-  <title>Rotterdam 2019-11-22</title>
-  <format>Sailing Chart, International Chart, detailed including depths</format>
-  <zipfile_location>
-    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2491882897
-  </zipfile_location>
-  <zipfile_datetime>20171017_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>2017-10-17T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>Rotterdam 2017-10-17.zip</target_filename>
-</chart>
-<chart>
-  <number>6</number>
-  <title>IENC Haven Geertruidenberg</title>
-  <format>Sailing Chart, International Chart (no depths) River IJssel</format>
-  <zipfile_location>
-    https://www.vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079
-  </zipfile_location>
-  <zipfile_datetime>20170222_000000</zipfile_datetime>
-  <zipfile_datetime_iso8601>20170222T00:00:00Z</zipfile_datetime_iso8601>
-  <target_filename>1R7BM000.000</target_filename>
-</chart>
+  <chart>
+    <number>0</number>
+    <title>Zeeland Compleet Week 18 - 2020 - 41MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2605065180</zipfile_location>
+    <zipfile_datetime>20200429_114502</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-04-29T11:45:02Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB (1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2551923617</zipfile_location>
+    <zipfile_datetime>20200212_151331</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-02-12T15:13:31Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>2</number>
+    <title>Rotterdam 2019-11-22 (2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2491882897</zipfile_location>
+    <zipfile_datetime>20191122_154606</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-11-22T15:46:06Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>3</number>
+    <title>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB (3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2431638959</zipfile_location>
+    <zipfile_datetime>20190807_085022</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-08-07T08:50:22Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>4</number>
+    <title>IENC Haven Geertruidenberg (4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
+    <zipfile_datetime>20170222_092945</zipfile_datetime>
+    <zipfile_datetime_iso8601>2017-02-22T09:29:45Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>5</number>
+    <title>IENC Haven Waspik (5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
+    <zipfile_datetime>20160601_083216</zipfile_datetime>
+    <zipfile_datetime_iso8601>2016-06-01T08:32:16Z</zipfile_datetime_iso8601>
+  </chart>
 </RncProductCatalogChartCatalogs>
-
