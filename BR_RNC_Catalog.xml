@@ -2070,11 +2070,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-05-16</date_created>
-    <time_created>02:08:07</time_created>
-    <date_valid>2020-05-16</date_valid>
-    <time_valid>02:08:07</time_valid>
-    <dt_valid>2020-05-16T02:08:07Z</dt_valid>
+    <date_created>2020-05-23</date_created>
+    <time_created>01:46:10</time_created>
+    <date_valid>2020-05-23</date_valid>
+    <time_valid>01:46:10</time_valid>
+    <dt_valid>2020-05-23T01:46:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2822,8 +2822,8 @@
     <title>PORTO DE ITAJA&#xCD; (1841)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841.zip</zipfile_location>
-    <zipfile_datetime>20200513_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-13T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20200520_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-20T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020-45</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2902,10 +2902,10 @@
     <number>19002_(INT.22)</number>
     <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19002.zip</zipfile_location>
-    <zipfile_datetime>20200506_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019 - 220</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19002_0.zip</zipfile_location>
+    <zipfile_datetime>20200519_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-19T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 38</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21020_(INT.2003)</number>
@@ -4297,46 +4297,46 @@
     <number>3341</number>
     <title>DA BAIA DA SUCURI AO PASSO OLIMPO (3341)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3341_0.zip</zipfile_location>
-    <zipfile_datetime>20180514_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-05-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3341.zip</zipfile_location>
+    <zipfile_datetime>20200522_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3342</number>
     <title>DE FORTE OLIMPO AO PASSO CURU&#xC7;U CANCHA (3342)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3342_0.zip</zipfile_location>
-    <zipfile_datetime>20180323_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-03-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3342.zip</zipfile_location>
+    <zipfile_datetime>20200522_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3343</number>
     <title>DO PASSO CURU&#xC7;U CANCHA &#xC0; ILHA SPENILLO (3343)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3343_0.zip</zipfile_location>
-    <zipfile_datetime>20180323_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-03-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3343.zip</zipfile_location>
+    <zipfile_datetime>20200522_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3344</number>
     <title>DA ILHA DO RABO DA EMA &#xC0; ILHA DO ALGODOAL (3344)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3344.zip</zipfile_location>
-    <zipfile_datetime>20181020_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3344_0.zip</zipfile_location>
+    <zipfile_datetime>20200522_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3345</number>
     <title>DA ILHA DO ALGODOAL &#xC0; VOLTA R&#xC1;PIDA (3345)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3345.zip</zipfile_location>
-    <zipfile_datetime>20181016_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3345_0.zip</zipfile_location>
+    <zipfile_datetime>20200522_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3350</number>
