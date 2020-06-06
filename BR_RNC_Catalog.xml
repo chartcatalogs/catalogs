@@ -244,28 +244,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'21080_(INT.2009)',
- 'title': u'DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU\xcd',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'21600_(INT.2109)',
- 'title': u'DA ILHA MAIA\xda \xc0 TUT\xd3IA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2019-8',
  'number': u'22200_(INT.2115)',
  'title': u'DE CABEDELO A MACEI\xd3',
@@ -289,34 +267,12 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'23000_(INT.2123)',
- 'title': u'DO CABO DE S\xc3O TOM\xc9 AO RIO DE JANEIRO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2020, 3, 19, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'23100_(INT.2124)',
  'title': u'DO RIO DE JANEIRO \xc0 SANTOS',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2019, 5, 21, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'23500_(INT.2128)',
- 'title': u'DE PINHAL AO RIO GRANDE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -2037,11 +1993,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-05-30</date_created>
-    <time_created>02:10:10</time_created>
-    <date_valid>2020-05-30</date_valid>
-    <time_valid>02:10:10</time_valid>
-    <dt_valid>2020-05-30T02:10:10Z</dt_valid>
+    <date_created>2020-06-06</date_created>
+    <time_created>01:51:09</time_created>
+    <date_valid>2020-06-06</date_valid>
+    <time_valid>01:51:09</time_valid>
+    <dt_valid>2020-06-06T01:51:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2947,6 +2903,15 @@
     <ntm_edition_last_correction>2020-17</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>21080_(INT.2009)</number>
+    <title>DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU&#xCD; (21080_(INT.2009))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21080.zip</zipfile_location>
+    <zipfile_datetime>20200601_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-37</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>21100_(INT.4194)</number>
     <title>DO CABO ORANGE &#xC0; PONTA TUCUM&#xC3; (21100_(INT.4194))</title>
     <format>Sailing Chart, International Chart</format>
@@ -2990,6 +2955,15 @@
     <zipfile_datetime>20190308_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-03-08T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-43</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>21600_(INT.2109)</number>
+    <title>DA ILHA MAIA&#xDA; &#xC0; TUT&#xD3;IA (21600_(INT.2109))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21600.zip</zipfile_location>
+    <zipfile_datetime>20200601_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-29</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21700_(INT.2110)</number>
@@ -3082,6 +3056,15 @@
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>23000_(INT.2123)</number>
+    <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23000.zip</zipfile_location>
+    <zipfile_datetime>20200601_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-44</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>23200_(INT.2125)</number>
     <title>DE SANTOS A PARANAGU&#xC1; (23200_(INT.2125))</title>
     <format>Sailing Chart, International Chart</format>
@@ -3107,6 +3090,15 @@
     <zipfile_datetime>20181125_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-11-25T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-20</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>23500_(INT.2128)</number>
+    <title>DE PINHAL AO RIO GRANDE (23500_(INT.2128))</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2350001.zip</zipfile_location>
+    <zipfile_datetime>20200601_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-37</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23600_(INT.2129)</number>
