@@ -157,17 +157,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1420',
- 'title': u'PROXIMIDADES DE BARRA DO RIACHO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 10, 9, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1804',
  'title': u'PORTO DE S\xc3O FRANCISCO DO SUL',
  'url': '',
@@ -460,28 +449,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2016, 7, 13, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3335',
- 'title': u'DO RIACHO GUAICURUS \xc0 ILHA SANTA MARIA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 7, 13, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3336',
- 'title': u'DA ILHA SANTA MARIA A PORTO MURTINHO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 7, 14, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1828,50 +1795,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2015-73',
- 'number': u'4413',
- 'title': u'DE ORIXIMIN\xc1 \xc0 ILHA JACITARA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 8, 3, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4414',
- 'title': u'DA ILHA JACITARA AO LAGO AXIPICA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 4, 7, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4415',
- 'title': u'DO ESTIR\xc3O DO FRAN\xc7A AO LAGO ARACU\xc3',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 4, 7, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4416',
- 'title': u'DO LAGO ARACU\xc3 AO LAGO BACABAL',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2016, 4, 7, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4417',
  'title': u'DO LAGO SAMA\xdaMA AO LAGO MUSSUR\xc1',
@@ -1905,11 +1828,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-06-20</date_created>
-    <time_created>02:08:08</time_created>
-    <date_valid>2020-06-20</date_valid>
-    <time_valid>02:08:08</time_valid>
-    <dt_valid>2020-06-20T02:08:08Z</dt_valid>
+    <date_created>2020-06-27</date_created>
+    <time_created>02:09:09</time_created>
+    <date_valid>2020-06-27</date_valid>
+    <time_valid>02:09:09</time_valid>
+    <dt_valid>2020-06-27T02:09:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2354,6 +2277,15 @@
     <zipfile_datetime>20190521_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-05-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-77</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1420</number>
+    <title>PROXIMIDADES DE BARRA DO RIACHO (1420)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1420.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-49</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1501</number>
@@ -3454,6 +3386,15 @@
     <ntm_edition_last_correction>2010-41</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4341</number>
+    <title>ESTREITOS DE BREVES E DE BOIO&#xC7;U DA ILHA SANTA HELENA &#xC0; ILHA PRACAXI (4341)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4341.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2014-215</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>4342A</number>
     <title>DA ILHA PRACAXI AO RIO DOS VEADOS (4342A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3470,6 +3411,24 @@
     <zipfile_datetime>20200510_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4343A</number>
+    <title>FURO DO TAJAPURU E DA COMPANHIA DA ILHA PRACAXI &#xC0; ILHA MUTUNQUARA (4343A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4343a.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>4343B</number>
+    <title>FUROS DO TAJAPURU, DA COMPANHIA, DO LIM&#xC3;O E ITUQUARA DA ILHA MUTUNQUARA AO CANAL DO VIEIRA (4343B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4343b.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>1994-170</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4023A</number>
@@ -3544,19 +3503,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
@@ -4253,6 +4212,24 @@
     <zipfile_datetime>20160713_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-07-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2014-HI67</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>3335</number>
+    <title>DO RIACHO GUAICURUS &#xC0; ILHA SANTA MARIA (3335)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3335.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2014-3</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>3336</number>
+    <title>DA ILHA SANTA MARIA A PORTO MURTINHO (3336)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3336.zip</zipfile_location>
+    <zipfile_datetime>20200625_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-25T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2016-8</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3340</number>
@@ -5468,6 +5445,42 @@
     <zipfile_datetime>20190222_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-02-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4413</number>
+    <title>DE ORIXIMIN&#xC1; &#xC0; ILHA JACITARA (4413)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4413_0.zip</zipfile_location>
+    <zipfile_datetime>20200624_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-11</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4414</number>
+    <title>DA ILHA JACITARA AO LAGO AXIPICA (4414)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/441401.zip</zipfile_location>
+    <zipfile_datetime>20200624_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2015-73</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4415</number>
+    <title>DO ESTIR&#xC3;O DO FRAN&#xC7;A AO LAGO ARACU&#xC3; (4415)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4415.zip</zipfile_location>
+    <zipfile_datetime>20200624_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>4416</number>
+    <title>DO LAGO ARACU&#xC3; AO LAGO BACABAL (4416)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4416.zip</zipfile_location>
+    <zipfile_datetime>20200624_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2014-156</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4418</number>
