@@ -2,22 +2,22 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2020-06-27</date_created>
-    <time_created>02:09:12</time_created>
-    <date_valid>2020-06-27</date_valid>
-    <time_valid>02:09:12</time_valid>
-    <dt_valid>2020-06-27T02:09:12Z</dt_valid>
+    <date_created>2020-07-04</date_created>
+    <time_created>02:06:10</time_created>
+    <date_valid>2020-07-04</date_valid>
+    <time_valid>02:06:10</time_valid>
+    <dt_valid>2020-07-04T02:06:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 26 - 2020 - 40MB (0)</title>
+    <title>Zeeland Compleet week 27 - 2020 - 41 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2654873463</zipfile_location>
-    <zipfile_datetime>20200623_100511</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-23T10:05:11Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2661364145</zipfile_location>
+    <zipfile_datetime>20200630_134812</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-06-30T13:48:12Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>1</number>
