@@ -69,17 +69,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'2',
- 'title': u'DO RIO DE JANEIRO PEN\xcdNSULA ANT\xc1RTICA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2015, 2, 4, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'30',
  'title': u'COSTA SUESTE DA AM\xc9RICA DO SUL',
  'url': '',
@@ -1696,11 +1685,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-07-04</date_created>
-    <time_created>02:06:07</time_created>
-    <date_valid>2020-07-04</date_valid>
-    <time_valid>02:06:07</time_valid>
-    <dt_valid>2020-07-04T02:06:07Z</dt_valid>
+    <date_created>2020-07-11</date_created>
+    <time_created>01:39:13</time_created>
+    <date_valid>2020-07-11</date_valid>
+    <time_valid>01:39:13</time_valid>
+    <dt_valid>2020-07-11T01:39:13Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1731,6 +1720,15 @@
     <zipfile_datetime>20170626_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2</number>
+    <title>DO RIO DE JANEIRO PEN&#xCD;NSULA ANT&#xC1;RTICA (2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/201.zip</zipfile_location>
+    <zipfile_datetime>20200707_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-38</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>10</number>
@@ -2060,10 +2058,10 @@
     <number>1110</number>
     <title>BA&#xCD;A DE TODOS OS SANTOS (1110)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1110.zip</zipfile_location>
-    <zipfile_datetime>20190207_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-02-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-10</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/111001.zip</zipfile_location>
+    <zipfile_datetime>20200707_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-07T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-71</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1201</number>
