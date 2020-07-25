@@ -46,17 +46,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'30',
- 'title': u'COSTA SUESTE DA AM\xc9RICA DO SUL',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2019, 4, 1, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-161',
  'number': u'1001',
  'title': u'PORTO DE BARRA DOS COQUEIROS',
@@ -64,17 +53,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2019, 2, 19, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'1103',
- 'title': u'BAIA DO ARATU E ADJAC\xcaNCIAS',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2018, 10, 9, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -278,17 +256,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3313',
- 'title': u'DA ISLA COMPARADA A VUELTA GRANDE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2009, 7, 28, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3314',
  'title': u'DA VUELTA GRANDE AO PASO CURUZU JUANITA',
  'url': '',
@@ -306,17 +273,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2009, 7, 28, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3321',
- 'title': u'DO PASO ROMERO-CU\xc9 A ISLA SAN ALFREDO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2010, 8, 24, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1663,11 +1619,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-07-18</date_created>
-    <time_created>01:42:05</time_created>
-    <date_valid>2020-07-18</date_valid>
-    <time_valid>01:42:05</time_valid>
-    <dt_valid>2020-07-18T01:42:05Z</dt_valid>
+    <date_created>2020-07-25</date_created>
+    <time_created>02:01:13</time_created>
+    <date_valid>2020-07-25</date_valid>
+    <time_valid>02:01:13</time_valid>
+    <dt_valid>2020-07-25T02:01:13Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1761,6 +1717,15 @@
     <zipfile_datetime>20190326_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-03-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-53</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>30</number>
+    <title>COSTA SUESTE DA AM&#xC9;RICA DO SUL (30)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/30.zip</zipfile_location>
+    <zipfile_datetime>20200723_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020 - 38</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>51</number>
@@ -2006,6 +1971,15 @@
     <ntm_edition_last_correction>2018-107</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1103</number>
+    <title>BAIA DO ARATU E ADJAC&#xCA;NCIAS (1103)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/110301.zip</zipfile_location>
+    <zipfile_datetime>20200720_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-20T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-66</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1104</number>
     <title>BA&#xCD;A DE TODOS OS SANTOS PARTE NORDESTE (1104)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2153,7 +2127,7 @@
     <number>1405</number>
     <title>PORTO DE A&#xC7;U (1405)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405_0.zip</zipfile_location>
     <zipfile_datetime>20191027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
@@ -3401,19 +3375,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
@@ -3995,6 +3969,15 @@
     <ntm_edition_last_correction/>
   </chart>
   <chart>
+    <number>3313</number>
+    <title>DA ISLA COMPARADA A VUELTA GRANDE (3313)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3313.zip</zipfile_location>
+    <zipfile_datetime>20200723_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
     <number>3316</number>
     <title>DA ISLA PEDERNAL AO PASO CAA-PUCU-MI (3316)</title>
     <format>Sailing Chart, International Chart</format>
@@ -4038,6 +4021,15 @@
     <zipfile_datetime>20190614_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-06-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>3321</number>
+    <title>DO PASO ROMERO-CU&#xC9; A ISLA SAN ALFREDO (3321)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3321.zip</zipfile_location>
+    <zipfile_datetime>20200723_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
   </chart>
   <chart>
     <number>3324</number>
