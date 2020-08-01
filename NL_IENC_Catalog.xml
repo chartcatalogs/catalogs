@@ -2,46 +2,46 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2020-07-25</date_created>
-    <time_created>02:01:16</time_created>
-    <date_valid>2020-07-25</date_valid>
-    <time_valid>02:01:16</time_valid>
-    <dt_valid>2020-07-25T02:01:16Z</dt_valid>
+    <date_created>2020-08-01</date_created>
+    <time_created>01:43:09</time_created>
+    <date_valid>2020-08-01</date_valid>
+    <time_valid>01:43:09</time_valid>
+    <dt_valid>2020-08-01T01:43:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 30 - 2020 - 40MB (0)</title>
+    <title>Nederland (nog te vervangen) met kaart 2020-07-30 - 3MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2680705375</zipfile_location>
-    <zipfile_datetime>20200722_172420</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-22T17:24:20Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2692360433</zipfile_location>
+    <zipfile_datetime>20200730_162808</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-30T16:28:08Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>1</number>
-    <title>Nederland (nieuwe publicatie) met kaart 2020-02-12 - 43MB (1)</title>
+    <title>Nederland (nieuwe publicatie) met kaart 2020-07-30 - 45MB (1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2551923617</zipfile_location>
-    <zipfile_datetime>20200212_151331</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-02-12T15:13:31Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2692343839</zipfile_location>
+    <zipfile_datetime>20200730_162032</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-30T16:20:32Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>2</number>
-    <title>Rotterdam 2019-11-22 (2)</title>
+    <title>20200729_U7Inland_week 31_NL_CORRECTIE (2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2692330753</zipfile_location>
+    <zipfile_datetime>20200730_084226</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-30T08:42:26Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>3</number>
+    <title>Rotterdam 2019-11-22 (3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2491882897</zipfile_location>
     <zipfile_datetime>20191122_154606</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-22T15:46:06Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
-    <number>3</number>
-    <title>Nederland (nog te vervangen) met kaart 2019-08-07 - 6MB (3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2431638959</zipfile_location>
-    <zipfile_datetime>20190807_085022</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-08-07T08:50:22Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>4</number>

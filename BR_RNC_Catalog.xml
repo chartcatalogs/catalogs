@@ -278,28 +278,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3322',
- 'title': u'DA ISLA SAN ALFREDO A ISLA SAN JUAN',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2010, 8, 24, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3323',
- 'title': u'DO PUERTO SAN JUAN AO PUERTO LA NOVIA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2010, 8, 24, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3331',
  'title': u'DA ISLA DALMACIA A ISLA SAN ROQUE',
  'url': '',
@@ -460,61 +438,6 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': datetime.datetime(2012, 4, 11, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3403',
- 'title': u'VOLTA DO ESTALEIRO E VOLTA DO TARUMEIRO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2011, 10, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3408',
- 'title': u'DO ESTIR\xc3O SUPERIOR DA BOCA DO CAR\xc1-CAR\xc1 A CANCHA DO RONCADOR',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2011, 10, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3409',
- 'title': u'ESTIR\xc3O DO RONCADOR (JUSANTE E MONTANTE)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2011, 10, 2, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3411',
- 'title': u'DO PIQUITITO OU GRAMACHO A CANCHA DO JATOBEIR\xc3O',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2011, 10, 22, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3412',
- 'title': u'DO JATOBEIR\xc3O AO MACHADINHO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2011, 10, 22, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -1619,11 +1542,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-07-25</date_created>
-    <time_created>02:01:13</time_created>
-    <date_valid>2020-07-25</date_valid>
-    <time_valid>02:01:13</time_valid>
-    <dt_valid>2020-07-25T02:01:13Z</dt_valid>
+    <date_created>2020-08-01</date_created>
+    <time_created>01:43:06</time_created>
+    <date_valid>2020-08-01</date_valid>
+    <time_valid>01:43:06</time_valid>
+    <dt_valid>2020-08-01T01:43:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -4026,9 +3949,27 @@
     <number>3321</number>
     <title>DO PASO ROMERO-CU&#xC9; A ISLA SAN ALFREDO (3321)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3321.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3321_0.zip</zipfile_location>
     <zipfile_datetime>20200723_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-07-23T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>3322</number>
+    <title>DA ISLA SAN ALFREDO A ISLA SAN JUAN (3322)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3322_1.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>3323</number>
+    <title>DO PUERTO SAN JUAN AO PUERTO LA NOVIA (3323)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3323.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction/>
   </chart>
   <chart>
@@ -4608,6 +4549,15 @@
     <ntm_edition_last_correction>2014-25</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>3403</number>
+    <title>VOLTA DO ESTALEIRO E VOLTA DO TARUMEIRO (3403)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3403.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
     <number>3404</number>
     <title>RIO CAR&#xC1;-CARAZINHO E BOCA DO FADIL (3404)</title>
     <format>Sailing Chart, International Chart</format>
@@ -4644,6 +4594,24 @@
     <ntm_edition_last_correction>2014-27</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>3408</number>
+    <title>DO ESTIR&#xC3;O SUPERIOR DA BOCA DO CAR&#xC1;-CAR&#xC1; A CANCHA DO RONCADOR (3408)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3408.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>3409</number>
+    <title>ESTIR&#xC3;O DO RONCADOR (JUSANTE E MONTANTE) (3409)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3409.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
     <number>3410</number>
     <title>ESTIR&#xC3;O CAPIT&#xC3;O FERNANDES E PASSO CAPIT&#xC3;O FERNANDES (3410)</title>
     <format>Sailing Chart, International Chart</format>
@@ -4651,6 +4619,24 @@
     <zipfile_datetime>20160826_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-08-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2014-28</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>3411</number>
+    <title>DO PIQUITITO OU GRAMACHO A CANCHA DO JATOBEIR&#xC3;O (3411)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3411.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
+  </chart>
+  <chart>
+    <number>3412</number>
+    <title>DO JATOBEIR&#xC3;O AO MACHADINHO (3412)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3412.zip</zipfile_location>
+    <zipfile_datetime>20200728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction/>
   </chart>
   <chart>
     <number>3413</number>
