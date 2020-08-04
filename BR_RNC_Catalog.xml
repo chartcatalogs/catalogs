@@ -4,6 +4,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -15,6 +16,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'25115',
+ 'target_filename': None,
  'title': u'ILHAS SHETLAND DO SUL - ILHA ELEFANTE',
  'url': '',
  'vertical_datum': None,
@@ -26,6 +28,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'25122',
+ 'target_filename': None,
  'title': u'ILHAS SHETLAND DO SUL - BA\xcdA DE MAXWELL (ILHA REI GEORGE)',
  'url': '',
  'vertical_datum': None,
@@ -37,6 +40,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -46,8 +50,69 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'2',
+ 'target_filename': None,
+ 'title': u'DO RIO DE JANEIRO PEN\xcdNSULA ANT\xc1RTICA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 7, 7, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'10',
+ 'target_filename': None,
+ 'title': u'COSTA NORDESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 28, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'20',
+ 'target_filename': None,
+ 'title': u'COSTA LESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 3, 10, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'30',
+ 'target_filename': None,
+ 'title': u'COSTA SUESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 7, 23, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'710',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DO TERMINAL DO PEC\xc9M E DO PORTO DE MUCURIPE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 28, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'2018-161',
  'number': u'1001',
+ 'target_filename': None,
  'title': u'PORTO DE BARRA DOS COQUEIROS',
  'url': '',
  'vertical_datum': None,
@@ -59,6 +124,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1406',
+ 'target_filename': None,
  'title': u'PROXIMIDADES DO PORTO DE A\xc7U',
  'url': '',
  'vertical_datum': None,
@@ -68,8 +134,81 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1511',
+ 'target_filename': None,
+ 'title': u'BARRA DO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1512',
+ 'target_filename': None,
+ 'title': u'PORTO DO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 5, 6, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1513',
+ 'target_filename': None,
+ 'title': u'TERMINAIS DA BA\xcdA DE GUANABARA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2019, 9, 4, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1607',
+ 'target_filename': None,
+ 'title': u'BA\xcdAS DA ILHA GRANDE E DE SEPETIBA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 5, 29, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1620',
+ 'target_filename': None,
+ 'title': u'DA BARRA DO RIO DE JANEIRO \xc0 ILHA GRANDE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1711',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADE DO PORTO DE SANTOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 10, 31, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1804',
+ 'target_filename': None,
  'title': u'PORTO DE S\xc3O FRANCISCO DO SUL',
  'url': '',
  'vertical_datum': None,
@@ -79,8 +218,33 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'19001_(INT.20)',
+ 'target_filename': None,
+ 'title': u'COSTA DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 29, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'19002_(INT.22)',
+ 'target_filename': None,
+ 'title': u'DA AM\xc9RICA DO SUL \xc0 \xc1FRICA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 5, 19, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'21010_(INT.4071)',
+ 'target_filename': None,
  'title': u'DE CAYENNE AO CABO GURUPI',
  'url': '',
  'vertical_datum': None,
@@ -90,8 +254,81 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21020_(INT.2003)',
+ 'target_filename': None,
+ 'title': u'DE SALIN\xd3POLIS A FORTALEZA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 5, 7, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21030_(INT.2004)',
+ 'target_filename': None,
+ 'title': u'DE FORTALEZA A NATAL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 5, 7, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21070_(INT.2008)',
+ 'target_filename': None,
+ 'title': u'DO CABO FRIO AO CABO DE SANTA MARTA GRANDE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21080_(INT.2009)',
+ 'target_filename': None,
+ 'title': u'DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU\xcd',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 6, 1, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21800_(INT.2111)',
+ 'target_filename': None,
+ 'title': u'DA PONTA DE ITAPAG\xc9 A FORTALEZA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 3, 19, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21900_(INT.2112)',
+ 'target_filename': None,
+ 'title': u'DA PONTA MACEI\xd3 AO CABO CALCANHAR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2020, 3, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'23100_(INT.2124)',
+ 'target_filename': None,
  'title': u'DO RIO DE JANEIRO \xc0 SANTOS',
  'url': '',
  'vertical_datum': None,
@@ -101,8 +338,21 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'23200_(INT.2125)',
+ 'target_filename': None,
+ 'title': u'DE SANTOS A PARANAGU\xc1',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2018, 6, 28, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -114,6 +364,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -125,6 +376,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -136,6 +388,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'4101A',
+ 'target_filename': None,
  'title': u'DE MACAP\xc1 \xc0 ILHA MANGABAL',
  'url': '',
  'vertical_datum': None,
@@ -147,6 +400,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4102B',
+ 'target_filename': None,
  'title': u'DE ALMEIRIM A PRAINHA',
  'url': '',
  'vertical_datum': None,
@@ -158,6 +412,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'4103A',
+ 'target_filename': None,
  'title': u'DE PRAINHA \xc0 COSTA DO ITUQUI',
  'url': '',
  'vertical_datum': None,
@@ -169,6 +424,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o.',
  'number': u'4103B',
+ 'target_filename': None,
  'title': u'DA COSTA DO ITUQUI \xc0 ILHA DO MEIO',
  'url': '',
  'vertical_datum': None,
@@ -180,6 +436,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -191,6 +448,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'2019-211',
  'number': u'4213',
+ 'target_filename': None,
  'title': u'DA ILHA CAROLINA \xc0 ILHA XAVIER',
  'url': '',
  'vertical_datum': None,
@@ -202,6 +460,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -213,6 +472,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -224,6 +484,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -235,6 +496,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -246,6 +508,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'3304',
+ 'target_filename': None,
  'title': u'DA ISLA ARECUTACU\xc1 A ESTANCIA OLIVARES',
  'url': '',
  'vertical_datum': None,
@@ -257,6 +520,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3314',
+ 'target_filename': None,
  'title': u'DA VUELTA GRANDE AO PASO CURUZU JUANITA',
  'url': '',
  'vertical_datum': None,
@@ -268,6 +532,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3315',
+ 'target_filename': None,
  'title': u'DO PASO CURUZU JUANITA AO PASO SAN ANTONIO',
  'url': '',
  'vertical_datum': None,
@@ -279,6 +544,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3331',
+ 'target_filename': None,
  'title': u'DA ISLA DALMACIA A ISLA SAN ROQUE',
  'url': '',
  'vertical_datum': None,
@@ -290,6 +556,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3332',
+ 'target_filename': None,
  'title': u'PUERTO VALLEMI',
  'url': '',
  'vertical_datum': None,
@@ -301,6 +568,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3334',
+ 'target_filename': None,
  'title': u'DO PORTO SASTRE \xc0 CANCHA ESTRELA',
  'url': '',
  'vertical_datum': None,
@@ -312,6 +580,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3339',
+ 'target_filename': None,
  'title': u'DA ILHA CAMB\xc1 NUP\xc1 \xc0 ILHA JOS\xc9 KIR\xc1',
  'url': '',
  'vertical_datum': None,
@@ -323,6 +592,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3346',
+ 'target_filename': None,
  'title': u'DA VOLTA R\xc1PIDA \xc0 ILHA DO CHAP\xc9U',
  'url': '',
  'vertical_datum': None,
@@ -334,6 +604,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3347',
+ 'target_filename': None,
  'title': u'DA ILHA PORTO NOVO \xc0 ILHA CAP\xc3O QUEIMADO',
  'url': '',
  'vertical_datum': None,
@@ -345,6 +616,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3349',
+ 'target_filename': None,
  'title': u'DA ILHA SEPUT\xc1 \xc0 FOZ DO RIO NEGRO',
  'url': '',
  'vertical_datum': None,
@@ -356,6 +628,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3362',
+ 'target_filename': None,
  'title': u'DA ILHA TIRA CATINGA \xc0 VOLTA BARROS',
  'url': '',
  'vertical_datum': None,
@@ -367,6 +640,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3363',
+ 'target_filename': None,
  'title': u'DA VOLTA BARROS AO PASSO DE SANTANA OU JATOB\xc1',
  'url': '',
  'vertical_datum': None,
@@ -378,6 +652,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3364',
+ 'target_filename': None,
  'title': u'DA VOLTA DO JATOB\xc1 AO PORTO ARROZAL',
  'url': '',
  'vertical_datum': None,
@@ -389,6 +664,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3392',
+ 'target_filename': None,
  'title': u'DA BOCA S\xc3O GON\xc7ALO AO ESTIR\xc3O Z\xc9 DIAS',
  'url': '',
  'vertical_datum': None,
@@ -400,6 +676,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3393',
+ 'target_filename': None,
  'title': u'DO ESTIR\xc3O Z\xc9 DIAS A BOCA INFERIOR DO CORIXO DO MOQU\xc9M',
  'url': '',
  'vertical_datum': None,
@@ -411,6 +688,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3394',
+ 'target_filename': None,
  'title': u'DA FOZ DO RIO CUIAB\xc1 AO REF\xdaGIO DAS TR\xcaS BOCAS',
  'url': '',
  'vertical_datum': None,
@@ -422,6 +700,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3395',
+ 'target_filename': None,
  'title': u'DO CORIXO DO MOQU\xc9M \xc0 BA\xcdA DO ACURIZAL',
  'url': '',
  'vertical_datum': None,
@@ -433,6 +712,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3402',
+ 'target_filename': None,
  'title': u'DA BOCA DA ANTA A VOLTA DA PRAINHA INFERIOR',
  'url': '',
  'vertical_datum': None,
@@ -444,6 +724,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'3437',
+ 'target_filename': None,
  'title': u'DO FURADO DO TUIUIU AO ESTIR\xc3O DO ALEGRE',
  'url': '',
  'vertical_datum': None,
@@ -455,6 +736,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -466,6 +748,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -477,6 +760,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o.',
  'number': u'4381A',
+ 'target_filename': None,
  'title': u'DE SANTAR\xc9M A SURUCU\xc1',
  'url': '',
  'vertical_datum': None,
@@ -488,6 +772,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4381B',
+ 'target_filename': None,
  'title': u'DE SURUCU\xc1 A AVEIRO',
  'url': '',
  'vertical_datum': None,
@@ -499,6 +784,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4382A',
+ 'target_filename': None,
  'title': u'DE AVEIRO \xc0S ILHAS DO PRADO',
  'url': '',
  'vertical_datum': None,
@@ -510,6 +796,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4382B',
+ 'target_filename': None,
  'title': u'DAS ILHAS DO PRADO \xc0 ITAITUBA',
  'url': '',
  'vertical_datum': None,
@@ -521,6 +808,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -532,6 +820,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-1',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -543,6 +832,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-2',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -554,6 +844,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-3',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -565,6 +856,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-4',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -576,6 +868,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-5',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -587,6 +880,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-6',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -598,6 +892,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-7',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -609,6 +904,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-8',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -620,6 +916,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-9',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -631,6 +928,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-10',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -642,6 +940,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-11',
+ 'target_filename': None,
  'title': u'BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -653,6 +952,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BA-BB',
+ 'target_filename': None,
  'title': u'BARIRI - BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -664,6 +964,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-1',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -675,6 +976,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-2',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -686,6 +988,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-3',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -697,6 +1000,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-4',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -708,6 +1012,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-5',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -719,6 +1024,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-6',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -730,6 +1036,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-7',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -741,6 +1048,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-8',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -752,6 +1060,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-9',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -763,6 +1072,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-10',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -774,6 +1084,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-11',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -785,6 +1096,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-12',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -796,6 +1108,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-13',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -807,6 +1120,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-14',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -818,6 +1132,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'BB-15',
+ 'target_filename': None,
  'title': u'BARRA BONITA',
  'url': '',
  'vertical_datum': None,
@@ -829,6 +1144,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-1',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -840,6 +1156,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-2',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -851,6 +1168,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-3',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -862,6 +1180,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-4',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -873,6 +1192,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-5',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -884,6 +1204,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-6',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -895,6 +1216,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-7',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -906,6 +1228,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-8',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -917,6 +1240,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-9',
+ 'target_filename': None,
  'title': u'IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -928,6 +1252,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'IB-BA',
+ 'target_filename': None,
  'title': u'IBITINGA - BARIRI',
  'url': '',
  'vertical_datum': None,
@@ -939,6 +1264,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-1',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -950,6 +1276,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-2',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -961,6 +1288,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-3',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -972,6 +1300,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-4',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -983,6 +1312,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-5',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -994,6 +1324,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-6',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -1005,6 +1336,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-7',
+ 'target_filename': None,
  'title': u'JUPI\xc1',
  'url': '',
  'vertical_datum': None,
@@ -1016,6 +1348,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'JU-TI',
+ 'target_filename': None,
  'title': u'JUPI\xc1 - TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1027,6 +1360,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'NA-1',
+ 'target_filename': None,
  'title': u'NOVA AVANHANDAVA',
  'url': '',
  'vertical_datum': None,
@@ -1038,6 +1372,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'NA-2',
+ 'target_filename': None,
  'title': u'NOVA AVANHANDAVA',
  'url': '',
  'vertical_datum': None,
@@ -1049,6 +1384,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'NA-3',
+ 'target_filename': None,
  'title': u'NOVA AVANHANDAVA',
  'url': '',
  'vertical_datum': None,
@@ -1060,6 +1396,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'NA-4',
+ 'target_filename': None,
  'title': u'NOVA AVANHANDAVA',
  'url': '',
  'vertical_datum': None,
@@ -1071,6 +1408,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'NA-PR',
+ 'target_filename': None,
  'title': u'NOVA AVANHANDAVA - PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1082,6 +1420,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PB-1',
+ 'target_filename': None,
  'title': u'CANAL PEREIRA BARRETO',
  'url': '',
  'vertical_datum': None,
@@ -1093,6 +1432,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PB-2',
+ 'target_filename': None,
  'title': u'CANAL PEREIRA BARRETO',
  'url': '',
  'vertical_datum': None,
@@ -1104,6 +1444,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PB-3',
+ 'target_filename': None,
  'title': u'CANAL PEREIRA BARRETO',
  'url': '',
  'vertical_datum': None,
@@ -1115,6 +1456,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PB-4',
+ 'target_filename': None,
  'title': u'CANAL PEREIRA BARRETO',
  'url': '',
  'vertical_datum': None,
@@ -1126,6 +1468,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-1',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1137,6 +1480,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-2',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1148,6 +1492,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-3',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1159,6 +1504,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-4',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1170,6 +1516,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-5',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1181,6 +1528,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-6',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1192,6 +1540,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-7',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1203,6 +1552,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-8',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1214,6 +1564,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-9',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1225,6 +1576,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-10',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O',
  'url': '',
  'vertical_datum': None,
@@ -1236,6 +1588,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'PR-IB',
+ 'target_filename': None,
  'title': u'PROMISS\xc3O - IBITINGA',
  'url': '',
  'vertical_datum': None,
@@ -1247,6 +1600,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'RP-1',
+ 'target_filename': None,
  'title': u'RIO PIRACICABA',
  'url': '',
  'vertical_datum': None,
@@ -1258,6 +1612,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'RP-2',
+ 'target_filename': None,
  'title': u'RIO PIRACICABA',
  'url': '',
  'vertical_datum': None,
@@ -1269,6 +1624,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-1',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1280,6 +1636,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-2',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1291,6 +1648,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-3',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1302,6 +1660,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-4',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1313,6 +1672,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-5',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1324,6 +1684,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'SJD-6',
+ 'target_filename': None,
  'title': u'S\xc3O JOS\xc9 DOS DOURADOS',
  'url': '',
  'vertical_datum': None,
@@ -1335,6 +1696,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-1',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1346,6 +1708,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-2',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1357,6 +1720,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-3',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1368,6 +1732,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-4',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1379,6 +1744,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-5',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1390,6 +1756,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-6',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1401,6 +1768,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-7',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1412,6 +1780,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-8',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1423,6 +1792,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-9',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1434,6 +1804,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-10',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1445,6 +1816,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-11',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1456,6 +1828,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-12',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS',
  'url': '',
  'vertical_datum': None,
@@ -1467,6 +1840,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'-',
  'number': u'TI-NA',
+ 'target_filename': None,
  'title': u'TR\xcaS IRM\xc3OS - NOVA AVANHANDAVA',
  'url': '',
  'vertical_datum': None,
@@ -1478,6 +1852,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -1489,6 +1864,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -1500,6 +1876,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4411',
+ 'target_filename': None,
  'title': u'DA FOZ DO RIO TROMBETAS AO LAGO QUIRIQUIRI',
  'url': '',
  'vertical_datum': None,
@@ -1511,6 +1888,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4412',
+ 'target_filename': None,
  'title': u'DO LAGO QUIRIQUIRI AO LAGO PARU',
  'url': '',
  'vertical_datum': None,
@@ -1522,6 +1900,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
+ 'target_filename': None,
  'title': '',
  'url': '',
  'vertical_datum': None,
@@ -1533,6 +1912,7 @@
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'4361A',
+ 'target_filename': None,
  'title': u'DA I. DE URUCURICAIA \xc0 PTA. ITAPINIMA',
  'url': '',
  'vertical_datum': None,
@@ -1542,11 +1922,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-08-01</date_created>
-    <time_created>01:43:06</time_created>
-    <date_valid>2020-08-01</date_valid>
-    <time_valid>01:43:06</time_valid>
-    <dt_valid>2020-08-01T01:43:06Z</dt_valid>
+    <date_created>2020-08-04</date_created>
+    <time_created>21:30:23</time_created>
+    <date_valid>2020-08-04</date_valid>
+    <time_valid>21:30:23</time_valid>
+    <dt_valid>2020-08-04T21:30:23Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1597,24 +1977,6 @@
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>2</number>
-    <title>DO RIO DE JANEIRO PEN&#xCD;NSULA ANT&#xC1;RTICA (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/201.zip</zipfile_location>
-    <zipfile_datetime>20200707_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-38</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>10</number>
-    <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/10.zip</zipfile_location>
-    <zipfile_datetime>20200628_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-220</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>11</number>
     <title>ARQUIPELAGO DE S&#xC3;O PEDRO E S&#xC3;O PAULO (11)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1624,15 +1986,6 @@
     <ntm_edition_last_correction>2019-52</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>20</number>
-    <title>COSTA LESTE DA AM&#xC9;RICA DO SUL (20)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/20.zip</zipfile_location>
-    <zipfile_datetime>20200310_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-03-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019 - 220</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>21</number>
     <title>ILHA DA TRINDADE (21)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1640,15 +1993,6 @@
     <zipfile_datetime>20190326_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-03-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-53</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>30</number>
-    <title>COSTA SUESTE DA AM&#xC9;RICA DO SUL (30)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/30.zip</zipfile_location>
-    <zipfile_datetime>20200723_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 38</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>51</number>
@@ -1766,15 +2110,6 @@
     <zipfile_datetime>20180914_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-18</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>710</number>
-    <title>PROXIMIDADES DO TERMINAL DO PEC&#xC9;M E DO PORTO DE MUCURIPE (710)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/710.zip</zipfile_location>
-    <zipfile_datetime>20200628_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-40</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>720</number>
@@ -2137,33 +2472,6 @@
     <ntm_edition_last_correction>2017-126</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1511</number>
-    <title>BARRA DO RIO DE JANEIRO (1511)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1511.zip</zipfile_location>
-    <zipfile_datetime>20200616_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-59</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1512</number>
-    <title>PORTO DO RIO DE JANEIRO (1512)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512.zip</zipfile_location>
-    <zipfile_datetime>20200506_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-03</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1513</number>
-    <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1513.zip</zipfile_location>
-    <zipfile_datetime>20190904_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1515</number>
     <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2189,24 +2497,6 @@
     <zipfile_datetime>20191027_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1607</number>
-    <title>BA&#xCD;AS DA ILHA GRANDE E DE SEPETIBA (1607)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1607.zip</zipfile_location>
-    <zipfile_datetime>20200529_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-42</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1620</number>
-    <title>DA BARRA DO RIO DE JANEIRO &#xC0; ILHA GRANDE (1620)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1620.zip</zipfile_location>
-    <zipfile_datetime>20200616_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-44</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1621</number>
@@ -2342,15 +2632,6 @@
     <zipfile_datetime>20181101_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-11-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2018-138</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1711</number>
-    <title>PROXIMIDADE DO PORTO DE SANTOS (1711)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1711.zip</zipfile_location>
-    <zipfile_datetime>20181031_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-81</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1712</number>
@@ -2497,24 +2778,6 @@
     <ntm_edition_last_correction>2016-83</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>19001_(INT.20)</number>
-    <title>COSTA DA AM&#xC9;RICA DO SUL (19001_(INT.20))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1900101.zip</zipfile_location>
-    <zipfile_datetime>20200629_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-38</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>19002_(INT.22)</number>
-    <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19002_0.zip</zipfile_location>
-    <zipfile_datetime>20200519_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 38</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>19400_(INT.215)</number>
     <title>DO RECIFE A DACAR (19400_(INT.215))</title>
     <format>Sailing Chart, International Chart</format>
@@ -2522,24 +2785,6 @@
     <zipfile_datetime>20200617_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-06-17T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020-38</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21020_(INT.2003)</number>
-    <title>DE SALIN&#xD3;POLIS A FORTALEZA (21020_(INT.2003))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21020.zip</zipfile_location>
-    <zipfile_datetime>20200507_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-38</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21030_(INT.2004)</number>
-    <title>DE FORTALEZA A NATAL (21030_(INT.2004))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21030_1.zip</zipfile_location>
-    <zipfile_datetime>20200507_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019 - 220</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21040_(INT.2005)</number>
@@ -2567,24 +2812,6 @@
     <zipfile_datetime>20200515_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020-17</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21070_(INT.2008)</number>
-    <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070.zip</zipfile_location>
-    <zipfile_datetime>20200616_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-17</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21080_(INT.2009)</number>
-    <title>DO CABO DE SANTA MARTA GRANDE AO ARROIO CHU&#xCD; (21080_(INT.2009))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21080.zip</zipfile_location>
-    <zipfile_datetime>20200601_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-37</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21100_(INT.4194)</number>
@@ -2648,24 +2875,6 @@
     <zipfile_datetime>20190212_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-02-12T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-25</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21800_(INT.2111)</number>
-    <title>DA PONTA DE ITAPAG&#xC9; A FORTALEZA (21800_(INT.2111))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21800.zip</zipfile_location>
-    <zipfile_datetime>20200319_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-03-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019 - 220</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21900_(INT.2112)</number>
-    <title>DA PONTA MACEI&#xD3; AO CABO CALCANHAR (21900_(INT.2112))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21900.zip</zipfile_location>
-    <zipfile_datetime>20200316_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-03-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019 - 220</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22000_(INT.2113)</number>
@@ -2756,15 +2965,6 @@
     <zipfile_datetime>20200601_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-06-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020-44</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>23200_(INT.2125)</number>
-    <title>DE SANTOS A PARANAGU&#xC1; (23200_(INT.2125))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23200.zip</zipfile_location>
-    <zipfile_datetime>20180628_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-06-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-81</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23300_(INT.2126)</number>
@@ -3298,19 +3498,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217_0.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
