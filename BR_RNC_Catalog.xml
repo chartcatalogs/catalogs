@@ -1370,11 +1370,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-10-03</date_created>
-    <time_created>01:56:11</time_created>
-    <date_valid>2020-10-03</date_valid>
-    <time_valid>01:56:11</time_valid>
-    <dt_valid>2020-10-03T01:56:11Z</dt_valid>
+    <date_created>2020-10-08</date_created>
+    <time_created>21:20:38</time_created>
+    <date_valid>2020-10-08</date_valid>
+    <time_valid>21:20:38</time_valid>
+    <dt_valid>2020-10-08T21:20:38Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -3462,7 +3462,7 @@
     <number>4744</number>
     <title>DO FURO DO PURUZINHO &#xC0; HUMAITA (4744)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4744.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4744_0.zip</zipfile_location>
     <zipfile_datetime>20191001_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-133</ntm_edition_last_correction>
@@ -3849,7 +3849,7 @@
     <number>3325</number>
     <title>DA ISLA SAN CARLOS A ISLA PIQUETE-CAMB&#xC1; (3325)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3325.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3325_0.zip</zipfile_location>
     <zipfile_datetime>20200513_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
