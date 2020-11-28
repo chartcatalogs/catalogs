@@ -1238,11 +1238,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2020-11-21</date_created>
-    <time_created>02:09:05</time_created>
-    <date_valid>2020-11-21</date_valid>
-    <time_valid>02:09:05</time_valid>
-    <dt_valid>2020-11-21T02:09:05Z</dt_valid>
+    <date_created>2020-11-28</date_created>
+    <time_created>02:50:13</time_created>
+    <date_valid>2020-11-28</date_valid>
+    <time_valid>02:50:13</time_valid>
+    <dt_valid>2020-11-28T02:50:13Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2638,8 +2638,8 @@
     <title>DE ITAPU&#xC3; A PORTO ALEGRE (2111)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2111.zip</zipfile_location>
-    <zipfile_datetime>20191027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20201123_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-11-23T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-193</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -5451,15 +5451,6 @@
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20200914_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5467,5 +5458,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20200914_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
