@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2021-02-20</date_created>
-    <time_created>02:38:06</time_created>
-    <date_valid>2021-02-20</date_valid>
-    <time_valid>02:38:06</time_valid>
-    <dt_valid>2021-02-20T02:38:06Z</dt_valid>
+    <date_created>2021-02-27</date_created>
+    <time_created>02:27:11</time_created>
+    <date_valid>2021-02-27</date_valid>
+    <time_valid>02:27:11</time_valid>
+    <dt_valid>2021-02-27T02:27:11Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 7 &#x2013; 2021 &#x2013; 39 MB (0)</title>
+    <title>Nederland (excl Zeeland) met kaart 2021-02-26 - 49MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2862230043</zipfile_location>
-    <zipfile_datetime>20210216_085650</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-16T08:56:50Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 7 &#x2013; 2021 &#x2013; 39 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2872734197</zipfile_location>
+    <zipfile_datetime>20210226_105047</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-02-26T10:50:47Z</zipfile_datetime_iso8601>
+    <target_filename>Nederland (excl Zeeland) met kaart 2021-02-26 - 49MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>Nederland (excl Zeeland) met kaart 2021-02-11 - 49MB (1)</title>
+    <title>Zeeland Compleet Week 08-2021-40MB (1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2859176146</zipfile_location>
-    <zipfile_datetime>20210211_172327</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-11T17:23:27Z</zipfile_datetime_iso8601>
-    <target_filename>Nederland (excl Zeeland) met kaart 2021-02-11 - 49MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2869729558</zipfile_location>
+    <zipfile_datetime>20210223_104240</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-02-23T10:42:40Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 08-2021-40MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
