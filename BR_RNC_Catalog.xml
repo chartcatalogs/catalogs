@@ -26,6 +26,54 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'10',
+ 'target_filename': None,
+ 'title': u'COSTA NORDESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'20',
+ 'target_filename': None,
+ 'title': u'COSTA LESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'701',
+ 'target_filename': None,
+ 'title': u'PORTO DE MUCURIPE (Fortaleza)',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'710',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DO TERMINAL DO PEC\xc9M E DO PORTO DE MUCURIPE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1507',
  'target_filename': None,
@@ -54,6 +102,114 @@
  'number': u'1830',
  'target_filename': None,
  'title': u'PROXIMIDADES DO PORTO DE S\xc3O FRANCISCO DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'19001_(INT.20)',
+ 'target_filename': None,
+ 'title': u'COSTA DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'19002_(INT.22)',
+ 'target_filename': None,
+ 'title': u'DA AM\xc9RICA DO SUL \xc0 \xc1FRICA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'19400_(INT.215)',
+ 'target_filename': None,
+ 'title': u'DO RECIFE A DACAR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'21020_(INT.2003)',
+ 'target_filename': None,
+ 'title': u'DE SALIN\xd3POLIS A FORTALEZA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'21030_(INT.2004)',
+ 'target_filename': None,
+ 'title': u'DE FORTALEZA A NATAL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'21040_(INT.2005)',
+ 'target_filename': None,
+ 'title': u'DE NATAL AO RIO ITARIRI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'21800_(INT.2111)',
+ 'target_filename': None,
+ 'title': u'DA PONTA DE ITAPAG\xc9 A FORTALEZA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'21900_(INT.2112)',
+ 'target_filename': None,
+ 'title': u'DA PONTA MACEI\xd3 AO CABO CALCANHAR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
+ 'number': u'22000_(INT.2113)',
+ 'target_filename': None,
+ 'title': u'ATOL DAS ROCAS E ARQUIP\xc9LAGO DE FERNANDO DE NORONHA',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -1310,11 +1466,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-02-27</date_created>
-    <time_created>02:27:08</time_created>
-    <date_valid>2021-02-27</date_valid>
-    <time_valid>02:27:08</time_valid>
-    <dt_valid>2021-02-27T02:27:08Z</dt_valid>
+    <date_created>2021-03-06</date_created>
+    <time_created>02:30:07</time_created>
+    <date_valid>2021-03-06</date_valid>
+    <time_valid>02:30:07</time_valid>
+    <dt_valid>2021-03-06T02:30:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1392,15 +1548,6 @@
     <ntm_edition_last_correction>2020-94</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>10</number>
-    <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/10.zip</zipfile_location>
-    <zipfile_datetime>20200923_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>11</number>
     <title>ARQUIPELAGO DE S&#xC3;O PEDRO E S&#xC3;O PAULO (11)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1408,15 +1555,6 @@
     <zipfile_datetime>20190415_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-04-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-52</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>20</number>
-    <title>COSTA LESTE DA AM&#xC9;RICA DO SUL (20)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/20.zip</zipfile_location>
-    <zipfile_datetime>20201108_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-11-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-103</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21</number>
@@ -1518,15 +1656,6 @@
     <ntm_edition_last_correction>2006-146</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>701</number>
-    <title>PORTO DE MUCURIPE (Fortaleza) (701)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/701.zip</zipfile_location>
-    <zipfile_datetime>20201019_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-10-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>702</number>
     <title>PORTO DE MACAU (702)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1552,15 +1681,6 @@
     <zipfile_datetime>20180914_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-18</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>710</number>
-    <title>PROXIMIDADES DO TERMINAL DO PEC&#xC9;M E DO PORTO DE MUCURIPE (710)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/710.zip</zipfile_location>
-    <zipfile_datetime>20210107_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-01-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-122</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>711</number>
@@ -2283,33 +2403,6 @@
     <ntm_edition_last_correction>2020-87</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>19001_(INT.20)</number>
-    <title>COSTA DA AM&#xC9;RICA DO SUL (19001_(INT.20))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19001.zip</zipfile_location>
-    <zipfile_datetime>20200924_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>19002_(INT.22)</number>
-    <title>DA AM&#xC9;RICA DO SUL &#xC0; &#xC1;FRICA (19002_(INT.22))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19002.zip</zipfile_location>
-    <zipfile_datetime>20200924_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>19400_(INT.215)</number>
-    <title>DO RECIFE A DACAR (19400_(INT.215))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/19400.zip</zipfile_location>
-    <zipfile_datetime>20200924_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>21010_(INT.4071)</number>
     <title>DE CAYENNE AO CABO GURUPI (21010_(INT.4071))</title>
     <format>Sailing Chart, International Chart</format>
@@ -2317,33 +2410,6 @@
     <zipfile_datetime>20201110_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-11-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020-79</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21020_(INT.2003)</number>
-    <title>DE SALIN&#xD3;POLIS A FORTALEZA (21020_(INT.2003))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21020.zip</zipfile_location>
-    <zipfile_datetime>20201001_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-10-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21030_(INT.2004)</number>
-    <title>DE FORTALEZA A NATAL (21030_(INT.2004))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21030.zip</zipfile_location>
-    <zipfile_datetime>20201110_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-11-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21040_(INT.2005)</number>
-    <title>DE NATAL AO RIO ITARIRI (21040_(INT.2005))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21040.zip</zipfile_location>
-    <zipfile_datetime>20201110_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-11-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-106</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21050_(INT.2006)</number>
@@ -2443,33 +2509,6 @@
     <zipfile_datetime>20190212_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-02-12T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-25</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21800_(INT.2111)</number>
-    <title>DA PONTA DE ITAPAG&#xC9; A FORTALEZA (21800_(INT.2111))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21800.zip</zipfile_location>
-    <zipfile_datetime>20210108_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-01-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-122</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21900_(INT.2112)</number>
-    <title>DA PONTA MACEI&#xD3; AO CABO CALCANHAR (21900_(INT.2112))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21900.zip</zipfile_location>
-    <zipfile_datetime>20200819_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-08-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-79</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>22000_(INT.2113)</number>
-    <title>ATOL DAS ROCAS E ARQUIP&#xC9;LAGO DE FERNANDO DE NORONHA (22000_(INT.2113))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22000.zip</zipfile_location>
-    <zipfile_datetime>20200923_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-90</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22100_(INT.2114)</number>
@@ -2854,9 +2893,9 @@
     <title>DAS ILHAS DO CALDER&#xC3;O &#xC0; PARAN&#xC1; DO RAMOS (4025)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4025.zip</zipfile_location>
-    <zipfile_datetime>20181015_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_datetime>20210303_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-03-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-25</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4026</number>
@@ -3070,9 +3109,9 @@
     <title>DA FOZ DO RIO JARI A VIDA NOVA (4211)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4211.zip</zipfile_location>
-    <zipfile_datetime>20180115_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-01-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_datetime>20210301_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-03-01T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2019 - 211</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4212</number>
@@ -5478,15 +5517,6 @@
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20200914_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5494,5 +5524,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20200914_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
