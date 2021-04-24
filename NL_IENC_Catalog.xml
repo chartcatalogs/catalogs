@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2021-04-17</date_created>
-    <time_created>01:59:07</time_created>
-    <date_valid>2021-04-17</date_valid>
-    <time_valid>01:59:07</time_valid>
-    <dt_valid>2021-04-17T01:59:07Z</dt_valid>
+    <date_created>2021-04-24</date_created>
+    <time_created>01:33:12</time_created>
+    <date_valid>2021-04-24</date_valid>
+    <time_valid>01:33:12</time_valid>
+    <dt_valid>2021-04-24T01:33:12Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland) met kaart 2021-04-13 - 49MB (0)</title>
+    <title>Nederland (excl Zeeland) met kaart 2021-04-22 - 48MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2908473391</zipfile_location>
-    <zipfile_datetime>20210413_153953</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-13T15:39:53Z</zipfile_datetime_iso8601>
-    <target_filename>Nederland (excl Zeeland) met kaart 2021-04-13 - 49MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2914420725</zipfile_location>
+    <zipfile_datetime>20210422_145125</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-22T14:51:25Z</zipfile_datetime_iso8601>
+    <target_filename>Nederland (excl Zeeland) met kaart 2021-04-22 - 48MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>Zeeland Compleet Week 15 &#x2013; 2021 &#x2013; 39 MB (1)</title>
+    <title>Zeeland Compleet Week 16 - 2021 - 40 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2908457769</zipfile_location>
-    <zipfile_datetime>20210413_105759</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-13T10:57:59Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 15 &#x2013; 2021 &#x2013; 39 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2912952233</zipfile_location>
+    <zipfile_datetime>20210420_114421</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-20T11:44:21Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 16 - 2021 - 40 MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
