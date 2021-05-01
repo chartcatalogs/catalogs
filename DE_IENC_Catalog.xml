@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>DE IENC Charts</title>
-    <date_created>2021-04-24</date_created>
-    <time_created>01:33:09</time_created>
-    <date_valid>2021-04-24</date_valid>
-    <time_valid>01:33:09</time_valid>
-    <dt_valid>2021-04-24T01:33:09Z</dt_valid>
+    <date_created>2021-05-01</date_created>
+    <time_created>01:31:23</time_created>
+    <date_valid>2021-05-01</date_valid>
+    <time_valid>01:31:23</time_valid>
+    <dt_valid>2021-05-01T01:31:23Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -20,12 +20,20 @@
     <zipfile_datetime_iso8601>2021-02-01T23:46:02Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
+    <number>11</number>
+    <title>Datteln-Hamm-Kanal (11)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW11_2021-03-16_0_47.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
     <number>31</number>
     <title>Rhein (31)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW31_2020-06-24_310_865.zip</zipfile_location>
-    <zipfile_datetime>20200707_234502</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-07T23:45:02Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW31_2021-03-19_310_865.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>77</number>
@@ -34,6 +42,14 @@
     <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW77_2020-12-03_3_28.zip</zipfile_location>
     <zipfile_datetime>20210201_234602</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-02-01T23:46:02Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>27</number>
+    <title>Wesel-Datteln-Kanal (27)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW27_2021-03-17_0_60.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>28</number>
@@ -52,6 +68,14 @@
     <zipfile_datetime_iso8601>2021-02-01T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
+    <number>23</number>
+    <title>Ruhr (23)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW23_2021-03-17_0_12.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
     <number>30</number>
     <title>Neckar (30)</title>
     <format>Sailing Chart, International Chart</format>
@@ -68,12 +92,12 @@
     <zipfile_datetime_iso8601>2018-07-13T11:20:36Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>82</number>
-    <title>Untere Havel-Wasserstra&#xDF;e (Spandau - Plaue) (82)</title>
+    <number>10</number>
+    <title>Teltowkanal (10)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW82_2020-11-26_0_69.zip</zipfile_location>
-    <zipfile_datetime>20210201_234602</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-01T23:46:02Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW107_2021-04-21_0_37.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>70</number>
@@ -98,14 +122,6 @@
     <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW32_2019-09-25_0_104.zip</zipfile_location>
     <zipfile_datetime>20191015_090926</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-15T09:09:26Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
-    <number>11</number>
-    <title>Datteln-Hamm-Kanal (11)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW11_2020-12-22_0_47.zip</zipfile_location>
-    <zipfile_datetime>20210201_234601</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-01T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>13</number>
@@ -140,20 +156,12 @@
     <zipfile_datetime_iso8601>2020-04-06T23:45:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>10</number>
-    <title>Teltowkanal (10)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW107_2020-06-17_0_37.zip</zipfile_location>
-    <zipfile_datetime>20200707_234501</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-07T23:45:01Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
     <number>18</number>
     <title>K&#xFC;stenkanal (18)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW18_2020-06-23_0_70.zip</zipfile_location>
-    <zipfile_datetime>20200707_234501</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-07-07T23:45:01Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW18_2021-03-17_0_70.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>29</number>
@@ -188,20 +196,12 @@
     <zipfile_datetime_iso8601>2021-02-01T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>27</number>
-    <title>Wesel-Datteln-Kanal (27)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW27_2020-12-22_0_60.zip</zipfile_location>
-    <zipfile_datetime>20210201_234601</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-01T23:46:01Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
     <number>21</number>
     <title>Rhein-Herne-Kanal (21)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW21_2020-09-29_10_45.zip</zipfile_location>
-    <zipfile_datetime>20201005_234601</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-10-05T23:46:01Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW21_2021-03-30_10_45.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>33</number>
@@ -268,14 +268,6 @@
     <zipfile_datetime_iso8601>2020-10-05T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>23</number>
-    <title>Ruhr (23)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW23_2020-09-29_0_12.zip</zipfile_location>
-    <zipfile_datetime>20201005_234601</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-10-05T23:46:01Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
     <number>35</number>
     <title>Main-Donau-Kanal (35)</title>
     <format>Sailing Chart, International Chart</format>
@@ -287,17 +279,25 @@
     <number>12</number>
     <title>Dortmund-Ems-Kanal (12)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW12_2020-12-22_0_226.zip</zipfile_location>
-    <zipfile_datetime>20210201_234601</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-01T23:46:01Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW12_2021-04-12_0_226.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>66</number>
     <title>Saale (66)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW66_2020-12-11_5_85.zip</zipfile_location>
-    <zipfile_datetime>20210201_234602</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-02-01T23:46:02Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW66_2021-03-29_5_85.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>82</number>
+    <title>Untere Havel-Wasserstra&#xDF;e (Spandau - Plaue) (82)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW82_2021-03-31_0_69.zip</zipfile_location>
+    <zipfile_datetime>20210426_234601</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-04-26T23:46:01Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>43</number>
