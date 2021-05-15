@@ -182,6 +182,30 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1908',
+ 'target_filename': None,
+ 'title': u'PORTO DE IMBITUBA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1910',
+ 'target_filename': None,
+ 'title': u'DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'21070_(INT.2008)',
  'target_filename': None,
@@ -1502,11 +1526,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-05-08</date_created>
-    <time_created>01:40:06</time_created>
-    <date_valid>2021-05-08</date_valid>
-    <time_valid>01:40:06</time_valid>
-    <dt_valid>2021-05-08T01:40:06Z</dt_valid>
+    <date_created>2021-05-15</date_created>
+    <time_created>01:10:10</time_created>
+    <date_valid>2021-05-15</date_valid>
+    <time_valid>01:10:10</time_valid>
+    <dt_valid>2021-05-15T01:10:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2340,24 +2364,6 @@
     <ntm_edition_last_correction>2021-42</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1908</number>
-    <title>PORTO DE IMBITUBA (1908)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1908.zip</zipfile_location>
-    <zipfile_datetime>20190531_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-05-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-95</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1910</number>
-    <title>DA ILHA DE CORAL AO CABO DE SANTA MARTA GRANDE (1910)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1910.zip</zipfile_location>
-    <zipfile_datetime>20190805_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-08-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-144</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>2010</number>
     <title>PROXIMIDADES DE TRAMANDA&#xCD; (2010)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3109,9 +3115,9 @@
     <title>PARAN&#xC1; DE SANTA RITA (4023A)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023a.zip</zipfile_location>
-    <zipfile_datetime>20190626_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-06-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction/>
+    <zipfile_datetime>20210510_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4032A</number>
@@ -4038,7 +4044,7 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3341.zip</zipfile_location>
     <zipfile_datetime>20200522_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2020 - 1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3342</number>
@@ -4047,25 +4053,25 @@
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3342.zip</zipfile_location>
     <zipfile_datetime>20200522_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
+    <ntm_edition_last_correction>2020 - 3</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3343</number>
     <title>DO PASSO CURU&#xC7;U CANCHA &#xC0; ILHA SPENILLO (3343)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3343.zip</zipfile_location>
-    <zipfile_datetime>20200522_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
+    <zipfile_datetime>20210508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3344</number>
     <title>DA ILHA DO RABO DA EMA &#xC0; ILHA DO ALGODOAL (3344)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3344.zip</zipfile_location>
-    <zipfile_datetime>20200522_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020 - 4</ntm_edition_last_correction>
+    <zipfile_datetime>20210508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021 - 4</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3345</number>
@@ -4216,9 +4222,9 @@
     <title>DA ILHA DA MANGA &#xC0; ILHA TIRA CATINGA (3361)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3361.zip</zipfile_location>
-    <zipfile_datetime>20180404_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-04-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-HI4</ntm_edition_last_correction>
+    <zipfile_datetime>20210508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3362</number>
@@ -4909,9 +4915,9 @@
     <title>DA BOCA DO ALEGRE AO PASSO PASSAGEM VELHA (3438)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3438.zip</zipfile_location>
-    <zipfile_datetime>20170706_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-07-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_datetime>20210508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>11-2018</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3439</number>
@@ -4927,9 +4933,9 @@
     <title>DA FAZENDA S&#xC3;O MATEUS A CANCHA PIUVAL (3440)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3440.zip</zipfile_location>
-    <zipfile_datetime>20161125_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_datetime>20210508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>11 - 2018</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3441</number>
