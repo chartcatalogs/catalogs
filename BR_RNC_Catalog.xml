@@ -38,6 +38,18 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1101',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DO PORTO DE SALVADOR',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1101.zip',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1401',
  'target_filename': None,
@@ -55,6 +67,30 @@
  'target_filename': None,
  'title': u'DO PONTAL DA REG\xcaNCIA \xc0 PONTA DO UBU',
  'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1405',
+ 'target_filename': None,
+ 'title': u'PORTO DE A\xc7U',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405.zip',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1410',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DOS PORTOS DE VITORIA E TUBAR\xc3O',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1410.zip',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
@@ -175,6 +211,18 @@
  'target_filename': None,
  'title': u'BA\xcdA DA RIBEIRA',
  'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1841',
+ 'target_filename': None,
+ 'title': u'PORTO DE ITAJA\xcd',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841.zip',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
@@ -319,6 +367,42 @@
  'target_filename': None,
  'title': '',
  'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'204',
+ 'target_filename': None,
+ 'title': u'DAS ILHAS PEDREIRA \xc0 ILHA DE SANTANA',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/204.zip',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'206',
+ 'target_filename': None,
+ 'title': u'CANAL DE SANTANA',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/206.zip',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'242',
+ 'target_filename': None,
+ 'title': u'DA ILHA DOS PORCOS \xc0 BA\xcdA DO VIEIRA GRANDE',
+ 'url': u'https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/242.zip',
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
@@ -1526,11 +1610,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-05-15</date_created>
-    <time_created>01:10:10</time_created>
-    <date_valid>2021-05-15</date_valid>
-    <time_valid>01:10:10</time_valid>
-    <dt_valid>2021-05-15T01:10:10Z</dt_valid>
+    <date_created>2021-05-22</date_created>
+    <time_created>01:52:16</time_created>
+    <date_valid>2021-05-22</date_valid>
+    <time_valid>01:52:16</time_valid>
+    <dt_valid>2021-05-22T01:52:16Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1887,15 +1971,6 @@
     <ntm_edition_last_correction>2009-181</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1101</number>
-    <title>PROXIMIDADES DO PORTO DE SALVADOR (1101)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1101.zip</zipfile_location>
-    <zipfile_datetime>20210107_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-01-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-130</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1102</number>
     <title>PORTO DE SALVADOR (1102)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2040,15 +2115,6 @@
     <ntm_edition_last_correction>2019-181</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1405</number>
-    <title>PORTO DE A&#xC7;U (1405)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405.zip</zipfile_location>
-    <zipfile_datetime>20191027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-194</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1406</number>
     <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2056,15 +2122,6 @@
     <zipfile_datetime>20200824_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-08-24T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-222</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1410</number>
-    <title>PROXIMIDADES DOS PORTOS DE VITORIA E TUBAR&#xC3;O (1410)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1410.zip</zipfile_location>
-    <zipfile_datetime>20210414_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-55</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1501</number>
@@ -2335,15 +2392,6 @@
     <zipfile_datetime>20210414_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-04-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-21</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1841</number>
-    <title>PORTO DE ITAJA&#xCD; (1841)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841.zip</zipfile_location>
-    <zipfile_datetime>20200520_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-05-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-45</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1901</number>
@@ -2805,24 +2853,6 @@
     <ntm_edition_last_correction>2012-79</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>204</number>
-    <title>DAS ILHAS PEDREIRA &#xC0; ILHA DE SANTANA (204)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/204.zip</zipfile_location>
-    <zipfile_datetime>20190917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-176</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>206</number>
-    <title>CANAL DE SANTANA (206)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/206.zip</zipfile_location>
-    <zipfile_datetime>20181004_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-04T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-120</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>221</number>
     <title>BARRA NORTE DO RIO AMAZONAS (221)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2866,15 +2896,6 @@
     <zipfile_datetime>20120627_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2012-06-27T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2009-183</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>242</number>
-    <title>DA ILHA DOS PORCOS &#xC0; BA&#xCD;A DO VIEIRA GRANDE (242)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/242.zip</zipfile_location>
-    <zipfile_datetime>20190917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-176</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>243</number>
@@ -5532,15 +5553,6 @@
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361A</number>
-    <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361a.zip</zipfile_location>
-    <zipfile_datetime>20200911_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361B</number>
     <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5548,5 +5560,14 @@
     <zipfile_datetime>20200914_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361A</number>
+    <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361a.zip</zipfile_location>
+    <zipfile_datetime>20200911_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
