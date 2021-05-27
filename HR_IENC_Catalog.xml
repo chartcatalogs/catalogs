@@ -3,17 +3,17 @@
   <Header>
     <title/>
     <date_created>2021-05-27</date_created>
-    <time_created>22:52:50</time_created>
+    <time_created>23:02:23</time_created>
     <date_valid>2021-05-27</date_valid>
-    <time_valid>22:52:50</time_valid>
-    <dt_valid>2021-05-27T22:52:50Z</dt_valid>
+    <time_valid>23:02:23</time_valid>
+    <dt_valid>2021-05-27T23:02:23Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
-    <number>Base2</number>
-    <title>Dunav 1294 - 1433 (Base2)</title>
+    <number>Base1</number>
+    <title>Dunav 1294 - 1433 (Base1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HR/115/1558510668.zip</zipfile_location>
     <zipfile_datetime>20180911_000000</zipfile_datetime>
@@ -21,8 +21,8 @@
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>Base3</number>
-    <title>Sava (Croatia) 207 - 592 (Base3)</title>
+    <number>Base2</number>
+    <title>Sava (Croatia) 207 - 592 (Base2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HR/116/1558510732.zip</zipfile_location>
     <zipfile_datetime>20181129_000000</zipfile_datetime>
@@ -30,8 +30,8 @@
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>Base4</number>
-    <title>Drava 0 - 23 (Base4)</title>
+    <number>Base3</number>
+    <title>Drava 0 - 23 (Base3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HR/117/1558510798.zip</zipfile_location>
     <zipfile_datetime>20181129_000000</zipfile_datetime>
