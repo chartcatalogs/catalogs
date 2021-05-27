@@ -1,11 +1,41 @@
-<RncProductCatalogChartCatalogs><Header><title>Serbia Inland ENC Charts</title><date_created>2021-05-18</date_created><time_created>02:09:03</time_created><date_valid>2021-05-18</date_valid><time_valid>02:09:03</time_valid><dt_valid>2021-05-18T02:09:03Z</dt_valid><ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec><ref_spec_vers>1.0</ref_spec_vers><s62AgencyCode>0</s62AgencyCode></Header>
-<!--
-<chart><number>Update1</number><title>Danube - Cell 2P7D1267</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.plovput.rs/file/enc/danube_2P7D1267%2820180928%29.zip</zipfile_location><zipfile_datetime>20180928_000000</zipfile_datetime><zipfile_datetime_iso8601>2018-09-28T00:00:00Z</zipfile_datetime_iso8601></chart>
--->
-	<chart><number>Base1</number><title>Danube rkm 1433-846</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/104/1612800281.zip</zipfile_location><zipfile_datetime>20201230_000000</zipfile_datetime><zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601></chart>
-	<chart><number>Base3</number><title>Sava rkm 211-0</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/105/1612272638.zip</zipfile_location><zipfile_datetime>20201230_000000</zipfile_datetime><zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601></chart>
-	<chart><number>Base2</number><title>Tisza rkm 164-0</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/106/1612442686.zip</zipfile_location><zipfile_datetime>20191222_000000</zipfile_datetime><zipfile_datetime_iso8601>2019-12-22T00:00:00Z</zipfile_datetime_iso8601></chart>
-<!--
-<chart><number>Update3</number><title>Sava - Cell 2P7SA088</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.plovput.rs/file/enc/sava_2P7SA088%2820171102%29.ZIP</zipfile_location><zipfile_datetime>20171102_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-11-02T00:00:00Z</zipfile_datetime_iso8601></chart>
--->
+<?xml version="1.0"?>
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title/>
+    <date_created>2021-05-27</date_created>
+    <time_created>22:47:06</time_created>
+    <date_valid>2021-05-27</date_valid>
+    <time_valid>22:47:06</time_valid>
+    <dt_valid>2021-05-27T22:47:06Z</dt_valid>
+    <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
+    <ref_spec_vers>1.0</ref_spec_vers>
+    <s62AgencyCode>0</s62AgencyCode>
+  </Header>
+  <chart>
+    <number>Base2</number>
+    <title>&#x414;&#x443;&#x43D;&#x430;&#x432; 1433 - 846 (Base2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/104/1612800281.zip</zipfile_location>
+    <zipfile_datetime>20201230_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>0</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>Base3</number>
+    <title>&#x421;&#x430;&#x432;&#x430; 211 - 0 (Base3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/105/1612272638.zip</zipfile_location>
+    <zipfile_datetime>20201230_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>0</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>Base4</number>
+    <title>&#x422;&#x438;&#x441;&#x430; 164 - 0 (Base4)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/106/1612442686.zip</zipfile_location>
+    <zipfile_datetime>20191222_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2019-12-22T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>0</ntm_edition_last_correction>
+  </chart>
 </RncProductCatalogChartCatalogs>

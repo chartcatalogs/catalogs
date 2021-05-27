@@ -1,39 +1,26 @@
-<RncProductCatalogChartCatalogs><Header><title>Austria Inland ENC Charts</title><date_created>2021-05-17</date_created><time_created>02:09:03</time_created><date_valid>2021-05-17</date_valid><time_valid>02:09:03</time_valid><dt_valid>2021-05-17T02:09:03Z</dt_valid><ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec><ref_spec_vers>1.0</ref_spec_vers><s62AgencyCode>0</s62AgencyCode></Header>
-
-<chart><number>2W7D_23</number><title>Austrian Danube (plus Donaukanal)	2W7D Edition 16, 30.11.2020	6.5 MB	km 2201.5 - km 1872.7</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W7D_Edition.zip</zipfile_location><zipfile_datetime>20201130_000000</zipfile_datetime><zipfile_datetime_iso8601>2020-11-30T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-<chart><number>2WBD_23</number><title>Depth data of the 'Austrian Danube (incl. Wiener Donaukanal and common border section AT - DE)	2WBD, 30.11.2020	39 MB	km 2223.2 - km 1872.7</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2WBD_Edition.zip</zipfile_location><zipfile_datetime>20201130_000000</zipfile_datetime><zipfile_datetime_iso8601>2020-11-30T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-  <chart><number>2W_23_Update1</number><title>Update from December 18th, 2020	164 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20201218.zip</zipfile_location><zipfile_datetime>20201218_000000</zipfile_datetime><zipfile_datetime_iso8601>2020-12-18T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-  <chart><number>2W_23_Update2</number><title>Update from January 29th, 2021	1.63 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20210129.zip</zipfile_location><zipfile_datetime>20210129_000000</zipfile_datetime><zipfile_datetime_iso8601>2021-01-29T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-  <chart><number>2W_23_Update3</number><title>Update from March 05th, 2021	1.2 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20210305.zip</zipfile_location><zipfile_datetime>20210305_000000</zipfile_datetime><zipfile_datetime_iso8601>2021-03-05T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-  <chart><number>2W_23_Update4</number><title>Update from March 30th, 2021	424 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20210330.zip</zipfile_location><zipfile_datetime>20210330_000000</zipfile_datetime><zipfile_datetime_iso8601>2021-03-30T00:00:00Z</zipfile_datetime_iso8601></chart>
-
-  <chart><number>2W_23_Update5</number><title>Update from April 29th, 2021	1.4 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>https://www.doris.bmk.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20210429.zip</zipfile_location><zipfile_datetime>20210429_000000</zipfile_datetime><zipfile_datetime_iso8601>2021-04-29T00:00:00Z</zipfile_datetime_iso8601></chart>
-<!--
-<chart><number>2W7D_23</number><title>IENC 2.3 - Austrian Danube (plus Donaukanal) 2W7D Edition 12 (km 2201.5 - km 1872.7) - 36 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W7D_Edition.zip</zipfile_location><zipfile_datetime>20171117_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-11-17T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W8D_23</number><title>IENC 2.3 - Danube depth data (common border section AT - DE) 2W8D Edition 6 (km 2223.2 - km 2201.5) - 1.2 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W8D_Edition.zip</zipfile_location><zipfile_datetime>20171117_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-11-17T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_23_Update1</number><title>IENC 2.3 - Update from December 22nd, 2017 - 8.7 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20171222.zip</zipfile_location><zipfile_datetime>20171222_000000</zipfile_datetime><zipfile_datetime_iso8601>2017-12-22T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_23_Update2</number><title>IENC 2.3 - Update from February 23nd, 2018 - 280 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20180223.zip</zipfile_location><zipfile_datetime>20180223_000000</zipfile_datetime><zipfile_datetime_iso8601>2018-02-23T00:00:00Z</zipfile_datetime_iso8601></chart>
-  <chart><number>2W_23_Update3</number><title>IENC 2.3 - Update from April 5th, 2018 - 4.7 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20180405.zip</zipfile_location><zipfile_datetime>20180405_000000</zipfile_datetime><zipfile_datetime_iso8601>2018-04-05T00:00:00Z</zipfile_datetime_iso8601></chart>
-  <chart><number>2W_23_Update4</number><title>IENC 2.3 - Update from June 25th, 2018 - 2.3 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20180625.zip</zipfile_location><zipfile_datetime>20180625_000000</zipfile_datetime><zipfile_datetime_iso8601>2018-06-55T00:00:00Z</zipfile_datetime_iso8601></chart>
+<?xml version="1.0"?>
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': '0',
+ 'number': 'Base2',
+ 'target_filename': None,
+ 'title': u'Donau 2201 - 1872',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
 -->
-<!--
-<chart><number>2W_23_Update2</number><title>IENC 2.3 - Update from December 22nd, 2016 - 4.1 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20161222.zip</zipfile_location><zipfile_datetime>20161222_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-12-22T00:00:00Z</zipfile_datetime_iso8601></chart>
--->
-<!--<chart><number>2W_1S_23_Update1</number><title>IENC 2.3 - Update from June 03rd, 2015, 2015 - 4.75 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_1S_Update_20150603.zip</zipfile_location><zipfile_datetime>20150603_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-06-03T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update2</number><title>IENC 2.3 - Update from August 21st, 2015, 2015 - 3.8 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_1S_Update_20150821.zip</zipfile_location><zipfile_datetime>20150821_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-08-21T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update3</number><title>IENC 2.3 - Update from September 24th, 2015, 2015 - 3.8 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_1S_Update_20150924.zip</zipfile_location><zipfile_datetime>20150924_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-09-24T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update4</number><title>IENC 2.3 - Update from November 17th, 2015, 2015 - 44 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/1Supdate_20151117.zip</zipfile_location><zipfile_datetime>20151117_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-11-17T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update5</number><title>IENC 2.3 - Update from December 4th, 2015, 2015 - 6.51 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20151204.zip</zipfile_location><zipfile_datetime>20151204_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-12-04T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update6</number><title>IENC 2.3 - Update from December 9th, 2015, 2015 - 72 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/1Supdate_20151209.zip</zipfile_location><zipfile_datetime>20151209_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-12-09T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update7</number><title>IENC 2.3 - Update from January 11th, 2016 - 3.3 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_Update_20160111.zip</zipfile_location><zipfile_datetime>20160111_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-01-11T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update8</number><title>IENC 2.3 - Update from March 16th, 2016 - 1.94 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_1S_Update_20160316.zip</zipfile_location><zipfile_datetime>20160316_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-03-16T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W_1S_23_Update9</number><title>IENC 2.3 - Update from May 23rd, 2016 - 376 KB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W_1S_Update_20160523.zip</zipfile_location><zipfile_datetime>20160523_000000</zipfile_datetime><zipfile_datetime_iso8601>2016-05-23T00:00:00Z</zipfile_datetime_iso8601></chart>
--->
-<!--<chart><number>2W7D_21</number><title>IENC 2.1 - Austrian Danube (plus Donaukanal) 2W7D Edition 9, 1S Edition 4 (km 2201.5 - km 1872.7) - 29.4 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/user_upload/2W_Edition_9_1S_Edition_4.zip</zipfile_location><zipfile_datetime>20150331_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-03-31T00:00:00Z</zipfile_datetime_iso8601></chart>
-<chart><number>2W8D_21</number><title>IENC 2.1 - Danube depth data (common border section AT - DE) 2W8D Edition 3 (km 2223.2 - km 2201.5) - 1.07 MB</title><format>Sailing Chart, International Chart</format><zipfile_location>http://www.doris.bmvit.gv.at/fileadmin/content/doris/ECDIS_Download/2W8D_Edition_3.zip</zipfile_location><zipfile_datetime>20150331_000000</zipfile_datetime><zipfile_datetime_iso8601>2015-03-31T00:00:00Z</zipfile_datetime_iso8601></chart>-->
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title/>
+    <date_created>2021-05-27</date_created>
+    <time_created>22:47:04</time_created>
+    <date_valid>2021-05-27</date_valid>
+    <time_valid>22:47:04</time_valid>
+    <dt_valid>2021-05-27T22:47:04Z</dt_valid>
+    <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
+    <ref_spec_vers>1.0</ref_spec_vers>
+    <s62AgencyCode>0</s62AgencyCode>
+  </Header>
 </RncProductCatalogChartCatalogs>
