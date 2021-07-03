@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>NOAA Raster Charts MBTiles</title>
-    <date_created>2021-06-26</date_created>
-    <time_created>01:30:13</time_created>
-    <date_valid>2021-06-26</date_valid>
-    <time_valid>01:30:13</time_valid>
-    <dt_valid>2021-06-26T01:30:13Z</dt_valid>
+    <date_created>2021-07-03</date_created>
+    <time_created>02:09:12</time_created>
+    <date_valid>2021-07-03</date_valid>
+    <time_valid>02:09:12</time_valid>
+    <dt_valid>2021-07-03T02:09:12Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,200 +16,200 @@
     <title>EAST LONG ISLAND TO NEW HAMPSHIRE [536 MB] (16)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_16.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002726</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:26Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012908</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:08Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>17</number>
     <title>NEW YORK AND NEW JERSEY [312 MB] (17)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_17.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002725</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:25Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012903</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:03Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>14</number>
     <title>LAKE ONTARIO [360 MB] (14)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_14.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002727</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:27Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012852</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:28:52Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>15</number>
     <title>MAINE [460 MB] (15)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_15.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004505</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:45:05Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012857</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:28:57Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>12</number>
     <title>LAKE MICHIGAN [437 MB] (12)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_12.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002731</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:31Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012855</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:28:55Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>13</number>
     <title>LAKE HURON AND LAKE ERIE [471 MB] (13)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_13.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002730</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:30Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012857</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:28:57Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>10</number>
     <title>CALIFORNIA [491 MB] (10)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_10.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004544</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:45:44Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012941</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:41Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>11</number>
     <title>LAKE SUPERIOR [397 MB] (11)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_11.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002733</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:27:33Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013017</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:17Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>18</number>
     <title>DELAWARE MARYLAND AND VIRGINIA [511 MB] (18)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_18.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002804</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:04Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012949</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:49Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>19</number>
     <title>CAROLINAS [286 MB] (19)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_19.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002803</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:03Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012950</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:50Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>26</number>
     <title>TEXAS [479 MB] (26)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_26.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_003543</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:35:43Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012944</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:44Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>25</number>
     <title>LOUISIANA [461 MB] (25)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_25.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002823</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:23Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_012958</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:29:58Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>24</number>
-    <title>NEW ORLEANS TO FLORIDA PANHANDLE [530 MB] (24)</title>
+    <title>NEW ORLEANS TO FLORIDA PANHANDLE [531 MB] (24)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_24.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002816</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:16Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013028</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:28Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>23</number>
     <title>NORTHWEST FLORIDA PENINSULA [206 MB] (23)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_23.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002810</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:10Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013028</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:28Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>22</number>
     <title>SOUTH FLORIDA [536 MB] (22)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_22.mbtiles</zipfile_location>
-    <zipfile_datetime>20210625_002834</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-25T00:28:34Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013034</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:34Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>21</number>
     <title>PUERTO RICO [330 MB] (21)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_21.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004630</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:46:30Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013037</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:37Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>20</number>
     <title>NORTHEAST FLORIDA AND GEORGIA [430 MB] (20)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_20.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004635</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:46:35Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013050</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:50Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>05</number>
     <title>SOUTHEAST ALASKA [552 MB] (05)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_05.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004641</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:46:41Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013055</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:55Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>04</number>
     <title>EAST GULF OF ALASKA [419 MB] (04)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_04.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004644</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:46:44Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013059</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:30:59Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>07</number>
     <title>OREGON [410 MB] (07)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_07.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004713</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:47:13Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013111</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:31:11Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>06</number>
     <title>SEATTLE TO CANADIAN BORDER [427 MB] (06)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_06.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004718</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:47:18Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013125</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:31:25Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>01</number>
     <title>NORTH ALASKA [404 MB] (01)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_01.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004718</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:47:18Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013117</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:31:17Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>03</number>
     <title>WEST GULF OF ALASKA [567 MB] (03)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_03.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004725</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:47:25Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013136</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:31:36Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>02</number>
     <title>ALEUTIAN ISLANDS [568 MB] (02)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_02.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004729</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:47:29Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013135</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:31:35Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>09</number>
     <title>HAWAII [563 MB] (09)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://tileservice.charts.noaa.gov/mbtiles/50000_1/MBTILES_09.mbtiles</zipfile_location>
-    <zipfile_datetime>20210618_004810</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-18T00:48:10Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210702_013204</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-02T01:32:04Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
     <number>08</number>
