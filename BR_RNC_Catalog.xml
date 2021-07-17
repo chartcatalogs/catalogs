@@ -27,30 +27,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'701',
- 'target_filename': None,
- 'title': u'PORTO DE MUCURIPE (Fortaleza)',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'710',
- 'target_filename': None,
- 'title': u'PROXIMIDADES DO TERMINAL DO PEC\xc9M E DO PORTO DE MUCURIPE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
  'number': u'1637',
  'target_filename': None,
  'title': u'BA\xcdA DA RIBEIRA',
@@ -1442,11 +1418,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-07-10</date_created>
-    <time_created>01:59:08</time_created>
-    <date_valid>2021-07-10</date_valid>
-    <time_valid>01:59:08</time_valid>
-    <dt_valid>2021-07-10T01:59:08Z</dt_valid>
+    <date_created>2021-07-17</date_created>
+    <time_created>01:45:13</time_created>
+    <date_valid>2021-07-17</date_valid>
+    <time_valid>01:45:13</time_valid>
+    <dt_valid>2021-07-17T01:45:13Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1650,6 +1626,15 @@
     <ntm_edition_last_correction>2006-146</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>701</number>
+    <title>PORTO DE MUCURIPE (Fortaleza) (701)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/701.zip</zipfile_location>
+    <zipfile_datetime>20210715_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-92</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>702</number>
     <title>PORTO DE MACAU (702)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1675,6 +1660,15 @@
     <zipfile_datetime>20180914_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2010-18</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>710</number>
+    <title>PROXIMIDADES DO TERMINAL DO PEC&#xC9;M E DO PORTO DE MUCURIPE (710)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/710.zip</zipfile_location>
+    <zipfile_datetime>20210715_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-92</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>711</number>
@@ -2121,10 +2115,10 @@
     <number>1607</number>
     <title>BA&#xCD;AS DA ILHA GRANDE E DE SEPETIBA (1607)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1607.zip</zipfile_location>
-    <zipfile_datetime>20210609_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-54</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1607_0.zip</zipfile_location>
+    <zipfile_datetime>20210715_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-88</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1620</number>
@@ -2184,10 +2178,10 @@
     <number>1632</number>
     <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRO NORTE (1632)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1632.zip</zipfile_location>
-    <zipfile_datetime>20210615_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-59</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1632_0.zip</zipfile_location>
+    <zipfile_datetime>20210715_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-88</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1633</number>
@@ -2364,9 +2358,9 @@
     <number>1908</number>
     <title>PORTO DE IMBITUBA (1908)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1908.zip</zipfile_location>
-    <zipfile_datetime>20210630_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-30T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1908_0.zip</zipfile_location>
+    <zipfile_datetime>20210714_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-61</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -5511,15 +5505,6 @@
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20200914_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5527,5 +5512,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20200914_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>

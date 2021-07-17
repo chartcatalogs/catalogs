@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2021-07-10</date_created>
-    <time_created>01:59:11</time_created>
-    <date_valid>2021-07-10</date_valid>
-    <time_valid>01:59:11</time_valid>
-    <dt_valid>2021-07-10T01:59:11Z</dt_valid>
+    <date_created>2021-07-17</date_created>
+    <time_created>01:45:16</time_created>
+    <date_valid>2021-07-17</date_valid>
+    <time_valid>01:45:16</time_valid>
+    <dt_valid>2021-07-17T01:45:16Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB (0)</title>
+    <title>Zeeland Compleet Week 28 - 2021 &#x2013; 39 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2984685991</zipfile_location>
+    <zipfile_datetime>20210715_005434</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-15T00:54:34Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 28 - 2021 &#x2013; 39 MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2978757912</zipfile_location>
     <zipfile_datetime>20210708_133051</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-07-08T13:30:51Z</zipfile_datetime_iso8601>
     <target_filename>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland Compleet Week 27 &#x2013; 2021 &#x2013; 90 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2974986023</zipfile_location>
-    <zipfile_datetime>20210705_152038</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-07-05T15:20:38Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 27 &#x2013; 2021 &#x2013; 90 MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
