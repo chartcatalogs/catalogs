@@ -1550,11 +1550,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-08-21</date_created>
-    <time_created>01:39:18</time_created>
-    <date_valid>2021-08-21</date_valid>
-    <time_valid>01:39:18</time_valid>
-    <dt_valid>2021-08-21T01:39:18Z</dt_valid>
+    <date_created>2021-08-28</date_created>
+    <time_created>01:10:37</time_created>
+    <date_valid>2021-08-28</date_valid>
+    <time_valid>01:10:37</time_valid>
+    <dt_valid>2021-08-28T01:10:37Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2023,8 +2023,8 @@
     <title>PORTOS DE VITORIA E TUBAR&#xC3;O (1401)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1401.zip</zipfile_location>
-    <zipfile_datetime>20210819_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-08-19T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210825_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-25T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-110-111</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3796,17 +3796,17 @@
     <title>DA ISLA COMPARADA A PUERTO BARRANQUERITA (3312)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3312.zip</zipfile_location>
-    <zipfile_datetime>20090402_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-04-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction/>
+    <zipfile_datetime>20210206_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-02-06T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3313</number>
     <title>DA ISLA COMPARADA A VUELTA GRANDE (3313)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3313.zip</zipfile_location>
-    <zipfile_datetime>20090430_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-04-30T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210206_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-02-06T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3814,8 +3814,8 @@
     <title>DA VUELTA GRANDE AO PASO CURUZU JUANITA (3314)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3314.zip</zipfile_location>
-    <zipfile_datetime>20200824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-08-24T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210121_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-01-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3823,8 +3823,8 @@
     <title>DO PASO CURUZU JUANITA AO PASO SAN ANTONIO (3315)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3315.zip</zipfile_location>
-    <zipfile_datetime>20090402_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2009-04-02T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20210121_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-01-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -4236,9 +4236,9 @@
     <number>3363</number>
     <title>DA VOLTA BARROS AO PASSO DE SANTANA OU JATOB&#xC1; (3363)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3363.zip</zipfile_location>
-    <zipfile_datetime>20200908_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-08T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3363_0.zip</zipfile_location>
+    <zipfile_datetime>20210705_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-07-05T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
