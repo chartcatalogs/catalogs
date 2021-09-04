@@ -27,30 +27,6 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'2',
- 'target_filename': None,
- 'title': u'DO RIO DE JANEIRO PEN\xcdNSULA ANT\xc1RTICA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'10',
- 'target_filename': None,
- 'title': u'COSTA NORDESTE DA AM\xc9RICA DO SUL',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'20',
  'target_filename': None,
  'title': u'COSTA LESTE DA AM\xc9RICA DO SUL',
@@ -66,6 +42,66 @@
  'number': u'30',
  'target_filename': None,
  'title': u'COSTA SUESTE DA AM\xc9RICA DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1101',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DO PORTO DE SALVADOR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1102',
+ 'target_filename': None,
+ 'title': u'PORTO DE SALVADOR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1110',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DE TODOS OS SANTOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1401',
+ 'target_filename': None,
+ 'title': u'PORTOS DE VITORIA E TUBAR\xc3O',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1402',
+ 'target_filename': None,
+ 'title': u'DO PONTAL DA REG\xcaNCIA \xc0 PONTA DO UBU',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -111,6 +147,18 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1511',
+ 'target_filename': None,
+ 'title': u'BARRA DO RIO DE JANEIRO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
  'number': u'1512',
  'target_filename': None,
  'title': u'PORTO DO RIO DE JANEIRO',
@@ -147,9 +195,9 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1620',
+ 'number': u'1621',
  'target_filename': None,
- 'title': u'DA BARRA DO RIO DE JANEIRO \xc0 ILHA GRANDE',
+ 'title': u'BA\xcdA DA ILHA GRANDE - PARTE LESTE (TERMINAL DA ILHA GUA\xcdBA)',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -159,9 +207,81 @@
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
  'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1711',
+ 'number': u'1631',
  'target_filename': None,
- 'title': u'PROXIMIDADE DO PORTO DE SANTOS',
+ 'title': u'BA\xcdA DA ILHA GRANDE - PARTE CENTRAL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1632',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DA ILHA GRANDE - PARTE CENTRO NORTE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1636',
+ 'target_filename': None,
+ 'title': u'PORTO DE ANGRA DOS REIS E PROXIMIDADES',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1803',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DE GUARATUBA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1804',
+ 'target_filename': None,
+ 'title': u'PORTO DE S\xc3O FRANCISCO DO SUL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1822',
+ 'target_filename': None,
+ 'title': u'PORTOS DE PARANAGU\xc1 E ANTONINA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1841',
+ 'target_filename': None,
+ 'title': u'PORTO DE ITAJA\xcd',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -198,6 +318,18 @@
  'number': u'19400_(INT.215)',
  'target_filename': None,
  'title': u'DO RECIFE A DACAR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21060_(INT.2007)',
+ 'target_filename': None,
+ 'title': u'DO ARQUIP\xc9LAGO DOS ABROLHOS AO CABO FRIO',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -350,6 +482,30 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4023',
+ 'target_filename': None,
+ 'title': u'DE \xd3BIDOS \xc0 ILHA DE SANTA RITA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4024',
+ 'target_filename': None,
+ 'title': u'DA ILHA DE SANTA RITA \xc0S ILHAS DO CALDER\xc3O',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -414,18 +570,6 @@
  'number': u'3337',
  'target_filename': None,
  'title': u'DA I. MARGARITA \xc0 I. DO TIGRE OU ON\xc7A',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'3348',
- 'target_filename': None,
- 'title': u'DO PUERTO ESPERANZA \xc0 ILHA CABE\xc7A DE BOI',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -1538,6 +1682,18 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4411',
+ 'target_filename': None,
+ 'title': u'DA FOZ DO RIO TROMBETAS AO LAGO QUIRIQUIRI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -1550,11 +1706,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2021-08-28</date_created>
-    <time_created>01:10:37</time_created>
-    <date_valid>2021-08-28</date_valid>
-    <time_valid>01:10:37</time_valid>
-    <dt_valid>2021-08-28T01:10:37Z</dt_valid>
+    <date_created>2021-09-04</date_created>
+    <time_created>01:47:07</time_created>
+    <date_valid>2021-09-04</date_valid>
+    <time_valid>01:47:07</time_valid>
+    <dt_valid>2021-09-04T01:47:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1621,6 +1777,24 @@
     <zipfile_datetime>20170626_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-06-26T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-53</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2</number>
+    <title>DO RIO DE JANEIRO PEN&#xCD;NSULA ANT&#xC1;RTICA (2)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2.zip</zipfile_location>
+    <zipfile_datetime>20210824_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-24T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-115</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>10</number>
+    <title>COSTA NORDESTE DA AM&#xC9;RICA DO SUL (10)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/10.zip</zipfile_location>
+    <zipfile_datetime>20210831_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-31T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-93</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>11</number>
@@ -1884,24 +2058,6 @@
     <ntm_edition_last_correction>2009-181</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1101</number>
-    <title>PROXIMIDADES DO PORTO DE SALVADOR (1101)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1101.zip</zipfile_location>
-    <zipfile_datetime>20210609_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-72</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1102</number>
-    <title>PORTO DE SALVADOR (1102)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1102.zip</zipfile_location>
-    <zipfile_datetime>20210108_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-01-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-130</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1103</number>
     <title>BAIA DO ARATU E ADJAC&#xCA;NCIAS (1103)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1956,15 +2112,6 @@
     <ntm_edition_last_correction>2009-90</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1110</number>
-    <title>BA&#xCD;A DE TODOS OS SANTOS (1110)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1110.zip</zipfile_location>
-    <zipfile_datetime>20210727_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-07-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-130</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1201</number>
     <title>PORTO DE ILH&#xC9;US (1201)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2017,24 +2164,6 @@
     <zipfile_datetime>20180917_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-09-17T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-144</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1401</number>
-    <title>PORTOS DE VITORIA E TUBAR&#xC3;O (1401)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1401.zip</zipfile_location>
-    <zipfile_datetime>20210825_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-08-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-110-111</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1402</number>
-    <title>DO PONTAL DA REG&#xCA;NCIA &#xC0; PONTA DO UBU (1402)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1402.zip</zipfile_location>
-    <zipfile_datetime>20210810_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-08-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1403</number>
@@ -2127,15 +2256,6 @@
     <ntm_edition_last_correction>2017-126</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1511</number>
-    <title>BARRA DO RIO DE JANEIRO (1511)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1511.zip</zipfile_location>
-    <zipfile_datetime>20210609_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-79</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1513</number>
     <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2163,13 +2283,13 @@
     <ntm_edition_last_correction>2021-37</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1621</number>
-    <title>BA&#xCD;A DA ILHA GRANDE - PARTE LESTE (TERMINAL DA ILHA GUA&#xCD;BA) (1621)</title>
+    <number>1620</number>
+    <title>DA BARRA DO RIO DE JANEIRO &#xC0; ILHA GRANDE (1620)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1621.zip</zipfile_location>
-    <zipfile_datetime>20210615_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-50</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1620.zip</zipfile_location>
+    <zipfile_datetime>20210831_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-31T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-115</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1622</number>
@@ -2199,24 +2319,6 @@
     <ntm_edition_last_correction>2021-89</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1631</number>
-    <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRAL (1631)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1631.zip</zipfile_location>
-    <zipfile_datetime>20210413_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-13T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-46</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1632</number>
-    <title>BA&#xCD;A DA ILHA GRANDE - PARTE CENTRO NORTE (1632)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1632_0.zip</zipfile_location>
-    <zipfile_datetime>20210715_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-07-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-88</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1633</number>
     <title>BA&#xCD;A DA ILHA GRANDE - PARTE OESTE (1633)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2242,15 +2344,6 @@
     <zipfile_datetime>20161201_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-12-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-209</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1636</number>
-    <title>PORTO DE ANGRA DOS REIS E PROXIMIDADES (1636)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1636.zip</zipfile_location>
-    <zipfile_datetime>20210414_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-34</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1637</number>
@@ -2298,6 +2391,15 @@
     <ntm_edition_last_correction>2018-138</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>1711</number>
+    <title>PROXIMIDADE DO PORTO DE SANTOS (1711)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1711_0.zip</zipfile_location>
+    <zipfile_datetime>20210814_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-14T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2021-115</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>1712</number>
     <title>PORTO DE SANTOS (PARTE NORTE) (1712)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2314,24 +2416,6 @@
     <zipfile_datetime>20170921_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-09-21T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-111</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1803</number>
-    <title>BA&#xCD;A DE GUARATUBA (1803)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1803.zip</zipfile_location>
-    <zipfile_datetime>20161106_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-11-06T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-139</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1804</number>
-    <title>PORTO DE S&#xC3;O FRANCISCO DO SUL (1804)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1804_0.zip</zipfile_location>
-    <zipfile_datetime>20210417_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-39</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1820</number>
@@ -2352,15 +2436,6 @@
     <ntm_edition_last_correction>2019-171</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1822</number>
-    <title>PORTOS DE PARANAGU&#xC1; E ANTONINA (1822)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1822.zip</zipfile_location>
-    <zipfile_datetime>20200418_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-04-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-110</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1830</number>
     <title>PROXIMIDADES DO PORTO DE S&#xC3;O FRANCISCO DO SUL (1830)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2368,15 +2443,6 @@
     <zipfile_datetime>20210414_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-04-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-21</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1841</number>
-    <title>PORTO DE ITAJA&#xCD; (1841)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841_0.zip</zipfile_location>
-    <zipfile_datetime>20210719_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-07-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-76</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1901</number>
@@ -2485,15 +2551,6 @@
     <zipfile_datetime>20200507_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-07T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019 - 215</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21060_(INT.2007)</number>
-    <title>DO ARQUIP&#xC9;LAGO DOS ABROLHOS AO CABO FRIO (21060_(INT.2007))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21060.zip</zipfile_location>
-    <zipfile_datetime>20210417_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-04-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-36-37</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21100_(INT.4194)</number>
@@ -2910,24 +2967,6 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4023</number>
-    <title>DE &#xD3;BIDOS &#xC0; ILHA DE SANTA RITA (4023)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023.zip</zipfile_location>
-    <zipfile_datetime>20181014_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4024</number>
-    <title>DA ILHA DE SANTA RITA &#xC0;S ILHAS DO CALDER&#xC3;O (4024)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4024_0.zip</zipfile_location>
-    <zipfile_datetime>20210719_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-07-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-115</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4025</number>
     <title>DAS ILHAS DO CALDER&#xC3;O &#xC0; PARAN&#xC1; DO RAMOS (4025)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3198,19 +3237,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
@@ -4107,6 +4146,15 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>3348</number>
+    <title>DO PUERTO ESPERANZA &#xC0; ILHA CABE&#xC7;A DE BOI (3348)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3348_0.zip</zipfile_location>
+    <zipfile_datetime>20210817_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-17T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2020-02</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>3349</number>
     <title>DA ILHA SEPUT&#xC1; &#xC0; FOZ DO RIO NEGRO (3349)</title>
     <format>Sailing Chart, International Chart</format>
@@ -4254,10 +4302,10 @@
     <number>3365</number>
     <title>DO PORTO TARUM&#xC3; A CORUMB&#xC1; (3365)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3365.zip</zipfile_location>
-    <zipfile_datetime>20151027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2015-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3365_0.zip</zipfile_location>
+    <zipfile_datetime>20210827_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-08-27T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2012-01</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3366</number>
@@ -5466,15 +5514,6 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4411</number>
-    <title>DA FOZ DO RIO TROMBETAS AO LAGO QUIRIQUIRI (4411)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4411.zip</zipfile_location>
-    <zipfile_datetime>20170720_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2017-07-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4412</number>
     <title>DO LAGO QUIRIQUIRI AO LAGO PARU (4412)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5538,15 +5577,6 @@
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361A</number>
-    <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361a.zip</zipfile_location>
-    <zipfile_datetime>20200911_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361B</number>
     <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5554,5 +5584,14 @@
     <zipfile_datetime>20200914_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-14T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361A</number>
+    <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361a.zip</zipfile_location>
+    <zipfile_datetime>20200911_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
