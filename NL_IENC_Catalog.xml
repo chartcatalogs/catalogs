@@ -2,63 +2,27 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2021-09-18</date_created>
-    <time_created>01:49:12</time_created>
-    <date_valid>2021-09-18</date_valid>
-    <time_valid>01:49:12</time_valid>
-    <dt_valid>2021-09-18T01:49:12Z</dt_valid>
+    <date_created>2021-09-25</date_created>
+    <time_created>01:00:16</time_created>
+    <date_valid>2021-09-25</date_valid>
+    <time_valid>01:00:16</time_valid>
+    <dt_valid>2021-09-25T01:00:16Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Markeringswijzigingen Oosterschelde Dag 3 (0)</title>
+    <title>Zeeland Compleet Week 38_2021_39MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3036864896</zipfile_location>
-    <zipfile_datetime>20210916_161953</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-16T16:19:53Z</zipfile_datetime_iso8601>
-    <target_filename>Markeringswijzigingen Oosterschelde Dag 3.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3041467996</zipfile_location>
+    <zipfile_datetime>20210921_172918</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-09-21T17:29:18Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 38_2021_39MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>Markeringswijzigingen Oosterschelde  Dag 2 (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3035335062</zipfile_location>
-    <zipfile_datetime>20210916_161900</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-16T16:19:00Z</zipfile_datetime_iso8601>
-    <target_filename>Markeringswijzigingen Oosterschelde  Dag 2.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Markeringswijzigingen Oosterschelde Dag 4 (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3038382466</zipfile_location>
-    <zipfile_datetime>20210916_161626</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-16T16:16:26Z</zipfile_datetime_iso8601>
-    <target_filename>Markeringswijzigingen Oosterschelde Dag 4.zip</target_filename>
-  </chart>
-  <chart>
-    <number>3</number>
-    <title>Markeringswijzigingen Oosterschelde Dag 1 (3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3033821389</zipfile_location>
-    <zipfile_datetime>20210915_161516</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-15T16:15:16Z</zipfile_datetime_iso8601>
-    <target_filename>Markeringswijzigingen Oosterschelde Dag 1.zip</target_filename>
-  </chart>
-  <chart>
-    <number>4</number>
-    <title>Zeeland Compleet Week 36-2021-39MB (4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3026831734</zipfile_location>
-    <zipfile_datetime>20210907_113417</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-07T11:34:17Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 36-2021-39MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>5</number>
-    <title>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB (5)</title>
+    <title>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2978757912</zipfile_location>
     <zipfile_datetime>20210708_133051</zipfile_datetime>
@@ -66,8 +30,8 @@
     <target_filename>Nederland (excl Zeeland) met kaart 2021-07-08 - 48MB.zip</target_filename>
   </chart>
   <chart>
-    <number>6</number>
-    <title>Rotterdam 2019-11-22 (6)</title>
+    <number>2</number>
+    <title>Rotterdam 2019-11-22 (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=2491882897</zipfile_location>
     <zipfile_datetime>20191122_154606</zipfile_datetime>
@@ -75,8 +39,8 @@
     <target_filename>Rotterdam 2019-11-22.zip</target_filename>
   </chart>
   <chart>
-    <number>7</number>
-    <title>IENC Haven Geertruidenberg (7)</title>
+    <number>3</number>
+    <title>IENC Haven Geertruidenberg (3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_092945</zipfile_datetime>
@@ -84,8 +48,8 @@
     <target_filename>IENC Haven Geertruidenberg.zip</target_filename>
   </chart>
   <chart>
-    <number>8</number>
-    <title>IENC Haven Waspik (8)</title>
+    <number>4</number>
+    <title>IENC Haven Waspik (4)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_083216</zipfile_datetime>
