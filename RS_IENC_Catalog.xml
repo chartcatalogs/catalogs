@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title/>
-    <date_created>2021-12-25</date_created>
-    <time_created>02:04:10</time_created>
-    <date_valid>2021-12-25</date_valid>
-    <time_valid>02:04:10</time_valid>
-    <dt_valid>2021-12-25T02:04:10Z</dt_valid>
+    <date_created>2022-01-01</date_created>
+    <time_created>03:03:12</time_created>
+    <date_valid>2022-01-01</date_valid>
+    <time_valid>03:03:12</time_valid>
+    <dt_valid>2022-01-01T03:03:12Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -15,27 +15,27 @@
     <number>Base1</number>
     <title>&#x414;&#x443;&#x43D;&#x430;&#x432; 1433 - 846 (Base1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/104/1612800281.zip</zipfile_location>
-    <zipfile_datetime>20201230_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/104/1640776771.zip</zipfile_location>
+    <zipfile_datetime>20211229_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-12-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>Base2</number>
     <title>&#x421;&#x430;&#x432;&#x430; 211 - 0 (Base2)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/105/1612272638.zip</zipfile_location>
-    <zipfile_datetime>20201230_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-12-30T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/105/1640776823.zip</zipfile_location>
+    <zipfile_datetime>20211229_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-12-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>Base3</number>
     <title>&#x422;&#x438;&#x441;&#x430; 164 - 0 (Base3)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/106/1612442686.zip</zipfile_location>
-    <zipfile_datetime>20191222_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-12-22T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/RS/106/1640776848.zip</zipfile_location>
+    <zipfile_datetime>20211229_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2021-12-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
