@@ -146,6 +146,18 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3359',
+ 'target_filename': None,
+ 'title': u'DA ILHA CARAGUAT\xc1 \xc0 ILHA CAMBAR\xc1 FERRADO',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -1250,11 +1262,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2022-01-08</date_created>
-    <time_created>02:54:06</time_created>
-    <date_valid>2022-01-08</date_valid>
-    <time_valid>02:54:06</time_valid>
-    <dt_valid>2022-01-08T02:54:06Z</dt_valid>
+    <date_created>2022-01-15</date_created>
+    <time_created>02:07:06</time_created>
+    <date_valid>2022-01-15</date_valid>
+    <time_valid>02:07:06</time_valid>
+    <dt_valid>2022-01-15T02:07:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2335,8 +2347,8 @@
     <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070.zip</zipfile_location>
-    <zipfile_datetime>20220107_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-07T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20220110_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-01-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-210</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -3114,19 +3126,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
@@ -4117,15 +4129,6 @@
     <title>DA OR&#xC7;ADA DE S&#xC3;O JOS&#xC9; &#xC0; ILHA CARAGUAT&#xC1; (3358)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3358.zip</zipfile_location>
-    <zipfile_datetime>20190425_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-04-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3359</number>
-    <title>DA ILHA CARAGUAT&#xC1; &#xC0; ILHA CAMBAR&#xC1; FERRADO (3359)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3359.zip</zipfile_location>
     <zipfile_datetime>20190425_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-04-25T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
