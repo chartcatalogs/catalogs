@@ -26,18 +26,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'1507',
- 'target_filename': None,
- 'title': u'ENSEADA DE MACAE E PROXIMIDADES',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -251,26 +239,14 @@
  'zipfile_size': 0,
  'zipfile_ts': None}
 -->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4361B',
- 'target_filename': None,
- 'title': u'DA PTA. ITAPIMINA \xc0 BELO MONTE',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2022-03-19</date_created>
-    <time_created>02:43:06</time_created>
-    <date_valid>2022-03-19</date_valid>
-    <time_valid>02:43:06</time_valid>
-    <dt_valid>2022-03-19T02:43:06Z</dt_valid>
+    <date_created>2022-03-26</date_created>
+    <time_created>02:33:07</time_created>
+    <date_valid>2022-03-26</date_valid>
+    <time_valid>02:33:07</time_valid>
+    <dt_valid>2022-03-26T02:33:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -819,9 +795,9 @@
     <number>1406</number>
     <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1406.zip</zipfile_location>
-    <zipfile_datetime>20211217_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-12-17T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1406_0.zip</zipfile_location>
+    <zipfile_datetime>20220324_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-24T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-196</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -886,6 +862,15 @@
     <zipfile_datetime>20220217_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-02-17T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-22</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1507</number>
+    <title>ENSEADA DE MACAE E PROXIMIDADES (1507)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1507.zip</zipfile_location>
+    <zipfile_datetime>20220321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-47</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1508</number>
@@ -2103,19 +2088,19 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <number>4216</number>
+    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4216</number>
-    <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
     <zipfile_datetime>20191113_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-11-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-211</ntm_edition_last_correction>
@@ -5242,6 +5227,15 @@
     <zipfile_datetime>20200513_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-05-13T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2020 - 46</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20220321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4361A</number>
