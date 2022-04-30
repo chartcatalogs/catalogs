@@ -26,6 +26,102 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'412',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DE S\xc3O MARCOS PROXIMIDADES DO TERMINAL DA PONTA DA MADEIRA E ITAQUI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'413',
+ 'target_filename': None,
+ 'title': u'TERMINAL DA PONTA DA MADEIRA E PORTO DE ITAQUI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'414',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DE S\xc3O MARCOS DE ITAQUI AO TERMINAL DA ALUMAR',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1622',
+ 'target_filename': None,
+ 'title': u'BA\xcdA DE SEPETIBA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1623',
+ 'target_filename': None,
+ 'title': u'PORTO DE ITAGUA\xcd',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1822',
+ 'target_filename': None,
+ 'title': u'PORTOS DE PARANAGU\xc1 E ANTONINA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21200_(INT.4195)',
+ 'target_filename': None,
+ 'title': u'DA PONTA TUCUM\xc3 \xc0 PONTA DO GUAR\xc1',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'21300_(INT.4196)',
+ 'target_filename': None,
+ 'title': u'DO CABO NORTE AO CABO MAGUARI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -110,10 +206,82 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'221',
+ 'target_filename': None,
+ 'title': u'BARRA NORTE DO RIO AMAZONAS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4032A',
+ 'target_filename': None,
+ 'title': u'PORTO DE MANAUS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
  'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': None,
+ 'number': 0,
+ 'target_filename': None,
+ 'title': '',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4748',
+ 'target_filename': None,
+ 'title': u'DA ILHA ASSUN\xc7\xc3O AO ESTIR\xc3O DOS PAPAGAIOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4749',
+ 'target_filename': None,
+ 'title': u'DA ILHA TIRA-FOGO \xc0 ILHA DOS PERIQUITOS',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4750',
+ 'target_filename': None,
+ 'title': u'DA ILHA DOS PERIQUITOS \xc0 BOCA DO MURIQUI',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -158,10 +326,10 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': None,
- 'number': 0,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3348',
  'target_filename': None,
- 'title': '',
+ 'title': u'DO PUERTO ESPERANZA \xc0 ILHA CABE\xc7A DE BOI',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -242,11 +410,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2022-04-23</date_created>
-    <time_created>01:09:09</time_created>
-    <date_valid>2022-04-23</date_valid>
-    <time_valid>01:09:09</time_valid>
-    <dt_valid>2022-04-23T01:09:09Z</dt_valid>
+    <date_created>2022-04-30</date_created>
+    <time_created>01:35:08</time_created>
+    <date_valid>2022-04-30</date_valid>
+    <time_valid>01:35:08</time_valid>
+    <dt_valid>2022-04-30T01:35:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -412,33 +580,6 @@
     <zipfile_datetime>20220308_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-03-08T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-32</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>412</number>
-    <title>BA&#xCD;A DE S&#xC3;O MARCOS PROXIMIDADES DO TERMINAL DA PONTA DA MADEIRA E ITAQUI (412)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/412_1.zip</zipfile_location>
-    <zipfile_datetime>20220105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-199</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>413</number>
-    <title>TERMINAL DA PONTA DA MADEIRA E PORTO DE ITAQUI (413)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/413.zip</zipfile_location>
-    <zipfile_datetime>20220105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-199</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>414</number>
-    <title>BA&#xCD;A DE S&#xC3;O MARCOS DE ITAQUI AO TERMINAL DA ALUMAR (414)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/414.zip</zipfile_location>
-    <zipfile_datetime>20220105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-199</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>515</number>
@@ -954,24 +1095,6 @@
     <ntm_edition_last_correction>2022-35</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1622</number>
-    <title>BA&#xCD;A DE SEPETIBA (1622)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1622.zip</zipfile_location>
-    <zipfile_datetime>20220121_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-6</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1623</number>
-    <title>PORTO DE ITAGUA&#xCD; (1623)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1623.zip</zipfile_location>
-    <zipfile_datetime>20220116_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-6</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1624</number>
     <title>TERMINAL MAR&#xCD;TIMO DA ILHA GUA&#xCD;BA (1624)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1150,15 +1273,6 @@
     <zipfile_datetime>20200418_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-04-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-171</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1822</number>
-    <title>PORTOS DE PARANAGU&#xC1; E ANTONINA (1822)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1822.zip</zipfile_location>
-    <zipfile_datetime>20220420_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-04-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-68</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1830</number>
@@ -1348,24 +1462,6 @@
     <zipfile_datetime>20181122_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2018-11-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-76</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21200_(INT.4195)</number>
-    <title>DA PONTA TUCUM&#xC3; &#xC0; PONTA DO GUAR&#xC1; (21200_(INT.4195))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21200.zip</zipfile_location>
-    <zipfile_datetime>20211209_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-12-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-191</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>21300_(INT.4196)</number>
-    <title>DO CABO NORTE AO CABO MAGUARI (21300_(INT.4196))</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21300.zip</zipfile_location>
-    <zipfile_datetime>20211126_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-11-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-175</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21400_(INT.4197)</number>
@@ -1701,15 +1797,6 @@
     <ntm_edition_last_correction>2021-73</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>221</number>
-    <title>BARRA NORTE DO RIO AMAZONAS (221)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/221.zip</zipfile_location>
-    <zipfile_datetime>20220420_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-04-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-65</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>231</number>
     <title>DA ILHA DO MACHADINHO AO CABO MAGUARI (P. DA BARRA SUL DO AMAZONAS) (231)</title>
     <format>Sailing Chart, International Chart</format>
@@ -2005,15 +2092,6 @@
     <zipfile_datetime>20210430_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-04-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4032A</number>
-    <title>PORTO DE MANAUS (4032A)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4032a.zip</zipfile_location>
-    <zipfile_datetime>20211124_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-11-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-172</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4203</number>
@@ -2428,33 +2506,6 @@
     <zipfile_datetime>20191001_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2019-10-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2019-147</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4748</number>
-    <title>DA ILHA ASSUN&#xC7;&#xC3;O AO ESTIR&#xC3;O DOS PAPAGAIOS (4748)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4748.zip</zipfile_location>
-    <zipfile_datetime>20180830_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-08-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-156</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4749</number>
-    <title>DA ILHA TIRA-FOGO &#xC0; ILHA DOS PERIQUITOS (4749)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4749.zip</zipfile_location>
-    <zipfile_datetime>20191001_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-147</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4750</number>
-    <title>DA ILHA DOS PERIQUITOS &#xC0; BOCA DO MURIQUI (4750)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4750.zip</zipfile_location>
-    <zipfile_datetime>20190917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-09-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-178</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4751</number>
@@ -2995,15 +3046,6 @@
     <zipfile_datetime>20201222_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-12-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3348</number>
-    <title>DO PUERTO ESPERANZA &#xC0; ILHA CABE&#xC7;A DE BOI (3348)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3348_0.zip</zipfile_location>
-    <zipfile_datetime>20210817_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-08-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2020-02</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3349</number>
