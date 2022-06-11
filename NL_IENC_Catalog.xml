@@ -2,23 +2,23 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2022-06-04</date_created>
-    <time_created>01:31:29</time_created>
-    <date_valid>2022-06-04</date_valid>
-    <time_valid>01:31:29</time_valid>
-    <dt_valid>2022-06-04T01:31:29Z</dt_valid>
+    <date_created>2022-06-11</date_created>
+    <time_created>01:27:08</time_created>
+    <date_valid>2022-06-11</date_valid>
+    <time_valid>01:27:08</time_valid>
+    <dt_valid>2022-06-11T01:27:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 22 &#x2013; 2022 &#x2013; 29 MB (0)</title>
+    <title>Zeeland Compleet Week 23 &#x2013; 2022 &#x2013; 40 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3218125821</zipfile_location>
-    <zipfile_datetime>20220601_145351</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-06-01T14:53:51Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 22 &#x2013; 2022 &#x2013; 29 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3221417330</zipfile_location>
+    <zipfile_datetime>20220607_102506</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-06-07T10:25:06Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 23 &#x2013; 2022 &#x2013; 40 MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
