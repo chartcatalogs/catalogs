@@ -149,10 +149,90 @@
     <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>ncds_10</number>
-    <title>ncds_10</title>
+    <number>ncds_16</number>
+    <title>ncds_16</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_10.mbtiles</zipfile_location>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_16.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_17</number>
+    <title>ncds_17</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_17.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_18</number>
+    <title>ncds_18</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_18.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_19</number>
+    <title>ncds_19</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_19.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_20</number>
+    <title>ncds_20</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_20.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_21</number>
+    <title>ncds_21</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_21.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_22</number>
+    <title>ncds_22</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_22.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_23</number>
+    <title>ncds_23</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_23.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_24</number>
+    <title>ncds_24</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_24.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_25</number>
+    <title>ncds_25</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_25.mbtiles</zipfile_location>
+    <zipfile_datetime>20220530_004221</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>ncds_26</number>
+    <title>ncds_26</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_26.mbtiles</zipfile_location>
     <zipfile_datetime>20220530_004221</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-05-30T00:42:21Z</zipfile_datetime_iso8601>
   </chart>
