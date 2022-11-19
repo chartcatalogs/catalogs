@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2022-11-12</date_created>
-    <time_created>02:00:03</time_created>
-    <date_valid>2022-11-12</date_valid>
-    <time_valid>02:00:03</time_valid>
-    <dt_valid>2022-11-12T02:00:03Z</dt_valid>
+    <date_created>2022-11-19</date_created>
+    <time_created>02:39:10</time_created>
+    <date_valid>2022-11-19</date_valid>
+    <time_valid>02:39:10</time_valid>
+    <dt_valid>2022-11-19T02:39:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 45 &#x2013; 20XX &#x2013; 41 MB (0)</title>
+    <title>Zeeland Compleet Week 46 &#x2013; 2022 &#x2013; 39 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3337554075</zipfile_location>
-    <zipfile_datetime>20221108_094711</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-11-08T09:47:11Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 45 &#x2013; 20XX &#x2013; 41 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3344767267</zipfile_location>
+    <zipfile_datetime>20221115_104007</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-11-15T10:40:07Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 46 &#x2013; 2022 &#x2013; 39 MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>Nederland (excl Zeeland) 2022-08-12 - 41MB (1)</title>
+    <title>Nederland (excl Zeeland) 2022-11-14 - 44MB (1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3263702076</zipfile_location>
-    <zipfile_datetime>20220812_150701</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-12T15:07:01Z</zipfile_datetime_iso8601>
-    <target_filename>Nederland (excl Zeeland) 2022-08-12 - 41MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3342988801</zipfile_location>
+    <zipfile_datetime>20221114_161857</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-11-14T16:18:57Z</zipfile_datetime_iso8601>
+    <target_filename>Nederland (excl Zeeland) 2022-11-14 - 44MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
