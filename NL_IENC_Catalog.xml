@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2022-12-03</date_created>
-    <time_created>02:30:04</time_created>
-    <date_valid>2022-12-03</date_valid>
-    <time_valid>02:30:04</time_valid>
-    <dt_valid>2022-12-03T02:30:04Z</dt_valid>
+    <date_created>2022-12-10</date_created>
+    <time_created>02:30:10</time_created>
+    <date_valid>2022-12-10</date_valid>
+    <time_valid>02:30:10</time_valid>
+    <dt_valid>2022-12-10T02:30:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland) 2022-11-30- 45MB (0)</title>
+    <title>Zeeland Compleet Week 49 &#x2013; 2022 &#x2013; 39 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3364632821</zipfile_location>
+    <zipfile_datetime>20221206_104138</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-12-06T10:41:38Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 49 &#x2013; 2022 &#x2013; 39 MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (excl Zeeland) 2022-11-30- 45MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3357461854</zipfile_location>
     <zipfile_datetime>20221130_142014</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-11-30T14:20:14Z</zipfile_datetime_iso8601>
     <target_filename>Nederland (excl Zeeland) 2022-11-30- 45MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland Compleet Week 48 &#x2013; 2022 &#x2013;  40MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3357426970</zipfile_location>
-    <zipfile_datetime>20221129_131027</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-11-29T13:10:27Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 48 &#x2013; 2022 &#x2013;  40MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
