@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-01-21</date_created>
-    <time_created>02:00:09</time_created>
-    <date_valid>2023-01-21</date_valid>
-    <time_valid>02:00:09</time_valid>
-    <dt_valid>2023-01-21T02:00:09Z</dt_valid>
+    <date_created>2023-01-28</date_created>
+    <time_created>02:28:06</time_created>
+    <date_valid>2023-01-28</date_valid>
+    <time_valid>02:28:06</time_valid>
+    <dt_valid>2023-01-28T02:28:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland) 2023-01-18- 45MB (0)</title>
+    <title>Zeeland Compleet Week 4 &#x2013; 2023 &#x2013; 40 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3401045365</zipfile_location>
+    <zipfile_datetime>20230124_151259</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-01-24T15:12:59Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 4 &#x2013; 2023 &#x2013; 40 MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (excl Zeeland) 2023-01-18- 45MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3395631778</zipfile_location>
     <zipfile_datetime>20230118_170755</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-01-18T17:07:55Z</zipfile_datetime_iso8601>
     <target_filename>Nederland (excl Zeeland) 2023-01-18- 45MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland Compleet Week 3 &#x2013; 2023 &#x2013; 40 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3393826948</zipfile_location>
-    <zipfile_datetime>20230117_124723</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-01-17T12:47:23Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 3 &#x2013; 2023 &#x2013; 40 MB.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
