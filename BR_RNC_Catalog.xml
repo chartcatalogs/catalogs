@@ -26,6 +26,30 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1404',
+ 'target_filename': None,
+ 'title': u'PROXIMIDADES DA PONTA DO UBU',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2023, 1, 26, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'1625',
+ 'target_filename': None,
+ 'title': u'ENSEADAS DA ILHA GRANDE',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2022, 9, 5, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -218,6 +242,66 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3302',
+ 'target_filename': None,
+ 'title': u'DO RIACHO SAN FRANSISCO (BOCA INFERIOR) \xc0 VILLA HAYES',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2016, 6, 15, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3303',
+ 'target_filename': None,
+ 'title': u'DE PIQUETE-CU\xc9 \xc0 VUELTA ARECUTACU\xc1',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2016, 6, 15, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3353',
+ 'target_filename': None,
+ 'title': u'DO ESTIR\xc3O DE COIMBRA \xc0 ILHA PARATUDAL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2022, 6, 2, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3354',
+ 'target_filename': None,
+ 'title': u'DO PASSO PI\xdaVA INFERIOR \xc0 ILHA DOS BUGRES',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2022, 6, 2, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'3360',
+ 'target_filename': None,
+ 'title': u'DO ESTIR\xc3O CAMBAR\xc1 FERRADO AO PASSO ABOBRAL',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2021, 9, 16, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -226,6 +310,18 @@
  'vertical_datum': None,
  'zipfile_size': 0,
  'zipfile_ts': None}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
+ 'number': u'4056',
+ 'target_filename': None,
+ 'title': u'DA ILHA TROCARI \xc0 COARI',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2022, 12, 19, 0, 0)}
 -->
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
@@ -290,11 +386,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-01-28</date_created>
-    <time_created>02:28:05</time_created>
-    <date_valid>2023-01-28</date_valid>
-    <time_valid>02:28:05</time_valid>
-    <dt_valid>2023-01-28T02:28:05Z</dt_valid>
+    <date_created>2023-02-04</date_created>
+    <time_created>02:30:06</time_created>
+    <date_valid>2023-02-04</date_valid>
+    <time_valid>02:30:06</time_valid>
+    <dt_valid>2023-02-04T02:30:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -822,15 +918,6 @@
     <ntm_edition_last_correction>2022-214</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>1404</number>
-    <title>PROXIMIDADES DA PONTA DO UBU (1404)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1404_0.zip</zipfile_location>
-    <zipfile_datetime>20230126_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-01-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-7</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>1405</number>
     <title>PORTO DE A&#xC7;U (1405)</title>
     <format>Sailing Chart, International Chart</format>
@@ -1000,15 +1087,6 @@
     <zipfile_datetime>20220824_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-24T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-186</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>1625</number>
-    <title>ENSEADAS DA ILHA GRANDE (1625)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1625.zip</zipfile_location>
-    <zipfile_datetime>20220905_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-09-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-193</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1631</number>
@@ -2091,21 +2169,21 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20220809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4216</number>
     <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20220810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_datetime>20220809_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2586,24 +2664,6 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>3302</number>
-    <title>DO RIACHO SAN FRANSISCO (BOCA INFERIOR) &#xC0; VILLA HAYES (3302)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3302.zip</zipfile_location>
-    <zipfile_datetime>20160615_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-06-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3303</number>
-    <title>DE PIQUETE-CU&#xC9; &#xC0; VUELTA ARECUTACU&#xC1; (3303)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3303.zip</zipfile_location>
-    <zipfile_datetime>20160615_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-06-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>3304</number>
     <title>DA ISLA ARECUTACU&#xC1; A ESTANCIA OLIVARES (3304)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3045,24 +3105,6 @@
     <ntm_edition_last_correction>2022-10</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>3353</number>
-    <title>DO ESTIR&#xC3;O DE COIMBRA &#xC0; ILHA PARATUDAL (3353)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3353.zip</zipfile_location>
-    <zipfile_datetime>20220602_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-06-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-5</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3354</number>
-    <title>DO PASSO PI&#xDA;VA INFERIOR &#xC0; ILHA DOS BUGRES (3354)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3354.zip</zipfile_location>
-    <zipfile_datetime>20220602_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-06-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-5</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>3355</number>
     <title>DA ILHA DOS BUGRES &#xC0; ILHA NABILEQUE (3355)</title>
     <format>Sailing Chart, International Chart</format>
@@ -3106,15 +3148,6 @@
     <zipfile_datetime>20220310_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-03-10T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2021-12</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>3360</number>
-    <title>DO ESTIR&#xC3;O CAMBAR&#xC1; FERRADO AO PASSO ABOBRAL (3360)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3360_0.zip</zipfile_location>
-    <zipfile_datetime>20210916_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-5</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3361</number>
@@ -3862,15 +3895,6 @@
     <zipfile_datetime>20221222_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-12-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-238</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>4056</number>
-    <title>DA ILHA TROCARI &#xC0; COARI (4056)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4056.zip</zipfile_location>
-    <zipfile_datetime>20221219_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-12-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>HS-A4</number>
@@ -5214,15 +5238,6 @@
     <ntm_edition_last_correction>2022-150</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20220321_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5230,5 +5245,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20220321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
