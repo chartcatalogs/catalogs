@@ -2,15 +2,23 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>DE IENC Charts</title>
-    <date_created>2023-02-04</date_created>
-    <time_created>02:30:07</time_created>
-    <date_valid>2023-02-04</date_valid>
-    <time_valid>02:30:07</time_valid>
-    <dt_valid>2023-02-04T02:30:07Z</dt_valid>
+    <date_created>2023-02-11</date_created>
+    <time_created>02:06:22</time_created>
+    <date_valid>2023-02-11</date_valid>
+    <time_valid>02:06:22</time_valid>
+    <dt_valid>2023-02-11T02:06:22Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
+  <chart>
+    <number>76</number>
+    <title>Havelkanal (76)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW76_2022-12-19_2_32.zip</zipfile_location>
+    <zipfile_datetime>20230125_092728</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-01-25T09:27:28Z</zipfile_datetime_iso8601>
+  </chart>
   <chart>
     <number>10</number>
     <title>Landwehrkanal (10)</title>
@@ -276,14 +284,6 @@
     <zipfile_datetime_iso8601>2021-08-27T10:21:18Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>60</number>
-    <title>Elbe (60)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW60_2022-09-05_0_619.zip</zipfile_location>
-    <zipfile_datetime>20221101_085630</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-11-01T08:56:30Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
     <number>64</number>
     <title>Elbe-L&#xFC;beck-Kanal (64)</title>
     <format>Sailing Chart, International Chart</format>
@@ -308,35 +308,35 @@
     <zipfile_datetime_iso8601>2021-06-29T12:20:02Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>76</number>
-    <title>Havelkanal (76)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW76_2020-12-04_2_32.zip</zipfile_location>
-    <zipfile_datetime>20210629_122002</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-06-29T12:20:02Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
-    <number>77</number>
-    <title>Potsdamer Havel (77)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW77_2022-08-26_3_29.zip</zipfile_location>
-    <zipfile_datetime>20221101_085632</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-11-01T08:56:32Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
-    <number>82</number>
-    <title>Untere Havel-Wasserstra&#xDF;e (Spandau - Plaue) (82)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW82_2022-08-24_0_69.zip</zipfile_location>
-    <zipfile_datetime>20221101_085636</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-11-01T08:56:36Z</zipfile_datetime_iso8601>
-  </chart>
-  <chart>
     <number>92</number>
     <title>Berlin-Spandauer-Schifffahrtskanal (92)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW92_2022-09-15_1_12.zip</zipfile_location>
     <zipfile_datetime>20221101_085637</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-11-01T08:56:37Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>60</number>
+    <title>Elbe (60)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW60_2023-01-04_0_619.zip</zipfile_location>
+    <zipfile_datetime>20230125_092728</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-01-25T09:27:28Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>77</number>
+    <title>Potsdamer Havel (77)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW77_2022-12-19_3_29.zip</zipfile_location>
+    <zipfile_datetime>20230125_092730</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-01-25T09:27:30Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>82</number>
+    <title>Untere Havel-Wasserstra&#xDF;e (Spandau - Plaue) (82)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/enc-dateien/WW82_2022-12-19_0_69.zip</zipfile_location>
+    <zipfile_datetime>20230125_092734</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-01-25T09:27:34Z</zipfile_datetime_iso8601>
   </chart>
 </RncProductCatalogChartCatalogs>
