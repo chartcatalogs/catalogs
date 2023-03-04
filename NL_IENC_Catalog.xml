@@ -2,27 +2,36 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-02-25</date_created>
-    <time_created>02:45:35</time_created>
-    <date_valid>2023-02-25</date_valid>
-    <time_valid>02:45:35</time_valid>
-    <dt_valid>2023-02-25T02:45:35Z</dt_valid>
+    <date_created>2023-03-04</date_created>
+    <time_created>02:46:30</time_created>
+    <date_valid>2023-03-04</date_valid>
+    <time_valid>02:46:30</time_valid>
+    <dt_valid>2023-03-04T02:46:30Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week &#x201C;8&#x201D; &#x2013; 2023 &#x2013; 02 MB (0)</title>
+    <title>WaddenzeeCompleet Week 9 &#x2013; 2023 &#x2013; 43 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3435195112</zipfile_location>
-    <zipfile_datetime>20230221_153352</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-02-21T15:33:52Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week &#x201C;8&#x201D; &#x2013; 2023 &#x2013; 02 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3446038761</zipfile_location>
+    <zipfile_datetime>20230303_114647</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-03-03T11:46:47Z</zipfile_datetime_iso8601>
+    <target_filename>WaddenzeeCompleet Week 9 &#x2013; 2023 &#x2013; 43 MB.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>Port of Rotterdam 2022-12-14 (1)</title>
+    <title>Zeeland Compleet Week 9 - 2023 - 40MB (1)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3440638785</zipfile_location>
+    <zipfile_datetime>20230228_105023</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-02-28T10:50:23Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland Compleet Week 9 - 2023 - 40MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>2</number>
+    <title>Port of Rotterdam 2022-12-14 (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3410002695</zipfile_location>
     <zipfile_datetime>20230131_094409</zipfile_datetime>
@@ -30,8 +39,8 @@
     <target_filename>Port of Rotterdam 2022-12-14.zip</target_filename>
   </chart>
   <chart>
-    <number>2</number>
-    <title>Nederland (excl Zeeland) 2023-01-18- 45MB (2)</title>
+    <number>3</number>
+    <title>Nederland (excl Zeeland) 2023-01-18- 45MB (3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3395631778</zipfile_location>
     <zipfile_datetime>20230118_170755</zipfile_datetime>
@@ -39,8 +48,8 @@
     <target_filename>Nederland (excl Zeeland) 2023-01-18- 45MB.zip</target_filename>
   </chart>
   <chart>
-    <number>3</number>
-    <title>IENC Haven Geertruidenberg (3)</title>
+    <number>4</number>
+    <title>IENC Haven Geertruidenberg (4)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_092945</zipfile_datetime>
@@ -48,8 +57,8 @@
     <target_filename>IENC Haven Geertruidenberg.zip</target_filename>
   </chart>
   <chart>
-    <number>4</number>
-    <title>IENC Haven Waspik (4)</title>
+    <number>5</number>
+    <title>IENC Haven Waspik (5)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_083216</zipfile_datetime>
