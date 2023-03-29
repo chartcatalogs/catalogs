@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-03-25</date_created>
-    <time_created>03:08:31</time_created>
-    <date_valid>2023-03-25</date_valid>
-    <time_valid>03:08:31</time_valid>
-    <dt_valid>2023-03-25T03:08:31Z</dt_valid>
+    <date_created>2023-03-29</date_created>
+    <time_created>16:22:52</time_created>
+    <date_valid>2023-03-29</date_valid>
+    <time_valid>16:22:52</time_valid>
+    <dt_valid>2023-03-29T16:22:52Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 12 - 2023 - 41 MB (0)</title>
+    <title>Zeeland Compleet Week 13 - 2023 - 40MB (0)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3468929629</zipfile_location>
-    <zipfile_datetime>20230322_095000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-03-22T09:50:00Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland Compleet Week 12 - 2023 - 41 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3476189474</zipfile_location>
+    <zipfile_datetime>20230328_110107</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-03-28T11:01:07Z</zipfile_datetime_iso8601>
+    <target_filename>"20230328_U7Inland_ week 13_NL.zip"</target_filename>
   </chart>
   <chart>
     <number>1</number>
-    <title>WaddenzeeCompleet Week 11 &#x2013; 2023 &#x2013; 43 MB (1)</title>
+    <title>Waddenzee Compleet Week 12 &#x2013; 2023 &#x2013; 43 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3460558788</zipfile_location>
-    <zipfile_datetime>20230317_093328</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-03-17T09:33:28Z</zipfile_datetime_iso8601>
-    <target_filename>WaddenzeeCompleet Week 11 &#x2013; 2023 &#x2013; 43 MB.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3474383083</zipfile_location>
+    <zipfile_datetime>20230327_124814</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-03-27T12:48:14Z</zipfile_datetime_iso8601>
+    <target_filename>"20230327_U7Inland_Waddenzee_week 12_NL.zip"</target_filename>
   </chart>
   <chart>
     <number>2</number>
@@ -36,7 +36,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3410002695</zipfile_location>
     <zipfile_datetime>20230131_094409</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-01-31T09:44:09Z</zipfile_datetime_iso8601>
-    <target_filename>Port of Rotterdam 2022-12-14.zip</target_filename>
+    <target_filename>"Port of Rotterdam 2022-12-14.zip"</target_filename>
   </chart>
   <chart>
     <number>3</number>
@@ -45,7 +45,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3395631778</zipfile_location>
     <zipfile_datetime>20230118_170755</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-01-18T17:07:55Z</zipfile_datetime_iso8601>
-    <target_filename>Nederland (excl Zeeland) 2023-01-18- 45MB.zip</target_filename>
+    <target_filename>"Nederland (excl Zeeland) 2023-01-18- 45MB.zip"</target_filename>
   </chart>
   <chart>
     <number>4</number>
@@ -54,7 +54,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_092945</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-02-22T09:29:45Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Geertruidenberg.zip</target_filename>
+    <target_filename>"1R7GH000.000"</target_filename>
   </chart>
   <chart>
     <number>5</number>
@@ -63,6 +63,6 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_083216</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-06-01T08:32:16Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Waspik.zip</target_filename>
+    <target_filename>"1R7BM000.000"</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
