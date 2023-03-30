@@ -470,11 +470,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-03-29</date_created>
-    <time_created>16:29:20</time_created>
-    <date_valid>2023-03-29</date_valid>
-    <time_valid>16:29:20</time_valid>
-    <dt_valid>2023-03-29T16:29:20Z</dt_valid>
+    <date_created>2023-03-30</date_created>
+    <time_created>01:08:31</time_created>
+    <date_valid>2023-03-30</date_valid>
+    <time_valid>01:08:31</time_valid>
+    <dt_valid>2023-03-30T01:08:31Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -987,10 +987,10 @@
     <number>1403</number>
     <title>DA BARRA DO ITAPEMIRIM AO CABO DE SAO TOM&#xC9; (1403)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403.zip</zipfile_location>
-    <zipfile_datetime>20221025_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-10-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-214</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403_0.zip</zipfile_location>
+    <zipfile_datetime>20230329_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-03-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-40</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1404</number>
@@ -2634,10 +2634,10 @@
     <number>304</number>
     <title>DE MOSQUEIRO &#xC0; ABAETETUBA (304)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/304.zip</zipfile_location>
-    <zipfile_datetime>20221020_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-10-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-207</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/304_0.zip</zipfile_location>
+    <zipfile_datetime>20230329_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-03-29T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-34</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>305</number>
