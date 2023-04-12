@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-04-11</date_created>
-    <time_created>01:26:07</time_created>
-    <date_valid>2023-04-11</date_valid>
-    <time_valid>01:26:07</time_valid>
-    <dt_valid>2023-04-11T01:26:07Z</dt_valid>
+    <date_created>2023-04-12</date_created>
+    <time_created>01:32:32</time_created>
+    <date_valid>2023-04-12</date_valid>
+    <time_valid>01:32:32</time_valid>
+    <dt_valid>2023-04-12T01:32:32Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>WaddenzeeCompleet Week 14 &#x2013; 2023 &#x2013; 43 MB (0)</title>
+    <title>Zeeland Compleet Week 15 - 2023 - 41 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3492550424</zipfile_location>
+    <zipfile_datetime>20230411_104210</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-04-11T10:42:10Z</zipfile_datetime_iso8601>
+    <target_filename>20230410_U7Inland_ week 15_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>WaddenzeeCompleet Week 14 &#x2013; 2023 &#x2013; 43 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3488964701</zipfile_location>
     <zipfile_datetime>20230406_200326</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-04-06T20:03:26Z</zipfile_datetime_iso8601>
     <target_filename>20230406_U7Inland_Waddenzee_week 14_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland Compleet Week 14 - 2023 - 40MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3487083933</zipfile_location>
-    <zipfile_datetime>20230405_144645</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-04-05T14:46:45Z</zipfile_datetime_iso8601>
-    <target_filename>20230404_U7Inland_ week 14_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
