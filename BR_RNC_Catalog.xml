@@ -386,11 +386,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-04-18</date_created>
-    <time_created>01:44:09</time_created>
-    <date_valid>2023-04-18</date_valid>
-    <time_valid>01:44:09</time_valid>
-    <dt_valid>2023-04-18T01:44:09Z</dt_valid>
+    <date_created>2023-04-19</date_created>
+    <time_created>01:16:30</time_created>
+    <date_valid>2023-04-19</date_valid>
+    <time_valid>01:16:30</time_valid>
+    <dt_valid>2023-04-19T01:16:30Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2757,9 +2757,9 @@
     <number>3316</number>
     <title>DA ISLA PEDERNAL AO PASO CAA-PUCU-MI (3316)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3316.zip</zipfile_location>
-    <zipfile_datetime>20190613_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-06-13T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3316_0.zip</zipfile_location>
+    <zipfile_datetime>20230418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-04-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2793,9 +2793,9 @@
     <number>3320</number>
     <title>DO PASO SIETE PUNTAS AO PASO MILAGRO (3320)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3320.zip</zipfile_location>
-    <zipfile_datetime>20190614_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-06-14T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3320_0.zip</zipfile_location>
+    <zipfile_datetime>20230418_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-04-18T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
