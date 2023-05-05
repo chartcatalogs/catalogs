@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-05-04</date_created>
-    <time_created>01:15:06</time_created>
-    <date_valid>2023-05-04</date_valid>
-    <time_valid>01:15:06</time_valid>
-    <dt_valid>2023-05-04T01:15:06Z</dt_valid>
+    <date_created>2023-05-05</date_created>
+    <time_created>01:47:33</time_created>
+    <date_valid>2023-05-05</date_valid>
+    <time_valid>01:47:33</time_valid>
+    <dt_valid>2023-05-05T01:47:33Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland Compleet Week 18 &#x2013; 2023 &#x2013; 40 MB (0)</title>
+    <title>Waddenzee Compleet Week 18 &#x2013; 2023 &#x2013; 43 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3518205594</zipfile_location>
+    <zipfile_datetime>20230504_152245</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-04T15:22:45Z</zipfile_datetime_iso8601>
+    <target_filename>20230504_U7Inland_Waddenzee_week 18_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Zeeland Compleet Week 18 &#x2013; 2023 &#x2013; 40 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3514560749</zipfile_location>
     <zipfile_datetime>20230502_130711</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-05-02T13:07:11Z</zipfile_datetime_iso8601>
     <target_filename>20230502_U7Inland_week 18_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>WaddenzeeCompleet week 17 - 2023 - 44 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3512698209</zipfile_location>
-    <zipfile_datetime>20230428_193726</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-04-28T19:37:26Z</zipfile_datetime_iso8601>
-    <target_filename>20230428_U7Inland_Waddenzee_week 17_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
