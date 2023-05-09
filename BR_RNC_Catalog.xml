@@ -386,11 +386,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-05-08</date_created>
-    <time_created>01:48:05</time_created>
-    <date_valid>2023-05-08</date_valid>
-    <time_valid>01:48:05</time_valid>
-    <dt_valid>2023-05-08T01:48:05Z</dt_valid>
+    <date_created>2023-05-09</date_created>
+    <time_created>01:45:06</time_created>
+    <date_valid>2023-05-09</date_valid>
+    <time_valid>01:45:06</time_valid>
+    <dt_valid>2023-05-09T01:45:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2775,9 +2775,9 @@
     <number>3319</number>
     <title>DO RIO YPAN&#xC9; AO PASO SALADILLO (3319)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3319.zip</zipfile_location>
-    <zipfile_datetime>20190328_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-03-28T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3319_0.zip</zipfile_location>
+    <zipfile_datetime>20230508_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-08T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
