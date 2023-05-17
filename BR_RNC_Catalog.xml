@@ -182,30 +182,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4026',
- 'target_filename': None,
- 'title': u'DE PARINTINS \xc0 ILHA DO MOCAMBO',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em Elabora\xe7\xe3o',
- 'number': u'4103A',
- 'target_filename': None,
- 'title': u'DE PRAINHA \xc0 COSTA DO ITUQUI',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': None}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -386,11 +362,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-05-16</date_created>
-    <time_created>01:37:30</time_created>
-    <date_valid>2023-05-16</date_valid>
-    <time_valid>01:37:30</time_valid>
-    <dt_valid>2023-05-16T01:37:30Z</dt_valid>
+    <date_created>2023-05-17</date_created>
+    <time_created>01:43:31</time_created>
+    <date_valid>2023-05-17</date_valid>
+    <time_valid>01:43:31</time_valid>
+    <dt_valid>2023-05-17T01:43:31Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1308,10 +1284,10 @@
     <number>2101</number>
     <title>PORTO DO RIO GRANDE (2101)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2101.zip</zipfile_location>
-    <zipfile_datetime>20220105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-194</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2101_0.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-61</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2110</number>
@@ -1875,10 +1851,10 @@
     <number>4022</number>
     <title>DA ILHA DO PATACHO A ILHA DO AMADOR (4022)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4022.zip</zipfile_location>
-    <zipfile_datetime>20211217_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-12-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-195</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4022_0.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4023</number>
@@ -1899,22 +1875,31 @@
     <ntm_edition_last_correction>2021-25</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4026</number>
+    <title>DE PARINTINS &#xC0; ILHA DO MOCAMBO (4026)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4026.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-58</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>4026A</number>
     <title>PARAN&#xC1; DO MOCAMBO (4026A)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4026a.zip</zipfile_location>
-    <zipfile_datetime>20220708_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-07-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-136</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4026a_0.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-62</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4027</number>
     <title>DA ILHA DO MOCAMBO &#xC0; PONTA DOS MUNDURUCUS (4027)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4027.zip</zipfile_location>
-    <zipfile_datetime>20230331_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-03-31T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-2</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4027_0.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-58</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4028</number>
@@ -2005,6 +1990,15 @@
     <zipfile_datetime>20220204_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-02-04T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-11</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4103A</number>
+    <title>DE PRAINHA &#xC0; COSTA DO ITUQUI (4103A)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4103a.zip</zipfile_location>
+    <zipfile_datetime>20230516_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-65</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4103B</number>
@@ -2142,21 +2136,21 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20220809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4216</number>
     <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20220810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_datetime>20220809_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -5202,15 +5196,6 @@
     <ntm_edition_last_correction>2022-150</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20220321_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5218,5 +5203,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20220321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
