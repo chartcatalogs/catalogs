@@ -242,6 +242,18 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
+ 'ntm_edition_last_correction': u'2023-34',
+ 'number': u'304',
+ 'target_filename': None,
+ 'title': u'DE MOSQUEIRO \xc0 ABAETETUBA',
+ 'url': '',
+ 'vertical_datum': None,
+ 'zipfile_size': 0,
+ 'zipfile_ts': datetime.datetime(2023, 3, 29, 0, 0)}
+-->
+<!-- unavailable/invalid?
+{'chart_format': 'Sailing Chart, International Chart',
+ 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -350,11 +362,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-06-07</date_created>
-    <time_created>01:41:32</time_created>
-    <date_valid>2023-06-07</date_valid>
-    <time_valid>01:41:32</time_valid>
-    <dt_valid>2023-06-07T01:41:32Z</dt_valid>
+    <date_created>2023-06-08</date_created>
+    <time_created>01:42:10</time_created>
+    <date_valid>2023-06-08</date_valid>
+    <time_valid>01:42:10</time_valid>
+    <dt_valid>2023-06-08T01:42:10Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -2115,21 +2127,21 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20220809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4216</number>
     <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20220810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_datetime>20220809_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -2554,15 +2566,6 @@
     <zipfile_datetime>20220601_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-06-01T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-89</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>304</number>
-    <title>DE MOSQUEIRO &#xC0; ABAETETUBA (304)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/304_0.zip</zipfile_location>
-    <zipfile_datetime>20230329_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-03-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-34</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>305</number>
