@@ -338,11 +338,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-06-27</date_created>
-    <time_created>01:07:08</time_created>
-    <date_valid>2023-06-27</date_valid>
-    <time_valid>01:07:08</time_valid>
-    <dt_valid>2023-06-27T01:07:08Z</dt_valid>
+    <date_created>2023-06-28</date_created>
+    <time_created>01:18:15</time_created>
+    <date_valid>2023-06-28</date_valid>
+    <time_valid>01:18:15</time_valid>
+    <dt_valid>2023-06-28T01:18:15Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1197,10 +1197,10 @@
     <number>1841</number>
     <title>PORTO DE ITAJA&#xCD; (1841)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841.zip</zipfile_location>
-    <zipfile_datetime>20210908_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-09-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-119</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1841_0.zip</zipfile_location>
+    <zipfile_datetime>20230627_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-06-27T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-243</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1901</number>
@@ -2112,21 +2112,21 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20220809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4216</number>
     <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20220810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_datetime>20220809_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -5190,15 +5190,6 @@
     <ntm_edition_last_correction>2022-150</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4361B</number>
-    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
-    <zipfile_datetime>20220321_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4361A</number>
     <title>DA I. DE URUCURICAIA &#xC0; PTA. ITAPINIMA (4361A)</title>
     <format>Sailing Chart, International Chart</format>
@@ -5206,5 +5197,14 @@
     <zipfile_datetime>20200911_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2020-09-11T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2017-96</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4361B</number>
+    <title>DA PTA. ITAPIMINA &#xC0; BELO MONTE (4361B)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4361b.zip</zipfile_location>
+    <zipfile_datetime>20220321_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-03-21T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-42</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
