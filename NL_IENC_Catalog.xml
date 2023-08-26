@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-08-25</date_created>
-    <time_created>01:27:09</time_created>
-    <date_valid>2023-08-25</date_valid>
-    <time_valid>01:27:09</time_valid>
-    <dt_valid>2023-08-25T01:27:09Z</dt_valid>
+    <date_created>2023-08-26</date_created>
+    <time_created>01:43:09</time_created>
+    <date_valid>2023-08-26</date_valid>
+    <time_valid>01:43:09</time_valid>
+    <dt_valid>2023-08-26T01:43:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland met Diepte &#x2013; 2023 &#x2013; Week 34&#x2013; 49 MB (0)</title>
+    <title>Waddenzee met Diepte 2023 - Week &#x201C;34&#x201D;&#x2013; 43 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3654282340</zipfile_location>
+    <zipfile_datetime>20230825_135959</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-08-25T13:59:59Z</zipfile_datetime_iso8601>
+    <target_filename>20230825_U7Inland_Waddenzee_week 34_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Zeeland met Diepte &#x2013; 2023 &#x2013; Week 34&#x2013; 49 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3648873975</zipfile_location>
     <zipfile_datetime>20230822_134258</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-08-22T13:42:58Z</zipfile_datetime_iso8601>
     <target_filename>20230822_U7Inland_ week 34_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Waddenzee met Diepte 2023 - Week 33&#x2013; 43 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3643285096</zipfile_location>
-    <zipfile_datetime>20230817_113636</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-08-17T11:36:36Z</zipfile_datetime_iso8601>
-    <target_filename>20230817_U7Inland_Waddenzee_week 33_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
