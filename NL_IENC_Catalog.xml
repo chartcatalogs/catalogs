@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-10-09</date_created>
-    <time_created>01:45:09</time_created>
-    <date_valid>2023-10-09</date_valid>
-    <time_valid>01:45:09</time_valid>
-    <dt_valid>2023-10-09T01:45:09Z</dt_valid>
+    <date_created>2023-10-10</date_created>
+    <time_created>01:38:08</time_created>
+    <date_valid>2023-10-10</date_valid>
+    <time_valid>01:38:08</time_valid>
+    <dt_valid>2023-10-10T01:38:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2023 - Week 40&#x2013; 43 MB (0)</title>
+    <title>Zeeland met Diepte - 2023 - Week 41 - 41MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3705631176</zipfile_location>
+    <zipfile_datetime>20231009_153146</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-10-09T15:31:46Z</zipfile_datetime_iso8601>
+    <target_filename>20231009_U7Inland_Week 41_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2023 - Week 40&#x2013; 43 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3703794094</zipfile_location>
     <zipfile_datetime>20231006_102427</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-10-06T10:24:27Z</zipfile_datetime_iso8601>
     <target_filename>20231005_U7Inland_Waddenzee_week 40_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland met Diepte 2023 &#x2013; Week 40&#x2013; 40 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3698364694</zipfile_location>
-    <zipfile_datetime>20231003_115451</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-03T11:54:51Z</zipfile_datetime_iso8601>
-    <target_filename>20231003_U7Inland_ week 40_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
