@@ -2,18 +2,27 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2023-10-17</date_created>
-    <time_created>01:09:10</time_created>
-    <date_valid>2023-10-17</date_valid>
-    <time_valid>01:09:10</time_valid>
-    <dt_valid>2023-10-17T01:09:10Z</dt_valid>
+    <date_created>2023-10-18</date_created>
+    <time_created>01:29:07</time_created>
+    <date_valid>2023-10-18</date_valid>
+    <time_valid>01:29:07</time_valid>
+    <dt_valid>2023-10-18T01:29:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2023 - Week 41 - 44 MB (0)</title>
+    <title>Zeeland met Diepte &#x2013; 2023 &#x2013; Week 42&#x2013; 40 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3716511208</zipfile_location>
+    <zipfile_datetime>20231017_112529</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-10-17T11:25:29Z</zipfile_datetime_iso8601>
+    <target_filename>20231017_U7Inland_Week 42_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2023 - Week 41 - 44 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3712863953</zipfile_location>
     <zipfile_datetime>20231013_114855</zipfile_datetime>
@@ -21,22 +30,13 @@
     <target_filename>20231013_U7Inland_Waddenzee_week 41_NL.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>Nederland (excl Zeeland) 2023-10-11- 42MB (1)</title>
+    <number>2</number>
+    <title>Nederland (excl Zeeland) 2023-10-11- 42MB (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3709254847</zipfile_location>
     <zipfile_datetime>20231011_172710</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-10-11T17:27:10Z</zipfile_datetime_iso8601>
     <target_filename>Nederland (excl Zeeland) 2023-10-11- 42MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Zeeland met Diepte - 2023 - Week 41 - 41MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3705631176</zipfile_location>
-    <zipfile_datetime>20231009_153146</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-09T15:31:46Z</zipfile_datetime_iso8601>
-    <target_filename>20231009_U7Inland_Week 41_NL.zip</target_filename>
   </chart>
   <chart>
     <number>3</number>
