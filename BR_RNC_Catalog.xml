@@ -278,11 +278,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2023-12-01</date_created>
-    <time_created>02:19:09</time_created>
-    <date_valid>2023-12-01</date_valid>
-    <time_valid>02:19:09</time_valid>
-    <dt_valid>2023-12-01T02:19:09Z</dt_valid>
+    <date_created>2023-12-02</date_created>
+    <time_created>02:07:14</time_created>
+    <date_valid>2023-12-02</date_valid>
+    <time_valid>02:07:14</time_valid>
+    <dt_valid>2023-12-02T02:07:14Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -480,7 +480,7 @@
     <number>515</number>
     <title>PORTO DE LUIS CORREIA (515)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/515.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/515_0.zip</zipfile_location>
     <zipfile_datetime>20221222_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-12-22T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-227</ntm_edition_last_correction>
@@ -2088,21 +2088,21 @@
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
-    <number>4217</number>
-    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
-    <zipfile_datetime>20220809_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
-  </chart>
-  <chart>
     <number>4216</number>
     <title>DA ILHA OJUARA &#xC0; ILHA JUPATITUBA (4216)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4216.zip</zipfile_location>
     <zipfile_datetime>20220810_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2022-08-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4217</number>
+    <title>DO PARAGUAI &#xC0; FAZENDA CAI&#xC7;ARA (4217)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4217.zip</zipfile_location>
+    <zipfile_datetime>20220809_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2022-08-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2022-160</ntm_edition_last_correction>
   </chart>
   <chart>
