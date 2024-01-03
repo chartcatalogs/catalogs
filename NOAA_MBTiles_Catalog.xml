@@ -181,10 +181,10 @@
     <zipfile_datetime_iso8601>2023-08-02T00:14:00Z</zipfile_datetime_iso8601>
   </chart>
   <chart>
-    <number>ncds_19</number>
-    <title>ncds_19</title>
+    <number>ncds_19a</number>
+    <title>ncds_19a</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_19.mbtiles</zipfile_location>
+    <zipfile_location>https://distribution.charts.noaa.gov/ncds/mbtiles/ncds_19a.mbtiles</zipfile_location>
     <zipfile_datetime>20230802_001400</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-08-02T00:14:00Z</zipfile_datetime_iso8601>
   </chart>
