@@ -266,11 +266,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-01-15</date_created>
-    <time_created>02:27:11</time_created>
-    <date_valid>2024-01-15</date_valid>
-    <time_valid>02:27:11</time_valid>
-    <dt_valid>2024-01-15T02:27:11Z</dt_valid>
+    <date_created>2024-01-16</date_created>
+    <time_created>02:43:12</time_created>
+    <date_valid>2024-01-16</date_valid>
+    <time_valid>02:43:12</time_valid>
+    <dt_valid>2024-01-16T02:43:12Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -909,10 +909,10 @@
     <number>1512</number>
     <title>PORTO DO RIO DE JANEIRO (1512)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512_1.zip</zipfile_location>
-    <zipfile_datetime>20231114_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-11-14T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-99</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512_0.zip</zipfile_location>
+    <zipfile_datetime>20240115_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-204</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1513</number>
@@ -936,10 +936,10 @@
     <number>1550</number>
     <title>BACIA DE CAMPOS (1550)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1550_0.zip</zipfile_location>
-    <zipfile_datetime>20230330_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-03-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-42</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1550.zip</zipfile_location>
+    <zipfile_datetime>20240115_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-208</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1620</number>
@@ -1323,10 +1323,10 @@
     <number>21070_(INT.2008)</number>
     <title>DO CABO FRIO AO CABO DE SANTA MARTA GRANDE (21070_(INT.2008))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070_0.zip</zipfile_location>
-    <zipfile_datetime>20230515_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-05-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-56</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21070.zip</zipfile_location>
+    <zipfile_datetime>20240115_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-208</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21080_(INT.2009)</number>
@@ -1512,9 +1512,9 @@
     <number>23000_(INT.2123)</number>
     <title>DO CABO DE S&#xC3;O TOM&#xC9; AO RIO DE JANEIRO (23000_(INT.2123))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23000_0.zip</zipfile_location>
-    <zipfile_datetime>20230915_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-09-15T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23000.zip</zipfile_location>
+    <zipfile_datetime>20240115_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-15T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2023-144</ntm_edition_last_correction>
   </chart>
   <chart>
