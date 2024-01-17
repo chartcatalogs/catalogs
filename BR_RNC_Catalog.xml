@@ -26,18 +26,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'2023-197',
- 'number': u'1404',
- 'target_filename': None,
- 'title': u'PROXIMIDADES DA PONTA DO UBU',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2024, 1, 4, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -266,11 +254,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-01-16</date_created>
-    <time_created>02:43:12</time_created>
-    <date_valid>2024-01-16</date_valid>
-    <time_valid>02:43:12</time_valid>
-    <dt_valid>2024-01-16T02:43:12Z</dt_valid>
+    <date_created>2024-01-17</date_created>
+    <time_created>02:33:08</time_created>
+    <date_valid>2024-01-17</date_valid>
+    <time_valid>02:33:08</time_valid>
+    <dt_valid>2024-01-17T02:33:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -460,8 +448,8 @@
     <title>BA&#xCD;A DE S&#xC3;O MARCOS DE ITAQUI AO TERMINAL DA ALUMAR (414)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/414_0.zip</zipfile_location>
-    <zipfile_datetime>20240104_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-01-04T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_datetime>20240116_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-16T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2023-194</ntm_edition_last_correction>
   </chart>
   <chart>
@@ -796,6 +784,15 @@
     <zipfile_datetime>20230329_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-03-29T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2023-40</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>1404</number>
+    <title>PROXIMIDADES DA PONTA DO UBU (1404)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1404.zip</zipfile_location>
+    <zipfile_datetime>20240116_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-01-16T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-197</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1405</number>
