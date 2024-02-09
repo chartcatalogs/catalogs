@@ -110,18 +110,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Em elabora\xe7\xe3o',
- 'number': u'4024',
- 'target_filename': None,
- 'title': u'DA ILHA DE SANTA RITA \xc0S ILHAS DO CALDER\xc3O',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2021, 9, 8, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -254,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-02-08</date_created>
-    <time_created>02:20:13</time_created>
-    <date_valid>2024-02-08</date_valid>
-    <time_valid>02:20:13</time_valid>
-    <dt_valid>2024-02-08T02:20:13Z</dt_valid>
+    <date_created>2024-02-09</date_created>
+    <time_created>02:24:09</time_created>
+    <date_valid>2024-02-09</date_valid>
+    <time_valid>02:24:09</time_valid>
+    <dt_valid>2024-02-09T02:24:09Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -942,10 +930,10 @@
     <number>1620</number>
     <title>DO PONTAL DE SERNAMBETIBA &#xC0; ILHA GRANDE (1620)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1620.zip</zipfile_location>
-    <zipfile_datetime>20240122_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-01-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-188</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1620_0.zip</zipfile_location>
+    <zipfile_datetime>20240208_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-15</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1623</number>
@@ -1788,19 +1776,28 @@
     <number>4022</number>
     <title>DA ILHA DO PATACHO A ILHA DO AMADOR (4022)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4022_0.zip</zipfile_location>
-    <zipfile_datetime>20230516_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-65</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4022.zip</zipfile_location>
+    <zipfile_datetime>20240208_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-16</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4023</number>
     <title>DE &#xD3;BIDOS &#xC0; ILHA DE SANTA RITA (4023)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023.zip</zipfile_location>
-    <zipfile_datetime>20211109_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-11-09T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-168</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4023_0.zip</zipfile_location>
+    <zipfile_datetime>20240208_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-16</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>4024</number>
+    <title>DA ILHA DE SANTA RITA &#xC0;S ILHAS DO CALDER&#xC3;O (4024)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4024.zip</zipfile_location>
+    <zipfile_datetime>20240208_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-08T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-16</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4025</number>
