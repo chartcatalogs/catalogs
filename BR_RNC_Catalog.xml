@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-02-26</date_created>
-    <time_created>03:25:11</time_created>
-    <date_valid>2024-02-26</date_valid>
-    <time_valid>03:25:11</time_valid>
-    <dt_valid>2024-02-26T03:25:11Z</dt_valid>
+    <date_created>2024-02-27</date_created>
+    <time_created>02:19:08</time_created>
+    <date_valid>2024-02-27</date_valid>
+    <time_valid>02:19:08</time_valid>
+    <dt_valid>2024-02-27T02:19:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -3738,46 +3738,46 @@
     <number>3431</number>
     <title>DA ILHA DA BAIAZINHA A ILHA DO BEI&#xC7;UDO (3431)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3431.zip</zipfile_location>
-    <zipfile_datetime>20181016_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3431_0.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3432</number>
     <title>DO PASSO DO BEI&#xC7;UDO AO BARRANCO VERMELHO (3432)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3432.zip</zipfile_location>
-    <zipfile_datetime>20190426_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-04-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2019-3</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3432_0.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3433</number>
     <title>DO PASSO DO SOLDADO A FIGUEIRA DO TUCUM (3433)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3433.zip</zipfile_location>
-    <zipfile_datetime>20181016_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-10-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3433_0.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3434</number>
     <title>DA ILHA DO POTE AO PASSO CAMBAR&#xC1; (3434)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3434.zip</zipfile_location>
-    <zipfile_datetime>20220310_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-03-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2018-11</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3434_0.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3435</number>
     <title>DA ILHA DO JAURU VELHO A BA&#xCD;A GRANDE (3435)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3435_0.zip</zipfile_location>
-    <zipfile_datetime>20240124_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-01-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction/>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3435.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3436</number>
@@ -4233,10 +4233,10 @@
     <number>4383</number>
     <title>DE ITAITUBA &#xC0; S&#xC3;O LU&#xCD;S DO TAPAJ&#xD3;S (4383)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4383.zip</zipfile_location>
-    <zipfile_datetime>20211110_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-11-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-154</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4383_0.zip</zipfile_location>
+    <zipfile_datetime>20240226_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2023-192</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-1</number>
