@@ -2,32 +2,32 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2024-03-19</date_created>
-    <time_created>02:34:09</time_created>
-    <date_valid>2024-03-19</date_valid>
-    <time_valid>02:34:09</time_valid>
-    <dt_valid>2024-03-19T02:34:09Z</dt_valid>
+    <date_created>2024-03-20</date_created>
+    <time_created>02:15:08</time_created>
+    <date_valid>2024-03-20</date_valid>
+    <time_valid>02:15:08</time_valid>
+    <dt_valid>2024-03-20T02:15:08Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 20XX - Week 11&#x2013; 45 MB (0)</title>
+    <title>Zeeland met Diepte &#x2013; 2024 &#x2013; Week 12&#x2013; 41 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3889055622</zipfile_location>
+    <zipfile_datetime>20240319_113220</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-03-19T11:32:20Z</zipfile_datetime_iso8601>
+    <target_filename>20240318_U7Inland_Week 12_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 20XX - Week 11&#x2013; 45 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3885890785</zipfile_location>
     <zipfile_datetime>20240315_095248</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-03-15T09:52:48Z</zipfile_datetime_iso8601>
     <target_filename>20240315_U7Inland_Waddenzee_week 11_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland met diepte - 2024 - week 11 - 40MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=3881926976</zipfile_location>
-    <zipfile_datetime>20240312_105836</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-03-12T10:58:36Z</zipfile_datetime_iso8601>
-    <target_filename>20240312_U7Inland_Week 11_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
