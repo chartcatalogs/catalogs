@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title/>
-    <date_created>2024-04-22</date_created>
-    <time_created>01:27:10</time_created>
-    <date_valid>2024-04-22</date_valid>
-    <time_valid>01:27:10</time_valid>
-    <dt_valid>2024-04-22T01:27:10Z</dt_valid>
+    <date_created>2024-04-23</date_created>
+    <time_created>01:06:12</time_created>
+    <date_valid>2024-04-23</date_valid>
+    <time_valid>01:06:12</time_valid>
+    <dt_valid>2024-04-23T01:06:12Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -22,20 +22,20 @@
   </chart>
   <chart>
     <number>Base2</number>
-    <title>Duna 1811 - 1433 (Base2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HU/142/1639555492.zip</zipfile_location>
-    <zipfile_datetime>20211215_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-12-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>0</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>Base3</number>
-    <title>Szduna 0 - 32 (Base3)</title>
+    <title>Szduna 0 - 32 (Base2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HU/143/1639139679.zip</zipfile_location>
     <zipfile_datetime>20211210_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2021-12-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>0</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>Base3</number>
+    <title>Duna 1811 - 1433 (Base3)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.danubeportal.com/application/cache/uploads/charts/electronic/HU/144/1713796132.zip</zipfile_location>
+    <zipfile_datetime>20230706_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2023-07-06T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>0</ntm_edition_last_correction>
   </chart>
 </RncProductCatalogChartCatalogs>
