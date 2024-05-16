@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-05-15</date_created>
-    <time_created>01:07:08</time_created>
-    <date_valid>2024-05-15</date_valid>
-    <time_valid>01:07:08</time_valid>
-    <dt_valid>2024-05-15T01:07:08Z</dt_valid>
+    <date_created>2024-05-16</date_created>
+    <time_created>01:42:07</time_created>
+    <date_valid>2024-05-16</date_valid>
+    <time_valid>01:42:07</time_valid>
+    <dt_valid>2024-05-16T01:42:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -777,10 +777,10 @@
     <number>1404</number>
     <title>PROXIMIDADES DA PONTA DO UBU (1404)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1404_0.zip</zipfile_location>
-    <zipfile_datetime>20240430_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-04-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-49</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1404.zip</zipfile_location>
+    <zipfile_datetime>20240515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-54</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1405</number>
@@ -813,10 +813,10 @@
     <number>1420</number>
     <title>PROXIMIDADES DE BARRA DO RIACHO (1420)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1420_0.zip</zipfile_location>
-    <zipfile_datetime>20240430_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-04-30T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-48</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1420.zip</zipfile_location>
+    <zipfile_datetime>20240515_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-05-15T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-53</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1501</number>
