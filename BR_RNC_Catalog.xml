@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-06-03</date_created>
-    <time_created>01:45:04</time_created>
-    <date_valid>2024-06-03</date_valid>
-    <time_valid>01:45:04</time_valid>
-    <dt_valid>2024-06-03T01:45:04Z</dt_valid>
+    <date_created>2024-06-04</date_created>
+    <time_created>01:29:05</time_created>
+    <date_valid>2024-06-04</date_valid>
+    <time_valid>01:29:05</time_valid>
+    <dt_valid>2024-06-04T01:29:05Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -939,28 +939,28 @@
     <number>1623</number>
     <title>PORTO DE ITAGUA&#xCD; (1623)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1623_0.zip</zipfile_location>
-    <zipfile_datetime>20240124_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-01-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1623.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-62-74</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1624</number>
     <title>TERMINAL MAR&#xCD;TIMO DA ILHA GUA&#xCD;BA (1624)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1624.zip</zipfile_location>
-    <zipfile_datetime>20231025_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-159</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1624_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-63-74</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1625</number>
     <title>ENSEADAS DA ILHA GRANDE (1625)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1625_0.zip</zipfile_location>
-    <zipfile_datetime>20231025_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-160</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1625.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-74</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1631</number>
@@ -1119,10 +1119,10 @@
     <number>1821</number>
     <title>BARRA DE PARANAGU&#xC1; (1821)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1821_1.zip</zipfile_location>
-    <zipfile_datetime>20240315_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-03-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-31</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1821_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-61</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1822</number>
@@ -1209,19 +1209,19 @@
     <number>2101</number>
     <title>PORTO DO RIO GRANDE (2101)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2101_0.zip</zipfile_location>
-    <zipfile_datetime>20230516_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-05-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-61</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2101_1.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-79</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2110</number>
     <title>PROXIMIDADES DO PORTO DE RIO GRANDE (2110)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2110.zip</zipfile_location>
-    <zipfile_datetime>20220707_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-07-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-135</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2110_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-79</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>19001_(INT.20)</number>
@@ -1479,19 +1479,19 @@
     <number>22800_(INT.2121)</number>
     <title>DE CONCEI&#xC7;&#xC3;O DA BARRA A VIT&#xD3;RIA (22800_(INT.2121))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22800_0.zip</zipfile_location>
-    <zipfile_datetime>20231025_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-25T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-158-167</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22800.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-73</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>22900_(INT.2122)</number>
     <title>DE VIT&#xD3;RIA AO CABO DE S&#xC3;O TOM&#xC9; (22900_(INT.2122))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22900_0.zip</zipfile_location>
-    <zipfile_datetime>20231026_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-158</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/22900.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-73</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23000_(INT.2123)</number>
@@ -1560,10 +1560,10 @@
     <number>2102</number>
     <title>DE S&#xC3;O JOS&#xC9; DO NORTE AO CANAL DA SETIA (2102)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2102.zip</zipfile_location>
-    <zipfile_datetime>20220601_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-06-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-102</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2102_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-79</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2103</number>
@@ -1605,10 +1605,10 @@
     <number>2112</number>
     <title>DE RIO GRANDE A FEITORIA (2112)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2112.zip</zipfile_location>
-    <zipfile_datetime>20220318_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-03-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-39</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2112_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-79</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2133</number>
@@ -2514,10 +2514,10 @@
     <number>304</number>
     <title>DE MOSQUEIRO &#xC0; ABAETETUBA (304)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/304.zip</zipfile_location>
-    <zipfile_datetime>20231016_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-10-16T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-150</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/304_0.zip</zipfile_location>
+    <zipfile_datetime>20240603_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-67</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>305</number>
