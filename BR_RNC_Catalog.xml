@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-06-10</date_created>
-    <time_created>01:15:05</time_created>
-    <date_valid>2024-06-10</date_valid>
-    <time_valid>01:15:05</time_valid>
-    <dt_valid>2024-06-10T01:15:05Z</dt_valid>
+    <date_created>2024-06-11</date_created>
+    <time_created>01:37:06</time_created>
+    <date_valid>2024-06-11</date_valid>
+    <time_valid>01:37:06</time_valid>
+    <dt_valid>2024-06-11T01:37:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -507,19 +507,10 @@
     <number>720</number>
     <title>DE AREIA BRANCA A GUAMAR&#xC9; (720)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/720.zip</zipfile_location>
-    <zipfile_datetime>20211117_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-11-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-170</ntm_edition_last_correction>
-  </chart>
-  <chart>
-    <number>802</number>
-    <title>PORTO DE NATAL (802)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/802.zip</zipfile_location>
-    <zipfile_datetime>20220107_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-01-07T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2021-204</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/720_1.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-82</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>806</number>
@@ -538,6 +529,15 @@
     <zipfile_datetime>20231025_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2023-10-25T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2023-166</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>811</number>
+    <title>PORTO DE NATAL (811)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/811.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>830</number>
@@ -678,10 +678,10 @@
     <number>1108</number>
     <title>BA&#xCD;A DE TODOS OS SANTOS PORTO DE S&#xC3;O ROQUE E PROXIMIDADES (1108)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1108.zip</zipfile_location>
-    <zipfile_datetime>20180917_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-09-17T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2009-90</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1108_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-80</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1110</number>
@@ -903,19 +903,19 @@
     <number>1513</number>
     <title>TERMINAIS DA BA&#xCD;A DE GUANABARA (1513)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1513.zip</zipfile_location>
-    <zipfile_datetime>20240105_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-01-05T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-199</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1513_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-81</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1515</number>
     <title>BA&#xCD;A DE GUANABARA - ILHA DO MOCANGU&#xCA; E PROXIMIDADES (1515)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1515.zip</zipfile_location>
-    <zipfile_datetime>20230703_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-07-03T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-91</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1515_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-93</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1550</number>
@@ -1371,10 +1371,10 @@
     <number>21600_(INT.2109)</number>
     <title>DA ILHA MAIA&#xDA; &#xC0; TUT&#xD3;IA (21600_(INT.2109))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21600_0.zip</zipfile_location>
-    <zipfile_datetime>20230915_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-09-15T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-132</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/21600.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-84</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>21700_(INT.2110)</number>
@@ -2469,10 +2469,10 @@
     <number>4753</number>
     <title>DO PORTO DE AMPARO A PORTO VELHO (4753)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753.zip</zipfile_location>
-    <zipfile_datetime>20220802_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-158</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-83</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>111</number>
@@ -2721,10 +2721,10 @@
     <number>3318</number>
     <title>DO PASO SIETE PUNTAS AO PASO MILAGRO (3318)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3318.zip</zipfile_location>
-    <zipfile_datetime>20190328_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-03-28T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3318_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-8</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3319</number>
@@ -3432,10 +3432,10 @@
     <number>3397</number>
     <title>DO ESTIR&#xC3;O DO CARAND&#xC1; GRANDE A VOLTA DO ARGOL&#xC3;O (3397)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3397.zip</zipfile_location>
-    <zipfile_datetime>20160901_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-09-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-21</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3397_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3398</number>
@@ -3774,37 +3774,37 @@
     <number>3435</number>
     <title>DA ILHA DO JAURU VELHO A BA&#xCD;A GRANDE (3435)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3435.zip</zipfile_location>
-    <zipfile_datetime>20240226_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-02-26T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-1</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3435_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-7</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3436</number>
     <title>DO PASSO SIM&#xC3;O NUNES INFERIOR AO FURADO JATOB&#xC1; (3436)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3436.zip</zipfile_location>
-    <zipfile_datetime>20160824_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2016-08-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2014-62</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3436_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3437</number>
     <title>DO FURADO DO TUIUIU AO ESTIR&#xC3;O DO ALEGRE (3437)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3437.zip</zipfile_location>
-    <zipfile_datetime>20200908_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2020-09-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>-</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3437_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-7</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3438</number>
     <title>DA BOCA DO ALEGRE AO PASSO PASSAGEM VELHA (3438)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3438.zip</zipfile_location>
-    <zipfile_datetime>20210508_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2021-05-08T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>11-2018</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3438_0.zip</zipfile_location>
+    <zipfile_datetime>20240610_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-7</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>3439</number>
