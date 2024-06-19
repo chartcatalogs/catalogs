@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Peru RNC Charts</title>
-    <date_created>2017-02-12</date_created>
+    <date_created>2024-06-19</date_created>
     <time_created>00:00:00</time_created>
-    <date_valid>2017-02-12</date_valid>
+    <date_valid>2024-06-19</date_valid>
     <time_valid>00:00:00</time_valid>
-    <dt_valid>2017-02-12T00:00:00Z</dt_valid>
+    <dt_valid>2024-06-19T00:00:00Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -15,7 +15,7 @@
     <number>111</number>
     <title>Punta Capones a Punta Sal (111)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_111.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_111.rar</zipfile_location>
     <zipfile_datetime>20150616_165200</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:52:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-18</ntm_edition_last_correction>
@@ -25,7 +25,7 @@
     <number>112</number>
     <title>Punta Sal a Punta Parinas (112)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_112.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_112.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-28</ntm_edition_last_correction>
@@ -35,7 +35,7 @@
     <number>126</number>
     <title>Caleta Puemape a Punta Huanchaco (126)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_126.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_126.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-06-15</ntm_edition_last_correction>
@@ -45,7 +45,7 @@
     <number>1112</number>
     <title>Bahia Tumbes (1112)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_1112.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_1112.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-28</ntm_edition_last_correction>
@@ -55,7 +55,7 @@
     <number>1121</number>
     <title>Punta Sal (1121)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_1121.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_1121.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-28</ntm_edition_last_correction>
@@ -65,7 +65,7 @@
     <number>1122</number>
     <title>Caleta Mancora (1122)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_1122.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_1122.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-29</ntm_edition_last_correction>
@@ -75,7 +75,7 @@
     <number>1124</number>
     <title>Cabo Blanco (1124)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_1124.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_1124.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-28</ntm_edition_last_correction>
@@ -85,7 +85,7 @@
     <number>2231</number>
     <title>Bahia Ancon (2231)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_2231.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_2231.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-29</ntm_edition_last_correction>
@@ -95,7 +95,7 @@
     <number>2235</number>
     <title>Puerto Callao (2235)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_2235.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_2235.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-06-15</ntm_edition_last_correction>
@@ -105,7 +105,7 @@
     <number>2239</number>
     <title>Conchan (2239)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_2239.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_2239.rar</zipfile_location>
     <zipfile_datetime>20150616_165300</zipfile_datetime>
     <zipfile_datetime_iso8601>2015-06-16T16:53:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2015-05-29</ntm_edition_last_correction>
@@ -115,7 +115,7 @@
     <number>4101</number>
     <title>Carta de practicaje del Rio Amazonas (4101)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_4101.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_4101.rar</zipfile_location>
     <zipfile_datetime>20160524_154300</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-05-24T15:43:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-01-04</ntm_edition_last_correction>
@@ -124,7 +124,7 @@
     <number>4151</number>
     <title>Portulano Iquitos y Cercanias (4151)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_4151.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_4151.rar</zipfile_location>
     <zipfile_datetime>20161025_165200</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-10-25T16:52:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2011-08-28</ntm_edition_last_correction>
@@ -134,7 +134,7 @@
     <number>5231</number>
     <title>Portulano Yurimaguas y Cercanias (5231)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.dhn.mil.pe/secciones/cartas_raster/cartas/BSB_5231.rar</zipfile_location>
+    <zipfile_location>https:/www.dhn.mil.pe/Archivos/cartografia/cartas_raster/cartas/BSB_5231.rar</zipfile_location>
     <zipfile_datetime>20161025_172700</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-10-25T17:27:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2016-01-04</ntm_edition_last_correction>
