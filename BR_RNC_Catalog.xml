@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-06-25</date_created>
-    <time_created>01:27:08</time_created>
-    <date_valid>2024-06-25</date_valid>
-    <time_valid>01:27:08</time_valid>
-    <dt_valid>2024-06-25T01:27:08Z</dt_valid>
+    <date_created>2024-06-26</date_created>
+    <time_created>01:16:07</time_created>
+    <date_valid>2024-06-26</date_valid>
+    <time_valid>01:16:07</time_valid>
+    <dt_valid>2024-06-26T01:16:07Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1749,7 +1749,7 @@
     <number>4020A</number>
     <title>PORTO DE SANTAR&#xC9;M (4020A)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4020a_0.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4020a.zip</zipfile_location>
     <zipfile_datetime>20240430_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-04-30T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2024-46</ntm_edition_last_correction>
