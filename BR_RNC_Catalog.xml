@@ -242,11 +242,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2024-07-12</date_created>
-    <time_created>01:33:06</time_created>
-    <date_valid>2024-07-12</date_valid>
-    <time_valid>01:33:06</time_valid>
-    <dt_valid>2024-07-12T01:33:06Z</dt_valid>
+    <date_created>2024-07-13</date_created>
+    <time_created>01:48:06</time_created>
+    <date_valid>2024-07-13</date_valid>
+    <time_valid>01:48:06</time_valid>
+    <dt_valid>2024-07-13T01:48:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -4485,10 +4485,10 @@
     <number>IB-1</number>
     <title>IBITINGA (IB-1)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-1.zip</zipfile_location>
-    <zipfile_datetime>20220701_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-07-01T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-1</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/ib-1_1.zip</zipfile_location>
+    <zipfile_datetime>20240712_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-07-12T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-2</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>IB-2</number>
@@ -4809,19 +4809,19 @@
     <number>PR-10</number>
     <title>PROMISS&#xC3;O (PR-10)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-10.zip</zipfile_location>
-    <zipfile_datetime>20221027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-2</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-10_0.zip</zipfile_location>
+    <zipfile_datetime>20240712_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-07-12T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-2</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>PR-IB</number>
     <title>PROMISS&#xC3;O - IBITINGA (PR-IB)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-ib.zip</zipfile_location>
-    <zipfile_datetime>20221027_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-10-27T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-2</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/pr-ib_0.zip</zipfile_location>
+    <zipfile_datetime>20240712_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-07-12T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-2</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>RP-1</number>
