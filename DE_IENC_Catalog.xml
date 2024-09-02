@@ -11,6 +11,7 @@
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
+<!--
   <chart>
     <number>10</number>
     <title>Landwehrkanal (10)</title>
@@ -347,4 +348,5 @@
     <zipfile_datetime>20240212_114451</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-02-12T11:44:51Z</zipfile_datetime_iso8601>
   </chart>
+-->
 </RncProductCatalogChartCatalogs>
