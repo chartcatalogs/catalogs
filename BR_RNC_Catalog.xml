@@ -38,10 +38,10 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Indispon\xedvel',
- 'number': u'2107',
+ 'ntm_edition_last_correction': 'Indisponível',
+ 'number': '2107',
  'target_filename': None,
- 'title': u'BARRA DO RIO GUA\xcdBA',
+ 'title': 'BARRA DO RIO GUAÍBA',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -50,10 +50,10 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Indispon\xedvel',
- 'number': u'2108',
+ 'ntm_edition_last_correction': 'Indisponível',
+ 'number': '2108',
  'target_filename': None,
- 'title': u'DE ITAPU\xc3 \xc0 PONTA DO ARADO VELHO',
+ 'title': 'DE ITAPUÃ À PONTA DO ARADO VELHO',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -62,10 +62,10 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Indispon\xedvel',
- 'number': u'2111',
+ 'ntm_edition_last_correction': 'Indisponível',
+ 'number': '2111',
  'target_filename': None,
- 'title': u'DE ITAPU\xc3 A PORTO ALEGRE',
+ 'title': 'DE ITAPUÃ A PORTO ALEGRE',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -74,10 +74,10 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': u'Indispon\xedvel',
- 'number': u'2113',
+ 'ntm_edition_last_correction': 'Indisponível',
+ 'number': '2113',
  'target_filename': None,
- 'title': u'DE PORTO ALEGRE AO TERMINAL SANTA CLARA',
+ 'title': 'DE PORTO ALEGRE AO TERMINAL SANTA CLARA',
  'url': '',
  'vertical_datum': None,
  'zipfile_size': 0,
@@ -243,10 +243,10 @@
   <Header>
     <title>Brasil RNC Charts</title>
     <date_created>2024-09-02</date_created>
-    <time_created>01:32:05</time_created>
+    <time_created>14:50:00</time_created>
     <date_valid>2024-09-02</date_valid>
-    <time_valid>01:32:05</time_valid>
-    <dt_valid>2024-09-02T01:32:05Z</dt_valid>
+    <time_valid>14:50:00</time_valid>
+    <dt_valid>2024-09-02T14:50:00Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>

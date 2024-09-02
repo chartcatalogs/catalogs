@@ -3,10 +3,10 @@
   <Header>
     <title>AT IENC Charts</title>
     <date_created>2024-09-02</date_created>
-    <time_created>01:32:09</time_created>
+    <time_created>14:50:06</time_created>
     <date_valid>2024-09-02</date_valid>
-    <time_valid>01:32:09</time_valid>
-    <dt_valid>2024-09-02T01:32:09Z</dt_valid>
+    <time_valid>14:50:06</time_valid>
+    <dt_valid>2024-09-02T14:50:06Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -66,5 +66,61 @@
     <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240229.zip</zipfile_location>
     <zipfile_datetime>20240229_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-02-29T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>233</number>
+    <title>02.04.2024 18:23 - Update vom 2. April 2024 (233)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240402.zip</zipfile_location>
+    <zipfile_datetime>20240402_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-04-02T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>235</number>
+    <title>30.04.2024 15:06 - Update vom 30. April 2024 (235)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240430.zip</zipfile_location>
+    <zipfile_datetime>20240430_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-04-30T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>237</number>
+    <title>28.05.2024 15:32 - Update vom 28. Mai 2024 (237)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240528.zip</zipfile_location>
+    <zipfile_datetime>20240528_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-05-28T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>239</number>
+    <title>13.06.2024 15:58 - Update vom 13. Juni 2024 (239)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240613.zip</zipfile_location>
+    <zipfile_datetime>20240613_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-13T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>241</number>
+    <title>27.06.2024 16:06 - Update vom 27. Juni 2024 (241)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240627.zip</zipfile_location>
+    <zipfile_datetime>20240627_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-06-27T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>243</number>
+    <title>30.07.2024 17:46 - Update vom 30. Juli 2024 (243)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240730.zip</zipfile_location>
+    <zipfile_datetime>20240730_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-07-30T00:00:00Z</zipfile_datetime_iso8601>
+  </chart>
+  <chart>
+    <number>245</number>
+    <title>29.08.2024 15:25 - Update vom 29. August 2024 (245)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.doris.bmk.gv.at//fileadmin/content/doris/ECDIS_Download/2W_Update_20240829.zip</zipfile_location>
+    <zipfile_datetime>20240829_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-08-29T00:00:00Z</zipfile_datetime_iso8601>
   </chart>
 </RncProductCatalogChartCatalogs>
