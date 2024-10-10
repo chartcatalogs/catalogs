@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2024-10-09</date_created>
-  <time_created>03:07:04</time_created>
-  <date_valid>2024-10-09</date_valid>
-  <time_valid>03:07:04</time_valid>
-  <dt_valid>2024-10-09T03:07:04Z</dt_valid>
+  <date_created>2024-10-10</date_created>
+  <time_created>03:17:04</time_created>
+  <date_valid>2024-10-10</date_valid>
+  <time_valid>03:17:04</time_valid>
+  <dt_valid>2024-10-10T03:17:04Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -17,8 +17,8 @@
   <title>1H7D1430 - Duna - Mohács</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1c9f8a69-bb67-4e2c-9415-70d5e9326b19</zipfile_location>
-  <zipfile_datetime>20230712_063521</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063458</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3163207645</number>
@@ -26,8 +26,8 @@
   <title>1H7D1440 - Duna - Mohács</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=eea6b9f8-ce2b-4a0f-bc84-d920ebadf008</zipfile_location>
-  <zipfile_datetime>20230712_063521</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063458</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2913722873</number>
@@ -35,8 +35,8 @@
   <title>1H7D1450 - Dunaszekcso</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ecaedde4-6b4d-4de9-a4d4-f05fcc1abba1</zipfile_location>
-  <zipfile_datetime>20230712_063521</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063458</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1290617663</number>
@@ -44,8 +44,8 @@
   <title>1H7D1460 - Dunafalva</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=181c4d9e-1575-438a-a9e6-0435ef50fffe</zipfile_location>
-  <zipfile_datetime>20230712_063521</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063458</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2200706266</number>
@@ -53,8 +53,8 @@
   <title>1H7D1470 - Duna - Baja</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=21062d23-c630-4e1d-9d7f-0476f4624241</zipfile_location>
-  <zipfile_datetime>20230712_063521</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063458</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1189459741</number>
@@ -62,8 +62,8 @@
   <title>1H7D1480 - Duna - Baja</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d908b9b8-6a74-44ae-a7d9-e944adda5ba6</zipfile_location>
-  <zipfile_datetime>20230712_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3281104856</number>
@@ -71,8 +71,8 @@
   <title>1H7D1490 - Duna - Szekszard</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d5aa2847-331a-4640-8f67-8cae622db38e</zipfile_location>
-  <zipfile_datetime>20230712_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1185965610</number>
@@ -80,8 +80,8 @@
   <title>1H7D1500 - Duna - Dombori</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b7838903-692a-478b-863f-f8979c5dc24a</zipfile_location>
-  <zipfile_datetime>20230712_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2071193193</number>
@@ -89,8 +89,8 @@
   <title>1H7D1510 - Duna - Gerjen</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=23fd2dbc-b488-4be6-8b6f-f28e00427713</zipfile_location>
-  <zipfile_datetime>20230712_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3203003177</number>
@@ -98,8 +98,8 @@
   <title>1H7D1520 - Duna - Paks</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cd2d372e-a9c6-4a00-bda1-a45d4649ff87</zipfile_location>
-  <zipfile_datetime>20230712_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>67818273</number>
@@ -107,8 +107,8 @@
   <title>1H7D1530 - Duna - Paks</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5e08a734-2ed6-4a87-b08e-77b54cd2d1b3</zipfile_location>
-  <zipfile_datetime>20230712_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063459</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:34:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>325512256</number>
@@ -116,8 +116,8 @@
   <title>1H7D1540 - Duna - Harta</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=022493f3-95a1-4e52-b85b-016c1bbcc3ba</zipfile_location>
-  <zipfile_datetime>20230712_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063500</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:00Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>315152213</number>
@@ -125,8 +125,8 @@
   <title>1H7D1550 - Duna - Solt</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=13ec36dd-6ebe-472d-9f5d-1c45f37c8d92</zipfile_location>
-  <zipfile_datetime>20230712_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063500</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:00Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2629581434</number>
@@ -134,8 +134,8 @@
   <title>1H7D1560 - Dunafoldvar</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c41b5d5d-9a7a-4d12-bff7-23b8e132774b</zipfile_location>
-  <zipfile_datetime>20240507_063838</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-05-07T06:38:38Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063500</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:00Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3938649226</number>
@@ -143,8 +143,8 @@
   <title>1H7D1570 - Dunaujvaros</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2e206d7d-da63-4588-bfa0-b002ad25af2c</zipfile_location>
-  <zipfile_datetime>20230712_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063501</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1253060015</number>
@@ -152,8 +152,8 @@
   <title>1H7D1580 - Dunaujvaros</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4cf4f55c-2513-4656-bbe1-b62bf6ed85e6</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063501</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2273137804</number>
@@ -161,8 +161,8 @@
   <title>1H7D1590 - Duna - Adony</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a71a3508-9d9d-4a5b-a3de-136fee97a7bd</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063501</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3380950704</number>
@@ -170,8 +170,8 @@
   <title>1H7D1600 - Duna - Ivancsa</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cd924a76-7405-4fdc-b547-e2dd03f669ba</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063501</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3056050602</number>
@@ -179,8 +179,8 @@
   <title>1H7D1610 - Duna - Szazhalombatta</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2253b84d-03dc-42bc-a15c-8280a4e7fff0</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063502</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>530903004</number>
@@ -188,8 +188,8 @@
   <title>1H7D1620 - Duna - Budapest XXII. lower</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=879de163-520e-4c2c-897a-f6b8feb418f0</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063502</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3764152785</number>
@@ -197,8 +197,8 @@
   <title>1H7D1630 - Duna - Csepel</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=43b53bfd-7130-45ad-ac31-a9b1be926627</zipfile_location>
-  <zipfile_datetime>20230712_063524</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063502</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2912811915</number>
@@ -206,8 +206,8 @@
   <title>1H7D1640 - Duna - Budapest</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=484ae372-f1a6-40ba-b611-d61fc93511c3</zipfile_location>
-  <zipfile_datetime>20230712_063525</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063502</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3822286270</number>
@@ -215,8 +215,8 @@
   <title>1H7D1650 - Duna - Ujpest</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5cbf7db8-ac85-442c-a890-e8574fe1f0ea</zipfile_location>
-  <zipfile_datetime>20230712_063525</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4041344479</number>
@@ -224,8 +224,8 @@
   <title>1H7D1660 - Dunakeszi</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5bb9f23f-944f-4a59-9db4-5c8ca5089b49</zipfile_location>
-  <zipfile_datetime>20230712_063525</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1970171131</number>
@@ -233,8 +233,8 @@
   <title>1H7D1670 - Duna - Felsogod</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5a98cbf9-d77c-42aa-80ae-68d23141949d</zipfile_location>
-  <zipfile_datetime>20230712_063525</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3464920151</number>
@@ -242,8 +242,8 @@
   <title>1H7D1680 - Duna - Vac</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4cd7c112-5223-4740-a4ee-f437b1338764</zipfile_location>
-  <zipfile_datetime>20230712_063525</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3821403681</number>
@@ -251,8 +251,8 @@
   <title>1H7D1690 - Duna - Nagymaros</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a5660552-643c-484a-98cb-92e378648a01</zipfile_location>
-  <zipfile_datetime>20230712_063526</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2331356692</number>
@@ -260,8 +260,8 @@
   <title>1H7D1700 - Duna - Esztergom</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a62a71a0-f8b0-4d22-8b98-003f55fc7a1d</zipfile_location>
-  <zipfile_datetime>20230712_063526</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063503</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1436788039</number>
@@ -278,8 +278,8 @@
   <title>1H7D1710</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d53a0ddf-6359-45b3-beef-e36ad8a53cfb</zipfile_location>
-  <zipfile_datetime>20230712_063526</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063504</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4264806100</number>
@@ -287,8 +287,8 @@
   <title>1H7D1723 - Duna - Labatlan</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=947d10aa-8ea4-4e46-986d-25e689882605</zipfile_location>
-  <zipfile_datetime>20230712_063526</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063504</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2802813106</number>
@@ -296,8 +296,8 @@
   <title>1H7D1737 - Duna - Neszmely</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=24b6a28f-a1ec-4ee4-95ae-ed2aadb9696f</zipfile_location>
-  <zipfile_datetime>20230712_063526</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063504</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1780837280</number>
@@ -305,8 +305,8 @@
   <title>1H7D1752 - Duna - Almasfuzito</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=8c18f09f-f7d5-4ee5-9ea8-f713dc81d298</zipfile_location>
-  <zipfile_datetime>20230712_063527</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063504</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>463223555</number>
@@ -314,8 +314,8 @@
   <title>1H7D1762 - Duna - Komarom</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e2a9533c-0ea3-48c4-a3cd-388085746819</zipfile_location>
-  <zipfile_datetime>20230712_063527</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063504</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4223251201</number>
@@ -323,8 +323,8 @@
   <title>1H7D1776 - Duna - Gonyu</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fbe10e21-82ae-42a9-b83c-8a8b39f54260</zipfile_location>
-  <zipfile_datetime>20230712_063527</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063505</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:05Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3361285750</number>
@@ -332,8 +332,8 @@
   <title>1H7D1791 - Duna - Gonyu</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=91db7bd1-3099-4836-868e-f507160a56a7</zipfile_location>
-  <zipfile_datetime>20230712_063527</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063505</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:05Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1199298722</number>
@@ -341,8 +341,8 @@
   <title>1H7D1800 - Duna - Vamosszabadi</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fc41a4ff-d959-4fd6-8110-f3dbbfde1e5f</zipfile_location>
-  <zipfile_datetime>20230712_063528</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-07-12T06:35:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241009_063505</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-10-09T06:35:05Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>141492417</number>
