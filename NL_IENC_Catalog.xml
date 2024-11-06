@@ -2,18 +2,27 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2024-11-05</date_created>
-    <time_created>03:48:12</time_created>
-    <date_valid>2024-11-05</date_valid>
-    <time_valid>03:48:12</time_valid>
-    <dt_valid>2024-11-05T03:48:12Z</dt_valid>
+    <date_created>2024-11-06</date_created>
+    <time_created>03:37:11</time_created>
+    <date_valid>2024-11-06</date_valid>
+    <time_valid>03:37:11</time_valid>
+    <dt_valid>2024-11-06T03:37:11Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB (0)</title>
+    <title>Zeeland met Diepte - 2024 - Week 45 - 42 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4082572218</zipfile_location>
+    <zipfile_datetime>20241105_095353</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-11-05T09:53:53Z</zipfile_datetime_iso8601>
+    <target_filename>20241105_U7Inland_week 45_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4081301539</zipfile_location>
     <zipfile_datetime>20241104_160419</zipfile_datetime>
@@ -21,22 +30,13 @@
     <target_filename>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>Waddenzee met Diepte 2024 - Week 44&#x2013; 23 MB (1)</title>
+    <number>2</number>
+    <title>Waddenzee met Diepte 2024 - Week 44&#x2013; 23 MB (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4079505013</zipfile_location>
     <zipfile_datetime>20241101_105258</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-11-01T10:52:58Z</zipfile_datetime_iso8601>
     <target_filename>20241101_U7Inland_Waddenzee_week 44_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Zeeland met Diepte &#x2013; 2024 &#x2013; Week 44&#x2013; 41 MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4077025303</zipfile_location>
-    <zipfile_datetime>20241030_091923</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-10-30T09:19:23Z</zipfile_datetime_iso8601>
-    <target_filename>20241029_U7Inland_week 44_NL.zip</target_filename>
   </chart>
   <chart>
     <number>3</number>
