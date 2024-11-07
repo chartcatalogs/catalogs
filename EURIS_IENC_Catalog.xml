@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2024-11-06</date_created>
-  <time_created>03:37:08</time_created>
-  <date_valid>2024-11-06</date_valid>
-  <time_valid>03:37:08</time_valid>
-  <dt_valid>2024-11-06T03:37:08Z</dt_valid>
+  <date_created>2024-11-07</date_created>
+  <time_created>03:09:09</time_created>
+  <date_valid>2024-11-07</date_valid>
+  <time_valid>03:09:09</time_valid>
+  <dt_valid>2024-11-07T03:09:09Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -11619,8 +11619,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7BZ001 - Beneden-Zeeschelde</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0dd5da4d-81a1-4212-882b-dd4c1a473b1a</zipfile_location>
-  <zipfile_datetime>20240605_124712</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-05T12:47:12Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150355</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:03:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2013490089</number>
@@ -11628,8 +11628,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7BZ002 - Beneden-Zeeschelde tussen Antwerpen en Wintam</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=66b8122d-6f0a-40ba-9d4a-dd0a19cd1c89</zipfile_location>
-  <zipfile_datetime>20240605_124735</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-05T12:47:35Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150333</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:03:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1174715187</number>
@@ -11637,8 +11637,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV001 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cfa61b1-34e1-4017-831e-217b6492c13a</zipfile_location>
-  <zipfile_datetime>20240820_112953</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-08-20T11:29:53Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150302</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:03:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1916877344</number>
@@ -11646,8 +11646,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV002 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b4318d14-c5ce-49de-8a02-cd09365f8865</zipfile_location>
-  <zipfile_datetime>20240820_113011</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-08-20T11:30:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150239</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:02:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3858134744</number>
@@ -11655,8 +11655,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV003 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=852057b8-d7d6-475a-bca2-9d769366b208</zipfile_location>
-  <zipfile_datetime>20240820_113028</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-08-20T11:30:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150219</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:02:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3435580917</number>
@@ -11664,8 +11664,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV004 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9eb5002d-8e76-4e39-987d-58d5ea01b69c</zipfile_location>
-  <zipfile_datetime>20240820_113045</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-08-20T11:30:45Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150202</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:02:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1573672700</number>
@@ -11691,8 +11691,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE8NIE01 - Kanaal Nieuwpoort-Duinkerke - Nieuwpoort</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=58929fc2-94ce-438e-994f-25d40da6f58c</zipfile_location>
-  <zipfile_datetime>20240820_112925</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-08-20T11:29:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_150143</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T15:01:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4029758680</number>
@@ -11700,8 +11700,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE8OS001 - Kanaal Gent-Oostende - Haven van Oostende</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=92ed0e2e-640d-43b5-9d65-d344096ab336</zipfile_location>
-  <zipfile_datetime>20230808_100152</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-08T10:01:52Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_142850</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T14:28:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1936452072</number>
@@ -11709,8 +11709,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE8PK001 - Kanaal Gent-Oostende - Haven van Oostende</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7221f3a2-7c5e-4498-90c4-69a9efcc5392</zipfile_location>
-  <zipfile_datetime>20230808_100220</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-08T10:02:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241106_142938</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-11-06T14:29:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>753477332</number>
