@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2024-12-12</date_created>
-  <time_created>03:47:09</time_created>
-  <date_valid>2024-12-12</date_valid>
-  <time_valid>03:47:09</time_valid>
-  <dt_valid>2024-12-12T03:47:09Z</dt_valid>
+  <date_created>2024-12-13</date_created>
+  <time_created>03:12:08</time_created>
+  <date_valid>2024-12-13</date_valid>
+  <time_valid>03:12:08</time_valid>
+  <dt_valid>2024-12-13T03:12:08Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -8498,8 +8498,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0178 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=288de9b3-5821-4018-963d-4ee548b4a407</zipfile_location>
-  <zipfile_datetime>20240613_063558</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:58Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063444</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>123364342</number>
@@ -8507,8 +8507,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0189 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6ba102a9-ce81-4842-a1cb-d5194c0bdf74</zipfile_location>
-  <zipfile_datetime>20240613_063558</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:58Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063445</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3491259311</number>
@@ -8516,8 +8516,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0200 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=19e6d126-b727-4de8-8e04-40a8e4c30b6d</zipfile_location>
-  <zipfile_datetime>20240613_063558</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:58Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063445</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3157139726</number>
@@ -8525,8 +8525,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0211 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9eae745b-f42a-446b-b0e0-7f161fdc3c81</zipfile_location>
-  <zipfile_datetime>20240613_063559</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063445</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4168392153</number>
@@ -8534,8 +8534,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0219 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d1b82e08-2aea-4cec-bae4-125c3867fe6e</zipfile_location>
-  <zipfile_datetime>20240613_063559</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063445</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3560812861</number>
@@ -8543,8 +8543,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0228 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=58816d25-9287-429b-891e-60cd5cbf4d5d</zipfile_location>
-  <zipfile_datetime>20240613_063559</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063445</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>967869476</number>
@@ -8552,8 +8552,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0237 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f7b77698-a435-4886-a08b-ea47ccdf67b4</zipfile_location>
-  <zipfile_datetime>20240613_063559</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:35:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063446</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>893565138</number>
@@ -8561,8 +8561,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0244 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3430dc28-8d0e-4d8e-8afa-b9f25e7b78b6</zipfile_location>
-  <zipfile_datetime>20240613_063600</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:36:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063446</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3663172868</number>
@@ -8570,8 +8570,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0255 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=53e676ce-a2d7-4c3b-a614-af05e7e364d1</zipfile_location>
-  <zipfile_datetime>20240613_063600</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:36:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063446</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3014511489</number>
@@ -8579,8 +8579,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0268 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4a5de627-6ba9-44a2-88a5-adf2f2d8698b</zipfile_location>
-  <zipfile_datetime>20240613_063600</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:36:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063446</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2013139157</number>
@@ -8588,8 +8588,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0278 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ecb4a66c-4dfa-4fc4-a4e8-58ff901ea070</zipfile_location>
-  <zipfile_datetime>20240613_063600</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:36:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063446</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3265616352</number>
@@ -8597,8 +8597,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3R7D0289 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e1d6eab2-9a9d-4249-a405-625a23125e3a</zipfile_location>
-  <zipfile_datetime>20240613_063600</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-06-13T06:36:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241212_063447</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-12T06:34:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>189244493</number>
