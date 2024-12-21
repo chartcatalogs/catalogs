@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2024-12-20</date_created>
-  <time_created>03:07:08</time_created>
-  <date_valid>2024-12-20</date_valid>
-  <time_valid>03:07:08</time_valid>
-  <dt_valid>2024-12-20T03:07:08Z</dt_valid>
+  <date_created>2024-12-21</date_created>
+  <time_created>03:11:08</time_created>
+  <date_valid>2024-12-21</date_valid>
+  <time_valid>03:11:08</time_valid>
+  <dt_valid>2024-12-21T03:11:08Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -11637,8 +11637,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV001 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cfa61b1-34e1-4017-831e-217b6492c13a</zipfile_location>
-  <zipfile_datetime>20241106_150302</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-06T15:03:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241220_082555</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-20T08:25:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1916877344</number>
@@ -11646,8 +11646,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV002 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b4318d14-c5ce-49de-8a02-cd09365f8865</zipfile_location>
-  <zipfile_datetime>20241106_150239</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-06T15:02:39Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241220_082613</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-20T08:26:13Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3858134744</number>
@@ -11655,8 +11655,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV003 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=852057b8-d7d6-475a-bca2-9d769366b208</zipfile_location>
-  <zipfile_datetime>20241106_150219</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-06T15:02:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241220_082631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-20T08:26:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3435580917</number>
@@ -11664,8 +11664,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE7EV004 - Estuaire vaart Noordzee - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9eb5002d-8e76-4e39-987d-58d5ea01b69c</zipfile_location>
-  <zipfile_datetime>20241106_150202</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-06T15:02:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241220_082654</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-20T08:26:54Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1573672700</number>
@@ -11691,8 +11691,8 @@ Seine Amont PK 159 - 164</title>
   <title>BE8NIE01 - Kanaal Nieuwpoort-Duinkerke - Nieuwpoort</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=58929fc2-94ce-438e-994f-25d40da6f58c</zipfile_location>
-  <zipfile_datetime>20241106_150143</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-06T15:01:43Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241220_082716</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-20T08:27:16Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4029758680</number>
