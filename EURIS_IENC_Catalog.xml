@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2024-12-21</date_created>
-  <time_created>03:11:08</time_created>
-  <date_valid>2024-12-21</date_valid>
-  <time_valid>03:11:08</time_valid>
-  <dt_valid>2024-12-21T03:11:08Z</dt_valid>
+  <date_created>2024-12-22</date_created>
+  <time_created>03:22:09</time_created>
+  <date_valid>2024-12-22</date_valid>
+  <time_valid>03:22:09</time_valid>
+  <dt_valid>2024-12-22T03:22:09Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -8093,8 +8093,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0375 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=54a32331-7f04-45fa-9cd0-3f2ec5f7dc9d</zipfile_location>
-  <zipfile_datetime>20241128_063620</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063619</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1149806549</number>
@@ -8102,8 +8102,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0380 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9d595345-5173-41e5-9765-aee4e7c9e85f</zipfile_location>
-  <zipfile_datetime>20241128_063620</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063619</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>295502989</number>
@@ -8111,8 +8111,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0388 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=868e9cf2-e8ed-43b0-a1ef-a2d98e395014</zipfile_location>
-  <zipfile_datetime>20241128_063621</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063619</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1944183751</number>
@@ -8120,8 +8120,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0397 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=62c74f08-4aab-4e42-8a00-19899686d736</zipfile_location>
-  <zipfile_datetime>20241128_063621</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063620</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2152962186</number>
@@ -8129,8 +8129,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0409 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=aa38f782-dfc3-43e3-af06-f6132cb4dcb6</zipfile_location>
-  <zipfile_datetime>20241128_063622</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063620</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3472050165</number>
@@ -8138,8 +8138,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0418 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=765afa52-363e-44f0-821b-d8401c64a31f</zipfile_location>
-  <zipfile_datetime>20241128_063622</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063620</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2593679336</number>
@@ -8147,8 +8147,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0429 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7c0a33e3-150f-4da4-b3ea-b599eeeaed0f</zipfile_location>
-  <zipfile_datetime>20241128_063622</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063620</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3688999455</number>
@@ -8156,8 +8156,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0448 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ea90e452-863e-4537-bc07-0866d7d40176</zipfile_location>
-  <zipfile_datetime>20241128_063623</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063620</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>958041457</number>
@@ -8165,8 +8165,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0458 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5f20f5c6-c5c1-41d7-bf8b-5c36ab08a073</zipfile_location>
-  <zipfile_datetime>20241128_063623</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063621</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>870135383</number>
@@ -8174,8 +8174,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0471 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bc014347-7f70-4bf2-9f2f-9c201be9d745</zipfile_location>
-  <zipfile_datetime>20241128_063623</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063621</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3803712836</number>
@@ -8183,8 +8183,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0476 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=130f57f5-a892-4d49-8e00-9ff3f167a585</zipfile_location>
-  <zipfile_datetime>20241128_063623</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063621</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>724409616</number>
@@ -8192,8 +8192,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0500 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3262ba26-376a-454b-af29-efab6d650340</zipfile_location>
-  <zipfile_datetime>20241128_063624</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063621</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1526013622</number>
@@ -8201,8 +8201,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0515 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f31c674e-eaa1-464d-9938-8b3ad4373ad0</zipfile_location>
-  <zipfile_datetime>20241128_063624</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063621</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>190088442</number>
@@ -8210,8 +8210,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0531 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0a5adc2f-f37b-44c1-bcb4-a9d3a9d48024</zipfile_location>
-  <zipfile_datetime>20241128_063624</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063622</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1610117510</number>
@@ -8219,8 +8219,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0538 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f357e967-2274-426c-ae76-3532d8d32bcb</zipfile_location>
-  <zipfile_datetime>20241128_063624</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063622</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2129301997</number>
@@ -8228,8 +8228,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0547 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1af36647-0ac2-4108-9f0f-bca9582dcbe9</zipfile_location>
-  <zipfile_datetime>20241128_063625</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063622</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>359518754</number>
@@ -8237,8 +8237,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0559 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9c6faf23-e556-4cd0-b7b7-d3c9cf975661</zipfile_location>
-  <zipfile_datetime>20241128_063625</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063622</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>517157183</number>
@@ -8246,8 +8246,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0577 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9066342f-abe4-4fbb-90fe-13da70f98997</zipfile_location>
-  <zipfile_datetime>20241128_063625</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063622</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1639107934</number>
@@ -8255,8 +8255,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>3B7D0593 - Danube - Bulgaria</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2ad39c63-29c8-4f92-9e07-e54137b7c369</zipfile_location>
-  <zipfile_datetime>20241128_063625</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-11-28T06:36:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20241221_063623</zipfile_datetime>
+  <zipfile_datetime_iso8601>2024-12-21T06:36:23Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>864589932</number>
