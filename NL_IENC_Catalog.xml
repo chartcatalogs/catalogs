@@ -2,18 +2,27 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Netherlands Inland ENC Charts</title>
-    <date_created>2024-12-23</date_created>
-    <time_created>03:39:10</time_created>
-    <date_valid>2024-12-23</date_valid>
-    <time_valid>03:39:10</time_valid>
-    <dt_valid>2024-12-23T03:39:10Z</dt_valid>
+    <date_created>2024-12-24</date_created>
+    <time_created>03:18:11</time_created>
+    <date_valid>2024-12-24</date_valid>
+    <time_valid>03:18:11</time_valid>
+    <dt_valid>2024-12-24T03:18:11Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2024 - Week 51 - 24.1 MB (0)</title>
+    <title>Zeeland met Diepte &#x2013; 2024 &#x2013; Week 52&#x2013; 44 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4125328155</zipfile_location>
+    <zipfile_datetime>20241223_224616</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-12-23T22:46:16Z</zipfile_datetime_iso8601>
+    <target_filename>20241223_U7Inland_week 52_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2024 - Week 51 - 24.1 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4122747225</zipfile_location>
     <zipfile_datetime>20241219_151928</zipfile_datetime>
@@ -21,26 +30,8 @@
     <target_filename>20241219_U7Inland_Waddenzee_week 51_NL.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>Zeeland met Diepte - 2024 - Week 51 - 1.7 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4120383950</zipfile_location>
-    <zipfile_datetime>20241217_142925</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-12-17T14:29:25Z</zipfile_datetime_iso8601>
-    <target_filename>20241217_U7Inland_week 51_NL_correctie.zip</target_filename>
-  </chart>
-  <chart>
     <number>2</number>
-    <title>Zeeland met Diepte 2024 &#x2013; Week 51 &#x2013; 42.8 MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4120376749</zipfile_location>
-    <zipfile_datetime>20241217_104622</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-12-17T10:46:22Z</zipfile_datetime_iso8601>
-    <target_filename>20241217_U7Inland_week 51_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>3</number>
-    <title>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB (3)</title>
+    <title>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4081301539</zipfile_location>
     <zipfile_datetime>20241104_160419</zipfile_datetime>
@@ -48,8 +39,8 @@
     <target_filename>Nederland (excl Zeeland, Waddenzee) 2024-11-04- 46MB.zip</target_filename>
   </chart>
   <chart>
-    <number>4</number>
-    <title>Port of Rotterdam 2024-10-02 (4)</title>
+    <number>3</number>
+    <title>Port of Rotterdam 2024-10-02 (3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4052010890</zipfile_location>
     <zipfile_datetime>20241002_130358</zipfile_datetime>
@@ -57,8 +48,8 @@
     <target_filename>Port of Rotterdam 2024-10-02.zip</target_filename>
   </chart>
   <chart>
-    <number>5</number>
-    <title>IENC Haven Geertruidenberg (5)</title>
+    <number>4</number>
+    <title>IENC Haven Geertruidenberg (4)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_082945</zipfile_datetime>
@@ -66,8 +57,8 @@
     <target_filename>1R7GH000.000</target_filename>
   </chart>
   <chart>
-    <number>6</number>
-    <title>IENC Haven Waspik (6)</title>
+    <number>5</number>
+    <title>IENC Haven Waspik (5)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_063216</zipfile_datetime>
