@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-01-08</date_created>
-  <time_created>03:36:10</time_created>
-  <date_valid>2025-01-08</date_valid>
-  <time_valid>03:36:10</time_valid>
-  <dt_valid>2025-01-08T03:36:10Z</dt_valid>
+  <date_created>2025-01-09</date_created>
+  <time_created>03:30:09</time_created>
+  <date_valid>2025-01-09</date_valid>
+  <time_valid>03:30:09</time_valid>
+  <dt_valid>2025-01-09T03:30:09Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -1934,8 +1934,8 @@
   <title>1W7BRW02 - Untere Havel-Wasserstraße (Spandau - Plaue) - Beetzsee-Riedwendsee-Wasserstraße km 2 - km 12</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=05d55bf6-03f8-47ff-9838-1169c1239890</zipfile_location>
-  <zipfile_datetime>20230804_063501</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063652</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>82621786</number>
@@ -1952,8 +1952,8 @@
   <title>1W7D2200 - Donau km 2201,7 - km 2210</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4a5475ff-c735-4736-b850-95f765f9757f</zipfile_location>
-  <zipfile_datetime>20220730_063457</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-07-30T06:34:57Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>322012579</number>
@@ -1961,8 +1961,8 @@
   <title>1W7D2210 - Donau km 2210 - km 2220</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ac490666-a7cf-4c15-bb65-25cec3979d31</zipfile_location>
-  <zipfile_datetime>20220730_063457</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-07-30T06:34:57Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4208865093</number>
@@ -1970,8 +1970,8 @@
   <title>1W7D2220 - Donau km 2220 - km 2230</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=56f22261-6432-4be0-a5d1-80dd4c6b6ed1</zipfile_location>
-  <zipfile_datetime>20220730_063457</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-07-30T06:34:57Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063638</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1457636286</number>
@@ -2051,8 +2051,8 @@
   <title>1W7D2310 - Donau km 2310 - km 2320</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d2b4c9fd-0b66-43a5-b06e-153ba8ee44d9</zipfile_location>
-  <zipfile_datetime>20220611_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-06-11T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063638</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3681541794</number>
@@ -2060,8 +2060,8 @@
   <title>1W7D2320 - Donau km 2320 - km 2330</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=501805ee-1abc-49f8-9762-8889885aab24</zipfile_location>
-  <zipfile_datetime>20220611_063523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-06-11T06:35:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063638</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>372557042</number>
@@ -2447,8 +2447,8 @@
   <title>1W7EL000 - Elbe km 0 - km 3,34</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4a65dfde-700b-42de-a993-385034edf0cd</zipfile_location>
-  <zipfile_datetime>20240227_063715</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4028504175</number>
@@ -2456,8 +2456,8 @@
   <title>1W7EL003 - Elbe km 3,34 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=98fbe914-763b-4f55-94c2-2fd1442099d5</zipfile_location>
-  <zipfile_datetime>20240227_063715</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2293325811</number>
@@ -2465,8 +2465,8 @@
   <title>1W7EL010 - Elbe km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d4f805d6-2696-4e72-950c-4c5f0baf6094</zipfile_location>
-  <zipfile_datetime>20240227_063715</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>336507156</number>
@@ -2474,8 +2474,8 @@
   <title>1W7EL020 - Elbe km 20 - km 30</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=73bc1aa2-2a37-4ab0-a515-dab949e624ab</zipfile_location>
-  <zipfile_datetime>20240227_063715</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>918630902</number>
@@ -2483,8 +2483,8 @@
   <title>1W7EL030 - Elbe km 30 - km 40</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5946d9d2-dbb9-467d-ad05-ad8a102f5601</zipfile_location>
-  <zipfile_datetime>20240227_063715</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063643</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1023618387</number>
@@ -2492,8 +2492,8 @@
   <title>1W7EL040 - Elbe km 40 - km 50</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=465157f9-c740-4578-87b9-7903896e97a4</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063643</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1880090206</number>
@@ -2501,8 +2501,8 @@
   <title>1W7EL050 - Elbe km 50 - km 60</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ff141393-8135-4180-b808-3ec580140ba8</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063643</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>602144466</number>
@@ -2510,8 +2510,8 @@
   <title>1W7EL060 - Elbe km 60 - km 70</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=437cfd9c-9c5b-48b2-9125-a7be2e06b3ee</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063643</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>544298676</number>
@@ -2519,8 +2519,8 @@
   <title>1W7EL070 - Elbe km 70 - km 80</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e551b688-e574-45cb-8d00-92a8940b9657</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063643</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:43Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3498670771</number>
@@ -2528,8 +2528,8 @@
   <title>1W7EL080 - Elbe km 80 - km 90</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4150d73d-b213-4e33-a465-8d1f8bae93d4</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3542001021</number>
@@ -2537,8 +2537,8 @@
   <title>1W7EL090 - Elbe km 90 - km 100</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b861b03e-9415-40de-86ae-933857c6faba</zipfile_location>
-  <zipfile_datetime>20240227_063716</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>323987015</number>
@@ -2546,8 +2546,8 @@
   <title>1W7EL100 - Elbe km 100 - km 110</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a2e884d7-7153-43d6-96b7-3ccb44328bc4</zipfile_location>
-  <zipfile_datetime>20240227_063717</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3871341575</number>
@@ -2555,8 +2555,8 @@
   <title>1W7EL110 - Elbe km 110 - km 120</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7f2728da-810c-4572-940d-c00e49338b20</zipfile_location>
-  <zipfile_datetime>20240227_063717</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2590819415</number>
@@ -2564,8 +2564,8 @@
   <title>1W7EL120 - Elbe km 120 - km 130</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7e4894d2-4690-41b5-8294-d079dcf6b9c0</zipfile_location>
-  <zipfile_datetime>20240227_063717</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1897736702</number>
@@ -2573,8 +2573,8 @@
   <title>1W7EL130 - Elbe km 130 - km 140</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5ecbed43-1447-4c19-9f19-49e39c139163</zipfile_location>
-  <zipfile_datetime>20240227_063717</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:44Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1349034972</number>
@@ -2582,8 +2582,8 @@
   <title>1W7EL140 - Elbe km 140 - km 150</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=51ab4af5-420d-46bf-9382-8d4d7ead0980</zipfile_location>
-  <zipfile_datetime>20240227_063717</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2927659152</number>
@@ -2591,8 +2591,8 @@
   <title>1W7EL150 - Elbe km 150 - km 160</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e142e9f6-be9a-4306-9fe4-5bdbcd9dcee5</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2419055349</number>
@@ -2600,8 +2600,8 @@
   <title>1W7EL160 - Elbe km 160 - km 170</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=494a025b-62c3-4ec8-ad81-17c637a3656c</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2711582183</number>
@@ -2609,8 +2609,8 @@
   <title>1W7EL170 - Elbe km 170 - km 180</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3a52c4d1-8085-48e2-90a1-817ca296ec5f</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>23881002</number>
@@ -2618,8 +2618,8 @@
   <title>1W7EL180 - Elbe km 180 - km 190</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=35ccbdd1-113d-475e-9e0e-e6c8acfbf3b8</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3470315287</number>
@@ -2627,8 +2627,8 @@
   <title>1W7EL190 - Elbe km 190 - km 200</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=753bf084-cf58-4d91-abdf-3e4c1be58545</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>343709163</number>
@@ -2636,8 +2636,8 @@
   <title>1W7EL200 - Elbe km 200 - km 210</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d9eda286-3c76-4a84-afe8-1ebf0e2bb624</zipfile_location>
-  <zipfile_datetime>20240227_063718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2130499644</number>
@@ -2645,8 +2645,8 @@
   <title>1W7EL210 - Elbe km 210 - km 220</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bada3a26-dfd9-4629-87c9-98f937c4c03f</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2651508977</number>
@@ -2654,8 +2654,8 @@
   <title>1W7EL220 - Elbe km 220 - km 230</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=aa93b843-d5f1-4759-b983-508d184865f3</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2573095431</number>
@@ -2663,8 +2663,8 @@
   <title>1W7EL230 - Elbe km 230 - km 240</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c5e82f2d-9b3c-47fa-8c2b-6d1648ba61ed</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2139904351</number>
@@ -2672,8 +2672,8 @@
   <title>1W7EL240 - Elbe km 240 - km 250</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c01a06ed-13a3-4005-8f71-3d26be3dd18b</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:46Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1350834633</number>
@@ -2681,8 +2681,8 @@
   <title>1W7EL250 - Elbe km 250 - km 260</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7efe15f0-1a66-4372-9900-677acb460a27</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2408550402</number>
@@ -2690,8 +2690,8 @@
   <title>1W7EL260 - Elbe km 260 - km 270</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e770a279-d36a-4f5f-a90a-58bf8138b6da</zipfile_location>
-  <zipfile_datetime>20240227_063719</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1714749645</number>
@@ -2699,8 +2699,8 @@
   <title>1W7EL270 - Elbe km 270 - km 280</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ca56d5de-9e02-4f90-9248-ca05cc64e8fd</zipfile_location>
-  <zipfile_datetime>20240227_063720</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2544317247</number>
@@ -2708,8 +2708,8 @@
   <title>1W7EL280 - Elbe km 280 - km 290</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=66eee1ff-ec78-42f7-a5a2-4e62a1a42399</zipfile_location>
-  <zipfile_datetime>20240227_063720</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1090614881</number>
@@ -2717,8 +2717,8 @@
   <title>1W7EL290 - Elbe km 290 - km 300</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c5a37955-f73a-452e-9e51-b1b42fe8e9a9</zipfile_location>
-  <zipfile_datetime>20240227_063720</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1644712404</number>
@@ -2726,8 +2726,8 @@
   <title>1W7EL300 - Elbe km 300 - km 310</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9b2b75da-f868-4c9f-aed3-25d95386f7a3</zipfile_location>
-  <zipfile_datetime>20240227_063720</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063648</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3893127912</number>
@@ -2735,8 +2735,8 @@
   <title>1W7EL310 - Elbe km 310 - km 320</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=845029f3-81f7-4575-99c8-458a83a7f122</zipfile_location>
-  <zipfile_datetime>20240227_063720</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063648</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4128017589</number>
@@ -2744,8 +2744,8 @@
   <title>1W7EL320 - Elbe km 320 - km 330</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1902de54-bf8f-4d6a-a9ea-668c2f921f9f</zipfile_location>
-  <zipfile_datetime>20240227_063721</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063648</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1021253143</number>
@@ -2753,8 +2753,8 @@
   <title>1W7EL330 - Elbe km 330 - km 340</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2c205878-9457-4fa3-a776-4a462e6b9d59</zipfile_location>
-  <zipfile_datetime>20240227_063721</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063648</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>185302304</number>
@@ -2762,8 +2762,8 @@
   <title>1W7EL340 - Elbe km 340 - km 350</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5aeb05de-948d-4add-8d9c-d3e1affc8908</zipfile_location>
-  <zipfile_datetime>20240227_063721</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063648</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2554043987</number>
@@ -2771,8 +2771,8 @@
   <title>1W7EL350 - Elbe km 350 - km 360</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2b5af8c8-1333-417d-9aab-ceb8cf4aa147</zipfile_location>
-  <zipfile_datetime>20240227_063721</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2179399232</number>
@@ -2780,8 +2780,8 @@
   <title>1W7EL360 - Elbe km 360 - km 370</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=945ab979-031d-46cb-8628-603a81575b3f</zipfile_location>
-  <zipfile_datetime>20240227_063721</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>787623237</number>
@@ -2789,8 +2789,8 @@
   <title>1W7EL370 - Elbe km 370 - km 380</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=04fdbf36-d8dc-43be-8866-4fe2283c3c08</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>818966408</number>
@@ -2798,8 +2798,8 @@
   <title>1W7EL380 - Elbe km 380 - km 390</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a8e45492-131c-402a-a438-0f0c2de10e36</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2894728194</number>
@@ -2807,8 +2807,8 @@
   <title>1W7EL390 - Elbe km 390 - km 400</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d5c839f6-b29c-4713-ac4b-cd05e44b5445</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>111096086</number>
@@ -2816,8 +2816,8 @@
   <title>1W7EL400 - Elbe km 400 - km 410</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cd8d3963-fda5-4909-8ed9-90c1505a5a64</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063649</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>888811297</number>
@@ -2825,8 +2825,8 @@
   <title>1W7EL410 - Elbe km 410 - km 420</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cc419ef-5538-4fc5-a14b-6ea585eae263</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063650</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2947140825</number>
@@ -2834,8 +2834,8 @@
   <title>1W7EL420 - Elbe km 420 - km 430</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=21a1f21d-8ffc-4862-a462-15d56c0338e4</zipfile_location>
-  <zipfile_datetime>20240227_063722</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063650</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3790400681</number>
@@ -2843,8 +2843,8 @@
   <title>1W7EL430 - Elbe km 430 - km 440</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2a57ec35-4d3c-486e-8a0a-1a4624facc03</zipfile_location>
-  <zipfile_datetime>20240227_063723</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063650</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2140149218</number>
@@ -2852,8 +2852,8 @@
   <title>1W7EL440 - Elbe km 440 - km 450</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4599b8ee-d779-4faa-b852-e3f7706c11bc</zipfile_location>
-  <zipfile_datetime>20240227_063723</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063650</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3241736960</number>
@@ -2861,8 +2861,8 @@
   <title>1W7EL450 - Elbe km 450 - km 460</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cdf2ed22-d59c-4fb6-bf7e-8dbd0dc34bb0</zipfile_location>
-  <zipfile_datetime>20240227_063723</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063650</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:50Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3524767520</number>
@@ -2870,8 +2870,8 @@
   <title>1W7EL460 - Elbe km 460 - km 470</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=43d1ca7a-c951-437f-a9ef-17f2ddde9fc4</zipfile_location>
-  <zipfile_datetime>20240227_063723</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>629607152</number>
@@ -2879,8 +2879,8 @@
   <title>1W7EL470 - Elbe km 470 - km 480</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ba85effb-8f97-4d2e-a733-9f0570977344</zipfile_location>
-  <zipfile_datetime>20240227_063723</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1898608743</number>
@@ -2888,8 +2888,8 @@
   <title>1W7EL480 - Elbe km 480 - km 490</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7688a74f-345c-4ccb-ac88-3f412a8bfb49</zipfile_location>
-  <zipfile_datetime>20240227_063724</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>135948262</number>
@@ -2897,8 +2897,8 @@
   <title>1W7EL490 - Elbe km 490 - km 500</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4ba58cee-aa7a-442f-a572-1be73a6fa46e</zipfile_location>
-  <zipfile_datetime>20240227_063724</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>805522554</number>
@@ -2978,8 +2978,8 @@
   <title>1W7EL580 - Elbe km 580 - km 590</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fb3edd60-3c57-437d-9a39-f67230599ee2</zipfile_location>
-  <zipfile_datetime>20230207_063520</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-02-07T06:35:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3357218098</number>
@@ -3095,8 +3095,8 @@
   <title>1W7HO040 - Havel-Oder-Wasserstraße km 40 - km 50</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e6e2cc3b-34d8-42c9-95ed-b8b1e2ec8a7b</zipfile_location>
-  <zipfile_datetime>20201016_162828</zipfile_datetime>
-  <zipfile_datetime_iso8601>2020-10-16T16:28:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063627</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4189677456</number>
@@ -3122,8 +3122,8 @@
   <title>1W7HO070 - Havel-Oder-Wasserstraße km 70 - km 80</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=146b5fe5-211e-49e1-89a1-57a3fee38818</zipfile_location>
-  <zipfile_datetime>20201016_162828</zipfile_datetime>
-  <zipfile_datetime_iso8601>2020-10-16T16:28:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063627</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2595606093</number>
@@ -3176,8 +3176,8 @@
   <title>1W7HOH01 - Untere Havel-Wasserstraße (Plaue - Elbe) - Hohennauer See</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=834d58a5-76d6-4c2f-90c0-e33958d497a7</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>885898895</number>
@@ -3293,8 +3293,8 @@
   <title>1W7MA000 - Main km 0 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=478fa357-4d90-4e81-9f73-76857d16a2c4</zipfile_location>
-  <zipfile_datetime>20210512_145207</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063638</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1701233844</number>
@@ -3302,8 +3302,8 @@
   <title>1W7MA010 - Main km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=778115cb-e17e-49f4-a70e-2c1b44f3ef7f</zipfile_location>
-  <zipfile_datetime>20210512_145209</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063638</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3353075425</number>
@@ -3311,8 +3311,8 @@
   <title>1W7MA020 - Main km 20 - km 30</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=32e58c19-449a-43be-a304-e749288c84d4</zipfile_location>
-  <zipfile_datetime>20210512_145209</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063639</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3444535309</number>
@@ -3320,8 +3320,8 @@
   <title>1W7MA030 - Main km 30 - km 40</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bf6d995f-dffe-4135-9122-87b1398266ad</zipfile_location>
-  <zipfile_datetime>20210512_145209</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063639</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>657613918</number>
@@ -3329,8 +3329,8 @@
   <title>1W7MA040 - Main km 40 - km 50</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=573c6962-ab6c-40e4-a4ad-3df9046e034f</zipfile_location>
-  <zipfile_datetime>20210512_145209</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063639</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2480402480</number>
@@ -3338,8 +3338,8 @@
   <title>1W7MA050 - Main km 50 - km 60</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2e9e0b0c-3172-4258-ac5a-c2724b6d9e04</zipfile_location>
-  <zipfile_datetime>20210512_145209</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063639</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>402907501</number>
@@ -3347,8 +3347,8 @@
   <title>1W7MA060 - Main km 60 - km 70</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1e2dc466-8d49-4319-8bac-1116cfb649f5</zipfile_location>
-  <zipfile_datetime>20210512_145210</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063639</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>440021067</number>
@@ -3356,8 +3356,8 @@
   <title>1W7MA070 - Main km 70 - km 80</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2ce6fa65-f9cb-46fa-91f7-0e1e8452bcb8</zipfile_location>
-  <zipfile_datetime>20210512_145210</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063640</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:40Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3894723930</number>
@@ -3365,8 +3365,8 @@
   <title>1W7MA080 - Main km 80 - km 90</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6670e4ee-a035-4999-97b1-0a80c34b2781</zipfile_location>
-  <zipfile_datetime>20210512_145210</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063640</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:40Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>774815372</number>
@@ -3374,8 +3374,8 @@
   <title>1W7MA090 - Main km 90 - km 100</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=be7affe0-9598-4ba5-9f89-2dc9775ecd7f</zipfile_location>
-  <zipfile_datetime>20210512_145212</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:12Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063640</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:40Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>110617141</number>
@@ -3383,8 +3383,8 @@
   <title>1W7MA100 - Main km 100 - km 110</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=12107719-6bc7-4abb-9b5c-cc374a01e598</zipfile_location>
-  <zipfile_datetime>20210512_145212</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:12Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063640</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:40Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>393692426</number>
@@ -3392,8 +3392,8 @@
   <title>1W7MA110 - Main km 110 - km 120</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9d728b0a-39de-4c72-b762-9eaa4a6ea062</zipfile_location>
-  <zipfile_datetime>20210512_145214</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:14Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063640</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:40Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1244657013</number>
@@ -3401,8 +3401,8 @@
   <title>1W7MA120 - Main km 120 - km 130</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=034094e3-602c-4de8-8f5d-f29f093472d5</zipfile_location>
-  <zipfile_datetime>20210512_145214</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:14Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063641</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:41Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2480807966</number>
@@ -3410,8 +3410,8 @@
   <title>1W7MA130 - Main km 130 - km 140</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0a4dae2c-1661-419b-8d86-78c47a8e18a1</zipfile_location>
-  <zipfile_datetime>20210512_145215</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063641</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:41Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1550321431</number>
@@ -3419,8 +3419,8 @@
   <title>1W7MA140 - Main km 140 - km 150</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=736c9481-a5ba-47fa-b5f5-bec816a174a9</zipfile_location>
-  <zipfile_datetime>20210512_145215</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063641</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:41Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1178103770</number>
@@ -3428,8 +3428,8 @@
   <title>1W7MA150 - Main km 150 - km 160</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b5a42a53-1ff5-4900-8898-8b8b393b6123</zipfile_location>
-  <zipfile_datetime>20210512_145215</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063641</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:41Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3537599063</number>
@@ -3437,8 +3437,8 @@
   <title>1W7MA160 - Main km 160 - km 170</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d30d99d6-9213-454b-9f5e-3c8c2b920fcb</zipfile_location>
-  <zipfile_datetime>20210512_145215</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063641</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:41Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1950633585</number>
@@ -3446,8 +3446,8 @@
   <title>1W7MA170 - Main km 170 - km 180</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=184b2b25-3f4a-416c-bf34-bffc4e61147c</zipfile_location>
-  <zipfile_datetime>20210512_145215</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-05-12T14:52:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>189413741</number>
@@ -4265,8 +4265,8 @@
   <title>1W7MO190 - Mosel km 190 - km 200</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=55e359ea-9b59-4d81-9925-8eb63721e113</zipfile_location>
-  <zipfile_datetime>20210908_095522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-08T09:55:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4063026884</number>
@@ -4310,8 +4310,8 @@
   <title>1W7MO240 - Mosel km 240 - km 250</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d8bfe7d1-50e3-4a6d-8624-325a5870466c</zipfile_location>
-  <zipfile_datetime>20210908_095523</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-08T09:55:23Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2262823643</number>
@@ -4319,8 +4319,8 @@
   <title>1W7NE000 - Neckar km 0 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6b42b8e6-865b-4632-b9d6-7cd8796335a4</zipfile_location>
-  <zipfile_datetime>20230804_063500</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1976477189</number>
@@ -4328,8 +4328,8 @@
   <title>1W7NE010 - Neckar km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bbf7e028-a385-4492-8124-cf970e6ac570</zipfile_location>
-  <zipfile_datetime>20210914_095421</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:21Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063633</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1524239212</number>
@@ -4337,8 +4337,8 @@
   <title>1W7NE020 - Neckar km 20 - km 30</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0137e13e-e9ca-4136-a6f9-d9354b35171f</zipfile_location>
-  <zipfile_datetime>20210914_095422</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063633</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2268006134</number>
@@ -4346,8 +4346,8 @@
   <title>1W7NE030 - Neckar km 30 - km 40</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fd7ecbd0-de98-4faf-b77c-4b355b80855d</zipfile_location>
-  <zipfile_datetime>20210914_095422</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063633</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1087456851</number>
@@ -4355,8 +4355,8 @@
   <title>1W7NE040 - Neckar km 40 - km 50</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=960e6f79-c7b5-4af0-ad90-d2f20bb168cc</zipfile_location>
-  <zipfile_datetime>20210914_095422</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063633</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3815931848</number>
@@ -4364,8 +4364,8 @@
   <title>1W7NE050 - Neckar km 50 - km 60</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=89f5a159-cc38-4059-bc5f-ac3e680ba6e3</zipfile_location>
-  <zipfile_datetime>20210914_095422</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063633</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2591417149</number>
@@ -4373,8 +4373,8 @@
   <title>1W7NE060 - Neckar km 60 - km 70</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d2379453-4db7-4167-9eb2-259e80815d19</zipfile_location>
-  <zipfile_datetime>20210914_095424</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:24Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3098096488</number>
@@ -4382,8 +4382,8 @@
   <title>1W7NE070 - Neckar km 70 - km 80</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d0e9f7e5-775f-4fcc-9fd9-2c6f9190c87d</zipfile_location>
-  <zipfile_datetime>20210914_095426</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4207502363</number>
@@ -4391,8 +4391,8 @@
   <title>1W7NE080 - Neckar km 80 - km 90</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cbeb32d0-7a2c-4410-9a56-852d51484fee</zipfile_location>
-  <zipfile_datetime>20210914_095426</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>865082243</number>
@@ -4400,8 +4400,8 @@
   <title>1W7NE090 - Neckar km 90 - km 100</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c7cf0ad6-6e7e-496c-a088-4701667c4a60</zipfile_location>
-  <zipfile_datetime>20210914_095427</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2648282714</number>
@@ -4409,8 +4409,8 @@
   <title>1W7NE100 - Neckar km 100 - km 110</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3cd593d5-05b0-43e1-bb0a-333f070e018e</zipfile_location>
-  <zipfile_datetime>20220125_095422</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-01-25T09:54:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3694235086</number>
@@ -4418,8 +4418,8 @@
   <title>1W7NE110 - Neckar km 110 - km 120</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e8b2a469-b72d-4feb-b9f4-032a1db806b6</zipfile_location>
-  <zipfile_datetime>20210914_095427</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:27Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063634</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3346180881</number>
@@ -4472,8 +4472,8 @@
   <title>1W7NE170 - Neckar km 170 - km 180</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=dbeff489-a125-4261-8bac-0d09e840f623</zipfile_location>
-  <zipfile_datetime>20210914_095428</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063635</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1898343236</number>
@@ -4508,8 +4508,8 @@
   <title>1W7OD542 - Oder km 542 - km 550</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5215dee7-f218-448a-9452-fb2572141107</zipfile_location>
-  <zipfile_datetime>20210205_120407</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063627</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1733646671</number>
@@ -4517,8 +4517,8 @@
   <title>1W7OD550 - Oder km 550 - km 560</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=56a3e4f2-42a3-41bb-a029-bca9df4c3ae2</zipfile_location>
-  <zipfile_datetime>20220611_063522</zipfile_datetime>
-  <zipfile_datetime_iso8601>2022-06-11T06:35:22Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1992011276</number>
@@ -4526,8 +4526,8 @@
   <title>1W7OD560 - Oder km 560 - km 570</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7a8367af-f748-44a5-a39c-8bb7503a29b7</zipfile_location>
-  <zipfile_datetime>20210205_120407</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3804561170</number>
@@ -4535,8 +4535,8 @@
   <title>1W7OD570 - Oder km 570 - km 580</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bc7106cf-f6f6-420a-ac4b-fef9d7fd5b8b</zipfile_location>
-  <zipfile_datetime>20210205_120407</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1200377413</number>
@@ -4544,8 +4544,8 @@
   <title>1W7OD580 - Oder km 580 - km 590</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1b9fdb39-29f2-45a4-aaf6-638648ca7070</zipfile_location>
-  <zipfile_datetime>20210205_120407</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2237190293</number>
@@ -4553,8 +4553,8 @@
   <title>1W7OD590 - Oder km 590 - km 600</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d6633503-9e49-4d01-aa99-08e229f480b1</zipfile_location>
-  <zipfile_datetime>20210205_120408</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:08Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1682198063</number>
@@ -4562,8 +4562,8 @@
   <title>1W7OD600 - Oder km 600 - km 610</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=248aa720-da13-4157-b37b-9ef42cb74cbf</zipfile_location>
-  <zipfile_datetime>20211016_095510</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-10-16T09:55:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063628</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1388639312</number>
@@ -4571,8 +4571,8 @@
   <title>1W7OD610 - Oder km 610 - km 620</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4bef0efb-42a4-49fa-8892-6304f032d3d4</zipfile_location>
-  <zipfile_datetime>20210205_120409</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063629</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>631917820</number>
@@ -4580,8 +4580,8 @@
   <title>1W7OD620 - Oder km 620 - km 630</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=aaa94148-91f6-458d-83ca-a1ad3852dad1</zipfile_location>
-  <zipfile_datetime>20210205_120410</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063629</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2615460093</number>
@@ -4589,8 +4589,8 @@
   <title>1W7OD630 - Oder km 630 - km 640</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d3a974a8-0d02-438f-85db-580b3ebd5070</zipfile_location>
-  <zipfile_datetime>20210205_120410</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063629</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>824375071</number>
@@ -4598,8 +4598,8 @@
   <title>1W7OD640 - Oder km 640 - km 650</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d92457fa-e49f-4960-89be-d6022b9f465e</zipfile_location>
-  <zipfile_datetime>20210205_120410</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063629</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2250699088</number>
@@ -4607,8 +4607,8 @@
   <title>1W7OD650 - Oder km 650 - km 660</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9c144228-7ded-4542-92c1-65d35610c381</zipfile_location>
-  <zipfile_datetime>20210205_120410</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063629</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2222696356</number>
@@ -4616,8 +4616,8 @@
   <title>1W7OD660 - Oder km 660 - km 670</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f8e383c3-cc70-44f8-94eb-5741036b1b1c</zipfile_location>
-  <zipfile_datetime>20210205_120411</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063630</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2231206834</number>
@@ -4625,8 +4625,8 @@
   <title>1W7OD670 - Oder km 670 - km 680</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2af53952-ff3d-4c63-b1ac-a52dd686d220</zipfile_location>
-  <zipfile_datetime>20210205_120411</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063630</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2637599409</number>
@@ -4634,8 +4634,8 @@
   <title>1W7OD680 - Oder km 680 - km 690</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=dfd51030-f340-4c8a-a86a-f1b0eb1e7cde</zipfile_location>
-  <zipfile_datetime>20210205_120411</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063630</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3856488346</number>
@@ -4643,8 +4643,8 @@
   <title>1W7OD690 - Oder km 690 - km 700</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=540654e7-cbe5-4cd5-987e-ecc1e38c1611</zipfile_location>
-  <zipfile_datetime>20210205_120411</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063630</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2456571513</number>
@@ -4652,8 +4652,8 @@
   <title>1W7OD700 - Oder km 700 - km 710</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ef81ace7-874d-4b53-8b00-f81a84197903</zipfile_location>
-  <zipfile_datetime>20210205_120411</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063630</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3385772430</number>
@@ -4661,8 +4661,8 @@
   <title>1W7PHV03 - Untere Havel-Wasserstraße (Spandau - Plaue) - Potsdamer Havel km 3 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d4a00985-976c-4c54-b278-ed1de82a222d</zipfile_location>
-  <zipfile_datetime>20230804_063501</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063651</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1246895804</number>
@@ -4670,8 +4670,8 @@
   <title>1W7PHV10 - Untere Havel-Wasserstraße (Spandau - Plaue) - Potsdamer Havel km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=aa25d5f5-2b05-4c4a-b2ab-a9078c0403da</zipfile_location>
-  <zipfile_datetime>20231011_063507</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-10-11T06:35:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063652</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3033723648</number>
@@ -4679,8 +4679,8 @@
   <title>1W7PHV20 - Untere Havel-Wasserstraße (Spandau - Plaue) - Potsdamer Havel km 20 - km 28,79</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d5a9af15-a1bf-450a-a5dd-09cb1e428294</zipfile_location>
-  <zipfile_datetime>20230804_063501</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063652</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2892635521</number>
@@ -4888,8 +4888,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH380 - Rhein km 380 - km 390</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f273f9a1-4ff9-4251-b647-effdf885c959</zipfile_location>
-  <zipfile_datetime>20240227_063709</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063635</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>34788702</number>
@@ -4897,8 +4897,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH390 - Rhein km 390 - km 400</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7546e412-1345-40ef-8d0e-c150b54bbf26</zipfile_location>
-  <zipfile_datetime>20240227_063709</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063635</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>353308108</number>
@@ -4906,8 +4906,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH400 - Rhein km 400 - km 410</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3f96ccef-9837-4d4f-8f50-35c3f1eec4b0</zipfile_location>
-  <zipfile_datetime>20210914_095432</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:32Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063635</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1891598686</number>
@@ -4915,8 +4915,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH410 - Rhein km 410 - km 420</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=390974c9-cb8b-49f5-bbb7-b2c66641f515</zipfile_location>
-  <zipfile_datetime>20210914_095432</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:32Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063635</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>57226246</number>
@@ -4924,8 +4924,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH420 - Rhein km 420 - km 430</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0aa4fae4-92fb-46f7-8b1c-f9d641ec9ad9</zipfile_location>
-  <zipfile_datetime>20240227_063709</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:09Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063636</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:36Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2165057660</number>
@@ -4969,8 +4969,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH470 - Rhein km 470 - km 480</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=8bdc731b-b9a3-4af2-8d12-6ce4571ff05a</zipfile_location>
-  <zipfile_datetime>20240227_063710</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:10Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063636</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:36Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1705148569</number>
@@ -4978,8 +4978,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH480 - Rhein km 480 - km 490</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fee935fb-dfcd-43c5-95bb-8e4aaf41ca50</zipfile_location>
-  <zipfile_datetime>20240227_063711</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063636</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:36Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1012534120</number>
@@ -4987,8 +4987,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH490 - Rhein km 490 - km 500</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6132632c-f93a-47f6-8b98-c9985a42c23d</zipfile_location>
-  <zipfile_datetime>20240227_063711</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063636</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:36Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>821588830</number>
@@ -5014,8 +5014,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH520 - Rhein km 520 - km 530</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=8c7af55f-3886-45b0-b4a6-b9ca163cd15b</zipfile_location>
-  <zipfile_datetime>20240227_063711</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:11Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063636</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:36Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1666338381</number>
@@ -5023,8 +5023,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH530 - Rhein km 530 - km 540</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9b765cea-0db0-4048-bb55-e300c2c71cd2</zipfile_location>
-  <zipfile_datetime>20240227_063712</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:12Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>488212768</number>
@@ -5077,8 +5077,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH590 - Rhein km 590 - km 600</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=49dacfad-aaf6-4470-9eaf-5cc6deadf3c9</zipfile_location>
-  <zipfile_datetime>20240227_063713</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:13Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>444578567</number>
@@ -5095,8 +5095,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH610 - Rhein km 610 - km 620</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=374bbade-a4a7-43ef-9ece-b9c67f4ca15d</zipfile_location>
-  <zipfile_datetime>20240227_063714</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:14Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>159292235</number>
@@ -5113,8 +5113,8 @@ wtwaxs Rhin : km 226.3 - 230.9</title>
   <title>1W7RH630 - Rhein km 630 - km 640</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b190f13d-94aa-4cc4-b8d3-46bf920b7b71</zipfile_location>
-  <zipfile_datetime>20210914_095441</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-09-14T09:54:41Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063637</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:37Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1306104637</number>
@@ -5708,8 +5708,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7TEK00 - Teltowkanal km 0 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b1b6b075-1c9c-4547-98b3-37e589f338a3</zipfile_location>
-  <zipfile_datetime>20230126_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-01-26T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063626</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2516636598</number>
@@ -5717,8 +5717,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7TEK10 - Teltowkanal km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7508338a-6bd1-42d5-a88d-1fedbc29ae8c</zipfile_location>
-  <zipfile_datetime>20230126_063503</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-01-26T06:35:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063626</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2437184558</number>
@@ -5726,8 +5726,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7TEK20 - Teltowkanal km 20 - km 30</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5fbe8b9f-7949-4e71-a23f-cb0d66d8954c</zipfile_location>
-  <zipfile_datetime>20230126_063503</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-01-26T06:35:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063626</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>795812227</number>
@@ -5735,8 +5735,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7TEK30 - Teltowkanal km 30 - km 37</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=64a0a8c1-a869-41dc-8525-bfaab3206a44</zipfile_location>
-  <zipfile_datetime>20230126_063503</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-01-26T06:35:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063626</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2340472561</number>
@@ -5744,8 +5744,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH000 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 0 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4d1c2e70-5243-4a4b-a87b-46f92ac99b22</zipfile_location>
-  <zipfile_datetime>20230804_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063652</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2040613879</number>
@@ -5753,8 +5753,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH010 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 10 - km 20</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5ac94bc9-954f-4077-8376-5d3d19bf9c3c</zipfile_location>
-  <zipfile_datetime>20230804_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063652</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1462471754</number>
@@ -5762,8 +5762,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH020 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 20 - km 30</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b0144937-55ba-4506-a924-5339f057aa10</zipfile_location>
-  <zipfile_datetime>20230804_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063653</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>369469472</number>
@@ -5771,8 +5771,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH030 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 30 - km 40</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=682da9aa-17da-409c-80c2-22a03f970165</zipfile_location>
-  <zipfile_datetime>20230804_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063653</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2351646238</number>
@@ -5780,8 +5780,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH040 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 40 - km 50</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1a7f1212-65ac-4117-9f7d-4fef095dcde7</zipfile_location>
-  <zipfile_datetime>20230804_063502</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063653</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1614228449</number>
@@ -5789,8 +5789,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH050 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havel-Wasserstraße km 50 - km 60</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=92dae421-93c6-4241-8012-f78d58fe3689</zipfile_location>
-  <zipfile_datetime>20231011_063507</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-10-11T06:35:07Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063653</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1507219107</number>
@@ -5798,8 +5798,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH060 - Untere Havel-Wasserstraße (Spandau - Plaue) - Untere Havelwasserstraße km 60 - km 70</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cfab5e08-124d-4057-9e0a-af87a748f2aa</zipfile_location>
-  <zipfile_datetime>20240227_063725</zipfile_datetime>
-  <zipfile_datetime_iso8601>2024-02-27T06:37:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063653</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>687041448</number>
@@ -5807,8 +5807,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH070 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 70 - km 80</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c9f7b686-93b5-45de-985e-da029d0677d6</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4106963618</number>
@@ -5816,8 +5816,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH080 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 80 - km 90</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=95331f10-b190-47fb-a1cc-0d41e391a977</zipfile_location>
-  <zipfile_datetime>20231011_063504</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-10-11T06:35:04Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1369136551</number>
@@ -5825,8 +5825,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH090 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 90 - km 100</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=248ee4e2-876a-4f2a-96e4-117533369760</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1050118429</number>
@@ -5834,8 +5834,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH100 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 100 - km 110</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=95181e2a-8513-4a7e-8363-f1bf07fdd0a7</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>565229456</number>
@@ -5843,8 +5843,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH110 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 110 - km 120</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0bad77c9-374c-48a3-941f-f58f88f3ecbb</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063631</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2123379082</number>
@@ -5852,8 +5852,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH120 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 120 - km 130</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5acc0991-b2cc-4768-a0f9-40eec23ecbd4</zipfile_location>
-  <zipfile_datetime>20230804_063459</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:34:59Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1608180977</number>
@@ -5861,8 +5861,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH130 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 130 - km 140</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=794751d9-66ad-41df-934b-836b9d6a1cab</zipfile_location>
-  <zipfile_datetime>20231011_063504</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-10-11T06:35:04Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3032041682</number>
@@ -5870,8 +5870,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7UH140 - Untere Havel-Wasserstraße (Plaue - Elbe) - Untere Havel-Wasserstraße km 140 - km 150</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=12f42f63-d674-43da-8fc9-cdf0074bb72b</zipfile_location>
-  <zipfile_datetime>20230804_063500</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-08-04T06:35:00Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063632</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1278906888</number>
@@ -6077,8 +6077,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7WOD01 - Havel-Oder-Wasserstraße - Westoder km 1 - km 10</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1afb4356-6952-4a83-9e63-7b11d8990201</zipfile_location>
-  <zipfile_datetime>20210205_120406</zipfile_datetime>
-  <zipfile_datetime_iso8601>2021-02-05T12:04:06Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063627</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3531532262</number>
@@ -6086,8 +6086,8 @@ Rhein-Herne-Kanal km 0 - km 10</title>
   <title>1W7WOD10 - Havel-Oder-Wasserstraße - Westoder km 10 - km 17,1</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=13ef033e-836a-4eb4-9d1c-84cb12e97567</zipfile_location>
-  <zipfile_datetime>20201016_162828</zipfile_datetime>
-  <zipfile_datetime_iso8601>2020-10-16T16:28:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250108_063627</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1360706204</number>
@@ -11720,5 +11720,14 @@ Seine Amont PK 159 - 164</title>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7912dafb-8b17-4f5c-ba1a-ee85527807ce</zipfile_location>
   <zipfile_datetime>20231127_161748</zipfile_datetime>
   <zipfile_datetime_iso8601>2023-11-27T16:17:48Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>2842790571</number>
+  <target_filename>DE5NOBRM.zip</target_filename>
+  <title>DE5NOBRM</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=125d59a6-09ec-48bc-a4a1-aff63f7ffb52</zipfile_location>
+  <zipfile_datetime>20250108_063642</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-01-08T06:36:42Z</zipfile_datetime_iso8601>
  </chart>
 </RncProductCatalogChartCatalogs>
