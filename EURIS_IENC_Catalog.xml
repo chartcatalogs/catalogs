@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-03-06</date_created>
+  <date_created>2025-03-07</date_created>
   <time_created>03:19:03</time_created>
-  <date_valid>2025-03-06</date_valid>
+  <date_valid>2025-03-07</date_valid>
   <time_valid>03:19:03</time_valid>
-  <dt_valid>2025-03-06T03:19:03Z</dt_valid>
+  <dt_valid>2025-03-07T03:19:03Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -7460,7 +7460,7 @@ Rhein-Herne-Kanal km 0 - km 10</title>
  <chart>
   <number>846402715</number>
   <target_filename>2WBD1893.zip</target_filename>
-  <title>2WBD1893 - Donau - Wildungsmauer</title>
+  <title>2WBD1893 - Donau - Regelsbrunn</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1ea7b8d3-30da-41d9-bbcd-139a7cc60436</zipfile_location>
   <zipfile_datetime>20240927_063521</zipfile_datetime>
@@ -7550,7 +7550,7 @@ Rhein-Herne-Kanal km 0 - km 10</title>
  <chart>
   <number>3334459338</number>
   <target_filename>2WBD1913.zip</target_filename>
-  <title>2WBD1913 - Donau - Lobau-Albern</title>
+  <title>2WBD1913 - Donau - Lobau</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fae62493-852a-4e21-afa5-8d7188b30e70</zipfile_location>
   <zipfile_datetime>20240927_063523</zipfile_datetime>
@@ -7568,7 +7568,7 @@ Rhein-Herne-Kanal km 0 - km 10</title>
  <chart>
   <number>1783392775</number>
   <target_filename>2WBD1915.zip</target_filename>
-  <title>2WBD1915 - Donau - Lobau-Albern</title>
+  <title>2WBD1915 - Tankhafen Lobau - Freudenau-Albern</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=10449d43-c62a-45a7-9078-aa045ee9982e</zipfile_location>
   <zipfile_datetime>20240927_063523</zipfile_datetime>
