@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-03-12</date_created>
-  <time_created>03:19:03</time_created>
-  <date_valid>2025-03-12</date_valid>
-  <time_valid>03:19:03</time_valid>
-  <dt_valid>2025-03-12T03:19:03Z</dt_valid>
+  <date_created>2025-03-13</date_created>
+  <time_created>03:10:02</time_created>
+  <date_valid>2025-03-13</date_valid>
+  <time_valid>03:10:02</time_valid>
+  <dt_valid>2025-03-13T03:10:02Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -11616,11 +11616,11 @@ Seine Amont PK 159 - 164</title>
  <chart>
   <number>3546639887</number>
   <target_filename>BE7BZ001.zip</target_filename>
-  <title>BE7BZ001 - Kanaaldok B3 - Beneden-Zeeschelde</title>
+  <title>BE7BZ001 - Albertkanaal - Beneden-Zeeschelde</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0dd5da4d-81a1-4212-882b-dd4c1a473b1a</zipfile_location>
-  <zipfile_datetime>20250207_081002</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:10:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083049</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:30:49Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2013490089</number>
@@ -11628,44 +11628,44 @@ Seine Amont PK 159 - 164</title>
   <title>BE7BZ002 - Beneden-Zeeschelde tussen Antwerpen en Wintam</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=66b8122d-6f0a-40ba-9d4a-dd0a19cd1c89</zipfile_location>
-  <zipfile_datetime>20250207_081028</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:10:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083118</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:31:18Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1174715187</number>
   <target_filename>BE7EV001.zip</target_filename>
-  <title>BE7EV001 - Wielingendok - Noordzee</title>
+  <title>BE7EV001 - Verbindingsdok - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cfa61b1-34e1-4017-831e-217b6492c13a</zipfile_location>
-  <zipfile_datetime>20250207_081050</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:10:50Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083142</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:31:42Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1916877344</number>
   <target_filename>BE7EV002.zip</target_filename>
-  <title>BE7EV002 - Prins Filipsdok - Noordzee</title>
+  <title>BE7EV002 - Zuidelijk Insteekdok - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b4318d14-c5ce-49de-8a02-cd09365f8865</zipfile_location>
-  <zipfile_datetime>20250207_081113</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:11:13Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083208</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:32:08Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3858134744</number>
   <target_filename>BE7EV003.zip</target_filename>
-  <title>BE7EV003 - Demeysluis - Noordzee</title>
+  <title>BE7EV003 - Demeydokken - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=852057b8-d7d6-475a-bca2-9d769366b208</zipfile_location>
-  <zipfile_datetime>20250207_081155</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:11:55Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083225</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:32:25Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3435580917</number>
   <target_filename>BE7EV004.zip</target_filename>
-  <title>BE7EV004 - IJzer - Noordzee</title>
+  <title>BE7EV004 - Kanaal Plassendale-Nieuwpoort - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9eb5002d-8e76-4e39-987d-58d5ea01b69c</zipfile_location>
-  <zipfile_datetime>20250207_081137</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-02-07T08:11:37Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250312_083238</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-03-12T08:32:38Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1573672700</number>
