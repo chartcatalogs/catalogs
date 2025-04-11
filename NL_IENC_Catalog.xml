@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-04-11</date_created>
-    <time_created>10:01:01</time_created>
+    <time_created>11:01:01</time_created>
     <date_valid>2025-04-11</date_valid>
-    <time_valid>10:01:01</time_valid>
-    <dt_valid>2025-04-11T10:01:01Z</dt_valid>
+    <time_valid>11:01:01</time_valid>
+    <dt_valid>2025-04-11T11:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -49,29 +49,20 @@
   </chart>
   <chart>
     <number>4</number>
-    <title>Waddenzee met Diepte 2025 - Week 14&#x2013; 25 MB (4)</title>
+    <title>Waddenzee met Diepte 2025 - Week 15 &#x2013; 25 MB (4)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4207142549</zipfile_location>
-    <zipfile_datetime>20250403_082756</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-04-03T08:27:56Z</zipfile_datetime_iso8601>
-    <target_filename>20250403_U7Inland_Waddenzee_week 14_NL.zip</target_filename>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4213480729</zipfile_location>
+    <zipfile_datetime>20250411_103259</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-04-11T10:32:59Z</zipfile_datetime_iso8601>
+    <target_filename>20250410_U7Inland_Waddenzee_week 15_NL.zip</target_filename>
   </chart>
   <chart>
     <number>5</number>
-    <title>Zeeland met Diepte - 2025 - Week 15 - 46 MB (5)</title>
+    <title>Zeeland met Diepte - 2025 - Week 15 - 25 MB (5)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4211573111</zipfile_location>
-    <zipfile_datetime>20250408_085945</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-04-08T08:59:45Z</zipfile_datetime_iso8601>
-    <target_filename>20250408_U7Inland_ week 15_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>6</number>
-    <title>Zeeland met Diepte - 2025 - Week 15 - 2 MB (6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4213421405</zipfile_location>
-    <zipfile_datetime>20250409_054024</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-04-09T05:40:24Z</zipfile_datetime_iso8601>
-    <target_filename>20250408_U7Inland_week 15_NL - correctie.zip</target_filename>
+    <zipfile_datetime>20250411_103414</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-04-11T10:34:14Z</zipfile_datetime_iso8601>
+    <target_filename>Zeeland met Diepte - 2025 - Week 15 - 25 MB.zip</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
