@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-04-16</date_created>
-    <time_created>07:01:02</time_created>
+    <time_created>08:01:01</time_created>
     <date_valid>2025-04-16</date_valid>
-    <time_valid>07:01:02</time_valid>
-    <dt_valid>2025-04-16T07:01:02Z</dt_valid>
+    <time_valid>08:01:01</time_valid>
+    <dt_valid>2025-04-16T08:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -58,25 +58,7 @@
   </chart>
   <chart>
     <number>5</number>
-    <title>Zeeland met Diepte - 2025 - Week 15 - 25 MB (5)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4211573111</zipfile_location>
-    <zipfile_datetime>20250411_103414</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-04-11T10:34:14Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland met Diepte - 2025 - Week 15 - 25 MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>6</number>
-    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 15 &#x2013; 46MB (6)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4213481339</zipfile_location>
-    <zipfile_datetime>20250411_114327</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-04-11T11:43:27Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 15 &#x2013; 46MB.zip</target_filename>
-  </chart>
-  <chart>
-    <number>7</number>
-    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 16&#x2013; 47 MB (7)</title>
+    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 16&#x2013; 47 MB (5)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4215390307</zipfile_location>
     <zipfile_datetime>20250415_105327</zipfile_datetime>
