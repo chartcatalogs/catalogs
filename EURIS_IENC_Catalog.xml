@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-05-09</date_created>
-  <time_created>03:07:03</time_created>
-  <date_valid>2025-05-09</date_valid>
-  <time_valid>03:07:03</time_valid>
-  <dt_valid>2025-05-09T03:07:03Z</dt_valid>
+  <date_created>2025-05-10</date_created>
+  <time_created>03:10:02</time_created>
+  <date_valid>2025-05-10</date_valid>
+  <time_valid>03:10:02</time_valid>
+  <dt_valid>2025-05-10T03:10:02Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -11544,20 +11544,20 @@ Seine Amont PK 159 - 164</title>
  <chart>
   <number>3546639887</number>
   <target_filename>BE7BZ001.zip</target_filename>
-  <title>BE7BZ001 - Schuildok Duwvaart - Beneden-Zeeschelde</title>
+  <title>BE7BZ001 - Waaslandkanaal - Beneden-Zeeschelde</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0dd5da4d-81a1-4212-882b-dd4c1a473b1a</zipfile_location>
-  <zipfile_datetime>20250505_101440</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-05-05T10:14:40Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250509_111345</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-05-09T11:13:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2013490089</number>
   <target_filename>BE7BZ002.zip</target_filename>
-  <title>BE7BZ002 - Boven-Zeeschelde - Beneden-Zeeschelde tussen Antwerpen en Wintam</title>
+  <title>BE7BZ002 - Beneden-Zeeschelde tussen Antwerpen en Wintam</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=66b8122d-6f0a-40ba-9d4a-dd0a19cd1c89</zipfile_location>
-  <zipfile_datetime>20250423_100718</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-04-23T10:07:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20250509_111316</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-05-09T11:13:16Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1174715187</number>
