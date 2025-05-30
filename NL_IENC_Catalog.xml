@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-05-30</date_created>
-    <time_created>12:01:01</time_created>
+    <time_created>13:01:01</time_created>
     <date_valid>2025-05-30</date_valid>
-    <time_valid>12:01:01</time_valid>
-    <dt_valid>2025-05-30T12:01:01Z</dt_valid>
+    <time_valid>13:01:01</time_valid>
+    <dt_valid>2025-05-30T13:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -40,16 +40,7 @@
   </chart>
   <chart>
     <number>3</number>
-    <title>Waddenzee met DIepte 2025 - Week 21 - 25 MB (3)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4263917675</zipfile_location>
-    <zipfile_datetime>20250523_084429</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-05-23T08:44:29Z</zipfile_datetime_iso8601>
-    <target_filename>20250523_U7Inland_Waddenzee_week 21_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>4</number>
-    <title>Zeeland met Diepte &#x2013; 2025&#x2013; Week 22&#x2013; ZZ MB (4)</title>
+    <title>Zeeland met Diepte &#x2013; 2025&#x2013; Week 22&#x2013; ZZ MB (3)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4267658723</zipfile_location>
     <zipfile_datetime>20250526_203421</zipfile_datetime>
@@ -57,12 +48,21 @@
     <target_filename>20250526_U7Inland_week 22_NL.zip</target_filename>
   </chart>
   <chart>
-    <number>5</number>
-    <title>Nederland (excl Zeeland, Waddenzee) 2025-05-27- 46MB (5)</title>
+    <number>4</number>
+    <title>Nederland (excl Zeeland, Waddenzee) 2025-05-27- 46MB (4)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4267680251</zipfile_location>
     <zipfile_datetime>20250527_143040</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-05-27T14:30:40Z</zipfile_datetime_iso8601>
     <target_filename>Nederland (excl Zeeland, Waddenzee) 2025-05-27- 46MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>5</number>
+    <title>Waddenzee met Diepte 2025 - Week 22&#x2013; 25 MB (5)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4271426179</zipfile_location>
+    <zipfile_datetime>20250530_122318</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-05-30T12:23:18Z</zipfile_datetime_iso8601>
+    <target_filename>20250530_U7Inland_Waddenzee_week 22_NL.zip</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
