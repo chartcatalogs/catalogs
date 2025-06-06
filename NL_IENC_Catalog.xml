@@ -3,31 +3,31 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-06-06</date_created>
-    <time_created>08:01:01</time_created>
+    <time_created>09:01:01</time_created>
     <date_valid>2025-06-06</date_valid>
-    <time_valid>08:01:01</time_valid>
-    <dt_valid>2025-06-06T08:01:01Z</dt_valid>
+    <time_valid>09:01:01</time_valid>
+    <dt_valid>2025-06-06T09:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 23&#x2013; 47 MB (0)</title>
+    <title>Waddenzee met Diepte 2025 - Week 23&#x2013;  25 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4275240897</zipfile_location>
+    <zipfile_datetime>20250606_084618</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-06T08:46:18Z</zipfile_datetime_iso8601>
+    <target_filename>20250606_U7Inland_ReIssue_Waddenzee_week 23_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 23&#x2013; 47 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4271471248</zipfile_location>
     <zipfile_datetime>20250603_092713</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-06-03T09:27:13Z</zipfile_datetime_iso8601>
     <target_filename>20250603_U7Inland_week 23_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Waddenzee met Diepte 2025 - Week 22&#x2013; 25 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4271426179</zipfile_location>
-    <zipfile_datetime>20250530_122318</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-05-30T12:23:18Z</zipfile_datetime_iso8601>
-    <target_filename>20250530_U7Inland_Waddenzee_week 22_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
