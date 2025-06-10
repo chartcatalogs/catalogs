@@ -266,18 +266,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': '2023-162',
- 'number': '4711',
- 'target_filename': None,
- 'title': 'DA FOZ DO RIO MADEIRA À ILHA DO CAPITARI',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2023, 10, 25, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -290,11 +278,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2025-06-09</date_created>
-    <time_created>03:06:03</time_created>
-    <date_valid>2025-06-09</date_valid>
-    <time_valid>03:06:03</time_valid>
-    <dt_valid>2025-06-09T03:06:03Z</dt_valid>
+    <date_created>2025-06-10</date_created>
+    <time_created>03:46:03</time_created>
+    <date_valid>2025-06-10</date_valid>
+    <time_valid>03:46:03</time_valid>
+    <dt_valid>2025-06-10T03:46:03Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -861,10 +849,10 @@
     <number>1820</number>
     <title>PROXIMIDADES DA BARRA DE PARANAGU&#xC1; (1820)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1820.zip</zipfile_location>
-    <zipfile_datetime>20250522_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2025-74</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1820_1.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-86</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1821</number>
@@ -879,10 +867,10 @@
     <number>1822</number>
     <title>PORTOS DE PARANAGU&#xC1; E ANTONINA (1822)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1822_1.zip</zipfile_location>
-    <zipfile_datetime>20250522_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-05-22T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2025-83</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1822_3.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-92</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1830</number>
@@ -924,10 +912,10 @@
     <number>1901</number>
     <title>PORTO DE LAGUNA (1901)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1901.zip</zipfile_location>
-    <zipfile_datetime>20180918_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2018-09-18T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2017-118</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1901_0.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-85</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1902</number>
@@ -1509,10 +1497,10 @@
     <number>830</number>
     <title>PORTO DE CABEDELO (830)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/830_2.zip</zipfile_location>
-    <zipfile_datetime>20250523_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-05-23T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2025-63</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/830_3.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-90</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>902</number>
@@ -4080,6 +4068,15 @@
     <ntm_edition_last_correction>2022-150</ntm_edition_last_correction>
   </chart>
   <chart>
+    <number>4711</number>
+    <title>DA FOZ DO RIO MADEIRA &#xC0; ILHA DO CAPITARI (4711)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4711.zip</zipfile_location>
+    <zipfile_datetime>20250403_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-04-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-231</ntm_edition_last_correction>
+  </chart>
+  <chart>
     <number>4712</number>
     <title>DA COSTA DA FAZENDINHA &#xC0; ILHA DO URUCURITUBA (4712)</title>
     <format>Sailing Chart, International Chart</format>
@@ -4425,10 +4422,10 @@
     <number>4750</number>
     <title>DA ILHA DOS PERIQUITOS &#xC0; BOCA DO MURIQUI (4750)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4750.zip</zipfile_location>
-    <zipfile_datetime>20220503_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-05-03T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-80</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4750_0.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4751</number>
@@ -4443,19 +4440,19 @@
     <number>4752</number>
     <title>DA ILHA DOS VEADOS &#xC0; COSTA DA SILVEIRA (4752)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4752.zip</zipfile_location>
-    <zipfile_datetime>20220802_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-157</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4752_0.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4753</number>
     <title>DO PORTO DE AMPARO A PORTO VELHO (4753)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753_0.zip</zipfile_location>
-    <zipfile_datetime>20240610_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-06-10T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-83</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>BA-1</number>
