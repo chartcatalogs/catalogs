@@ -278,11 +278,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2025-06-12</date_created>
-    <time_created>03:43:09</time_created>
-    <date_valid>2025-06-12</date_valid>
-    <time_valid>03:43:09</time_valid>
-    <dt_valid>2025-06-12T03:43:09Z</dt_valid>
+    <date_created>2025-06-13</date_created>
+    <time_created>03:33:03</time_created>
+    <date_valid>2025-06-13</date_valid>
+    <time_valid>03:33:03</time_valid>
+    <dt_valid>2025-06-13T03:33:03Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -4431,16 +4431,16 @@
     <number>4751</number>
     <title>DA ILHA SOBRAL A COSTA VACURANGA (4751)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4751.zip</zipfile_location>
-    <zipfile_datetime>20220802_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2022-08-02T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-156</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4751_0.zip</zipfile_location>
+    <zipfile_datetime>20250609_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4752</number>
     <title>DA ILHA DOS VEADOS &#xC0; COSTA DA SILVEIRA (4752)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4752_0.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4752_1.zip</zipfile_location>
     <zipfile_datetime>20250609_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
@@ -4449,7 +4449,7 @@
     <number>4753</number>
     <title>DO PORTO DE AMPARO A PORTO VELHO (4753)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753.zip</zipfile_location>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4753_1.zip</zipfile_location>
     <zipfile_datetime>20250609_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-06-09T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2025-84</ntm_edition_last_correction>
