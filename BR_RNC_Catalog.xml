@@ -278,11 +278,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2025-07-03</date_created>
-    <time_created>03:42:03</time_created>
-    <date_valid>2025-07-03</date_valid>
-    <time_valid>03:42:03</time_valid>
-    <dt_valid>2025-07-03T03:42:03Z</dt_valid>
+    <date_created>2025-07-04</date_created>
+    <time_created>03:10:03</time_created>
+    <date_valid>2025-07-04</date_valid>
+    <time_valid>03:10:03</time_valid>
+    <dt_valid>2025-07-04T03:10:03Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -381,10 +381,10 @@
     <number>1104</number>
     <title>BA&#xCD;A DE TODOS OS SANTOS PARTE NORDESTE (1104)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1104.zip</zipfile_location>
-    <zipfile_datetime>20230124_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-01-24T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-6</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1104_0.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-95</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1105</number>
@@ -507,10 +507,10 @@
     <number>1403</number>
     <title>DA BARRA DO ITAPEMIRIM AO CABO DE SAO TOM&#xC9; (1403)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403.zip</zipfile_location>
-    <zipfile_datetime>20241121_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-11-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-282</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1403_0.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1404</number>
@@ -534,10 +534,10 @@
     <number>1406</number>
     <title>PROXIMIDADES DO PORTO DE A&#xC7;U (1406)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1406_1.zip</zipfile_location>
-    <zipfile_datetime>20250320_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-03-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2025-34</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1406_2.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-94</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1410</number>
