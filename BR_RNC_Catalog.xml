@@ -278,11 +278,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2025-07-08</date_created>
-    <time_created>03:22:03</time_created>
-    <date_valid>2025-07-08</date_valid>
-    <time_valid>03:22:03</time_valid>
-    <dt_valid>2025-07-08T03:22:03Z</dt_valid>
+    <date_created>2025-07-09</date_created>
+    <time_created>03:14:02</time_created>
+    <date_valid>2025-07-09</date_valid>
+    <time_valid>03:14:02</time_valid>
+    <dt_valid>2025-07-09T03:14:02Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -525,10 +525,10 @@
     <number>1405</number>
     <title>PORTO DE A&#xC7;U (1405)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405_1.zip</zipfile_location>
-    <zipfile_datetime>20250321_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-03-21T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2025-39</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1405_2.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-108</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1406</number>
@@ -624,19 +624,19 @@
     <number>1511</number>
     <title>BARRA DO RIO DE JANEIRO (1511)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1511_0.zip</zipfile_location>
-    <zipfile_datetime>20240819_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-08-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-169</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1511.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-93-100</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1512</number>
     <title>PORTO DO RIO DE JANEIRO (1512)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512_0.zip</zipfile_location>
-    <zipfile_datetime>20240819_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2024-08-19T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2024-169</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/1512.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-93-100</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>1513</number>
@@ -1884,10 +1884,10 @@
     <number>4102B</number>
     <title>DE ALMEIRIM A PRAINHA (4102B)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4102b_0.zip</zipfile_location>
-    <zipfile_datetime>20230920_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-09-20T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2022-11</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/4102B.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-203</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>4342A</number>
@@ -3261,9 +3261,9 @@
     <number>3422</number>
     <title>DO ESTIR&#xC3;O DA CAPIVARA A VOLTA DA ANTA (3422)</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3422.zip</zipfile_location>
-    <zipfile_datetime>20191001_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2019-10-01T00:00:00Z</zipfile_datetime_iso8601>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/3422_0.zip</zipfile_location>
+    <zipfile_datetime>20250703_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-03T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>-</ntm_edition_last_correction>
   </chart>
   <chart>
