@@ -86,18 +86,6 @@
 <!-- unavailable/invalid?
 {'chart_format': 'Sailing Chart, International Chart',
  'horizontal_datum': None,
- 'ntm_edition_last_correction': 'Indisponível',
- 'number': '2113',
- 'target_filename': None,
- 'title': 'DE PORTO ALEGRE AO TERMINAL SANTA CLARA',
- 'url': '',
- 'vertical_datum': None,
- 'zipfile_size': 0,
- 'zipfile_ts': datetime.datetime(2022, 3, 10, 0, 0)}
--->
-<!-- unavailable/invalid?
-{'chart_format': 'Sailing Chart, International Chart',
- 'horizontal_datum': None,
  'ntm_edition_last_correction': None,
  'number': 0,
  'target_filename': None,
@@ -242,11 +230,11 @@
 <RncProductCatalogChartCatalogs>
   <Header>
     <title>Brasil RNC Charts</title>
-    <date_created>2025-07-29</date_created>
-    <time_created>03:21:03</time_created>
-    <date_valid>2025-07-29</date_valid>
-    <time_valid>03:21:03</time_valid>
-    <dt_valid>2025-07-29T03:21:03Z</dt_valid>
+    <date_created>2025-07-30</date_created>
+    <time_created>03:16:03</time_created>
+    <date_valid>2025-07-30</date_valid>
+    <time_valid>03:16:03</time_valid>
+    <dt_valid>2025-07-30T03:16:03Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -1245,10 +1233,10 @@
     <number>23200_(INT.2125)</number>
     <title>DE SANTOS A PARANAGU&#xC1; (23200_(INT.2125))</title>
     <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23200.zip</zipfile_location>
-    <zipfile_datetime>20231129_000000</zipfile_datetime>
-    <zipfile_datetime_iso8601>2023-11-29T00:00:00Z</zipfile_datetime_iso8601>
-    <ntm_edition_last_correction>2023-179</ntm_edition_last_correction>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/23200_0.zip</zipfile_location>
+    <zipfile_datetime>20250728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2025-61</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>23300_(INT.2126)</number>
@@ -1996,6 +1984,15 @@
     <zipfile_datetime>20240603_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-06-03T00:00:00Z</zipfile_datetime_iso8601>
     <ntm_edition_last_correction>2024-79</ntm_edition_last_correction>
+  </chart>
+  <chart>
+    <number>2113</number>
+    <title>DE PORTO ALEGRE AO TERMINAL SANTA CLARA (2113)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.marinha.mil.br/chm/sites/www.marinha.mil.br.chm/files/raster/2113.zip</zipfile_location>
+    <zipfile_datetime>20250728_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-07-28T00:00:00Z</zipfile_datetime_iso8601>
+    <ntm_edition_last_correction>2024-303</ntm_edition_last_correction>
   </chart>
   <chart>
     <number>2133</number>
