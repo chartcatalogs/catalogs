@@ -3,31 +3,31 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-08-19</date_created>
-    <time_created>12:01:02</time_created>
+    <time_created>13:01:02</time_created>
     <date_valid>2025-08-19</date_valid>
-    <time_valid>12:01:02</time_valid>
-    <dt_valid>2025-08-19T12:01:02Z</dt_valid>
+    <time_valid>13:01:02</time_valid>
+    <dt_valid>2025-08-19T13:01:02Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Diepte 2025- Week 33&#x2013; 25 MB (0)</title>
+    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 34&#x2013; 47 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4366582800</zipfile_location>
+    <zipfile_datetime>20250819_124130</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-08-19T12:41:30Z</zipfile_datetime_iso8601>
+    <target_filename>20250819_U7Inland_week 34_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Diepte 2025- Week 33&#x2013; 25 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4364672303</zipfile_location>
     <zipfile_datetime>20250818_065908</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-08-18T06:59:08Z</zipfile_datetime_iso8601>
     <target_filename>20250815_U7Inland_Waddenzee_week 33_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 33&#x2013; 46 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4357055338</zipfile_location>
-    <zipfile_datetime>20250812_125753</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-08-12T12:57:53Z</zipfile_datetime_iso8601>
-    <target_filename>20250812_U7Inland_week 33_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
