@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-09-02</date_created>
-    <time_created>21:01:02</time_created>
+    <time_created>22:01:01</time_created>
     <date_valid>2025-09-02</date_valid>
-    <time_valid>21:01:02</time_valid>
-    <dt_valid>2025-09-02T21:01:02Z</dt_valid>
+    <time_valid>22:01:01</time_valid>
+    <dt_valid>2025-09-02T22:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -18,7 +18,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4381841659</zipfile_location>
     <zipfile_datetime>20250902_115141</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-09-02T11:51:41Z</zipfile_datetime_iso8601>
-    <target_filename>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 36&#x2013; 47 MB.zip</target_filename>
+    <target_filename>20250901_U7Inland_week 36_NL.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
@@ -27,7 +27,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4381780565</zipfile_location>
     <zipfile_datetime>20250829_072509</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-08-29T07:25:09Z</zipfile_datetime_iso8601>
-    <target_filename>Waddenzee met Diepte 2025- Week 35&#x2013; 25 MB.zip</target_filename>
+    <target_filename>20250829_U7Inland_Waddenzee_week 35_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
@@ -54,7 +54,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_082945</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-02-22T08:29:45Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Geertruidenberg.zip</target_filename>
+    <target_filename>1R7GH000.000</target_filename>
   </chart>
   <chart>
     <number>5</number>
@@ -63,6 +63,6 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_063216</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-06-01T06:32:16Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Waspik.zip</target_filename>
+    <target_filename>1R7BM000.000</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
