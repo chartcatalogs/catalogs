@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-09-30</date_created>
-  <time_created>03:27:02</time_created>
-  <date_valid>2025-09-30</date_valid>
-  <time_valid>03:27:02</time_valid>
-  <dt_valid>2025-09-30T03:27:02Z</dt_valid>
+  <date_created>2025-10-01</date_created>
+  <time_created>03:40:02</time_created>
+  <date_valid>2025-10-01</date_valid>
+  <time_valid>03:40:02</time_valid>
+  <dt_valid>2025-10-01T03:40:02Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -2228,7 +2228,7 @@
  <chart>
   <number>3610205673</number>
   <target_filename>1R7WK014.zip</target_filename>
-  <title>1R7WK014</title>
+  <title>1R7WK014 - Zijkanaal naar de Piushaven te Tilburg - waar komt deze tekst te staan</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1a8aed4d-cb8a-4031-a1e5-934a87b9673b</zipfile_location>
   <zipfile_datetime>20250925_083315</zipfile_datetime>
