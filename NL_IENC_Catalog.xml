@@ -3,17 +3,26 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-10-10</date_created>
-    <time_created>06:01:01</time_created>
+    <time_created>07:01:01</time_created>
     <date_valid>2025-10-10</date_valid>
-    <time_valid>06:01:01</time_valid>
-    <dt_valid>2025-10-10T06:01:01Z</dt_valid>
+    <time_valid>07:01:01</time_valid>
+    <dt_valid>2025-10-10T07:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Nederland (excl Zeeland, Waddenzee) 2025-10-09- 46MB (0)</title>
+    <title>Waddenzee met Diepte 2025 - Week 41 &#x2013; 25 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4429637376</zipfile_location>
+    <zipfile_datetime>20251010_064644</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-10-10T06:46:44Z</zipfile_datetime_iso8601>
+    <target_filename>20251010_U7Inland_Waddenzee_week 41_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Nederland (excl Zeeland, Waddenzee) 2025-10-09- 46MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4427730331</zipfile_location>
     <zipfile_datetime>20251009_085830</zipfile_datetime>
@@ -21,22 +30,13 @@
     <target_filename>Nederland (excl Zeeland, Waddenzee) 2025-10-09- 46MB.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>Zeeland met Diepte - 2025 - week 41 - 46 MB (1)</title>
+    <number>2</number>
+    <title>Zeeland met Diepte - 2025 - week 41 - 46 MB (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4425805568</zipfile_location>
     <zipfile_datetime>20251007_114113</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-10-07T11:41:13Z</zipfile_datetime_iso8601>
     <target_filename>20251007_U7Inland_week 41_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Waddenzee met Diepte 2025 - Week 40&#x2013; 25 MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4421942474</zipfile_location>
-    <zipfile_datetime>20251003_075445</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-10-03T07:54:45Z</zipfile_datetime_iso8601>
-    <target_filename>20251002_U7Inland_Waddenzee_week 40_NL.zip</target_filename>
   </chart>
   <chart>
     <number>3</number>
