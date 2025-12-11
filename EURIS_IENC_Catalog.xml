@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2025-12-10</date_created>
-  <time_created>03:49:01</time_created>
-  <date_valid>2025-12-10</date_valid>
-  <time_valid>03:49:01</time_valid>
-  <dt_valid>2025-12-10T03:49:01Z</dt_valid>
+  <date_created>2025-12-11</date_created>
+  <time_created>03:32:01</time_created>
+  <date_valid>2025-12-11</date_valid>
+  <time_valid>03:32:01</time_valid>
+  <dt_valid>2025-12-11T03:32:01Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -9279,11 +9279,11 @@ Dunaj rkm 1853,0 - 1853,6</title>
  <chart>
   <number>189244493</number>
   <target_filename>3R7D0297.zip</target_filename>
-  <title>3R7D0297 - Dunarea - România</title>
+  <title>3R7D0297 - Canal Dunare - Marea Neagra - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2d4afaa0-8bec-4a6f-ba0d-91b01c0e762c</zipfile_location>
-  <zipfile_datetime>20251007_063517</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063518</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:18Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3507465776</number>
@@ -9291,8 +9291,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0304 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=41d91159-dac4-4404-aa53-8b8175777846</zipfile_location>
-  <zipfile_datetime>20251007_063517</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063518</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:18Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2619921344</number>
@@ -9300,8 +9300,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0314 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=644e415c-b1ed-4a77-a09c-2f4407051530</zipfile_location>
-  <zipfile_datetime>20251007_063517</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063519</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1603061327</number>
@@ -9309,8 +9309,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0324 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e181007f-0d68-4668-b067-5e16aa711bc4</zipfile_location>
-  <zipfile_datetime>20251007_063518</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063519</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1678805593</number>
@@ -9318,8 +9318,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0332 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=959dd9ac-7a38-48f2-9888-572361c54504</zipfile_location>
-  <zipfile_datetime>20251007_063518</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063519</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2520468406</number>
@@ -9327,8 +9327,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0342 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1366950d-615a-4c93-a98e-fa610e9dddeb</zipfile_location>
-  <zipfile_datetime>20251007_063518</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063519</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1037642903</number>
@@ -9336,8 +9336,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0349 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=255a0d9a-07b2-4cc9-8b65-3eb691eee83c</zipfile_location>
-  <zipfile_datetime>20251007_063518</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063520</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2638694671</number>
@@ -9345,8 +9345,8 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <title>3R7D0358 - Dunarea - România</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=383a0374-708b-4b86-b385-add68c182d36</zipfile_location>
-  <zipfile_datetime>20251007_063519</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-10-07T06:35:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20251210_063520</zipfile_datetime>
+  <zipfile_datetime_iso8601>2025-12-10T06:35:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3816521030</number>
