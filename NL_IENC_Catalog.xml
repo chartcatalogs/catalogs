@@ -3,17 +3,26 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-12-16</date_created>
-    <time_created>15:01:02</time_created>
+    <time_created>16:01:01</time_created>
     <date_valid>2025-12-16</date_valid>
-    <time_valid>15:01:02</time_valid>
-    <dt_valid>2025-12-16T15:01:02Z</dt_valid>
+    <time_valid>16:01:01</time_valid>
+    <dt_valid>2025-12-16T16:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2025 - Week 50&#x2013; 25 MB (0)</title>
+    <title>Zeeland met diepte - 2025 - Week 51 -  46 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4510181486</zipfile_location>
+    <zipfile_datetime>20251216_152612</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-12-16T15:26:12Z</zipfile_datetime_iso8601>
+    <target_filename>20251216_U7Inland_week 51_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2025 - Week 50&#x2013; 25 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4506323016</zipfile_location>
     <zipfile_datetime>20251212_085306</zipfile_datetime>
@@ -21,22 +30,13 @@
     <target_filename>20251212_U7Inland_Waddenzee_week 50_NL.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>20251211_U7Inland_Week50-Closed_Editions_NL (1)</title>
+    <number>2</number>
+    <title>20251211_U7Inland_Week50-Closed_Editions_NL (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4504426817</zipfile_location>
     <zipfile_datetime>20251211_155709</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-12-11T15:57:09Z</zipfile_datetime_iso8601>
     <target_filename>20251211_U7Inland_Week50-Closed_Editions_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 50&#x2013; 47 MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4500601039</zipfile_location>
-    <zipfile_datetime>20251209_125831</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-12-09T12:58:31Z</zipfile_datetime_iso8601>
-    <target_filename>20251209_U7Inland_week 50_NL.zip</target_filename>
   </chart>
   <chart>
     <number>3</number>
