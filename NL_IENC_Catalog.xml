@@ -3,31 +3,31 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2025-12-22</date_created>
-    <time_created>21:01:01</time_created>
+    <time_created>22:01:01</time_created>
     <date_valid>2025-12-22</date_valid>
-    <time_valid>21:01:01</time_valid>
-    <dt_valid>2025-12-22T21:01:01Z</dt_valid>
+    <time_valid>22:01:01</time_valid>
+    <dt_valid>2025-12-22T22:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2025 - Week 51 - 25 MB (0)</title>
+    <title>Zeeland met Diepte &#x2013; 2025 &#x2013; Week 52&#x2013; 47 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4517833425</zipfile_location>
+    <zipfile_datetime>20251222_211017</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-12-22T21:10:17Z</zipfile_datetime_iso8601>
+    <target_filename>20251222_U7Inland_week 52_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2025 - Week 51 - 25 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4515906002</zipfile_location>
     <zipfile_datetime>20251219_074841</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-12-19T07:48:41Z</zipfile_datetime_iso8601>
     <target_filename>20251219_U7Inland_Waddenzee_week 51_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Zeeland met diepte - 2025 - Week 51 -  46 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4510181486</zipfile_location>
-    <zipfile_datetime>20251216_152612</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-12-16T15:26:12Z</zipfile_datetime_iso8601>
-    <target_filename>20251216_U7Inland_week 51_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
