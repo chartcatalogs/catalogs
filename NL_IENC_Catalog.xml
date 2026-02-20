@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-02-20</date_created>
-    <time_created>18:01:01</time_created>
+    <time_created>19:01:01</time_created>
     <date_valid>2026-02-20</date_valid>
-    <time_valid>18:01:01</time_valid>
-    <dt_valid>2026-02-20T18:01:01Z</dt_valid>
+    <time_valid>19:01:01</time_valid>
+    <dt_valid>2026-02-20T19:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -49,16 +49,7 @@
   </chart>
   <chart>
     <number>4</number>
-    <title>Waddenzee met Diepte 2026 - Week 07 - 25 MB (4)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4560487816</zipfile_location>
-    <zipfile_datetime>20260212_085500</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-02-12T08:55:00Z</zipfile_datetime_iso8601>
-    <target_filename>20260212_U7Inland_Waddenzee_week 07_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>5</number>
-    <title>Port of Rotterdam 2024-10-02 (5)</title>
+    <title>Port of Rotterdam 2024-10-02 (4)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4052010890</zipfile_location>
     <zipfile_datetime>20241002_130358</zipfile_datetime>
@@ -66,8 +57,8 @@
     <target_filename>Port of Rotterdam 2024-10-02.zip</target_filename>
   </chart>
   <chart>
-    <number>6</number>
-    <title>IENC Haven Geertruidenberg (6)</title>
+    <number>5</number>
+    <title>IENC Haven Geertruidenberg (5)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_082945</zipfile_datetime>
@@ -75,8 +66,8 @@
     <target_filename>1R7GH000.000</target_filename>
   </chart>
   <chart>
-    <number>7</number>
-    <title>IENC Haven Waspik (7)</title>
+    <number>6</number>
+    <title>IENC Haven Waspik (6)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_063216</zipfile_datetime>
