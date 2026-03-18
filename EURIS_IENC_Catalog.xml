@@ -3,10 +3,10 @@
  <Header>
   <title>EURIS IENC Charts</title>
   <date_created>2026-03-18</date_created>
-  <time_created>03:21:01</time_created>
+  <time_created>18:20:27</time_created>
   <date_valid>2026-03-18</date_valid>
-  <time_valid>03:21:01</time_valid>
-  <dt_valid>2026-03-18T03:21:01Z</dt_valid>
+  <time_valid>18:20:27</time_valid>
+  <dt_valid>2026-03-18T18:20:27Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -12229,38 +12229,38 @@ Seine Amont PK 159 - 164</title>
  <chart>
   <number>1174715187</number>
   <target_filename>BE7EV001.zip</target_filename>
-  <title>BE7EV001 - Geul West - ZP1 - Noordzee</title>
+  <title>BE7EV001 - LNG - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cfa61b1-34e1-4017-831e-217b6492c13a</zipfile_location>
-  <zipfile_datetime>20251126_083539</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-11-26T08:35:39Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260318_115012</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-03-18T11:50:12Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1916877344</number>
   <target_filename>BE7EV002.zip</target_filename>
-  <title>BE7EV002 - Prins Filipsdok - Noordzee</title>
+  <title>BE7EV002 - Hermespier - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b4318d14-c5ce-49de-8a02-cd09365f8865</zipfile_location>
-  <zipfile_datetime>20251126_083508</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-11-26T08:35:08Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260318_115045</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-03-18T11:50:45Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3858134744</number>
   <target_filename>BE7EV003.zip</target_filename>
-  <title>BE7EV003 - Haven van Oostende - Noordzee</title>
+  <title>BE7EV003 - Kanaal Plassendale-Nieuwpoort - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=852057b8-d7d6-475a-bca2-9d769366b208</zipfile_location>
-  <zipfile_datetime>20251126_083636</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-11-26T08:36:36Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260318_115126</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-03-18T11:51:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3435580917</number>
   <target_filename>BE7EV004.zip</target_filename>
-  <title>BE7EV004 - Verbindingskanaal te Nieuwpoort - Noordzee</title>
+  <title>BE7EV004 - IJzer - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9eb5002d-8e76-4e39-987d-58d5ea01b69c</zipfile_location>
-  <zipfile_datetime>20251126_083612</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-11-26T08:36:12Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260318_115139</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-03-18T11:51:39Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1573672700</number>
@@ -12283,11 +12283,11 @@ Seine Amont PK 159 - 164</title>
  <chart>
   <number>2150613179</number>
   <target_filename>BE8NIE01.zip</target_filename>
-  <title>BE8NIE01 - IJzer - Nieuwpoort</title>
+  <title>BE8NIE01 - Kanaal Nieuwpoort-Duinkerke - Nieuwpoort</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=58929fc2-94ce-438e-994f-25d40da6f58c</zipfile_location>
-  <zipfile_datetime>20251126_083555</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-11-26T08:35:55Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260318_115102</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-03-18T11:51:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4029758680</number>
