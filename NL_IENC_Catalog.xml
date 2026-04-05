@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-04-05</date_created>
-    <time_created>02:01:01</time_created>
+    <time_created>03:01:02</time_created>
     <date_valid>2026-04-05</date_valid>
-    <time_valid>02:01:01</time_valid>
-    <dt_valid>2026-04-05T02:01:01Z</dt_valid>
+    <time_valid>03:01:02</time_valid>
+    <dt_valid>2026-04-05T03:01:02Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -63,7 +63,7 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=161337079</zipfile_location>
     <zipfile_datetime>20170222_082945</zipfile_datetime>
     <zipfile_datetime_iso8601>2017-02-22T08:29:45Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Geertruidenberg.zip</target_filename>
+    <target_filename>1R7GH000.000</target_filename>
   </chart>
   <chart>
     <number>6</number>
@@ -72,6 +72,6 @@
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=113616371</zipfile_location>
     <zipfile_datetime>20160601_063216</zipfile_datetime>
     <zipfile_datetime_iso8601>2016-06-01T06:32:16Z</zipfile_datetime_iso8601>
-    <target_filename>IENC Haven Waspik.zip</target_filename>
+    <target_filename>1R7BM000.000</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
