@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2026-05-22</date_created>
+  <date_created>2026-05-28</date_created>
   <time_created>03:37:01</time_created>
-  <date_valid>2026-05-22</date_valid>
+  <date_valid>2026-05-28</date_valid>
   <time_valid>03:37:01</time_valid>
-  <dt_valid>2026-05-22T03:37:01Z</dt_valid>
+  <dt_valid>2026-05-28T03:37:01Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -11721,6 +11721,33 @@ Seine Amont PK 159 - 164</title>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=74ed9f85-9521-4311-8f21-dd30601ce4c3</zipfile_location>
   <zipfile_datetime>20210701_105058</zipfile_datetime>
   <zipfile_datetime_iso8601>2021-07-01T10:50:58Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>3906714259</number>
+  <target_filename>8B7BRU02.zip</target_filename>
+  <title>8B7BRU02</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=adde9407-06a9-4435-96fb-8bd77d1c1c0c</zipfile_location>
+  <zipfile_datetime>20260527_131950</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-05-27T13:19:50Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>2298067859</number>
+  <target_filename>8B7BRU03.zip</target_filename>
+  <title>8B7BRU03</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=53320c36-bf0a-4c50-a727-cea0de1b25c2</zipfile_location>
+  <zipfile_datetime>20260527_131953</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-05-27T13:19:53Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>344560698</number>
+  <target_filename>8B7BRU05.zip</target_filename>
+  <title>8B7BRU05</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=76b9d9c0-14d3-4063-b9ee-9232ca223b98</zipfile_location>
+  <zipfile_datetime>20260527_131955</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-05-27T13:19:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1758373028</number>
