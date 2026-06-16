@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2026-06-15</date_created>
-  <time_created>03:42:01</time_created>
-  <date_valid>2026-06-15</date_valid>
-  <time_valid>03:42:01</time_valid>
-  <dt_valid>2026-06-15T03:42:01Z</dt_valid>
+  <date_created>2026-06-16</date_created>
+  <time_created>03:39:01</time_created>
+  <date_valid>2026-06-16</date_valid>
+  <time_valid>03:39:01</time_valid>
+  <dt_valid>2026-06-16T03:39:01Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -12326,15 +12326,6 @@ Seine Amont PK 159 - 164</title>
   <zipfile_datetime_iso8601>2023-08-04T06:35:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
-  <number>1291439936</number>
-  <target_filename>BE7BRU01.zip</target_filename>
-  <title>BE7BRU01</title>
-  <format>Sailing Chart, International Chart</format>
-  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5ca2559f-73e6-4d56-847b-363dcfea5488</zipfile_location>
-  <zipfile_datetime>20230517_082412</zipfile_datetime>
-  <zipfile_datetime_iso8601>2023-05-17T08:24:12Z</zipfile_datetime_iso8601>
- </chart>
- <chart>
   <number>3546639887</number>
   <target_filename>BE7BZ001.zip</target_filename>
   <title>BE7BZ001 - ZAS-BES Complex - Beneden-Zeeschelde</title>
@@ -12355,20 +12346,20 @@ Seine Amont PK 159 - 164</title>
  <chart>
   <number>1174715187</number>
   <target_filename>BE7EV001.zip</target_filename>
-  <title>BE7EV001 - Hermespier - Noordzee</title>
+  <title>BE7EV001 - Kanaal Brugge-Zeebrugge - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1cfa61b1-34e1-4017-831e-217b6492c13a</zipfile_location>
-  <zipfile_datetime>20260427_104431</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-04-27T10:44:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260615_092502</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-06-15T09:25:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1916877344</number>
   <target_filename>BE7EV002.zip</target_filename>
-  <title>BE7EV002 - Prins Filipsdok - Noordzee</title>
+  <title>BE7EV002 - Albert II dok - Noordzee</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b4318d14-c5ce-49de-8a02-cd09365f8865</zipfile_location>
-  <zipfile_datetime>20260427_104447</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-04-27T10:44:47Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20260615_092448</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-06-15T09:24:48Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3858134744</number>
