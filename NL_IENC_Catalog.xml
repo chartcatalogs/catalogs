@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-06-17</date_created>
-    <time_created>16:01:02</time_created>
+    <time_created>17:01:01</time_created>
     <date_valid>2026-06-17</date_valid>
-    <time_valid>16:01:02</time_valid>
-    <dt_valid>2026-06-17T16:01:02Z</dt_valid>
+    <time_valid>17:01:01</time_valid>
+    <dt_valid>2026-06-17T17:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,9 +16,9 @@
     <title>Zeeland met Diepte &#x2013; 2026 &#x2013; Week 25 correctie&#x2013; 47 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4681640794</zipfile_location>
-    <zipfile_datetime>20260617_155136</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-06-17T15:51:36Z</zipfile_datetime_iso8601>
-    <target_filename>20260617_U7_week 25_correctie_NL.zip</target_filename>
+    <zipfile_datetime>20260617_160740</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-06-17T16:07:40Z</zipfile_datetime_iso8601>
+    <target_filename>20260617_U7Inland_week 25_correctie_NL.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
