@@ -3,31 +3,31 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-07-02</date_created>
-    <time_created>13:01:01</time_created>
+    <time_created>14:01:02</time_created>
     <date_valid>2026-07-02</date_valid>
-    <time_valid>13:01:01</time_valid>
-    <dt_valid>2026-07-02T13:01:01Z</dt_valid>
+    <time_valid>14:01:02</time_valid>
+    <dt_valid>2026-07-02T14:01:02Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Zeeland met Diepte 2026 - Week 27 - 47 MB (0)</title>
+    <title>Waddenzee met Diepte 2026 - Week 27&#x2013; 25 MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4697685941</zipfile_location>
+    <zipfile_datetime>20260702_133351</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-07-02T13:33:51Z</zipfile_datetime_iso8601>
+    <target_filename>20260702_U7Inland_Waddenzee_week 27_NL.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Zeeland met Diepte 2026 - Week 27 - 47 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4697665692</zipfile_location>
     <zipfile_datetime>20260701_182913</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-07-01T18:29:13Z</zipfile_datetime_iso8601>
     <target_filename>20260701_U7Inland_Reissue_week27_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>1</number>
-    <title>Waddenzee met Diepte 2026 - Week 26&#x2013; 25 MB (1)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4691624352</zipfile_location>
-    <zipfile_datetime>20260625_152448</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-06-25T15:24:48Z</zipfile_datetime_iso8601>
-    <target_filename>20260625_U7Inland_Waddenzee_week 26_NL.zip</target_filename>
   </chart>
   <chart>
     <number>2</number>
