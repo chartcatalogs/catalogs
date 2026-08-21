@@ -3,17 +3,26 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-08-21</date_created>
-    <time_created>12:01:01</time_created>
+    <time_created>13:01:02</time_created>
     <date_valid>2026-08-21</date_valid>
-    <time_valid>12:01:01</time_valid>
-    <dt_valid>2026-08-21T12:01:01Z</dt_valid>
+    <time_valid>13:01:02</time_valid>
+    <dt_valid>2026-08-21T13:01:02Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
     <number>0</number>
-    <title>Waddenzee met Diepte 2026 - Week 34 &#x2013; 25 MB (0)</title>
+    <title>Nederland (excl Zeeland, Waddenzee) 2026-08-21 - 44MB (0)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4753306650</zipfile_location>
+    <zipfile_datetime>20260821_125506</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-08-21T12:55:06Z</zipfile_datetime_iso8601>
+    <target_filename>Nederland (excl Zeeland, Waddenzee) 2026-08-21 - 44MB.zip</target_filename>
+  </chart>
+  <chart>
+    <number>1</number>
+    <title>Waddenzee met Diepte 2026 - Week 34 &#x2013; 25 MB (1)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4751330704</zipfile_location>
     <zipfile_datetime>20260820_164322</zipfile_datetime>
@@ -21,22 +30,13 @@
     <target_filename>20260820_U7Inland_Waddenzee_week 34_NL.zip</target_filename>
   </chart>
   <chart>
-    <number>1</number>
-    <title>Zeeland met Diepte &#x2013; 2026 &#x2013; Week 34 &#x2013; 47 MB (1)</title>
+    <number>2</number>
+    <title>Zeeland met Diepte &#x2013; 2026 &#x2013; Week 34 &#x2013; 47 MB (2)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4748719772</zipfile_location>
     <zipfile_datetime>20260818_200217</zipfile_datetime>
     <zipfile_datetime_iso8601>2026-08-18T20:02:17Z</zipfile_datetime_iso8601>
     <target_filename>20260818_U7Inland_ week 34_NL.zip</target_filename>
-  </chart>
-  <chart>
-    <number>2</number>
-    <title>Nederland (excl Zeeland, Waddenzee) 2026-08-18 - 44MB (2)</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4747379463</zipfile_location>
-    <zipfile_datetime>20260818_154439</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-08-18T15:44:39Z</zipfile_datetime_iso8601>
-    <target_filename>Nederland (excl Zeeland, Waddenzee) 2026-08-18 - 44MB.zip</target_filename>
   </chart>
   <chart>
     <number>3</number>
