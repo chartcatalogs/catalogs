@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2026-09-26</date_created>
-  <time_created>03:23:01</time_created>
-  <date_valid>2026-09-26</date_valid>
-  <time_valid>03:23:01</time_valid>
-  <dt_valid>2026-09-26T03:23:01Z</dt_valid>
+  <date_created>2026-09-27</date_created>
+  <time_created>03:50:02</time_created>
+  <date_valid>2026-09-27</date_valid>
+  <time_valid>03:50:02</time_valid>
+  <dt_valid>2026-09-27T03:50:02Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -10139,6 +10139,96 @@ Dunaj rkm 1853,0 - 1853,6</title>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7808d5e3-cd97-4886-97d4-36e5504570a2</zipfile_location>
   <zipfile_datetime>20250315_063637</zipfile_datetime>
   <zipfile_datetime_iso8601>2025-03-15T06:36:37Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1810627665</number>
+  <target_filename>3RBDS001.zip</target_filename>
+  <title>3RBDS001</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=4dc638d1-dc70-45f0-b7ea-9ec440853890</zipfile_location>
+  <zipfile_datetime>20260926_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:44Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1894619244</number>
+  <target_filename>3RBDS002.zip</target_filename>
+  <title>3RBDS002</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a8f2f1ae-b0d7-46d6-9193-a9b95927a16d</zipfile_location>
+  <zipfile_datetime>20260926_063644</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:44Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>2189728149</number>
+  <target_filename>3RBDS003.zip</target_filename>
+  <title>3RBDS003</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c17aaf50-e87e-4621-ae29-152811167c2b</zipfile_location>
+  <zipfile_datetime>20260926_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:45Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1745035669</number>
+  <target_filename>3RBDS004.zip</target_filename>
+  <title>3RBDS004</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d006ac14-ecac-4451-83dc-2de66dc46ac0</zipfile_location>
+  <zipfile_datetime>20260926_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:45Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>4071370654</number>
+  <target_filename>3RBDS005.zip</target_filename>
+  <title>3RBDS005</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0f1a748b-fd23-4724-b582-3bc9a0b54823</zipfile_location>
+  <zipfile_datetime>20260926_063645</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:45Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1330371532</number>
+  <target_filename>3RBDS006.zip</target_filename>
+  <title>3RBDS006</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=b93ad6f2-5d3d-4b35-8d8a-7721e621927b</zipfile_location>
+  <zipfile_datetime>20260926_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:46Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>3820892555</number>
+  <target_filename>3RBDS007.zip</target_filename>
+  <title>3RBDS007</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=43c6e410-2ebd-4586-86ac-ea9bd1a5eb24</zipfile_location>
+  <zipfile_datetime>20260926_063646</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:46Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1278700584</number>
+  <target_filename>3RBDS008.zip</target_filename>
+  <title>3RBDS008</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=170f35c4-520c-4c3d-a287-7e27508724aa</zipfile_location>
+  <zipfile_datetime>20260926_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:47Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>2664879534</number>
+  <target_filename>3RBDS009.zip</target_filename>
+  <title>3RBDS009</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=59d44691-b29a-48db-a742-8232d93643d8</zipfile_location>
+  <zipfile_datetime>20260926_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:47Z</zipfile_datetime_iso8601>
+ </chart>
+ <chart>
+  <number>1331605993</number>
+  <target_filename>3RBDS010.zip</target_filename>
+  <title>3RBDS010</title>
+  <format>Sailing Chart, International Chart</format>
+  <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1a2f1a68-78fe-4292-8153-d7c4f9c9197a</zipfile_location>
+  <zipfile_datetime>20260926_063647</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-09-26T06:36:47Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>82140478</number>
