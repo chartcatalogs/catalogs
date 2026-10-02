@@ -2,11 +2,11 @@
 <RncProductCatalogChartCatalogs>
  <Header>
   <title>EURIS IENC Charts</title>
-  <date_created>2026-10-01</date_created>
-  <time_created>03:41:02</time_created>
-  <date_valid>2026-10-01</date_valid>
-  <time_valid>03:41:02</time_valid>
-  <dt_valid>2026-10-01T03:41:02Z</dt_valid>
+  <date_created>2026-10-02</date_created>
+  <time_created>03:27:02</time_created>
+  <date_valid>2026-10-02</date_valid>
+  <time_valid>03:27:02</time_valid>
+  <dt_valid>2026-10-02T03:27:02Z</dt_valid>
   <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
   <ref_spec_vers>1.0</ref_spec_vers>
   <s62AgencyCode>0</s62AgencyCode>
@@ -1007,8 +1007,8 @@
   <title>1R75W7XI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=302ed2bc-f61d-43b8-9e14-6cd7195e57fb</zipfile_location>
-  <zipfile_datetime>20260917_082649</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-17T08:26:49Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082851</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2104535630</number>
@@ -1016,8 +1016,8 @@
   <title>1R75W83I</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=83e2d0d4-05ff-40fa-94bb-7aac1638c677</zipfile_location>
-  <zipfile_datetime>20260917_082650</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-17T08:26:50Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082851</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:51Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2551784334</number>
@@ -1025,8 +1025,8 @@
   <title>1R75W89I</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5c865da7-5358-413f-a49a-bf67ec565c42</zipfile_location>
-  <zipfile_datetime>20260924_082725</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:25Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082852</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>365393717</number>
@@ -1052,8 +1052,8 @@
   <title>1R75W8RI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ff7f1481-4776-4151-b623-4a2951e9ef06</zipfile_location>
-  <zipfile_datetime>20260903_082814</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:14Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082852</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1500948379</number>
@@ -1106,8 +1106,8 @@
   <title>1R7687LI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=758c97ae-4307-4059-a208-db069eb5edbf</zipfile_location>
-  <zipfile_datetime>20260820_082858</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:58Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082852</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:52Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3385064551</number>
@@ -1115,8 +1115,8 @@
   <title>1R7687RI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fc2923ec-325a-4811-9f2f-b93b60f7886c</zipfile_location>
-  <zipfile_datetime>20260924_082728</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082853</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:53Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1204736207</number>
@@ -1124,8 +1124,8 @@
   <title>1R7687XI - Westerschelde - test tds3</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5b2ae91c-3989-48d1-8333-d7fdc8c8f46f</zipfile_location>
-  <zipfile_datetime>20260924_082729</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:29Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082854</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:54Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1081847470</number>
@@ -1160,8 +1160,8 @@
   <title>1R7688RI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=14c0f39e-95f5-43fb-b668-ea688526956d</zipfile_location>
-  <zipfile_datetime>20260903_082815</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082855</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4242825309</number>
@@ -1205,8 +1205,8 @@
   <title>1R76K7RI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=37b17b43-7429-423e-9bc6-eda969dae3ab</zipfile_location>
-  <zipfile_datetime>20260924_082729</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:29Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082855</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2031401186</number>
@@ -1214,8 +1214,8 @@
   <title>1R76K7XI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c9234eea-efaf-486b-8f89-d842cd80fe9e</zipfile_location>
-  <zipfile_datetime>20260924_082729</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:29Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082855</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:55Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4068234830</number>
@@ -1223,8 +1223,8 @@
   <title>1R76K83I - Westerschelde</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a8c4cf60-73d2-4750-a99b-56406cbd3dcf</zipfile_location>
-  <zipfile_datetime>20260924_082730</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:30Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082856</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:56Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2937717405</number>
@@ -1241,8 +1241,8 @@
   <title>1R76K8FI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e87bb975-c48d-446d-92f1-cbc163493d28</zipfile_location>
-  <zipfile_datetime>20260820_082903</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:29:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082856</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:56Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2770615071</number>
@@ -1295,8 +1295,8 @@
   <title>1R76W7RI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0602a10a-b7d1-40f2-8d2f-abf3869f05a4</zipfile_location>
-  <zipfile_datetime>20260924_082730</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:30Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082857</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:57Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1403653293</number>
@@ -1304,8 +1304,8 @@
   <title>1R76W7XI</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=de135521-7f11-4286-83c0-bdc08c6f066c</zipfile_location>
-  <zipfile_datetime>20260924_082731</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-24T08:27:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082857</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:57Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>281582818</number>
@@ -1385,44 +1385,44 @@
   <title>1R7AF229</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6fa11989-5ab6-4ceb-b7ad-b6e0a949c4bc</zipfile_location>
-  <zipfile_datetime>20260827_082731</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082858</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3814482979</number>
   <target_filename>1R7AM252.zip</target_filename>
-  <title>1R7AM252 - Bovenste gat van het Zand en het Jeppegat - van km 252 tot Moerdijkbrug</title>
+  <title>1R7AM252 - Vaarweg Spijkerboor-Werkendam - van km 252 tot Moerdijkbrug</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=ff838b28-e99d-454f-a5f5-623f4e90b472</zipfile_location>
-  <zipfile_datetime>20260827_082731</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082858</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:58Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1169265797</number>
   <target_filename>1R7AR001.zip</target_filename>
-  <title>1R7AR001 - Gein - Van Km 1	to Km 22</title>
+  <title>1R7AR001 - Verbinding te Nigtevecht - Van Km 1	to Km 22</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c77801fa-f02b-4e2a-a417-3f4f9cd1a50e</zipfile_location>
-  <zipfile_datetime>20260820_082826</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:26Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082859</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3555950491</number>
   <target_filename>1R7AR022.zip</target_filename>
-  <title>1R7AR022 - Uraniumkanaal met aanliggende havens - van Km 22 tot km 35</title>
+  <title>1R7AR022 - Polderplas - van Km 22 tot km 35</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f5eb59c0-4e92-44a2-9494-95e0ba7b1081</zipfile_location>
-  <zipfile_datetime>20260820_082828</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:28Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082859</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:28:59Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1315287744</number>
   <target_filename>1R7AR035.zip</target_filename>
-  <title>1R7AR035 - Nieuwegracht - Amsterdam-Rijnkanaal (1R7AR035.000)</title>
+  <title>1R7AR035 - Lekkanaal - Amsterdam-Rijnkanaal (1R7AR035.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3b074184-da36-44c4-892e-d0bb5d70ef19</zipfile_location>
-  <zipfile_datetime>20260820_082829</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:29Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082900</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:00Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3396903604</number>
@@ -1454,11 +1454,11 @@
  <chart>
   <number>1678464414</number>
   <target_filename>1R7BE967.zip</target_filename>
-  <title>1R7BE967 - Boven-Rijn, Waal, Boven-Merwede, Beneden-Merwede en Noord - Beneden-Merwede (1R7BE967.000)</title>
+  <title>1R7BE967 - Sionssloot en Moldiep - Beneden-Merwede (1R7BE967.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=844cca78-af2a-4353-93c7-5155cdd89e60</zipfile_location>
-  <zipfile_datetime>20260820_082831</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082901</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3212343873</number>
@@ -1466,17 +1466,17 @@
   <title>1R7BM228 - Kerkvaart naar Waspik of Kerkvaartschehaven - Bergsche Maas (1R7BM228.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3bec059e-3745-4f7a-974a-f47544cd294f</zipfile_location>
-  <zipfile_datetime>20260827_082731</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:31Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082901</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:01Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>265245815</number>
   <target_filename>1R7BO953.zip</target_filename>
-  <title>1R7BO953 - Boven-Rijn, Waal, Boven-Merwede, Beneden-Merwede en Noord - Boven Merwede (1R7BO953.000)</title>
+  <title>1R7BO953 - Vluchthaven te Gorinchem - Boven Merwede (1R7BO953.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7f4d34cb-d54b-457f-ad40-bc95e325919a</zipfile_location>
-  <zipfile_datetime>20260903_082801</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082902</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2296649529</number>
@@ -1511,8 +1511,8 @@
   <title>1R7EK000</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=2583bc2f-77ac-4f98-bf69-495504dd7f05</zipfile_location>
-  <zipfile_datetime>20260820_082834</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:34Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082902</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:02Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3146154357</number>
@@ -1553,20 +1553,20 @@
  <chart>
   <number>735782399</number>
   <target_filename>1R7HD001.zip</target_filename>
-  <title>1R7HD001 - Maas, Julianakanaal, Bergsche Maas en Amer - Hollandsch Diep (1R7HD001.000)</title>
+  <title>1R7HD001 - Centrale Insteekhaven in het Industriegebied Moerdijk - Hollandsch Diep (1R7HD001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7c4b707a-be73-4271-9339-646ffc8fb9ec</zipfile_location>
-  <zipfile_datetime>20260820_082835</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:35Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082903</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:03Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>170407797</number>
   <target_filename>1R7HD002.zip</target_filename>
-  <title>1R7HD002 - Willemstad, haven te - Hollandsch Diep (1R7HD002.000)</title>
+  <title>1R7HD002 - Nieuwe Merwede en Hollandsch Diep - Hollandsch Diep (1R7HD002.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9cb6cce5-2966-42b8-b94c-e988f60e2156</zipfile_location>
-  <zipfile_datetime>20260820_082835</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:35Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082904</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:04Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1301786672</number>
@@ -1580,29 +1580,29 @@
  <chart>
   <number>3952745835</number>
   <target_filename>1R7HV002.zip</target_filename>
-  <title>1R7HV002 - Hals en Springersdiep - Haringvliet (1R7HV002.000)</title>
+  <title>1R7HV002 - Korendijksche Geul - Haringvliet (1R7HV002.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bc47e780-ad63-4d5c-855f-a4937856bdc7</zipfile_location>
-  <zipfile_datetime>20260903_082802</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:02Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082905</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:05Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3707717200</number>
   <target_filename>1R7HY001.zip</target_filename>
-  <title>1R7HY001 - Vaarweg Gouwe-Mallegatsluis en aanliggende vaarwegen te Gouda - Hollandse Ijssel (1R7HY001.000)</title>
+  <title>1R7HY001 - Breevaart - Hollandse Ijssel (1R7HY001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e1eeaa55-c7b7-4795-96dd-50f906170fe3</zipfile_location>
-  <zipfile_datetime>20260903_082803</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082906</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:06Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>612690817</number>
   <target_filename>1R7IJ020.zip</target_filename>
-  <title>1R7IJ020 - Beulingsloot - IJ (1R7IJ020.000)</title>
+  <title>1R7IJ020 - Trekvaart Het Schouw - Monnickendam - Edam - IJ (1R7IJ020.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=98723b49-a6ff-43c4-9c1e-ffd7c035ed5e</zipfile_location>
-  <zipfile_datetime>20260827_082732</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:32Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082906</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:06Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3836426536</number>
@@ -1610,8 +1610,8 @@
   <title>1R7KM000 - Zwolle-IJsselkanaal, Zwarte Water, Zwolsche Diep, Ramsdiep en Schokkerhaven - Amsterdam-Rijnkanaal (1R7KM000.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7210f93b-5b32-484a-a763-85fa569cb05c</zipfile_location>
-  <zipfile_datetime>20260827_082733</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:33Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082908</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:08Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4259756960</number>
@@ -1625,11 +1625,11 @@
  <chart>
   <number>4191358197</number>
   <target_filename>1R7LE944.zip</target_filename>
-  <title>1R7LE944 - Amsterdam-Rijnkanaal - Hollandsche Lek (1R7LE944.000)</title>
+  <title>1R7LE944 - Vianen, haven te - Hollandsche Lek (1R7LE944.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fcd4657d-52b9-4075-a083-cc9a70772ceb</zipfile_location>
-  <zipfile_datetime>20260820_082837</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:37Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082908</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:08Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2064321574</number>
@@ -1655,8 +1655,8 @@
   <title>1R7MA001 - Oude Bassin - Maasstricht</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=95835546-6084-4744-b8ed-cf1f7b0d93f7</zipfile_location>
-  <zipfile_datetime>20260827_082734</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:34Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082909</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:09Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4175016833</number>
@@ -1760,38 +1760,38 @@
  <chart>
   <number>3158959349</number>
   <target_filename>1R7MA182.zip</target_filename>
-  <title>1R7MA182 - Recreatiegebied De Gouden Ham - Kerkdriel</title>
+  <title>1R7MA182 - Burgemeester Delenkanaal en havens van Oss - Kerkdriel</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=91343db8-3a87-457e-865f-d4d6ad38a2c1</zipfile_location>
-  <zipfile_datetime>20260827_082740</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:40Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082910</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:10Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1606833352</number>
   <target_filename>1R7MA197.zip</target_filename>
-  <title>1R7MA197 - Stuwkanaal Lith - Kerkdriek</title>
+  <title>1R7MA197 - Kanaal van Sint Andries - Kerkdriek</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=74de4eb8-7db6-49bf-abef-03017948cf64</zipfile_location>
-  <zipfile_datetime>20260827_082740</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:40Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082910</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:10Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3229598432</number>
   <target_filename>1R7MA210.zip</target_filename>
-  <title>1R7MA210 - Maas, Julianakanaal, Bergsche Maas en Amer - Den Bosch</title>
+  <title>1R7MA210 - De Lieshaven te Hedel - Den Bosch</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e2fc2604-4db6-4cc6-8af7-863955718e53</zipfile_location>
-  <zipfile_datetime>20260827_082741</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:41Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082911</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:11Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1630803987</number>
   <target_filename>1R7MD001.zip</target_filename>
-  <title>1R7MD001 - Buitenhaven te Meppel - Meppelerdiep (1R7MD001.000)</title>
+  <title>1R7MD001 - Sethehaven - Meppelerdiep (1R7MD001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f3725abb-fd9e-45ca-9b10-71d507c1d0db</zipfile_location>
-  <zipfile_datetime>20260827_082741</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:41Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082911</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:11Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4201882277</number>
@@ -1799,8 +1799,8 @@
   <title>1R7MK055</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=86f2b5ef-e179-4d68-a4fa-bcfc4633f503</zipfile_location>
-  <zipfile_datetime>20260820_082838</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:38Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082911</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:11Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2190469972</number>
@@ -1808,8 +1808,8 @@
   <title>1R7MK078</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=721a3b54-de97-4692-86c6-aebd3d3a805f</zipfile_location>
-  <zipfile_datetime>20260820_082838</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:38Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082912</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:12Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1165211593</number>
@@ -1817,8 +1817,8 @@
   <title>1R7MK100</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f1fc2a2c-a7e9-4018-a61b-77de940760bb</zipfile_location>
-  <zipfile_datetime>20260820_082839</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:39Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082913</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:13Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>126970016</number>
@@ -1832,29 +1832,29 @@
  <chart>
   <number>3033713997</number>
   <target_filename>1R7NI963.zip</target_filename>
-  <title>1R7NI963 - Vaarweg Nieuwe Merwede-Amer door de Spieringsluis - Nieuwe Merwede(1R7NI963.000)</title>
+  <title>1R7NI963 - Vaarweg Spijkerboor-Werkendam - Nieuwe Merwede(1R7NI963.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=6c34b37c-8d2c-4a65-a512-e3352fb91efe</zipfile_location>
-  <zipfile_datetime>20260820_082840</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:40Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082914</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:14Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>973862820</number>
   <target_filename>1R7NK000.zip</target_filename>
-  <title>1R7NK000 - Westerschelde - Noordzeekanaal (1R7NK000.000)</title>
+  <title>1R7NK000 - Industriehaven te Haarlem, Noordelijk deel - Noordzeekanaal (1R7NK000.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a2f07026-032d-4c59-ad13-8e68c1b7011b</zipfile_location>
-  <zipfile_datetime>20260827_082742</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:42Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082914</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:14Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2765769443</number>
   <target_filename>1R7NK008.zip</target_filename>
-  <title>1R7NK008 - Coenhaven met aanliggende havens - Noordzeekanaal (1R7NK008.000)</title>
+  <title>1R7NK008 - Hanenpadsloot - Noordzeekanaal (1R7NK008.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e27eaa3e-ebe7-447c-9d1c-1d20c428b635</zipfile_location>
-  <zipfile_datetime>20260827_082743</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:43Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082915</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:15Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1193828145</number>
@@ -1862,8 +1862,8 @@
   <title>1R7NO977 - Rietbaan - Dordtsche Kil (1R7NO977.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=76b6e10f-dff4-4427-a911-2c6773222ef8</zipfile_location>
-  <zipfile_datetime>20260820_082840</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:40Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082916</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:16Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3577752328</number>
@@ -1904,11 +1904,11 @@
  <chart>
   <number>867038974</number>
   <target_filename>1R7OM977.zip</target_filename>
-  <title>1R7OM977 - Uilenhaven - Oude-Maas (1R7OM977.000)</title>
+  <title>1R7OM977 - Develhaven - Oude-Maas (1R7OM977.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fba89e99-436b-4cff-85b8-e475e01dc43e</zipfile_location>
-  <zipfile_datetime>20260820_082842</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:42Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082917</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:17Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4021206782</number>
@@ -1931,20 +1931,20 @@
  <chart>
   <number>1368491184</number>
   <target_filename>1R7RM001.zip</target_filename>
-  <title>1R7RM001 - Hoge Vaart - Veluwemeer (1R7RM001.000)</title>
+  <title>1R7RM001 - Dronten, haven te (noordelijke haven) - Veluwemeer (1R7RM001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=64c0304a-49db-4e87-9de8-fc537afdce7d</zipfile_location>
-  <zipfile_datetime>20250925_083301</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082917</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:17Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2298371984</number>
   <target_filename>1R7RM002.zip</target_filename>
-  <title>1R7RM002 - Vaarweg door aquaduct Veluwemeer - Wolderwijd (1R7RM002.000)</title>
+  <title>1R7RM002 - Strandhaven - Wolderwijd (1R7RM002.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=16fb0a31-0723-41ff-9edd-b8e0ce906172</zipfile_location>
-  <zipfile_datetime>20250925_083301</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:01Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082917</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:17Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1269917642</number>
@@ -1952,17 +1952,17 @@
   <title>1R7RM003 - Toegangsgeul, Arkervaart en haven van Nijkerk - Eemmeer (1R7RM003.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=529c7dea-3382-4220-929b-587660d39962</zipfile_location>
-  <zipfile_datetime>20250925_083304</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:04Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082918</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:18Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1728450349</number>
   <target_filename>1R7RM004.zip</target_filename>
-  <title>1R7RM004 - Haven van Huizen - Gooimeer (1R7RM004.000)</title>
+  <title>1R7RM004 - Hoge Vaart - Gooimeer (1R7RM004.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=63ba7e75-7240-4ee7-8d01-288ba76cd376</zipfile_location>
-  <zipfile_datetime>20250925_083305</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:05Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082919</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>390356391</number>
@@ -1970,8 +1970,8 @@
   <title>1R7SK027</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=8d15b81d-6e3e-43b9-add9-95eb0f744ecb</zipfile_location>
-  <zipfile_datetime>20260820_082844</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:44Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082919</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:19Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4105906302</number>
@@ -1988,8 +1988,8 @@
   <title>1R7TK005</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=cdb056cd-ad4b-44b9-aefd-fa68ab3aa81a</zipfile_location>
-  <zipfile_datetime>20260903_082803</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-09-03T08:28:03Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082920</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:20Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2758846342</number>
@@ -2042,8 +2042,8 @@
   <title>1R7WA887 - Pgem, haven van de - Waal (1R7WA887.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=059eb2d2-87ad-43b5-954c-42f441607872</zipfile_location>
-  <zipfile_datetime>20260820_082845</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:45Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082921</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>249702212</number>
@@ -2231,8 +2231,8 @@
   <title>1R7WK003</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=55d9e85a-9d95-4df6-a708-abe94e7b8539</zipfile_location>
-  <zipfile_datetime>20250925_083315</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082921</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3610205673</number>
@@ -2240,8 +2240,8 @@
   <title>1R7WK014 - Zijkanaal naar de Piushaven te Tilburg - waar komt deze tekst te staan</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1a8aed4d-cb8a-4031-a1e5-934a87b9673b</zipfile_location>
-  <zipfile_datetime>20250925_083315</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:15Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082921</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:21Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1505591504</number>
@@ -2249,8 +2249,8 @@
   <title>1R7WK032</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9d529582-63ac-46cc-88de-313e39b03e6e</zipfile_location>
-  <zipfile_datetime>20250925_083316</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:16Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082922</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:22Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3653983623</number>
@@ -2258,8 +2258,8 @@
   <title>1R7WK049</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=7fdab8f6-11d7-48a6-89bb-381a5506f071</zipfile_location>
-  <zipfile_datetime>20250925_083317</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082923</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:23Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2066377097</number>
@@ -2267,8 +2267,8 @@
   <title>1R7WV007 - Kanaal Wessem-Nederweert (1R7WV007.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=5d1f2e72-d08b-4045-a1ab-aee10bc05518</zipfile_location>
-  <zipfile_datetime>20250925_083317</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:17Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082923</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:23Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>281342697</number>
@@ -2276,17 +2276,17 @@
   <title>1R7WV010 - Kanaal Wessem-Nederweert - Zuid-Willemsvaart (1R7WV010.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=dc99d5f2-1f64-4a57-9ffb-fd11393dd903</zipfile_location>
-  <zipfile_datetime>20250925_083318</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082923</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:23Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>53947628</number>
   <target_filename>1R7WV079.zip</target_filename>
-  <title>1R7WV079 - Gekan. Dieze, Zuid-Willemsvaart, Verbindingskanaal in het Bosscherveld - Zuid-Willemsvaart (1R7WV079.000)</title>
+  <title>1R7WV079 - Amertak en Wilhelminakanaal - Zuid-Willemsvaart (1R7WV079.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=693984e6-4cf6-4bfd-90a5-21ebb4119038</zipfile_location>
-  <zipfile_datetime>20250925_083318</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:18Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082924</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:24Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1615852592</number>
@@ -2294,35 +2294,35 @@
   <title>1R7WV099 - Nieuwe Haven te Veghel - Zuid-Willemsvaart (1R7WV099.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=1de48b26-0aec-49ef-b831-94b91b619ba2</zipfile_location>
-  <zipfile_datetime>20250925_083319</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:19Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082924</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:24Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>4057606813</number>
   <target_filename>1R7WV114.zip</target_filename>
-  <title>1R7WV114 - Rietveldenhaven - Zuid-Willemsvaart (1R7WV114.000)</title>
+  <title>1R7WV114 - Maximakanaal - Zuid-Willemsvaart (1R7WV114.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=f9d185d2-3b96-47ec-a840-bf9f56bd6e60</zipfile_location>
-  <zipfile_datetime>20250925_083320</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:20Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082925</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:25Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>903162921</number>
   <target_filename>1R7YM001.zip</target_filename>
-  <title>1R7YM001 - Nieuwe Insteekhaven te Makkum - Ijsselmeer (1R7YM001.000)</title>
+  <title>1R7YM001 - Vissershaven, Buitenhaven Zuid te Makkum - Ijsselmeer (1R7YM001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0108a750-7721-49f6-aa55-60141a61333f</zipfile_location>
-  <zipfile_datetime>20260827_082744</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:44Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082925</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:25Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3929455763</number>
   <target_filename>1R7YM002.zip</target_filename>
-  <title>1R7YM002 - Johan Frisokanaal - Ijsselmeer (1R7YM002.000)</title>
+  <title>1R7YM002 - Vaarweg naar Koudum - Ijsselmeer (1R7YM002.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=fb067f3a-9312-449e-b24a-afb40f97e1a0</zipfile_location>
-  <zipfile_datetime>20260827_082744</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:44Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082926</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:26Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1503395119</number>
@@ -2339,8 +2339,8 @@
   <title>1R7YM004 - Vissershaven te Den Oever - Ijsselmeer (1R7YM004.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=0596bcdb-c192-47e9-9ed8-beb669e7f2e7</zipfile_location>
-  <zipfile_datetime>20260827_082745</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:45Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082927</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:27Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2643375564</number>
@@ -2363,11 +2363,11 @@
  <chart>
   <number>281810289</number>
   <target_filename>1R7YM007.zip</target_filename>
-  <title>1R7YM007 - Oude Haven van Enkhuizen - Ijsselmaar (1R7YM007.000)</title>
+  <title>1R7YM007 - Vaarweg door het naviduct Krabbersgat - Ijsselmaar (1R7YM007.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bbe7ee25-032a-42a2-8d9a-940874ac7bbc</zipfile_location>
-  <zipfile_datetime>20260827_082746</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:46Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082928</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>777861654</number>
@@ -2375,17 +2375,17 @@
   <title>1R7YM008 - IJsselmeer - Ijsselmeer (1R7YM008.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=360f5f42-f289-409c-a4c1-74eb2faa0be8</zipfile_location>
-  <zipfile_datetime>20260827_082747</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:47Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082928</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:28Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1729217105</number>
   <target_filename>1R7YM009.zip</target_filename>
-  <title>1R7YM009 - Westhaven te Urk - Ijsselmeer (1R7YM009.000)</title>
+  <title>1R7YM009 - Vaarweg van Amsterdam via de Houtribsluizen naar Lemmer - Ijsselmeer (1R7YM009.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=a986bbce-d382-4bc0-8396-89cc9de5cd0b</zipfile_location>
-  <zipfile_datetime>20260820_082846</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-20T08:28:46Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082929</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3539400435</number>
@@ -2420,35 +2420,35 @@
   <title>1R7YM013 - Havendiep - Ijsselmeer (1R7YM013.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=e556ff38-2f1a-4f3d-87e0-ea51334e8725</zipfile_location>
-  <zipfile_datetime>20260827_082748</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:48Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082929</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:29Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1240711411</number>
   <target_filename>1R7YM015.zip</target_filename>
-  <title>1R7YM015 - Markermeer / IJsselmeer - Ijsselmeer (1R7YM015.000)</title>
+  <title>1R7YM015 - Markermeer - Ijsselmeer (1R7YM015.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=bb3fa82f-c1c5-4b8f-8494-79958e4eac98</zipfile_location>
-  <zipfile_datetime>20260827_082748</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:48Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082930</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3479375296</number>
   <target_filename>1R7YM016.zip</target_filename>
-  <title>1R7YM016 - Trekvaart Het Schouw - Monnickendam - Edam - Ijsselmeer (1R7YM016.000)</title>
+  <title>1R7YM016 - Haven van Volendam - Ijsselmeer (1R7YM016.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=3524095b-97bc-4007-ad62-a9c340a54ba0</zipfile_location>
-  <zipfile_datetime>20260827_082749</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:49Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082930</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3595436515</number>
   <target_filename>1R7YM017.zip</target_filename>
-  <title>1R7YM017 - Naardertrekvaart - Ijsselmeer (1R7YM017.000)</title>
+  <title>1R7YM017 - Hollandiagracht - Ijsselmeer (1R7YM017.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=317b9618-df0e-46e8-adf5-12b5f460bff9</zipfile_location>
-  <zipfile_datetime>20250925_083332</zipfile_datetime>
-  <zipfile_datetime_iso8601>2025-09-25T08:33:32Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082930</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:30Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1179451014</number>
@@ -2462,20 +2462,20 @@
  <chart>
   <number>2578004389</number>
   <target_filename>1R7YS899.zip</target_filename>
-  <title>1R7YS899 - Oude IJssel - Ijssel (1R7YS899.000)</title>
+  <title>1R7YS899 - Rijkshaven Doesburg - Ijssel (1R7YS899.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=c6073832-08b5-4fcd-8ebc-3aea143aa86b</zipfile_location>
-  <zipfile_datetime>20260827_082750</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:50Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082931</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:31Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3656321180</number>
   <target_filename>1R7YS918.zip</target_filename>
-  <title>1R7YS918 - Industriehaven te Zutphen - Ijssel</title>
+  <title>1R7YS918 - Kanaal Zutphen-Enschede van de Twenthekanalen - Ijssel</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d2dfdd69-8bc9-4da8-af00-98152ff150f5</zipfile_location>
-  <zipfile_datetime>20260827_082750</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:50Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082932</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>21384068</number>
@@ -2483,8 +2483,8 @@
   <title>1R7YS931 - Geldersche IJssel, Keteldiep en Ketelmeer - Ijssel</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=d07b68d1-f84b-4250-8301-bc991398ad4d</zipfile_location>
-  <zipfile_datetime>20260827_082750</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:50Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082932</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:32Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>2430063493</number>
@@ -2516,11 +2516,11 @@
  <chart>
   <number>1157596601</number>
   <target_filename>1R7YS980.zip</target_filename>
-  <title>1R7YS980 - Schokbeton-Betonson - Zwolle (1R7YS980)</title>
+  <title>1R7YS980 - Reevediep - Zwolle (1R7YS980)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=9a2aa899-644a-4447-b786-7c0d900aecca</zipfile_location>
-  <zipfile_datetime>20260827_082751</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:51Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082933</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:33Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>917988740</number>
@@ -2570,20 +2570,20 @@
  <chart>
   <number>1737616084</number>
   <target_filename>1R7ZM046.zip</target_filename>
-  <title>1R7ZM046 - Zwolle-IJsselkanaal, Zwarte Water, Zwolsche Diep, Ramsdiep en Schokkerhaven - Zwarte Water (1R7ZM046.000)</title>
+  <title>1R7ZM046 - Leemvaart - Zwarte Water (1R7ZM046.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=880b6058-fd33-4ad4-b163-d9e51d07cf9f</zipfile_location>
-  <zipfile_datetime>20260827_082752</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:52Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082934</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:34Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>1304815008</number>
   <target_filename>1R7ZW001.zip</target_filename>
-  <title>1R7ZW001 - Stadsgracht Hasselt - Zwarte Water (1R7ZW001.000)</title>
+  <title>1R7ZW001 - Molenwaardsstreng - Zwarte Water (1R7ZW001.000)</title>
   <format>Sailing Chart, International Chart</format>
   <zipfile_location>https://www.eurisportal.eu/AWFIENC/api/IENC/DownloadIENCMap?mapID=47a5e2f7-1d6c-46e8-bb31-b95bb6d5ab55</zipfile_location>
-  <zipfile_datetime>20260827_082752</zipfile_datetime>
-  <zipfile_datetime_iso8601>2026-08-27T08:27:52Z</zipfile_datetime_iso8601>
+  <zipfile_datetime>20261001_082935</zipfile_datetime>
+  <zipfile_datetime_iso8601>2026-10-01T08:29:35Z</zipfile_datetime_iso8601>
  </chart>
  <chart>
   <number>3018244119</number>
