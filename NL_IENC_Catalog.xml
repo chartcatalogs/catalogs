@@ -3,10 +3,10 @@
   <Header>
     <title>Netherlands Inland ENC Charts</title>
     <date_created>2026-11-23</date_created>
-    <time_created>15:01:01</time_created>
+    <time_created>16:01:01</time_created>
     <date_valid>2026-11-23</date_valid>
-    <time_valid>15:01:01</time_valid>
-    <dt_valid>2026-11-23T15:01:01Z</dt_valid>
+    <time_valid>16:01:01</time_valid>
+    <dt_valid>2026-11-23T16:01:01Z</dt_valid>
     <ref_spec>Subset of NOAA Rnc Product Catalog Technical Specifications</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,9 +16,9 @@
     <title>Waddenzee met Diepte 2026 - Week 47&#x2013; 25 MB (0)</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://vaarweginformatie.nl/fdd/main/wicket/resource/org.apache.wicket.Application/downloadfileResource?fileId=4831643049</zipfile_location>
-    <zipfile_datetime>20261120_152912</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-11-20T15:29:12Z</zipfile_datetime_iso8601>
-    <target_filename>20261120_U7Inland_Waddenzee_week 47_NL_alt1.zip</target_filename>
+    <zipfile_datetime>20261123_151130</zipfile_datetime>
+    <zipfile_datetime_iso8601>2026-11-23T15:11:30Z</zipfile_datetime_iso8601>
+    <target_filename>20261123_U7Inland_Waddenzee_week 47_NL_alt1.zip</target_filename>
   </chart>
   <chart>
     <number>1</number>
